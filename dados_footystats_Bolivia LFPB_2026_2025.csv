@@ -1,0 +1,333 @@
+season,league,date,time,status,home_name,away_name,odds_ft_1,odds_ft_x,odds_ft_2,odds_ft_over25,odds_ft_under25,odds_btts_yes,odds_btts_no,homeGoalCount,awayGoalCount
+2025,Bolivia LFPB,2025-03-28,16:00:00,complete,Universitario de Vinto,Guabirá,1.55,3.6,5.0,2.05,1.7,2.1,1.67,4,2
+2025,Bolivia LFPB,2025-03-28,18:30:00,complete,Nacional Potosí,Club Always Ready,2.35,3.4,2.45,1.55,2.3,1.5,2.5,0,1
+2025,Bolivia LFPB,2025-03-28,21:00:00,complete,Bolívar,Real Oruro,1.14,7.0,12.0,1.21,4.0,1.62,2.2,3,1
+2025,Bolivia LFPB,2025-03-29,16:00:00,complete,ABB,San Antonio Bulo Bulo,1.87,3.5,3.3,1.55,2.25,1.53,2.35,2,0
+2025,Bolivia LFPB,2025-03-29,18:30:00,complete,Wilstermann,Independiente Petrolero,1.9,3.38,3.88,1.73,2.0,1.67,2.1,0,1
+2025,Bolivia LFPB,2025-03-30,16:00:00,complete,Gualberto Villarroel SJ,Real Tomayapo,1.7,3.65,4.2,1.57,2.3,1.5,2.3,3,1
+2025,Bolivia LFPB,2025-03-30,18:15:00,complete,Aurora,Oriente Petrolero,1.4,4.63,6.96,1.65,2.2,1.83,1.83,5,1
+2025,Bolivia LFPB,2025-03-30,20:30:00,complete,Blooming,The Strongest,2.1,3.3,2.87,1.61,2.15,1.53,2.3,3,1
+2025,Bolivia LFPB,2025-04-03,21:00:00,complete,Oriente Petrolero,Universitario de Vinto,1.7,3.8,4.75,1.65,2.2,1.62,2.2,0,0
+2025,Bolivia LFPB,2025-04-04,18:30:00,complete,Real Oruro,ABB,1.62,4.05,4.5,1.57,2.26,1.57,2.19,0,1
+2025,Bolivia LFPB,2025-04-04,21:00:00,complete,Guabirá,Aurora,2.38,3.5,2.7,1.85,1.95,1.67,2.1,5,2
+2025,Bolivia LFPB,2025-04-05,16:00:00,complete,San Antonio Bulo Bulo,Wilstermann,3.0,3.6,2.15,1.95,1.85,1.8,1.91,2,0
+2025,Bolivia LFPB,2025-04-05,18:30:00,complete,Club Always Ready,Blooming,1.25,5.75,11.0,1.36,3.1,1.73,2.0,2,1
+2025,Bolivia LFPB,2025-04-05,21:00:00,complete,Real Tomayapo,Bolívar,4.1,3.9,1.75,1.57,2.35,1.57,2.25,2,1
+2025,Bolivia LFPB,2025-04-06,16:00:00,complete,Independiente Petrolero,Gualberto Villarroel SJ,1.62,3.9,5.0,1.57,2.35,1.62,2.2,0,2
+2025,Bolivia LFPB,2025-04-06,18:15:00,complete,The Strongest,Nacional Potosí,1.48,4.33,6.25,1.57,2.35,1.67,2.1,2,0
+2025,Bolivia LFPB,2025-04-11,16:00:00,complete,ABB,Real Tomayapo,1.6,3.6,5.0,1.67,2.15,1.67,2.1,0,0
+2025,Bolivia LFPB,2025-04-11,20:00:00,complete,Independiente Petrolero,Real Oruro,1.7,3.7,4.5,1.67,2.15,1.67,2.1,0,0
+2025,Bolivia LFPB,2025-04-12,16:00:00,complete,Universitario de Vinto,Blooming,1.85,3.5,4.0,1.85,1.95,1.73,2.0,1,2
+2025,Bolivia LFPB,2025-04-12,18:30:00,complete,Bolívar,Wilstermann,1.14,7.0,17.0,1.4,2.88,2.2,1.62,5,1
+2025,Bolivia LFPB,2025-04-12,21:00:00,complete,Aurora,San Antonio Bulo Bulo,1.55,3.89,5.58,2.27,1.61,1.83,1.83,2,0
+2025,Bolivia LFPB,2025-04-13,16:00:00,complete,Gualberto Villarroel SJ,The Strongest,2.6,3.7,2.35,1.53,2.4,1.5,2.5,0,4
+2025,Bolivia LFPB,2025-04-13,20:30:00,complete,Oriente Petrolero,Club Always Ready,30.63,5.82,1.15,1.67,2.15,1.57,2.25,1,1
+2025,Bolivia LFPB,2025-04-14,18:30:00,complete,Nacional Potosí,Guabirá,1.22,6.0,12.0,1.4,2.88,1.83,1.83,2,0
+2025,Bolivia LFPB,2025-04-18,16:00:00,complete,San Antonio Bulo Bulo,Nacional Potosí,2.27,3.55,2.85,1.65,2.2,1.53,2.38,2,2
+2025,Bolivia LFPB,2025-04-18,18:30:00,complete,The Strongest,Aurora,1.49,3.74,7.34,1.62,2.25,1.73,2.0,3,2
+2025,Bolivia LFPB,2025-04-18,21:00:00,complete,Real Tomayapo,Universitario de Vinto,2.12,2.99,3.72,2.1,1.7,1.83,1.83,1,1
+2025,Bolivia LFPB,2025-04-19,18:30:00,complete,Club Always Ready,Gualberto Villarroel SJ,1.33,4.81,8.62,1.5,2.5,1.73,2.0,2,0
+2025,Bolivia LFPB,2025-04-19,21:00:00,complete,Blooming,Independiente Petrolero,1.6,3.9,5.25,1.73,2.08,1.73,2.0,3,1
+2025,Bolivia LFPB,2025-04-20,16:00:00,complete,Guabirá,Bolívar,9.89,1.68,2.56,1.82,1.92,1.4,2.75,2,4
+2025,Bolivia LFPB,2025-04-20,18:15:00,complete,Real Oruro,Oriente Petrolero,7.36,1.21,7.59,3.8,1.24,1.73,2.0,1,1
+2025,Bolivia LFPB,2025-04-20,20:30:00,complete,Wilstermann,ABB,2.94,2.04,4.11,1.71,2.12,1.67,2.1,0,1
+2025,Bolivia LFPB,2025-04-25,19:00:00,complete,Aurora,Real Oruro,1.51,4.25,5.2,1.55,2.31,1.62,2.11,2,2
+2025,Bolivia LFPB,2025-04-25,21:30:00,complete,Guabirá,Real Tomayapo,1.77,3.62,4.05,1.85,1.86,1.74,1.93,1,0
+2025,Bolivia LFPB,2025-04-26,16:00:00,complete,Gualberto Villarroel SJ,ABB,1.48,4.65,5.05,1.34,2.78,1.46,2.45,1,0
+2025,Bolivia LFPB,2025-04-26,18:30:00,complete,Oriente Petrolero,San Antonio Bulo Bulo,1.67,4.0,4.1,1.7,2.1,1.73,2.0,1,1
+2025,Bolivia LFPB,2025-04-26,21:00:00,complete,Independiente Petrolero,The Strongest,2.94,3.44,2.18,1.83,1.88,1.67,2.03,1,1
+2025,Bolivia LFPB,2025-04-27,16:00:00,complete,Nacional Potosí,Wilstermann,1.48,3.9,7.0,1.67,2.15,1.8,1.91,1,2
+2025,Bolivia LFPB,2025-04-27,18:15:00,complete,Universitario de Vinto,Club Always Ready,2.7,3.3,2.55,1.95,1.85,1.73,2.0,0,7
+2025,Bolivia LFPB,2025-04-27,20:30:00,complete,Bolívar,Blooming,1.13,8.0,19.0,1.22,4.2,1.8,1.91,5,1
+2025,Bolivia LFPB,2025-05-02,16:00:00,complete,San Antonio Bulo Bulo,Independiente Petrolero,1.95,3.4,3.2,1.65,2.2,1.57,2.25,4,2
+2025,Bolivia LFPB,2025-05-03,18:30:00,complete,The Strongest,Guabirá,1.09,8.7,16.5,1.25,3.28,1.92,1.75,5,1
+2025,Bolivia LFPB,2025-05-03,21:30:00,complete,Real Tomayapo,Aurora,2.56,3.14,2.75,2.07,1.7,1.71,1.97,0,0
+2025,Bolivia LFPB,2025-05-04,16:00:00,complete,ABB,Bolívar,4.25,3.85,1.68,1.49,2.3,1.51,2.32,0,3
+2025,Bolivia LFPB,2025-05-04,18:15:00,complete,Wilstermann,Club Always Ready,3.74,3.53,1.94,1.87,1.97,1.8,1.91,2,7
+2025,Bolivia LFPB,2025-05-04,21:15:00,complete,Blooming,Gualberto Villarroel SJ,1.45,4.47,6.59,1.57,2.35,1.73,2.0,5,1
+2025,Bolivia LFPB,2025-05-05,16:00:00,complete,Real Oruro,Universitario de Vinto,1.74,3.42,4.78,1.97,1.83,1.83,1.83,1,0
+2025,Bolivia LFPB,2025-05-09,21:00:00,complete,Blooming,Wilstermann,1.31,5.1,7.7,1.45,2.41,1.72,1.95,3,1
+2025,Bolivia LFPB,2025-05-10,16:00:00,complete,Universitario de Vinto,ABB,1.58,3.98,4.85,1.67,2.09,1.69,2.0,2,0
+2025,Bolivia LFPB,2025-05-10,18:15:00,complete,Guabirá,Real Oruro,1.63,3.94,4.5,1.51,2.26,1.56,2.21,3,1
+2025,Bolivia LFPB,2025-05-10,21:00:00,complete,Independiente Petrolero,Oriente Petrolero,1.85,3.3,3.5,1.8,1.95,1.73,2.0,5,2
+2025,Bolivia LFPB,2025-05-11,16:00:00,complete,Club Always Ready,Real Tomayapo,1.14,7.4,13.25,1.38,2.62,2.21,1.56,1,1
+2025,Bolivia LFPB,2025-05-11,18:15:00,complete,The Strongest,San Antonio Bulo Bulo,1.07,8.5,29.0,1.21,3.58,2.05,1.65,6,2
+2025,Bolivia LFPB,2025-05-11,20:30:00,complete,Aurora,Bolívar,3.58,3.98,1.79,1.4,2.56,1.41,2.6,0,2
+2025,Bolivia LFPB,2025-05-16,16:00:00,complete,ABB,Guabirá,1.38,4.33,8.5,1.7,2.1,1.91,1.8,1,1
+2025,Bolivia LFPB,2025-05-16,19:00:00,complete,Nacional Potosí,Aurora,1.73,4.5,3.8,1.65,2.2,1.67,2.1,3,1
+2025,Bolivia LFPB,2025-05-16,21:30:00,complete,Real Tomayapo,Independiente Petrolero,1.85,3.4,4.33,1.75,2.05,1.67,2.1,3,3
+2025,Bolivia LFPB,2025-05-17,16:00:00,complete,Real Oruro,Club Always Ready,4.75,3.5,1.73,1.6,2.3,1.57,2.25,2,2
+2025,Bolivia LFPB,2025-05-17,18:30:00,complete,Wilstermann,Universitario de Vinto,2.27,3.26,3.03,1.82,1.98,1.67,2.1,0,2
+2025,Bolivia LFPB,2025-05-18,16:00:00,complete,San Antonio Bulo Bulo,Blooming,2.12,3.63,3.07,1.67,2.15,1.53,2.38,2,2
+2025,Bolivia LFPB,2025-05-18,20:30:00,complete,Oriente Petrolero,The Strongest,2.6,3.5,2.5,1.44,2.7,1.4,2.75,3,2
+2025,Bolivia LFPB,2025-05-24,16:00:00,complete,Universitario de Vinto,Bolívar,5.49,4.0,1.57,1.5,2.5,1.57,2.25,1,1
+2025,Bolivia LFPB,2025-05-24,20:00:00,complete,Blooming,Nacional Potosí,1.51,4.4,5.0,1.41,2.52,1.51,2.32,0,0
+2025,Bolivia LFPB,2025-05-25,16:00:00,complete,Club Always Ready,San Antonio Bulo Bulo,1.15,7.5,14.0,1.33,3.1,1.73,1.95,5,2
+2025,Bolivia LFPB,2025-05-25,18:15:00,complete,Gualberto Villarroel SJ,Real Oruro,2.2,3.3,3.2,1.65,2.2,1.53,2.38,0,0
+2025,Bolivia LFPB,2025-05-25,20:30:00,complete,Guabirá,Oriente Petrolero,2.45,3.4,2.8,1.62,2.25,1.5,2.5,1,3
+2025,Bolivia LFPB,2025-05-26,19:00:00,complete,The Strongest,ABB,1.4,4.5,7.5,1.4,2.88,1.62,2.2,3,2
+2025,Bolivia LFPB,2025-05-26,21:30:00,complete,Independiente Petrolero,Aurora,2.18,3.61,3.04,1.68,2.2,1.53,2.38,2,4
+2025,Bolivia LFPB,2025-05-27,20:00:00,complete,Wilstermann,Real Tomayapo,1.97,3.4,3.65,1.96,1.77,1.8,1.91,0,0
+2025,Bolivia LFPB,2025-06-01,17:00:00,complete,Gualberto Villarroel SJ,Nacional Potosí,3.0,3.4,2.25,1.65,2.2,1.57,2.25,1,0
+2025,Bolivia LFPB,2025-06-08,18:15:00,complete,Bolívar,Gualberto Villarroel SJ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,3
+2025,Bolivia LFPB,2025-06-14,16:00:00,complete,San Antonio Bulo Bulo,Guabirá,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2025,Bolivia LFPB,2025-06-14,18:30:00,complete,Real Oruro,The Strongest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,2
+2025,Bolivia LFPB,2025-06-14,21:00:00,complete,Real Tomayapo,Blooming,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,2
+2025,Bolivia LFPB,2025-06-14,21:30:00,complete,Aurora,Gualberto Villarroel SJ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,1
+2025,Bolivia LFPB,2025-06-15,18:15:00,complete,Bolívar,Club Always Ready,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,2
+2025,Bolivia LFPB,2025-06-15,20:30:00,complete,Oriente Petrolero,Wilstermann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0
+2025,Bolivia LFPB,2025-06-20,19:00:00,complete,Gualberto Villarroel SJ,Guabirá,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1
+2025,Bolivia LFPB,2025-06-20,21:30:00,complete,Real Tomayapo,Real Oruro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,2
+2025,Bolivia LFPB,2025-06-21,16:00:00,complete,Club Always Ready,ABB,1.45,4.0,6.0,1.44,2.7,1.53,2.38,5,1
+2025,Bolivia LFPB,2025-06-21,18:30:00,complete,Universitario de Vinto,San Antonio Bulo Bulo,1.8,3.9,3.5,1.65,2.2,1.62,2.2,1,1
+2025,Bolivia LFPB,2025-06-21,21:00:00,complete,Independiente Petrolero,Nacional Potosí,2.5,3.5,2.63,1.57,2.35,1.44,2.63,1,1
+2025,Bolivia LFPB,2025-06-22,16:00:00,complete,Bolívar,The Strongest,1.91,3.6,3.6,1.4,2.88,1.4,2.75,1,2
+2025,Bolivia LFPB,2025-06-22,18:15:00,complete,Blooming,Oriente Petrolero,1.83,3.2,3.9,1.7,2.1,1.62,2.2,2,1
+2025,Bolivia LFPB,2025-06-22,20:30:00,complete,Wilstermann,Aurora,3.2,3.3,2.0,1.6,2.3,1.5,2.5,1,1
+2025,Bolivia LFPB,2025-06-28,16:00:00,complete,San Antonio Bulo Bulo,Gualberto Villarroel SJ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0
+2025,Bolivia LFPB,2025-06-28,18:30:00,complete,Oriente Petrolero,Real Tomayapo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1
+2025,Bolivia LFPB,2025-06-29,16:00:00,complete,Nacional Potosí,Bolívar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2025,Bolivia LFPB,2025-06-29,18:15:00,complete,Aurora,Club Always Ready,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2025,Bolivia LFPB,2025-06-29,20:30:00,complete,The Strongest,Universitario de Vinto,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,2
+2025,Bolivia LFPB,2025-06-30,16:00:00,complete,ABB,Blooming,1.73,3.9,4.2,1.65,2.2,1.62,2.2,1,1
+2025,Bolivia LFPB,2025-06-30,18:30:00,complete,Real Oruro,Wilstermann,1.83,3.3,4.5,2.1,1.7,1.91,1.8,3,1
+2025,Bolivia LFPB,2025-06-30,21:00:00,complete,Guabirá,Independiente Petrolero,1.6,3.7,4.6,1.61,2.15,1.67,2.1,1,1
+2025,Bolivia LFPB,2025-07-05,18:30:00,complete,Real Tomayapo,San Antonio Bulo Bulo,2.05,3.39,3.15,1.7,2.1,1.58,2.31,1,1
+2025,Bolivia LFPB,2025-07-05,21:00:00,complete,Universitario de Vinto,Aurora,2.28,3.6,2.8,1.7,2.06,1.53,2.28,1,2
+2025,Bolivia LFPB,2025-07-06,16:00:00,complete,Club Always Ready,The Strongest,1.68,4.35,4.0,1.36,2.69,1.4,2.64,7,2
+2025,Bolivia LFPB,2025-07-06,18:30:00,complete,Gualberto Villarroel SJ,Oriente Petrolero,1.68,3.9,4.25,1.56,2.3,1.53,2.27,5,1
+2025,Bolivia LFPB,2025-07-06,20:30:00,complete,Blooming,Real Oruro,2.17,3.35,3.15,1.6,2.23,1.71,1.97,4,2
+2025,Bolivia LFPB,2025-07-07,16:00:00,complete,ABB,Nacional Potosí,2.25,3.5,2.88,1.62,2.25,1.49,2.38,2,2
+2025,Bolivia LFPB,2025-07-07,19:00:00,complete,Bolívar,Independiente Petrolero,1.07,10.5,23.0,1.22,4.2,1.83,1.83,4,0
+2025,Bolivia LFPB,2025-07-07,21:00:00,complete,Wilstermann,Guabirá,1.7,4.0,4.2,1.58,2.25,1.67,2.1,1,1
+2025,Bolivia LFPB,2025-07-11,20:00:00,complete,Guabirá,Club Always Ready,5.25,4.7,1.48,1.4,2.88,1.44,2.63,5,0
+2025,Bolivia LFPB,2025-07-12,16:00:00,complete,Independiente Petrolero,Universitario de Vinto,2.05,3.6,3.2,1.77,1.96,1.61,2.1,1,1
+2025,Bolivia LFPB,2025-07-12,18:30:00,complete,The Strongest,Real Tomayapo,1.35,5.1,7.5,1.44,2.63,1.72,1.95,6,0
+2025,Bolivia LFPB,2025-07-13,18:15:00,complete,Gualberto Villarroel SJ,Wilstermann,1.47,4.49,5.73,1.62,2.25,1.73,2.0,2,1
+2025,Bolivia LFPB,2025-07-13,20:30:00,complete,Oriente Petrolero,ABB,1.5,4.36,5.46,1.53,2.4,1.62,2.2,3,3
+2025,Bolivia LFPB,2025-07-14,19:00:00,complete,Nacional Potosí,Real Oruro,1.37,4.84,6.12,1.44,2.7,1.62,2.2,2,3
+2025,Bolivia LFPB,2025-07-19,16:00:00,complete,ABB,Aurora,3.0,3.55,2.12,1.68,2.02,1.5,2.5,2,1
+2025,Bolivia LFPB,2025-07-19,18:30:00,complete,Bolívar,Oriente Petrolero,1.27,5.8,8.0,1.33,3.4,1.73,2.0,1,0
+2025,Bolivia LFPB,2025-07-19,21:00:00,complete,Universitario de Vinto,Gualberto Villarroel SJ,2.38,3.45,2.65,1.73,1.96,1.57,2.25,4,0
+2025,Bolivia LFPB,2025-07-20,16:00:00,complete,Real Oruro,San Antonio Bulo Bulo,2.07,3.5,3.1,1.66,2.05,1.56,2.21,0,2
+2025,Bolivia LFPB,2025-07-20,18:15:00,complete,Club Always Ready,Independiente Petrolero,1.16,7.5,12.0,1.22,3.5,1.66,2.04,5,0
+2025,Bolivia LFPB,2025-07-20,20:30:00,complete,Wilstermann,The Strongest,4.7,4.35,1.56,1.41,2.52,1.5,2.34,1,2
+2025,Bolivia LFPB,2025-07-21,20:00:00,complete,Blooming,Guabirá,1.35,4.9,7.0,1.43,2.46,1.68,2.01,2,1
+2025,Bolivia LFPB,2025-07-22,20:00:00,complete,Real Tomayapo,Nacional Potosí,2.25,3.1,2.8,1.78,1.9,1.67,2.1,0,1
+2025,Bolivia LFPB,2025-07-29,18:30:00,complete,ABB,Independiente Petrolero,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,2
+2025,Bolivia LFPB,2025-07-29,21:00:00,complete,Nacional Potosí,Oriente Petrolero,1.42,4.5,7.0,1.4,2.88,1.57,2.25,4,1
+2025,Bolivia LFPB,2025-08-02,16:00:00,complete,San Antonio Bulo Bulo,ABB,1.52,4.6,5.0,1.41,2.75,1.46,2.45,4,0
+2025,Bolivia LFPB,2025-08-02,18:30:00,complete,Real Oruro,Bolívar,4.2,4.35,1.65,1.48,2.5,1.51,2.32,3,1
+2025,Bolivia LFPB,2025-08-02,21:00:00,complete,Real Tomayapo,Gualberto Villarroel SJ,1.86,3.95,3.5,1.63,2.17,1.62,2.2,2,1
+2025,Bolivia LFPB,2025-08-03,16:00:00,complete,Guabirá,Universitario de Vinto,1.85,3.95,3.5,1.66,2.12,1.6,2.14,3,0
+2025,Bolivia LFPB,2025-08-03,18:15:00,complete,The Strongest,Blooming,1.36,5.4,6.4,1.36,3.1,1.53,2.38,3,2
+2025,Bolivia LFPB,2025-08-04,16:45:00,complete,Oriente Petrolero,Aurora,1.96,3.9,3.25,1.63,2.16,1.44,2.63,3,0
+2025,Bolivia LFPB,2025-08-04,18:55:00,complete,Club Always Ready,Nacional Potosí,1.3,6.0,7.0,1.4,2.88,1.53,2.38,1,0
+2025,Bolivia LFPB,2025-08-06,16:00:00,complete,San Antonio Bulo Bulo,Bolívar,4.0,3.8,1.7,1.5,2.5,1.45,2.4,0,1
+2025,Bolivia LFPB,2025-08-08,16:00:00,complete,Universitario de Vinto,Oriente Petrolero,1.66,4.1,4.4,1.76,1.98,1.67,2.1,2,1
+2025,Bolivia LFPB,2025-08-08,19:00:00,complete,ABB,Real Oruro,2.04,3.85,3.05,1.66,2.12,1.8,1.91,1,2
+2025,Bolivia LFPB,2025-08-09,18:30:00,complete,Nacional Potosí,The Strongest,2.2,4.25,2.6,1.44,2.7,1.4,2.75,0,2
+2025,Bolivia LFPB,2025-08-09,21:00:00,complete,Bolívar,Real Tomayapo,1.19,7.0,11.0,1.33,3.4,2.0,1.73,5,0
+2025,Bolivia LFPB,2025-08-10,16:00:00,complete,Gualberto Villarroel SJ,Independiente Petrolero,1.46,5.0,5.3,1.4,2.88,1.44,2.63,2,1
+2025,Bolivia LFPB,2025-08-10,18:15:00,complete,Blooming,Club Always Ready,2.2,3.85,2.8,1.55,2.33,1.5,2.5,1,0
+2025,Bolivia LFPB,2025-08-10,20:30:00,complete,Aurora,Guabirá,1.45,4.75,5.6,1.49,2.48,1.67,2.1,0,2
+2025,Bolivia LFPB,2025-08-12,19:00:00,complete,Nacional Potosí,Universitario de Vinto,1.42,4.9,6.0,1.46,2.38,1.67,2.03,5,1
+2025,Bolivia LFPB,2025-08-12,21:30:00,complete,Wilstermann,San Antonio Bulo Bulo,2.25,3.75,2.7,1.62,2.18,1.67,2.1,0,3
+2025,Bolivia LFPB,2025-08-13,19:00:00,complete,Aurora,Blooming,1.95,3.9,3.25,1.64,2.14,1.62,2.2,4,1
+2025,Bolivia LFPB,2025-08-20,20:30:00,complete,Independiente Petrolero,Wilstermann,1.67,4.2,4.2,1.6,2.23,1.67,2.1,2,1
+2025,Bolivia LFPB,2025-08-22,16:00:00,complete,Club Always Ready,Oriente Petrolero,1.25,6.25,8.5,1.33,3.1,1.65,2.04,2,0
+2025,Bolivia LFPB,2025-08-22,20:00:00,complete,Real Tomayapo,ABB,1.33,4.6,6.8,1.6,2.3,1.64,2.1,2,1
+2025,Bolivia LFPB,2025-08-23,12:00:00,complete,The Strongest,Gualberto Villarroel SJ,1.23,6.4,9.0,1.3,3.3,1.64,2.04,2,1
+2025,Bolivia LFPB,2025-08-23,16:00:00,complete,San Antonio Bulo Bulo,Aurora,1.85,4.0,3.45,1.61,2.2,1.56,2.18,1,2
+2025,Bolivia LFPB,2025-08-23,21:00:00,complete,Guabirá,Nacional Potosí,2.2,4.0,2.65,1.5,2.5,1.44,2.48,1,0
+2025,Bolivia LFPB,2025-08-24,16:00:00,complete,Blooming,Universitario de Vinto,1.32,4.51,7.0,1.44,2.59,1.67,2.1,1,0
+2025,Bolivia LFPB,2025-08-24,18:15:00,complete,Real Oruro,Independiente Petrolero,1.7,3.9,4.37,1.65,2.2,1.67,2.1,3,4
+2025,Bolivia LFPB,2025-08-24,20:30:00,complete,Wilstermann,Bolívar,7.4,5.0,1.33,1.47,2.6,1.65,2.1,2,2
+2025,Bolivia LFPB,2025-09-12,16:00:00,complete,Universitario de Vinto,Real Tomayapo,1.72,3.5,3.97,1.85,1.85,1.8,1.91,1,0
+2025,Bolivia LFPB,2025-09-12,21:00:00,complete,Bolívar,Guabirá,1.15,6.3,12.0,1.25,3.56,1.75,1.95,4,0
+2025,Bolivia LFPB,2025-09-13,16:00:00,complete,Oriente Petrolero,Real Oruro,1.42,4.0,5.9,1.52,2.36,1.6,2.21,3,0
+2025,Bolivia LFPB,2025-09-13,18:30:00,complete,Nacional Potosí,San Antonio Bulo Bulo,1.95,3.2,3.39,1.4,2.73,1.5,2.62,2,3
+2025,Bolivia LFPB,2025-09-13,20:30:00,complete,Aurora,The Strongest,2.15,3.6,2.8,1.45,2.4,1.36,2.79,2,1
+2025,Bolivia LFPB,2025-09-13,21:00:00,complete,Independiente Petrolero,Blooming,2.16,3.17,2.93,1.57,2.15,1.42,2.8,3,0
+2025,Bolivia LFPB,2025-09-14,16:00:00,complete,ABB,Wilstermann,2.15,3.21,2.92,1.65,2.05,1.48,2.5,0,0
+2025,Bolivia LFPB,2025-09-14,18:15:00,complete,Gualberto Villarroel SJ,Club Always Ready,3.3,3.75,1.88,1.49,2.7,1.39,2.95,0,1
+2025,Bolivia LFPB,2025-09-14,20:30:00,complete,Aurora,The Strongest,2.44,3.23,2.49,1.5,2.41,1.44,2.7,2,1
+2025,Bolivia LFPB,2025-09-15,20:30:00,complete,Independiente Petrolero,Blooming,2.4,3.57,3.28,1.75,2.05,1.42,2.29,3,0
+2025,Bolivia LFPB,2025-09-16,16:00:00,complete,San Antonio Bulo Bulo,Oriente Petrolero,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2025,Bolivia LFPB,2025-09-16,18:30:00,suspended,Real Tomayapo,Guabirá,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2025,Bolivia LFPB,2025-09-16,21:00:00,complete,Real Oruro,Aurora,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,3
+2025,Bolivia LFPB,2025-09-17,16:00:00,complete,ABB,Gualberto Villarroel SJ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2025,Bolivia LFPB,2025-09-17,16:00:00,suspended,The Strongest,Independiente Petrolero,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2025,Bolivia LFPB,2025-09-17,19:00:00,complete,Wilstermann,Nacional Potosí,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,5
+2025,Bolivia LFPB,2025-09-18,16:00:00,complete,Club Always Ready,Universitario de Vinto,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,1
+2025,Bolivia LFPB,2025-09-19,20:00:00,complete,Aurora,Real Tomayapo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,2
+2025,Bolivia LFPB,2025-09-20,12:00:00,complete,Bolívar,ABB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,2
+2025,Bolivia LFPB,2025-09-20,16:00:00,complete,Oriente Petrolero,Nacional Potosí,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,2
+2025,Bolivia LFPB,2025-09-20,18:30:00,complete,Independiente Petrolero,San Antonio Bulo Bulo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,2
+2025,Bolivia LFPB,2025-09-21,16:00:00,complete,Guabirá,The Strongest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1
+2025,Bolivia LFPB,2025-09-21,18:15:00,complete,Club Always Ready,Wilstermann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0
+2025,Bolivia LFPB,2025-09-21,20:30:00,complete,Gualberto Villarroel SJ,Blooming,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,4
+2025,Bolivia LFPB,2025-09-22,16:00:00,complete,Universitario de Vinto,Real Oruro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,2
+2025,Bolivia LFPB,2025-09-23,16:00:00,complete,Oriente Petrolero,Independiente Petrolero,1.99,3.23,3.47,1.53,2.34,1.57,2.25,2,1
+2025,Bolivia LFPB,2025-09-24,16:00:00,complete,Nacional Potosí,Gualberto Villarroel SJ,1.85,3.5,3.5,1.5,2.5,1.55,2.55,1,2
+2025,Bolivia LFPB,2025-09-24,19:30:00,complete,Wilstermann,Blooming,3.1,3.25,2.05,1.84,1.91,1.66,1.93,1,0
+2025,Bolivia LFPB,2025-09-24,21:30:00,complete,Real Tomayapo,Club Always Ready,4.7,3.65,1.7,1.55,2.38,1.59,2.29,1,2
+2025,Bolivia LFPB,2025-09-25,16:00:00,complete,San Antonio Bulo Bulo,The Strongest,1.96,3.5,3.05,1.41,2.79,1.35,2.62,3,4
+2025,Bolivia LFPB,2025-09-25,18:30:00,complete,ABB,Universitario de Vinto,2.1,3.25,2.77,1.71,2.0,1.62,2.22,2,0
+2025,Bolivia LFPB,2025-09-25,21:00:00,complete,Real Oruro,Guabirá,1.7,3.75,3.75,1.43,2.46,1.56,2.53,3,6
+2025,Bolivia LFPB,2025-09-27,16:00:00,complete,Independiente Petrolero,Real Tomayapo,1.55,3.9,4.6,1.62,2.2,1.71,2.1,2,1
+2025,Bolivia LFPB,2025-09-27,18:30:00,complete,Aurora,Nacional Potosí,1.53,3.55,3.45,1.6,2.25,1.62,2.31,1,2
+2025,Bolivia LFPB,2025-09-28,16:00:00,complete,Gualberto Villarroel SJ,Bolívar,0.0,0.0,0.0,1.46,2.63,1.48,2.4,0,2
+2025,Bolivia LFPB,2025-09-28,18:15:00,complete,Universitario de Vinto,Wilstermann,2.15,3.4,3.0,1.84,1.99,1.73,2.0,1,1
+2025,Bolivia LFPB,2025-09-28,20:30:00,complete,Blooming,San Antonio Bulo Bulo,1.6,4.0,4.4,1.5,2.49,1.5,2.38,0,3
+2025,Bolivia LFPB,2025-09-29,16:00:00,complete,The Strongest,Oriente Petrolero,1.23,5.1,9.2,1.3,3.21,1.56,2.21,2,0
+2025,Bolivia LFPB,2025-09-29,18:30:00,complete,Club Always Ready,Real Oruro,1.16,6.6,9.1,1.24,3.34,1.69,2.03,4,0
+2025,Bolivia LFPB,2025-09-29,21:00:00,complete,Guabirá,ABB,1.5,4.0,5.1,1.44,2.42,1.69,2.03,5,1
+2025,Bolivia LFPB,2025-10-17,18:30:00,complete,Real Tomayapo,Guabirá,2.2,3.57,2.46,1.65,1.98,1.57,2.15,3,2
+2025,Bolivia LFPB,2025-10-17,21:00:00,complete,The Strongest,Independiente Petrolero,1.19,5.55,6.69,1.32,3.4,1.55,2.36,3,1
+2025,Bolivia LFPB,2025-10-18,16:00:00,complete,Blooming,Bolívar,2.93,3.17,2.16,1.5,2.41,1.53,2.32,1,2
+2025,Bolivia LFPB,2025-11-01,16:00:00,complete,Real Oruro,Gualberto Villarroel SJ,2.16,3.17,2.93,1.76,1.94,1.5,2.3,1,1
+2025,Bolivia LFPB,2025-11-02,16:00:00,complete,ABB,The Strongest,4.7,3.96,1.53,1.6,2.2,1.54,2.2,1,2
+2025,Bolivia LFPB,2025-11-02,18:15:00,complete,Real Tomayapo,Wilstermann,1.86,3.58,3.85,1.9,1.71,1.74,1.8,6,1
+2025,Bolivia LFPB,2025-11-03,16:00:00,complete,Oriente Petrolero,Guabirá,1.68,3.6,3.1,1.5,2.5,1.41,2.62,4,0
+2025,Bolivia LFPB,2025-11-03,18:15:00,complete,Bolívar,Universitario de Vinto,1.09,10.2,16.0,1.19,3.8,1.76,1.91,3,0
+2025,Bolivia LFPB,2025-11-03,20:30:00,complete,Aurora,Independiente Petrolero,1.5,4.1,4.1,1.46,2.38,1.52,2.34,2,3
+2025,Bolivia LFPB,2025-11-04,16:00:00,complete,San Antonio Bulo Bulo,Club Always Ready,3.01,3.63,1.96,1.57,2.15,1.42,2.5,0,1
+2025,Bolivia LFPB,2025-11-04,20:00:00,complete,Nacional Potosí,Blooming,1.35,4.65,6.95,1.42,2.7,1.57,2.07,3,0
+2025,Bolivia LFPB,2025-11-06,20:00:00,complete,Bolívar,Aurora,1.4,4.6,5.75,1.28,3.28,1.41,2.83,6,1
+2025,Bolivia LFPB,2025-11-21,18:30:00,complete,Gualberto Villarroel SJ,Aurora,1.81,3.57,3.47,1.55,2.3,1.62,2.36,4,1
+2025,Bolivia LFPB,2025-11-21,20:30:00,complete,Independiente Petrolero,ABB,1.4,4.0,6.0,1.5,2.6,1.6,2.19,2,0
+2025,Bolivia LFPB,2025-11-22,16:00:00,complete,Blooming,Real Tomayapo,1.34,4.3,7.1,1.55,2.25,1.57,2.37,2,0
+2025,Bolivia LFPB,2025-11-22,18:30:00,complete,The Strongest,Real Oruro,1.34,5.0,6.48,1.28,3.08,1.44,2.55,2,1
+2025,Bolivia LFPB,2025-11-22,21:00:00,complete,Wilstermann,Oriente Petrolero,2.45,3.66,2.5,1.71,2.07,1.53,2.28,3,1
+2025,Bolivia LFPB,2025-11-23,16:30:00,complete,Club Always Ready,Bolívar,2.32,3.45,2.51,1.43,2.62,1.4,2.71,1,1
+2025,Bolivia LFPB,2025-11-23,18:45:00,complete,Universitario de Vinto,Nacional Potosí,2.44,3.32,2.67,1.69,2.1,1.55,2.41,2,2
+2025,Bolivia LFPB,2025-11-23,21:00:00,complete,Guabirá,San Antonio Bulo Bulo,1.79,3.9,3.91,1.46,2.5,1.49,2.52,1,2
+2025,Bolivia LFPB,2025-11-28,19:00:00,complete,Real Oruro,Real Tomayapo,1.57,4.32,4.75,1.4,2.87,1.55,2.55,5,2
+2025,Bolivia LFPB,2025-11-28,21:00:00,complete,ABB,Club Always Ready,6.5,5.36,1.33,1.49,2.38,1.75,1.89,0,7
+2025,Bolivia LFPB,2025-11-29,16:00:00,complete,San Antonio Bulo Bulo,Universitario de Vinto,2.05,3.7,3.15,1.57,2.24,1.48,2.45,2,0
+2025,Bolivia LFPB,2025-11-29,18:30:00,complete,Guabirá,Gualberto Villarroel SJ,1.61,4.0,4.45,1.4,2.87,1.44,2.77,2,1
+2025,Bolivia LFPB,2025-11-29,21:00:00,complete,Nacional Potosí,Independiente Petrolero,1.35,4.2,5.75,1.38,2.62,1.56,2.25,2,1
+2025,Bolivia LFPB,2025-11-30,16:00:00,complete,Oriente Petrolero,Blooming,2.08,3.45,2.87,1.57,2.15,1.53,2.45,3,1
+2025,Bolivia LFPB,2025-11-30,18:15:00,complete,The Strongest,Bolívar,3.3,4.05,1.82,1.33,3.4,1.3,3.11,2,3
+2025,Bolivia LFPB,2025-11-30,20:30:00,complete,Aurora,Wilstermann,1.7,3.8,4.2,1.57,2.14,1.58,2.21,1,0
+2025,Bolivia LFPB,2025-12-02,18:30:00,complete,Gualberto Villarroel SJ,San Antonio Bulo Bulo,1.66,3.8,4.26,1.48,2.33,1.52,2.34,1,5
+2025,Bolivia LFPB,2025-12-02,20:30:00,complete,Independiente Petrolero,Guabirá,1.9,3.55,3.35,1.53,2.34,1.48,2.45,3,1
+2025,Bolivia LFPB,2025-12-03,16:00:00,complete,Blooming,ABB,1.14,6.0,11.38,1.36,2.95,1.81,1.88,6,0
+2025,Bolivia LFPB,2025-12-03,19:00:00,complete,Real Tomayapo,Oriente Petrolero,2.3,3.6,2.5,1.39,2.87,1.36,2.85,1,0
+2025,Bolivia LFPB,2025-12-03,21:00:00,complete,Wilstermann,Real Oruro,2.5,3.77,2.31,1.7,2.08,1.63,2.19,3,1
+2025,Bolivia LFPB,2025-12-04,16:00:00,complete,Club Always Ready,Aurora,1.19,5.7,9.8,1.3,3.2,1.6,2.05,5,3
+2025,Bolivia LFPB,2025-12-04,19:00:00,complete,Universitario de Vinto,The Strongest,2.87,3.6,2.05,1.45,2.33,1.44,2.65,0,1
+2025,Bolivia LFPB,2025-12-04,21:00:00,complete,Bolívar,Nacional Potosí,1.21,7.2,9.4,1.12,4.7,1.4,2.8,5,2
+2025,Bolivia LFPB,2025-12-06,16:00:00,complete,Oriente Petrolero,Gualberto Villarroel SJ,1.41,5.2,5.6,1.25,3.22,1.41,2.67,0,2
+2025,Bolivia LFPB,2025-12-06,18:30:00,complete,Real Oruro,Blooming,1.57,4.0,4.2,1.38,2.88,1.42,2.55,10,1
+2025,Bolivia LFPB,2025-12-06,21:00:00,complete,Guabirá,Wilstermann,1.2,7.0,9.6,1.25,4.0,1.62,2.15,6,3
+2025,Bolivia LFPB,2025-12-07,16:00:00,complete,Independiente Petrolero,Bolívar,4.2,3.84,1.62,1.43,2.62,1.35,2.75,1,2
+2025,Bolivia LFPB,2025-12-07,18:15:00,complete,The Strongest,Club Always Ready,2.53,3.51,2.47,1.33,3.0,1.28,3.18,2,3
+2025,Bolivia LFPB,2025-12-07,21:00:00,complete,Aurora,Universitario de Vinto,1.98,4.0,3.0,1.4,2.74,1.38,2.8,2,0
+2025,Bolivia LFPB,2025-12-08,16:00:00,complete,San Antonio Bulo Bulo,Real Tomayapo,1.33,4.75,6.4,1.3,3.2,1.43,2.69,5,4
+2025,Bolivia LFPB,2025-12-08,20:00:00,complete,Nacional Potosí,ABB,1.2,6.0,10.0,1.22,3.9,1.44,2.74,2,0
+2025,Bolivia LFPB,2025-12-09,20:00:00,complete,Wilstermann,Gualberto Villarroel SJ,2.3,3.6,2.38,1.52,2.38,1.42,2.66,2,2
+2025,Bolivia LFPB,2025-12-10,16:00:00,complete,Blooming,Aurora,1.37,4.45,4.85,1.22,3.9,1.36,2.84,2,1
+2025,Bolivia LFPB,2025-12-10,18:30:00,complete,Universitario de Vinto,Independiente Petrolero,2.3,3.9,2.45,1.35,3.1,1.5,2.47,2,3
+2025,Bolivia LFPB,2025-12-11,16:00:00,complete,ABB,Oriente Petrolero,2.15,3.7,2.75,1.36,2.62,1.38,2.65,5,2
+2025,Bolivia LFPB,2025-12-11,18:30:00,complete,Real Oruro,Nacional Potosí,2.81,4.18,2.25,1.24,3.4,1.31,3.26,1,2
+2025,Bolivia LFPB,2025-12-11,21:15:00,complete,Club Always Ready,Guabirá,1.05,13.0,35.0,1.25,5.0,2.0,1.56,6,0
+2025,Bolivia LFPB,2025-12-11,21:15:00,complete,Real Tomayapo,The Strongest,3.5,4.0,1.67,1.35,2.88,1.45,2.75,1,0
+2025,Bolivia LFPB,2025-12-11,21:15:00,complete,Bolívar,San Antonio Bulo Bulo,1.05,11.0,22.0,1.08,6.25,1.48,2.4,5,0
+2025,Bolivia LFPB,2025-12-13,18:30:00,complete,Gualberto Villarroel SJ,Universitario de Vinto,1.44,4.33,5.7,1.23,3.42,1.36,2.85,5,0
+2025,Bolivia LFPB,2025-12-14,16:00:00,complete,Oriente Petrolero,Bolívar,2.3,3.6,2.3,1.17,4.5,1.24,4.0,1,3
+2025,Bolivia LFPB,2025-12-14,16:00:00,complete,The Strongest,Wilstermann,1.07,9.84,13.4,1.22,6.85,1.53,2.4,6,0
+2025,Bolivia LFPB,2025-12-14,16:00:00,complete,Independiente Petrolero,Club Always Ready,2.3,4.27,2.32,1.17,3.0,1.3,3.0,5,2
+2025,Bolivia LFPB,2025-12-14,18:30:00,complete,Guabirá,Blooming,1.33,5.0,6.0,1.22,4.2,1.38,2.6,1,0
+2025,Bolivia LFPB,2025-12-14,18:30:00,complete,Nacional Potosí,Real Tomayapo,1.29,5.5,7.0,1.1,5.1,1.43,2.43,1,0
+2025,Bolivia LFPB,2025-12-15,16:00:00,complete,San Antonio Bulo Bulo,Real Oruro,1.56,4.4,3.98,1.24,3.64,1.28,3.26,5,3
+2025,Bolivia LFPB,2025-12-15,20:00:00,complete,Aurora,ABB,1.27,5.9,6.0,1.09,5.25,1.27,3.36,3,2
+2026,Bolivia LFPB,2026-04-03,16:00:00,complete,Bolívar,Real Oruro,1.12,9.79,13.0,1.15,4.25,1.63,2.2,5,2
+2026,Bolivia LFPB,2026-04-03,18:15:00,complete,Independiente Petrolero,Nacional Potosí,3.06,3.45,2.05,1.55,2.23,1.48,2.4,0,3
+2026,Bolivia LFPB,2026-04-03,20:30:00,complete,Blooming,Guabirá,1.71,3.7,3.8,1.46,2.38,1.57,2.32,5,0
+2026,Bolivia LFPB,2026-04-04,16:00:00,complete,Club Always Ready,Real Tomayapo,1.13,7.87,10.58,1.2,3.6,1.67,2.06,4,0
+2026,Bolivia LFPB,2026-04-04,18:15:00,complete,Real Potosí,Aurora,2.05,3.43,3.15,1.58,2.12,1.53,2.2,0,0
+2026,Bolivia LFPB,2026-04-04,20:30:00,complete,San Antonio Bulo Bulo,Oriente Petrolero,1.98,3.8,3.08,1.32,2.88,1.32,3.05,2,0
+2026,Bolivia LFPB,2026-04-05,16:00:00,complete,Gualberto Villarroel SJ,ABB,1.37,4.45,6.9,1.37,2.66,1.48,2.34,1,2
+2026,Bolivia LFPB,2026-04-05,18:15:00,complete,Universitario de Vinto,The Strongest,3.25,3.79,1.9,1.38,2.62,1.38,2.71,1,2
+2026,Bolivia LFPB,2026-04-10,21:00:00,complete,Guabirá,Independiente Petrolero,1.36,4.5,7.55,1.47,2.51,1.67,2.06,2,2
+2026,Bolivia LFPB,2026-04-11,16:00:00,complete,ABB,Bolívar,7.15,5.43,1.33,1.4,3.25,1.4,2.62,0,2
+2026,Bolivia LFPB,2026-04-11,18:15:00,complete,Nacional Potosí,Universitario de Vinto,1.5,4.6,5.0,1.34,2.88,1.44,2.45,1,0
+2026,Bolivia LFPB,2026-04-11,20:30:00,complete,Aurora,Club Always Ready,2.95,3.6,2.0,1.42,2.61,1.36,2.75,1,1
+2026,Bolivia LFPB,2026-04-12,16:00:00,complete,Real Oruro,Blooming,1.61,4.0,4.1,1.36,2.97,1.39,2.67,2,2
+2026,Bolivia LFPB,2026-04-12,18:15:00,complete,The Strongest,San Antonio Bulo Bulo,1.2,6.1,9.3,1.19,4.2,1.46,2.5,3,2
+2026,Bolivia LFPB,2026-04-12,20:30:00,complete,Oriente Petrolero,Gualberto Villarroel SJ,1.52,4.49,4.72,1.44,2.69,1.5,2.35,2,1
+2026,Bolivia LFPB,2026-04-13,21:00:00,complete,Real Tomayapo,Real Potosí,1.62,4.0,3.9,1.33,2.54,1.38,2.77,1,1
+2026,Bolivia LFPB,2026-04-21,16:00:00,complete,Universitario de Vinto,ABB,1.7,4.2,5.0,1.46,2.38,1.57,2.19,5,2
+2026,Bolivia LFPB,2026-04-21,19:00:00,complete,Gualberto Villarroel SJ,Aurora,1.78,3.7,3.3,1.42,2.7,1.4,2.7,1,1
+2026,Bolivia LFPB,2026-04-21,21:00:00,complete,Bolívar,Independiente Petrolero,1.09,9.5,16.0,1.22,4.6,1.76,1.9,1,2
+2026,Bolivia LFPB,2026-04-22,16:00:00,complete,Club Always Ready,Oriente Petrolero,1.15,7.5,9.5,1.14,4.35,1.57,2.25,1,0
+2026,Bolivia LFPB,2026-04-22,19:00:00,complete,Real Potosí,Guabirá,1.55,4.1,3.55,1.58,2.19,1.66,2.15,3,0
+2026,Bolivia LFPB,2026-04-22,21:00:00,complete,Blooming,Nacional Potosí,1.55,4.45,5.16,1.34,3.0,1.45,2.5,2,1
+2026,Bolivia LFPB,2026-04-23,16:00:00,complete,San Antonio Bulo Bulo,Real Oruro,1.5,4.7,4.33,1.28,3.45,1.33,2.98,2,1
+2026,Bolivia LFPB,2026-04-23,21:00:00,complete,Real Tomayapo,The Strongest,3.8,4.0,1.7,1.36,3.1,1.36,2.85,0,0
+2026,Bolivia LFPB,2026-04-24,21:00:00,complete,Independiente Petrolero,Universitario de Vinto,2.2,3.6,2.67,1.4,2.87,1.36,2.85,2,1
+2026,Bolivia LFPB,2026-04-25,16:00:00,complete,Nacional Potosí,Gualberto Villarroel SJ,1.52,4.2,4.67,1.44,2.59,1.5,2.45,1,1
+2026,Bolivia LFPB,2026-04-25,18:15:00,complete,ABB,Blooming,2.04,3.6,2.8,1.43,2.7,1.38,2.77,3,2
+2026,Bolivia LFPB,2026-04-25,20:30:00,complete,Guabirá,Club Always Ready,2.3,3.55,2.4,1.4,2.64,1.37,2.81,1,2
+2026,Bolivia LFPB,2026-04-26,16:00:00,complete,Real Oruro,The Strongest,3.4,3.8,1.8,1.28,3.4,1.3,3.0,2,3
+2026,Bolivia LFPB,2026-04-26,18:15:00,complete,Bolívar,Real Tomayapo,1.07,10.0,17.0,1.16,5.0,1.95,1.7,6,0
+2026,Bolivia LFPB,2026-04-26,20:30:00,complete,Oriente Petrolero,Real Potosí,1.5,4.0,5.0,1.63,2.25,1.74,1.96,2,0
+2026,Bolivia LFPB,2026-04-27,21:00:00,complete,Aurora,San Antonio Bulo Bulo,2.4,3.5,2.37,1.34,2.62,1.36,2.84,3,1
+2026,Bolivia LFPB,2026-05-01,16:00:00,complete,San Antonio Bulo Bulo,Independiente Petrolero,1.44,4.4,5.0,1.36,2.7,1.51,2.36,2,2
+2026,Bolivia LFPB,2026-05-01,18:15:00,complete,Real Potosí,Real Oruro,1.67,3.7,4.0,1.57,2.25,1.55,2.27,1,2
+2026,Bolivia LFPB,2026-05-02,16:00:00,complete,Club Always Ready,Nacional Potosí,1.58,4.2,4.1,1.36,3.1,1.4,2.7,3,1
+2026,Bolivia LFPB,2026-05-02,18:15:00,complete,Aurora,Guabirá,1.44,4.2,5.48,1.45,2.6,1.54,2.29,4,2
+2026,Bolivia LFPB,2026-05-02,20:30:00,complete,Oriente Petrolero,Real Tomayapo,1.28,5.6,7.14,1.39,2.81,1.6,2.1,3,1
+2026,Bolivia LFPB,2026-05-03,16:00:00,complete,Gualberto Villarroel SJ,Bolívar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,2
+2026,Bolivia LFPB,2026-05-03,18:15:00,complete,The Strongest,ABB,1.2,6.56,8.5,1.19,3.82,1.5,2.25,3,1
+2026,Bolivia LFPB,2026-05-04,21:00:00,complete,Universitario de Vinto,Blooming,1.95,3.6,3.4,1.42,2.62,1.44,2.55,1,1
+2026,Bolivia LFPB,2026-05-09,18:15:00,complete,Guabirá,Gualberto Villarroel SJ,1.61,3.9,4.46,1.42,2.55,1.44,2.45,3,0
+2026,Bolivia LFPB,2026-05-09,20:30:00,complete,Real Tomayapo,San Antonio Bulo Bulo,2.3,3.6,2.45,1.35,2.83,1.33,2.85,1,0
+2026,Bolivia LFPB,2026-05-10,16:00:00,complete,Independiente Petrolero,Club Always Ready,3.69,4.2,1.62,1.4,2.78,1.41,2.66,0,0
+2026,Bolivia LFPB,2026-05-10,18:15:00,complete,The Strongest,Real Potosí,1.3,5.25,6.94,1.33,3.4,1.57,2.18,0,0
+2026,Bolivia LFPB,2026-05-10,20:30:00,complete,Blooming,Bolívar,2.99,3.6,2.0,1.33,2.59,1.37,2.9,0,0
+2026,Bolivia LFPB,2026-05-11,16:00:00,complete,ABB,Oriente Petrolero,1.85,3.6,3.3,1.43,2.6,1.45,2.53,3,1
+2026,Bolivia LFPB,2026-05-12,16:00:00,complete,San Antonio Bulo Bulo,Universitario de Vinto,2.25,3.5,2.5,1.47,2.6,1.39,2.73,0,2
+2026,Bolivia LFPB,2026-05-12,21:00:00,complete,Aurora,Real Oruro,1.53,4.33,4.33,1.18,3.84,1.32,3.05,1,1
+2026,Bolivia LFPB,2026-05-13,19:00:00,complete,Independiente Petrolero,Blooming,2.25,3.4,2.55,1.47,2.35,1.43,2.59,3,1
+2026,Bolivia LFPB,2026-05-13,21:00:00,complete,Bolívar,Nacional Potosí,1.24,6.0,9.25,1.3,3.08,1.63,2.12,1,1
+2026,Bolivia LFPB,2026-05-14,16:00:00,complete,Club Always Ready,The Strongest,1.65,4.0,3.9,1.33,2.81,1.38,3.0,0,1
+2026,Bolivia LFPB,2026-05-14,21:00:00,complete,Oriente Petrolero,Guabirá,1.82,4.0,3.6,1.4,2.87,1.43,2.64,2,2
+2026,Bolivia LFPB,2026-05-15,21:00:00,complete,Real Tomayapo,Aurora,2.4,3.25,2.65,1.5,2.28,1.43,2.59,0,2
+2026,Bolivia LFPB,2026-05-16,16:00:00,complete,Universitario de Vinto,Bolívar,3.85,3.6,1.83,1.45,2.55,1.4,2.7,3,2
+2026,Bolivia LFPB,2026-05-16,18:15:00,suspended,Real Oruro,Club Always Ready,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-05-17,20:30:00,complete,Guabirá,Nacional Potosí,1.85,3.6,3.3,1.47,2.3,1.48,2.5,2,1
+2026,Bolivia LFPB,2026-05-29,16:00:00,complete,San Antonio Bulo Bulo,Guabirá,1.85,4.1,3.25,1.4,2.6,1.41,2.66,1,2
+2026,Bolivia LFPB,2026-05-30,16:00:00,complete,ABB,Club Always Ready,4.8,4.4,1.47,1.33,3.2,1.38,2.77,1,3
+2026,Bolivia LFPB,2026-05-30,18:15:00,suspended,Real Oruro,Gualberto Villarroel SJ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-05-30,21:00:00,suspended,Real Tomayapo,Independiente Petrolero,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-05-31,16:00:00,suspended,Real Potosí,Nacional Potosí,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-05-31,17:00:00,complete,Oriente Petrolero,Blooming,2.5,3.75,2.3,1.47,2.49,1.36,2.88,0,1
+2026,Bolivia LFPB,2026-05-31,18:15:00,suspended,The Strongest,Bolívar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-01,21:00:00,complete,Universitario de Vinto,Aurora,2.7,3.45,2.34,1.49,2.3,1.44,2.55,1,2
+2026,Bolivia LFPB,2026-06-03,19:00:00,suspended,Gualberto Villarroel SJ,Real Tomayapo,1.53,4.2,4.8,1.35,2.9,1.4,2.7,0,0
+2026,Bolivia LFPB,2026-06-03,21:00:00,suspended,Real Potosí,ABB,1.61,3.9,4.1,1.49,2.5,1.5,2.5,0,0
+2026,Bolivia LFPB,2026-06-06,16:00:00,suspended,ABB,Independiente Petrolero,3.61,4.26,1.67,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-06,18:15:00,suspended,Nacional Potosí,Aurora,1.64,3.75,3.9,1.5,2.5,1.48,2.45,0,0
+2026,Bolivia LFPB,2026-06-06,20:30:00,suspended,Real Oruro,Universitario de Vinto,1.77,3.75,3.5,1.47,2.6,1.44,2.42,0,0
+2026,Bolivia LFPB,2026-06-07,16:00:00,suspended,Real Potosí,San Antonio Bulo Bulo,1.85,3.74,4.04,1.63,2.05,1.61,2.12,0,0
+2026,Bolivia LFPB,2026-06-07,18:15:00,suspended,The Strongest,Oriente Petrolero,1.25,5.5,7.75,1.28,3.6,1.62,2.2,0,0
+2026,Bolivia LFPB,2026-06-07,20:30:00,suspended,Blooming,Gualberto Villarroel SJ,1.4,4.5,5.75,1.44,2.7,1.56,2.25,0,0
+2026,Bolivia LFPB,2026-06-12,16:00:00,incomplete,San Antonio Bulo Bulo,ABB,1.57,4.2,4.8,1.34,2.78,1.46,2.7,0,0
+2026,Bolivia LFPB,2026-06-12,18:00:00,suspended,Nacional Potosí,Real Tomayapo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-12,20:00:00,incomplete,Nacional Potosí,Real Oruro,1.34,5.2,7.2,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-12,20:30:00,suspended,Aurora,ABB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-13,16:00:00,incomplete,Independiente Petrolero,Real Potosí,1.53,4.1,4.95,1.5,2.32,1.64,2.1,0,0
+2026,Bolivia LFPB,2026-06-13,16:00:00,suspended,Guabirá,Real Oruro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-13,19:00:00,suspended,Gualberto Villarroel SJ,Universitario de Vinto,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-13,19:00:00,incomplete,Gualberto Villarroel SJ,The Strongest,2.9,3.58,2.1,1.48,2.5,1.41,2.66,0,0
+2026,Bolivia LFPB,2026-06-13,21:30:00,suspended,Independiente Petrolero,Oriente Petrolero,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-14,16:00:00,suspended,Club Always Ready,San Antonio Bulo Bulo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-14,16:00:00,incomplete,Blooming,Real Tomayapo,1.36,4.8,5.75,1.33,3.2,1.5,2.3,0,0
+2026,Bolivia LFPB,2026-06-14,19:00:00,suspended,Bolívar,Real Potosí,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-14,19:00:00,incomplete,Aurora,Oriente Petrolero,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-14,21:30:00,suspended,Blooming,The Strongest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-15,20:00:00,incomplete,Bolívar,Guabirá,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Bolivia LFPB,2026-06-16,16:00:00,incomplete,Club Always Ready,Universitario de Vinto,1.25,6.0,8.5,1.22,3.9,1.61,2.16,0,0
