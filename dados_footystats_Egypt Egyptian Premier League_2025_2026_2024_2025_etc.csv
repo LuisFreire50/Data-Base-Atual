@@ -1,0 +1,855 @@
+season,league,date,time,status,home_name,away_name,odds_ft_1,odds_ft_x,odds_ft_2,odds_ft_over25,odds_ft_under25,odds_btts_yes,odds_btts_no,homeGoalCount,awayGoalCount
+2023/2024,Egypt Egyptian Premier League,2023-09-18,13:00:00,complete,El Geish,National Bank of Egypt,2.63,2.55,2.88,2.6,1.48,2.0,1.73,2,0
+2023/2024,Egypt Egyptian Premier League,2023-09-19,10:00:00,complete,Masr,Ismaily SC,2.55,2.7,2.9,3.1,1.36,2.38,1.53,1,0
+2023/2024,Egypt Egyptian Premier League,2023-09-19,13:00:00,complete,Al Ahly,Al Masry,1.5,4.22,5.7,1.7,2.0,1.83,1.93,4,0
+2023/2024,Egypt Egyptian Premier League,2023-09-20,10:00:00,complete,El Daklyeh FC,ENPPI,2.45,3.1,2.75,2.4,1.53,2.0,1.73,1,0
+2023/2024,Egypt Egyptian Premier League,2023-09-20,13:00:00,complete,Al Mokawloon,Baladiyyat Al Mehalla,2.15,2.75,3.75,3.1,1.36,2.4,1.49,0,2
+2023/2024,Egypt Egyptian Premier League,2023-09-20,13:00:00,complete,Smouha SC,El Gounah,2.45,2.8,2.88,2.4,1.53,1.93,1.73,1,1
+2023/2024,Egypt Egyptian Premier League,2023-09-21,10:00:00,complete,Pharco,Coca-Cola,2.88,2.9,2.45,2.6,1.48,2.2,1.62,0,2
+2023/2024,Egypt Egyptian Premier League,2023-09-21,13:00:00,complete,Al Ittihad,Ceramica Cleopatra,2.8,2.9,2.55,2.25,1.62,1.91,1.8,1,0
+2023/2024,Egypt Egyptian Premier League,2023-09-21,13:00:00,complete,Pyramids FC,Zamalek,2.0,3.1,3.6,1.95,1.85,1.73,2.0,2,2
+2023/2024,Egypt Egyptian Premier League,2023-09-25,10:00:00,complete,National Bank of Egypt,Pyramids FC,6.5,3.6,1.5,2.0,1.8,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2023-09-25,13:00:00,complete,Zamalek,Al Mokawloon,1.6,3.6,5.25,2.1,1.7,2.1,1.67,1,1
+2023/2024,Egypt Egyptian Premier League,2023-09-26,10:00:00,complete,Baladiyyat Al Mehalla,Smouha SC,2.38,3.0,2.88,2.5,1.5,2.2,1.62,0,2
+2023/2024,Egypt Egyptian Premier League,2023-09-26,13:00:00,complete,Coca-Cola,El Daklyeh FC,1.73,3.3,4.2,2.15,1.67,2.1,1.67,2,1
+2023/2024,Egypt Egyptian Premier League,2023-09-27,10:00:00,complete,ENPPI,El Geish,2.5,2.7,3.0,2.75,1.4,2.25,1.57,0,0
+2023/2024,Egypt Egyptian Premier League,2023-09-27,13:00:00,complete,El Gounah,Masr,2.45,2.88,3.0,2.63,1.44,2.2,1.62,0,1
+2023/2024,Egypt Egyptian Premier League,2023-09-28,10:00:00,complete,Al Masry,Pharco,1.95,2.9,4.0,2.5,1.5,2.2,1.62,1,0
+2023/2024,Egypt Egyptian Premier League,2023-09-28,13:00:00,complete,Ismaily SC,Al Ittihad,2.25,2.9,3.2,2.3,1.6,2.0,1.73,3,1
+2023/2024,Egypt Egyptian Premier League,2023-10-05,10:00:00,complete,Masr,Baladiyyat Al Mehalla,1.91,2.8,4.5,2.75,1.4,2.38,1.53,3,3
+2023/2024,Egypt Egyptian Premier League,2023-10-05,13:00:00,complete,Smouha SC,Al Mokawloon,2.45,2.8,3.0,2.38,1.53,2.0,1.73,2,1
+2023/2024,Egypt Egyptian Premier League,2023-10-06,10:00:00,complete,Al Ittihad,El Gounah,2.15,3.0,3.2,2.25,1.62,2.0,1.73,2,2
+2023/2024,Egypt Egyptian Premier League,2023-10-06,13:00:00,complete,Pharco,Ceramica Cleopatra,3.1,2.75,2.45,2.63,1.44,2.2,1.62,2,2
+2023/2024,Egypt Egyptian Premier League,2023-10-07,10:00:00,complete,El Daklyeh FC,Al Masry,3.88,3.34,1.94,2.21,1.64,1.96,1.75,1,3
+2023/2024,Egypt Egyptian Premier League,2023-10-07,13:00:00,complete,National Bank of Egypt,Zamalek,3.4,3.0,2.15,2.15,1.67,1.83,1.83,1,2
+2023/2024,Egypt Egyptian Premier League,2023-10-07,13:00:00,complete,El Geish,Coca-Cola,2.88,3.1,2.4,2.75,1.4,2.38,1.53,0,2
+2023/2024,Egypt Egyptian Premier League,2023-10-08,13:00:00,complete,Al Ahly,Ismaily SC,1.36,4.0,7.5,1.9,1.9,2.2,1.62,3,1
+2023/2024,Egypt Egyptian Premier League,2023-10-08,13:00:00,complete,Pyramids FC,ENPPI,1.5,3.75,6.0,2.0,1.8,2.1,1.67,1,0
+2023/2024,Egypt Egyptian Premier League,2023-10-20,10:00:00,complete,Al Masry,El Geish,1.91,2.88,4.2,2.63,1.44,2.25,1.57,1,0
+2023/2024,Egypt Egyptian Premier League,2023-10-20,14:00:00,complete,Ceramica Cleopatra,El Daklyeh FC,1.64,3.35,5.3,2.2,1.6,2.1,1.67,4,0
+2023/2024,Egypt Egyptian Premier League,2023-10-21,10:00:00,complete,Baladiyyat Al Mehalla,Al Ittihad,2.63,2.88,2.63,2.1,1.7,1.83,1.83,2,2
+2023/2024,Egypt Egyptian Premier League,2023-10-21,13:00:00,complete,Zamalek,Smouha SC,1.83,3.3,4.0,1.95,1.85,1.83,1.83,5,1
+2023/2024,Egypt Egyptian Premier League,2023-10-21,13:00:00,complete,ENPPI,National Bank of Egypt,2.5,2.8,2.9,2.5,1.5,2.1,1.67,3,1
+2023/2024,Egypt Egyptian Premier League,2023-10-22,10:00:00,complete,Al Mokawloon,Masr,3.1,2.75,2.38,2.5,1.5,2.1,1.67,3,3
+2023/2024,Egypt Egyptian Premier League,2023-10-22,13:00:00,complete,Ismaily SC,Pharco,1.91,3.1,4.0,2.38,1.53,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2023-10-22,13:00:00,complete,Coca-Cola,Pyramids FC,5.25,3.2,1.73,2.2,1.65,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2023-10-27,11:00:00,complete,Pyramids FC,Al Masry,4.75,3.6,1.6,2.15,1.67,2.2,1.62,3,2
+2023/2024,Egypt Egyptian Premier League,2023-10-27,14:00:00,complete,ENPPI,Zamalek,3.2,2.92,2.2,2.15,1.65,1.91,1.8,2,1
+2023/2024,Egypt Egyptian Premier League,2023-10-28,11:00:00,complete,Pharco,El Gounah,2.24,2.9,3.2,2.18,1.48,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2023-10-28,14:00:00,complete,Al Ittihad,Al Mokawloon,2.6,2.8,2.8,2.38,1.53,2.0,1.73,3,2
+2023/2024,Egypt Egyptian Premier League,2023-10-28,14:00:00,complete,Masr,Smouha SC,1.83,3.2,4.0,2.25,1.62,2.0,1.73,1,1
+2023/2024,Egypt Egyptian Premier League,2023-10-29,14:00:00,complete,El Geish,Ceramica Cleopatra,3.0,2.8,2.35,2.55,1.48,2.2,1.62,1,0
+2023/2024,Egypt Egyptian Premier League,2023-10-30,11:00:00,complete,El Daklyeh FC,Ismaily SC,3.66,2.98,1.85,2.2,1.58,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2023-10-30,14:00:00,complete,National Bank of Egypt,Coca-Cola,2.9,2.89,2.32,2.5,1.5,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2023-11-03,11:00:00,complete,Smouha SC,Al Ittihad,2.25,3.0,2.9,1.95,1.78,1.8,1.91,0,1
+2023/2024,Egypt Egyptian Premier League,2023-11-03,14:00:00,complete,Zamalek,Masr,1.85,3.3,4.0,1.95,1.85,1.8,1.91,1,2
+2023/2024,Egypt Egyptian Premier League,2023-11-03,14:00:00,complete,Ceramica Cleopatra,Pyramids FC,4.7,3.2,1.63,1.98,1.59,1.91,1.8,2,0
+2023/2024,Egypt Egyptian Premier League,2023-11-04,11:00:00,complete,El Gounah,El Daklyeh FC,1.93,3.05,3.67,2.2,1.62,2.0,1.73,2,0
+2023/2024,Egypt Egyptian Premier League,2023-11-04,14:00:00,complete,Baladiyyat Al Mehalla,Pharco,2.88,3.0,2.45,2.2,1.62,2.1,1.67,3,2
+2023/2024,Egypt Egyptian Premier League,2023-11-04,14:00:00,complete,Al Mokawloon,Al Ahly,10.0,4.75,1.29,1.7,2.05,2.2,1.62,1,2
+2023/2024,Egypt Egyptian Premier League,2023-11-05,11:00:00,complete,Coca-Cola,ENPPI,2.2,2.9,3.45,2.4,1.39,2.2,1.62,0,1
+2023/2024,Egypt Egyptian Premier League,2023-11-05,11:00:00,complete,Ismaily SC,El Geish,2.35,2.9,3.1,2.4,1.53,2.1,1.67,2,3
+2023/2024,Egypt Egyptian Premier League,2023-11-05,14:00:00,complete,Al Masry,National Bank of Egypt,2.1,3.1,3.6,2.1,1.68,1.91,1.8,0,4
+2023/2024,Egypt Egyptian Premier League,2023-11-08,11:00:00,complete,Ceramica Cleopatra,Al Ahly,5.0,3.6,1.55,1.6,1.96,1.83,1.83,1,2
+2023/2024,Egypt Egyptian Premier League,2023-11-11,12:00:00,complete,El Gounah,Al Ahly,6.5,4.0,1.44,1.95,1.85,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2023-11-28,11:00:00,complete,Pyramids FC,Ismaily SC,1.4,4.1,7.0,1.8,1.9,2.1,1.67,2,1
+2023/2024,Egypt Egyptian Premier League,2023-11-28,14:00:00,complete,Al Ahly,Smouha SC,1.25,5.25,9.0,1.65,2.1,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2023-11-29,14:00:00,complete,Coca-Cola,Zamalek,2.9,3.0,2.35,2.1,1.7,1.83,1.83,0,2
+2023/2024,Egypt Egyptian Premier League,2023-11-30,11:00:00,complete,Al Ittihad,Masr,2.7,2.6,2.75,2.15,1.67,1.8,1.91,0,0
+2023/2024,Egypt Egyptian Premier League,2023-11-30,14:00:00,complete,El Geish,El Gounah,2.1,2.88,3.5,2.2,1.5,2.0,1.73,1,1
+2023/2024,Egypt Egyptian Premier League,2023-11-30,14:00:00,complete,Pharco,Al Mokawloon,2.5,2.8,2.8,2.22,1.46,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2023-12-01,11:00:00,complete,ENPPI,Al Masry,2.54,3.15,3.2,2.38,1.68,1.94,1.92,1,2
+2023/2024,Egypt Egyptian Premier League,2023-12-01,11:00:00,complete,El Daklyeh FC,Baladiyyat Al Mehalla,2.7,3.24,2.54,2.1,1.67,1.83,1.83,0,0
+2023/2024,Egypt Egyptian Premier League,2023-12-01,14:00:00,complete,National Bank of Egypt,Ceramica Cleopatra,3.03,3.26,2.32,2.08,1.67,1.83,1.83,0,1
+2023/2024,Egypt Egyptian Premier League,2023-12-04,14:00:00,complete,Smouha SC,Pharco,2.22,2.95,3.35,2.45,1.5,2.1,1.67,2,1
+2023/2024,Egypt Egyptian Premier League,2023-12-05,11:00:00,complete,Baladiyyat Al Mehalla,El Geish,2.8,2.8,2.75,2.45,1.52,2.1,1.67,0,2
+2023/2024,Egypt Egyptian Premier League,2023-12-05,14:00:00,complete,Ismaily SC,National Bank of Egypt,2.38,2.9,3.15,2.23,1.61,1.83,1.83,2,1
+2023/2024,Egypt Egyptian Premier League,2023-12-05,14:00:00,complete,Ceramica Cleopatra,ENPPI,2.09,2.9,3.8,2.45,1.48,2.2,1.62,4,2
+2023/2024,Egypt Egyptian Premier League,2023-12-06,14:00:00,complete,Al Mokawloon,El Daklyeh FC,1.85,3.3,4.1,2.1,1.65,2.2,1.62,0,0
+2023/2024,Egypt Egyptian Premier League,2023-12-14,11:00:00,complete,National Bank of Egypt,El Gounah,2.6,3.0,2.88,2.4,1.5,2.0,1.73,2,3
+2023/2024,Egypt Egyptian Premier League,2023-12-14,11:00:00,complete,Coca-Cola,Ceramica Cleopatra,3.4,3.0,2.2,2.33,1.53,2.1,1.67,1,1
+2023/2024,Egypt Egyptian Premier League,2023-12-14,14:00:00,complete,Al Masry,Zamalek,2.85,3.0,2.45,2.12,1.65,1.8,1.91,1,0
+2023/2024,Egypt Egyptian Premier League,2023-12-14,14:00:00,complete,Pyramids FC,Baladiyyat Al Mehalla,1.22,4.75,13.0,2.09,1.67,2.25,1.57,2,2
+2023/2024,Egypt Egyptian Premier League,2023-12-15,11:00:00,complete,El Daklyeh FC,Smouha SC,3.4,2.87,2.1,2.45,1.5,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2023-12-15,13:00:00,complete,Pharco,Masr,3.0,2.75,2.4,2.63,1.44,2.2,1.62,1,2
+2023/2024,Egypt Egyptian Premier League,2023-12-15,13:00:00,complete,El Geish,Al Mokawloon,2.45,2.75,3.2,2.75,1.4,2.25,1.57,1,2
+2023/2024,Egypt Egyptian Premier League,2023-12-16,14:00:00,complete,ENPPI,Ismaily SC,2.2,3.0,3.3,2.35,1.57,2.0,1.73,1,0
+2023/2024,Egypt Egyptian Premier League,2023-12-25,11:00:00,complete,El Gounah,ENPPI,2.1,3.0,3.3,2.23,1.58,2.2,1.62,1,2
+2023/2024,Egypt Egyptian Premier League,2023-12-25,14:00:00,complete,Baladiyyat Al Mehalla,National Bank of Egypt,2.5,3.2,2.7,2.05,1.7,1.83,1.83,0,2
+2023/2024,Egypt Egyptian Premier League,2023-12-26,14:00:00,complete,Al Ittihad,Pharco,2.2,3.0,3.2,2.25,1.57,2.0,1.73,3,1
+2023/2024,Egypt Egyptian Premier League,2023-12-27,11:00:00,complete,Masr,El Daklyeh FC,1.6,3.2,6.0,2.5,1.5,2.63,1.44,3,1
+2023/2024,Egypt Egyptian Premier League,2023-12-27,14:00:00,complete,Smouha SC,El Geish,2.62,2.7,2.83,2.41,1.5,2.2,1.62,1,0
+2023/2024,Egypt Egyptian Premier League,2023-12-30,11:00:00,complete,National Bank of Egypt,Al Mokawloon,2.44,3.1,2.98,2.4,1.55,2.0,1.73,3,1
+2023/2024,Egypt Egyptian Premier League,2023-12-30,14:00:00,complete,ENPPI,Baladiyyat Al Mehalla,1.85,3.0,4.2,2.25,1.62,2.1,1.67,3,0
+2023/2024,Egypt Egyptian Premier League,2023-12-30,14:00:00,complete,El Geish,Masr,2.9,2.88,2.4,2.63,1.44,2.25,1.57,1,0
+2023/2024,Egypt Egyptian Premier League,2024-01-01,11:00:00,complete,El Daklyeh FC,Al Ittihad,4.07,3.15,1.96,2.25,1.5,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2024-01-01,14:00:00,complete,Al Masry,Ismaily SC,2.27,3.05,3.0,2.23,1.58,2.0,1.73,1,1
+2023/2024,Egypt Egyptian Premier League,2024-02-13,11:00:00,complete,El Gounah,Al Masry,2.76,3.15,2.92,2.32,1.71,1.92,1.82,2,2
+2023/2024,Egypt Egyptian Premier League,2024-02-13,14:00:00,complete,Smouha SC,National Bank of Egypt,2.38,3.0,3.0,2.25,1.62,1.91,1.8,1,1
+2023/2024,Egypt Egyptian Premier League,2024-02-14,11:00:00,complete,Al Mokawloon,ENPPI,2.75,3.0,2.4,2.3,1.55,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2024-02-14,11:00:00,complete,Al Ittihad,El Geish,2.5,2.9,2.7,2.3,1.55,2.1,1.67,2,2
+2023/2024,Egypt Egyptian Premier League,2024-02-14,14:00:00,complete,Masr,Pyramids FC,3.3,3.0,2.1,2.35,1.57,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-02-15,11:00:00,complete,Baladiyyat Al Mehalla,Coca-Cola,5.0,3.5,1.67,2.2,1.61,2.25,1.57,1,0
+2023/2024,Egypt Egyptian Premier League,2024-02-15,14:00:00,complete,Ismaily SC,Ceramica Cleopatra,2.88,3.0,2.3,2.2,1.65,1.91,1.8,2,1
+2023/2024,Egypt Egyptian Premier League,2024-02-18,11:00:00,complete,ENPPI,Smouha SC,2.1,3.0,3.3,2.3,1.55,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-02-18,11:00:00,complete,National Bank of Egypt,Masr,2.75,2.9,2.6,2.35,1.57,2.0,1.73,1,1
+2023/2024,Egypt Egyptian Premier League,2024-02-18,14:00:00,complete,Pyramids FC,Al Ittihad,1.6,3.8,4.75,1.9,1.9,1.91,1.8,1,0
+2023/2024,Egypt Egyptian Premier League,2024-02-19,11:00:00,complete,Coca-Cola,Al Mokawloon,2.17,2.59,4.42,2.75,1.4,2.5,1.5,2,2
+2023/2024,Egypt Egyptian Premier League,2024-02-19,14:00:00,complete,Ismaily SC,Zamalek,3.5,3.2,2.0,2.05,1.75,1.83,1.83,0,0
+2023/2024,Egypt Egyptian Premier League,2024-02-20,11:00:00,complete,Ceramica Cleopatra,El Gounah,1.82,3.3,4.1,2.08,1.66,1.83,1.83,1,1
+2023/2024,Egypt Egyptian Premier League,2024-02-20,14:00:00,complete,El Daklyeh FC,Pharco,3.0,2.75,2.5,2.75,1.4,2.25,1.57,1,1
+2023/2024,Egypt Egyptian Premier League,2024-02-20,14:00:00,complete,Al Masry,Baladiyyat Al Mehalla,1.8,3.25,4.33,2.15,1.67,1.91,1.8,3,0
+2023/2024,Egypt Egyptian Premier League,2024-02-23,14:00:00,complete,Baladiyyat Al Mehalla,Ceramica Cleopatra,4.5,3.2,1.75,2.15,1.67,2.0,1.73,3,5
+2023/2024,Egypt Egyptian Premier League,2024-02-25,11:00:00,complete,Pharco,El Geish,3.65,2.85,2.12,2.6,1.44,2.25,1.57,1,1
+2023/2024,Egypt Egyptian Premier League,2024-02-25,14:00:00,complete,Al Ittihad,National Bank of Egypt,2.25,3.0,3.1,2.3,1.6,1.91,1.8,0,0
+2023/2024,Egypt Egyptian Premier League,2024-02-26,11:00:00,complete,El Gounah,Ismaily SC,2.7,3.0,2.7,2.16,1.65,1.91,1.8,0,0
+2023/2024,Egypt Egyptian Premier League,2024-02-26,11:00:00,complete,Masr,ENPPI,2.2,3.0,3.2,2.5,1.5,2.2,1.62,0,1
+2023/2024,Egypt Egyptian Premier League,2024-02-26,14:00:00,complete,Al Mokawloon,Al Masry,3.25,3.05,2.66,2.5,1.62,2.04,1.89,0,1
+2023/2024,Egypt Egyptian Premier League,2024-02-27,14:00:00,complete,Al Ahly,Baladiyyat Al Mehalla,1.22,6.0,8.0,1.67,2.15,2.5,1.5,5,1
+2023/2024,Egypt Egyptian Premier League,2024-02-29,14:00:00,complete,Smouha SC,Coca-Cola,2.45,2.75,3.1,2.75,1.4,2.38,1.53,1,1
+2023/2024,Egypt Egyptian Premier League,2024-02-29,14:00:00,complete,Zamalek,El Daklyeh FC,1.36,4.33,7.5,1.85,1.95,2.25,1.57,1,0
+2023/2024,Egypt Egyptian Premier League,2024-03-01,11:00:00,complete,Pharco,National Bank of Egypt,2.57,2.86,2.52,2.09,1.53,2.1,1.67,2,1
+2023/2024,Egypt Egyptian Premier League,2024-03-01,14:00:00,complete,Ceramica Cleopatra,Al Mokawloon,1.83,3.2,4.33,2.25,1.62,2.0,1.73,2,0
+2023/2024,Egypt Egyptian Premier League,2024-03-02,14:00:00,complete,Ismaily SC,Baladiyyat Al Mehalla,1.62,3.4,5.25,2.1,1.7,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2024-03-03,14:00:00,complete,ENPPI,Al Ittihad,2.45,2.88,3.0,2.5,1.5,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-03-05,11:00:00,complete,El Geish,El Daklyeh FC,1.75,3.0,4.75,2.75,1.4,2.5,1.5,0,0
+2023/2024,Egypt Egyptian Premier League,2024-03-05,14:00:00,complete,Al Masry,Smouha SC,2.05,3.0,4.0,2.38,1.53,2.1,1.67,2,0
+2023/2024,Egypt Egyptian Premier League,2024-03-06,14:00:00,complete,Pyramids FC,Pharco,1.5,3.8,6.5,2.1,1.7,2.25,1.57,1,1
+2023/2024,Egypt Egyptian Premier League,2024-03-07,14:00:00,complete,Coca-Cola,Masr,2.15,2.88,3.4,2.63,1.44,2.25,1.57,0,0
+2023/2024,Egypt Egyptian Premier League,2024-03-08,11:00:00,complete,Baladiyyat Al Mehalla,El Gounah,3.1,2.87,2.25,2.1,1.65,1.91,1.8,1,2
+2023/2024,Egypt Egyptian Premier League,2024-03-09,11:00:00,complete,Al Mokawloon,Ismaily SC,2.9,2.7,2.6,2.4,1.5,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2024-03-10,11:00:00,complete,El Daklyeh FC,Pyramids FC,6.73,3.75,1.45,2.03,1.7,2.5,1.5,0,2
+2023/2024,Egypt Egyptian Premier League,2024-03-10,11:00:00,complete,Smouha SC,Ceramica Cleopatra,3.02,2.8,2.4,2.07,1.67,1.83,1.83,1,0
+2023/2024,Egypt Egyptian Premier League,2024-03-11,16:30:00,complete,Al Ittihad,Coca-Cola,3.22,2.1,3.1,2.37,1.4,2.25,1.57,0,0
+2023/2024,Egypt Egyptian Premier League,2024-03-12,16:30:00,complete,Masr,Al Masry,2.6,2.5,3.1,2.5,1.5,2.0,1.73,2,2
+2023/2024,Egypt Egyptian Premier League,2024-03-12,16:30:00,complete,National Bank of Egypt,Al Ahly,8.0,4.5,1.36,1.74,1.99,2.1,1.67,4,3
+2023/2024,Egypt Egyptian Premier League,2024-03-12,16:30:00,complete,El Gounah,Zamalek,3.6,3.3,1.99,1.92,1.82,1.83,1.83,3,2
+2023/2024,Egypt Egyptian Premier League,2024-04-03,17:00:00,complete,El Gounah,Al Mokawloon,2.7,3.0,2.5,2.48,1.5,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-04-03,17:00:00,complete,Ismaily SC,Smouha SC,2.6,3.0,2.6,2.43,1.52,2.1,1.67,2,1
+2023/2024,Egypt Egyptian Premier League,2024-04-03,17:00:00,complete,Ceramica Cleopatra,Masr,1.91,3.25,3.8,2.1,1.7,1.91,1.8,1,1
+2023/2024,Egypt Egyptian Premier League,2024-04-04,17:00:00,complete,National Bank of Egypt,El Daklyeh FC,1.61,3.52,5.55,2.18,1.63,2.1,1.67,1,0
+2023/2024,Egypt Egyptian Premier League,2024-04-04,17:00:00,complete,Al Masry,Al Ittihad,1.94,2.92,4.4,2.25,1.59,2.0,1.73,2,3
+2023/2024,Egypt Egyptian Premier League,2024-04-04,17:00:00,complete,ENPPI,Pharco,2.09,2.99,3.68,2.49,1.36,2.38,1.53,1,1
+2023/2024,Egypt Egyptian Premier League,2024-04-05,17:00:00,complete,Pyramids FC,El Geish,1.61,3.38,6.55,2.23,1.58,2.5,1.5,0,0
+2023/2024,Egypt Egyptian Premier League,2024-04-08,17:00:00,complete,Al Ahly,ENPPI,1.57,3.5,5.75,2.15,1.67,2.2,1.62,2,2
+2023/2024,Egypt Egyptian Premier League,2024-04-09,17:00:00,complete,El Gounah,Pyramids FC,6.5,4.0,1.45,1.9,1.9,2.1,1.67,0,4
+2023/2024,Egypt Egyptian Premier League,2024-04-11,11:00:00,complete,Al Masry,Coca-Cola,2.15,2.88,3.3,2.5,1.5,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-04-11,14:00:00,complete,Zamalek,Al Ittihad,1.65,3.75,4.75,1.75,2.05,1.8,1.91,3,0
+2023/2024,Egypt Egyptian Premier League,2024-04-11,14:00:00,complete,Masr,Al Ahly,5.25,3.5,1.57,2.0,1.8,2.0,1.73,0,1
+2023/2024,Egypt Egyptian Premier League,2024-04-14,11:00:00,complete,Ceramica Cleopatra,Al Masry,2.5,3.25,3.4,2.08,1.89,1.79,2.1,1,1
+2023/2024,Egypt Egyptian Premier League,2024-04-14,14:00:00,complete,Ismaily SC,Coca-Cola,3.1,2.75,2.38,2.63,1.44,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2024-04-15,11:00:00,complete,Al Mokawloon,Pyramids FC,6.5,3.6,1.5,2.08,1.73,2.25,1.57,0,2
+2023/2024,Egypt Egyptian Premier League,2024-04-15,14:00:00,complete,Zamalek,Al Ahly,3.75,3.0,1.95,1.95,1.85,1.73,2.0,2,1
+2023/2024,Egypt Egyptian Premier League,2024-04-17,11:00:00,complete,El Gounah,Smouha SC,2.84,3.05,2.26,2.15,1.65,1.91,1.8,1,0
+2023/2024,Egypt Egyptian Premier League,2024-04-17,14:00:00,complete,ENPPI,El Daklyeh FC,1.73,3.1,5.0,2.75,1.4,2.63,1.44,0,0
+2023/2024,Egypt Egyptian Premier League,2024-04-17,14:00:00,complete,National Bank of Egypt,El Geish,2.38,2.75,3.2,2.5,1.5,2.1,1.67,0,1
+2023/2024,Egypt Egyptian Premier League,2024-04-18,11:00:00,complete,Ceramica Cleopatra,Al Ittihad,1.88,3.3,3.85,2.02,1.7,1.83,1.83,1,1
+2023/2024,Egypt Egyptian Premier League,2024-04-18,14:00:00,complete,Ismaily SC,Masr,2.55,2.75,3.0,2.5,1.5,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-04-18,14:00:00,complete,Coca-Cola,Pharco,2.05,2.8,3.8,2.5,1.5,2.2,1.62,2,0
+2023/2024,Egypt Egyptian Premier League,2024-04-19,11:00:00,complete,Baladiyyat Al Mehalla,Al Mokawloon,3.1,2.87,2.25,2.3,1.55,2.0,1.73,2,0
+2023/2024,Egypt Egyptian Premier League,2024-04-22,11:00:00,complete,Masr,El Gounah,2.2,2.9,3.4,2.2,1.65,2.0,1.73,3,0
+2023/2024,Egypt Egyptian Premier League,2024-04-22,14:00:00,complete,Al Ittihad,Ismaily SC,2.7,2.75,2.8,2.3,1.6,1.91,1.8,1,1
+2023/2024,Egypt Egyptian Premier League,2024-04-22,14:00:00,complete,El Daklyeh FC,Coca-Cola,4.33,3.0,1.91,2.63,1.44,2.38,1.53,1,1
+2023/2024,Egypt Egyptian Premier League,2024-04-23,11:30:00,complete,Smouha SC,Baladiyyat Al Mehalla,1.9,3.3,4.0,2.05,1.65,1.91,1.8,4,0
+2023/2024,Egypt Egyptian Premier League,2024-04-23,14:00:00,complete,Pharco,Al Masry,3.2,3.25,2.1,2.35,1.57,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-04-24,11:30:00,complete,El Geish,ENPPI,2.5,2.5,3.0,2.94,1.35,2.38,1.53,1,0
+2023/2024,Egypt Egyptian Premier League,2024-04-24,14:00:00,complete,Pyramids FC,National Bank of Egypt,1.4,4.33,7.0,1.8,2.0,2.0,1.73,3,2
+2023/2024,Egypt Egyptian Premier League,2024-04-27,10:00:00,complete,Baladiyyat Al Mehalla,Masr,3.4,2.9,2.15,2.35,1.57,2.0,1.73,0,3
+2023/2024,Egypt Egyptian Premier League,2024-04-27,13:00:00,complete,El Gounah,Al Ittihad,2.75,3.25,2.38,2.05,1.75,1.83,1.83,2,1
+2023/2024,Egypt Egyptian Premier League,2024-04-28,10:00:00,complete,Al Masry,El Daklyeh FC,1.53,3.3,6.5,2.3,1.6,2.38,1.53,1,0
+2023/2024,Egypt Egyptian Premier League,2024-04-28,13:00:00,complete,Al Mokawloon,Smouha SC,2.5,3.0,2.6,2.25,1.62,1.91,1.8,0,1
+2023/2024,Egypt Egyptian Premier League,2024-04-29,13:00:00,complete,Ceramica Cleopatra,Pharco,1.95,2.9,4.0,2.35,1.57,2.1,1.67,1,1
+2023/2024,Egypt Egyptian Premier League,2024-05-01,13:00:00,complete,Ismaily SC,Al Ahly,6.5,3.75,1.5,2.0,1.8,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-05-01,13:00:00,complete,ENPPI,Pyramids FC,5.25,3.4,1.62,2.35,1.57,2.25,1.57,0,1
+2023/2024,Egypt Egyptian Premier League,2024-05-02,13:00:00,complete,Coca-Cola,El Geish,2.38,2.75,3.25,3.0,1.36,2.5,1.5,0,0
+2023/2024,Egypt Egyptian Premier League,2024-05-02,13:00:00,complete,Zamalek,National Bank of Egypt,1.85,3.4,3.8,1.8,2.0,1.73,2.0,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-03,13:00:00,complete,Masr,Al Mokawloon,2.2,3.0,3.2,2.25,1.62,1.91,1.8,0,1
+2023/2024,Egypt Egyptian Premier League,2024-05-03,13:00:00,complete,Al Ittihad,Baladiyyat Al Mehalla,2.1,2.75,4.0,2.63,1.44,2.25,1.57,2,1
+2023/2024,Egypt Egyptian Premier League,2024-05-04,10:00:00,complete,Pharco,Ismaily SC,2.55,2.88,2.9,2.35,1.57,2.0,1.73,0,2
+2023/2024,Egypt Egyptian Premier League,2024-05-04,13:00:00,complete,El Daklyeh FC,Ceramica Cleopatra,6.0,3.5,1.53,2.15,1.67,2.2,1.62,1,3
+2023/2024,Egypt Egyptian Premier League,2024-05-04,13:00:00,complete,Al Ahly,El Gounah,1.36,4.5,8.0,1.73,2.08,2.1,1.67,3,0
+2023/2024,Egypt Egyptian Premier League,2024-05-05,13:00:00,complete,Smouha SC,Zamalek,3.2,3.2,2.1,2.15,1.67,1.91,1.8,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-05,13:00:00,complete,National Bank of Egypt,ENPPI,2.25,2.88,3.3,2.38,1.53,2.1,1.67,1,5
+2023/2024,Egypt Egyptian Premier League,2024-05-06,13:00:00,complete,Pyramids FC,Coca-Cola,1.67,3.4,5.0,2.0,1.8,1.91,1.8,2,1
+2023/2024,Egypt Egyptian Premier League,2024-05-06,13:00:00,complete,El Geish,Al Masry,4.3,3.1,2.14,2.42,1.66,2.02,1.87,0,2
+2023/2024,Egypt Egyptian Premier League,2024-05-07,13:00:00,complete,Al Ahly,Al Ittihad,1.4,4.33,7.0,1.75,2.05,2.0,1.73,4,1
+2023/2024,Egypt Egyptian Premier League,2024-05-09,10:30:00,complete,Ismaily SC,El Daklyeh FC,1.65,3.25,5.25,2.5,1.5,2.5,1.5,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-09,13:00:00,complete,Smouha SC,Masr,2.55,2.75,3.0,2.63,1.44,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-05-10,10:00:00,complete,Ceramica Cleopatra,El Geish,1.85,3.2,4.2,2.05,1.75,1.83,1.83,2,1
+2023/2024,Egypt Egyptian Premier League,2024-05-10,13:00:00,complete,El Gounah,Pharco,2.9,2.7,2.63,2.38,1.53,2.0,1.73,1,2
+2023/2024,Egypt Egyptian Premier League,2024-05-10,13:00:00,complete,Coca-Cola,National Bank of Egypt,2.3,3.0,3.1,2.2,1.65,1.83,1.83,1,1
+2023/2024,Egypt Egyptian Premier League,2024-05-11,10:00:00,complete,Al Mokawloon,Al Ittihad,2.38,2.7,3.2,2.38,1.53,2.0,1.73,0,1
+2023/2024,Egypt Egyptian Premier League,2024-05-11,13:00:00,complete,Al Masry,Pyramids FC,4.0,3.2,1.85,1.85,1.95,1.8,1.91,0,1
+2023/2024,Egypt Egyptian Premier League,2024-05-11,13:00:00,complete,Baladiyyat Al Mehalla,Al Ahly,8.5,5.25,1.25,1.8,2.0,2.5,1.5,1,2
+2023/2024,Egypt Egyptian Premier League,2024-05-14,10:00:00,complete,Al Ittihad,Smouha SC,2.6,3.0,2.7,2.5,1.5,2.1,1.67,0,2
+2023/2024,Egypt Egyptian Premier League,2024-05-14,13:00:00,complete,El Geish,Ismaily SC,2.55,2.63,3.0,2.75,1.4,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2024-05-15,10:00:00,complete,El Daklyeh FC,El Gounah,2.88,2.88,2.5,2.5,1.5,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-05-15,13:00:00,complete,Pyramids FC,Ceramica Cleopatra,1.65,3.6,4.5,1.85,1.95,1.83,1.83,2,1
+2023/2024,Egypt Egyptian Premier League,2024-05-15,13:00:00,complete,Pharco,Baladiyyat Al Mehalla,1.67,3.3,4.75,2.3,1.6,2.2,1.62,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-16,13:00:00,complete,ENPPI,Coca-Cola,2.63,2.8,2.7,2.75,1.4,2.25,1.57,0,1
+2023/2024,Egypt Egyptian Premier League,2024-05-16,13:00:00,complete,National Bank of Egypt,Al Masry,3.2,3.5,2.42,2.0,1.94,1.79,2.16,5,2
+2023/2024,Egypt Egyptian Premier League,2024-05-19,12:00:00,complete,Ismaily SC,Pyramids FC,4.5,3.6,1.67,2.0,1.8,1.91,1.8,0,2
+2023/2024,Egypt Egyptian Premier League,2024-05-20,10:00:00,complete,Al Masry,ENPPI,2.05,3.0,3.6,2.15,1.67,1.91,1.8,0,0
+2023/2024,Egypt Egyptian Premier League,2024-05-20,13:00:00,complete,Masr,Al Ittihad,2.5,2.8,3.0,2.38,1.53,2.0,1.73,0,0
+2023/2024,Egypt Egyptian Premier League,2024-05-20,13:00:00,complete,Al Mokawloon,Pharco,2.55,2.7,2.9,2.63,1.44,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2024-05-21,10:00:00,complete,Baladiyyat Al Mehalla,El Daklyeh FC,2.0,2.88,3.9,2.63,1.44,2.38,1.53,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-21,13:00:00,complete,El Gounah,El Geish,2.9,2.7,2.63,2.5,1.5,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-05-21,13:00:00,complete,Ceramica Cleopatra,National Bank of Egypt,2.1,2.9,3.5,2.05,1.75,1.8,1.91,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-23,13:00:00,complete,Zamalek,Coca-Cola,2.0,3.1,3.7,2.15,1.67,1.91,1.8,1,1
+2023/2024,Egypt Egyptian Premier League,2024-05-24,13:00:00,complete,Pharco,Smouha SC,2.7,2.75,2.7,2.63,1.44,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2024-05-24,13:00:00,complete,ENPPI,Ceramica Cleopatra,3.1,2.7,2.45,2.63,1.44,2.1,1.67,3,2
+2023/2024,Egypt Egyptian Premier League,2024-05-25,12:00:00,complete,El Daklyeh FC,Al Mokawloon,3.9,2.8,2.0,2.75,1.4,2.38,1.53,3,0
+2023/2024,Egypt Egyptian Premier League,2024-05-26,10:00:00,complete,National Bank of Egypt,Ismaily SC,2.5,2.9,2.88,2.35,1.57,2.0,1.73,2,2
+2023/2024,Egypt Egyptian Premier League,2024-05-26,13:00:00,complete,Coca-Cola,Al Masry,3.25,2.7,2.4,2.5,1.5,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-05-26,13:00:00,complete,El Geish,Baladiyyat Al Mehalla,1.9,3.25,4.1,2.38,1.53,2.25,1.57,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-27,10:00:00,complete,Pyramids FC,El Gounah,1.33,5.0,8.5,1.57,2.35,1.91,1.8,1,0
+2023/2024,Egypt Egyptian Premier League,2024-05-27,13:00:00,complete,Al Ittihad,Zamalek,4.2,3.0,1.95,2.35,1.57,2.1,1.67,0,2
+2023/2024,Egypt Egyptian Premier League,2024-06-13,13:00:00,complete,Pyramids FC,Smouha SC,1.55,3.5,5.75,2.0,1.8,2.1,1.67,3,0
+2023/2024,Egypt Egyptian Premier League,2024-06-13,13:00:00,complete,Coca-Cola,El Gounah,1.95,2.9,4.1,2.63,1.44,2.25,1.57,3,1
+2023/2024,Egypt Egyptian Premier League,2024-06-14,13:00:00,complete,Ceramica Cleopatra,Zamalek,2.9,3.3,2.25,2.0,1.8,1.8,1.91,1,2
+2023/2024,Egypt Egyptian Premier League,2024-06-14,13:00:00,complete,Pharco,Al Ahly,6.0,4.75,1.38,1.95,1.85,2.5,1.5,1,2
+2023/2024,Egypt Egyptian Premier League,2024-06-16,13:00:00,complete,Al Mokawloon,El Geish,2.8,2.8,2.63,3.0,1.36,2.5,1.5,3,1
+2023/2024,Egypt Egyptian Premier League,2024-06-17,10:00:00,complete,El Gounah,National Bank of Egypt,2.8,3.1,2.4,2.25,1.62,1.83,1.83,1,1
+2023/2024,Egypt Egyptian Premier League,2024-06-17,13:00:00,complete,Zamalek,Al Masry,2.12,3.3,4.1,2.08,1.9,1.89,2.06,1,2
+2023/2024,Egypt Egyptian Premier League,2024-06-17,13:00:00,complete,Ismaily SC,ENPPI,2.38,2.8,3.2,2.5,1.5,2.1,1.67,2,2
+2023/2024,Egypt Egyptian Premier League,2024-06-18,10:00:00,complete,Smouha SC,El Daklyeh FC,1.55,3.4,6.25,2.3,1.6,2.38,1.53,3,2
+2023/2024,Egypt Egyptian Premier League,2024-06-18,13:00:00,complete,Al Ittihad,Al Ahly,7.0,3.9,1.42,2.05,1.75,2.38,1.53,0,1
+2023/2024,Egypt Egyptian Premier League,2024-06-18,13:00:00,complete,Masr,Pharco,2.15,3.1,3.25,2.35,1.57,2.0,1.73,2,2
+2023/2024,Egypt Egyptian Premier League,2024-06-19,13:00:00,complete,Baladiyyat Al Mehalla,Pyramids FC,8.0,4.5,1.33,1.8,2.0,2.2,1.62,0,2
+2023/2024,Egypt Egyptian Premier League,2024-06-19,13:00:00,complete,Ceramica Cleopatra,Coca-Cola,2.38,2.8,3.1,2.2,1.65,1.83,1.83,0,1
+2023/2024,Egypt Egyptian Premier League,2024-06-21,13:00:00,complete,Zamalek,Pharco,1.65,3.5,5.0,2.08,1.73,2.0,1.73,2,0
+2023/2024,Egypt Egyptian Premier League,2024-06-21,13:00:00,complete,El Daklyeh FC,Al Ahly,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,2
+2023/2024,Egypt Egyptian Premier League,2024-06-22,13:00:00,complete,El Geish,Smouha SC,2.63,2.8,2.75,2.5,1.5,2.1,1.67,2,2
+2023/2024,Egypt Egyptian Premier League,2024-06-22,13:00:00,complete,ENPPI,El Gounah,2.05,3.0,3.6,2.38,1.53,2.1,1.67,1,0
+2023/2024,Egypt Egyptian Premier League,2024-06-23,10:00:00,complete,Coca-Cola,Ismaily SC,2.0,3.0,3.6,2.5,1.5,2.2,1.71,0,1
+2023/2024,Egypt Egyptian Premier League,2024-06-23,13:00:00,complete,Al Masry,Ceramica Cleopatra,2.38,3.1,2.7,1.95,1.85,1.73,2.0,0,2
+2023/2024,Egypt Egyptian Premier League,2024-06-23,13:00:00,complete,Pyramids FC,Al Mokawloon,1.25,4.75,9.5,1.95,1.85,2.24,1.7,3,1
+2023/2024,Egypt Egyptian Premier League,2024-06-24,10:00:00,complete,National Bank of Egypt,Baladiyyat Al Mehalla,1.8,3.4,3.8,2.0,1.8,1.93,1.91,5,0
+2023/2024,Egypt Egyptian Premier League,2024-06-24,13:00:00,complete,El Daklyeh FC,Masr,5.0,3.2,1.67,2.38,1.53,2.32,1.66,1,0
+2023/2024,Egypt Egyptian Premier League,2024-06-24,13:00:00,complete,Pharco,Al Ittihad,2.8,2.8,2.5,2.75,1.4,2.1,1.79,1,0
+2023/2024,Egypt Egyptian Premier League,2024-06-25,13:00:00,complete,Al Ahly,Zamalek,1.73,3.5,4.0,2.05,1.75,1.83,2.06,2,0
+2023/2024,Egypt Egyptian Premier League,2024-06-27,10:00:00,complete,El Gounah,Coca-Cola,4.0,3.0,1.91,2.5,1.5,2.2,1.62,0,2
+2023/2024,Egypt Egyptian Premier League,2024-06-27,13:00:00,complete,Masr,El Geish,1.9,3.2,4.0,2.5,1.5,2.25,1.57,4,1
+2023/2024,Egypt Egyptian Premier League,2024-06-27,13:00:00,complete,Ismaily SC,Al Masry,3.8,3.1,2.36,2.44,1.68,1.99,1.96,0,1
+2023/2024,Egypt Egyptian Premier League,2024-06-28,10:00:00,complete,Al Mokawloon,National Bank of Egypt,2.9,3.2,2.25,2.25,1.62,2.0,1.73,1,4
+2023/2024,Egypt Egyptian Premier League,2024-06-28,13:00:00,complete,Smouha SC,Pyramids FC,4.75,3.5,1.67,1.95,1.85,1.91,1.8,2,3
+2023/2024,Egypt Egyptian Premier League,2024-06-28,13:00:00,complete,Al Ahly,Pharco,1.2,5.5,10.0,1.62,2.25,2.25,1.57,2,1
+2023/2024,Egypt Egyptian Premier League,2024-06-29,10:00:00,complete,Baladiyyat Al Mehalla,ENPPI,5.0,3.3,1.73,2.2,1.65,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-06-29,11:30:00,complete,Al Ittihad,El Daklyeh FC,1.8,3.1,4.1,2.49,1.49,2.25,1.57,1,1
+2023/2024,Egypt Egyptian Premier League,2024-06-29,13:00:00,complete,Zamalek,Ceramica Cleopatra,1.9,3.2,3.9,1.85,1.95,1.73,2.0,4,2
+2023/2024,Egypt Egyptian Premier League,2024-07-01,13:00:00,complete,Al Masry,El Gounah,1.75,3.25,4.5,2.25,1.62,2.1,1.67,2,1
+2023/2024,Egypt Egyptian Premier League,2024-07-01,13:00:00,complete,El Geish,Al Ahly,8.0,4.1,1.38,1.95,1.85,2.25,1.57,0,4
+2023/2024,Egypt Egyptian Premier League,2024-07-02,13:00:00,complete,ENPPI,Al Mokawloon,1.75,3.1,5.0,2.38,1.53,2.25,1.57,2,2
+2023/2024,Egypt Egyptian Premier League,2024-07-03,10:00:00,complete,Coca-Cola,Baladiyyat Al Mehalla,1.5,3.75,6.5,2.15,1.67,2.25,1.57,1,0
+2023/2024,Egypt Egyptian Premier League,2024-07-03,13:00:00,complete,Ceramica Cleopatra,Ismaily SC,2.0,3.2,3.9,2.1,1.7,1.83,1.83,1,0
+2023/2024,Egypt Egyptian Premier League,2024-07-03,13:00:00,complete,Pharco,Zamalek,4.33,3.3,1.8,2.05,1.75,1.91,1.8,1,1
+2023/2024,Egypt Egyptian Premier League,2024-07-04,13:00:00,complete,El Geish,Al Ittihad,2.8,2.9,2.4,2.63,1.44,2.2,1.62,0,0
+2023/2024,Egypt Egyptian Premier League,2024-07-04,13:00:00,complete,Al Ahly,El Daklyeh FC,1.13,6.5,19.0,1.53,2.38,2.75,1.4,4,1
+2023/2024,Egypt Egyptian Premier League,2024-07-06,11:30:00,complete,Smouha SC,ENPPI,2.55,2.75,2.9,2.43,1.38,2.1,1.67,2,0
+2023/2024,Egypt Egyptian Premier League,2024-07-06,13:00:00,complete,Masr,National Bank of Egypt,2.4,3.1,2.63,2.08,1.73,1.83,1.83,0,1
+2023/2024,Egypt Egyptian Premier League,2024-07-07,10:00:00,complete,Baladiyyat Al Mehalla,Al Masry,4.75,3.7,1.57,1.9,1.9,1.91,1.8,0,1
+2023/2024,Egypt Egyptian Premier League,2024-07-07,13:00:00,complete,Zamalek,Ismaily SC,1.53,3.6,5.25,1.95,1.85,2.0,1.73,2,1
+2023/2024,Egypt Egyptian Premier League,2024-07-07,13:00:00,complete,El Gounah,Ceramica Cleopatra,3.5,3.1,1.95,2.1,1.7,1.91,1.8,0,0
+2023/2024,Egypt Egyptian Premier League,2024-07-08,10:00:00,complete,Pharco,El Daklyeh FC,1.73,3.1,4.5,2.3,1.6,2.1,1.67,2,0
+2023/2024,Egypt Egyptian Premier League,2024-07-08,11:30:00,complete,Al Ittihad,Pyramids FC,5.6,3.66,1.44,1.99,1.83,2.2,1.62,0,4
+2023/2024,Egypt Egyptian Premier League,2024-07-08,13:00:00,complete,Al Ahly,El Geish,1.18,6.0,13.0,1.5,2.5,2.2,1.62,2,0
+2023/2024,Egypt Egyptian Premier League,2024-07-11,15:00:00,complete,Al Mokawloon,Coca-Cola,3.7,3.6,1.83,2.2,1.65,2.1,1.67,1,2
+2023/2024,Egypt Egyptian Premier League,2024-07-11,15:00:00,complete,El Geish,Zamalek,5.0,3.4,1.65,2.08,1.73,2.0,1.73,1,2
+2023/2024,Egypt Egyptian Premier League,2024-07-12,15:00:00,complete,Al Ahly,Pyramids FC,2.1,2.9,3.7,2.05,1.75,1.8,1.91,3,2
+2023/2024,Egypt Egyptian Premier League,2024-07-13,15:00:00,complete,National Bank of Egypt,Smouha SC,2.21,3.15,2.83,1.99,1.81,1.8,1.91,1,2
+2023/2024,Egypt Egyptian Premier League,2024-07-15,15:00:00,complete,Zamalek,Baladiyyat Al Mehalla,1.29,5.0,7.5,1.75,2.05,2.25,1.57,0,0
+2023/2024,Egypt Egyptian Premier League,2024-07-16,15:00:00,complete,Coca-Cola,Al Ahly,5.5,3.6,1.53,2.15,1.67,2.25,1.57,1,2
+2023/2024,Egypt Egyptian Premier League,2024-07-20,11:30:00,complete,El Geish,Pharco,2.95,2.65,2.7,2.31,1.42,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-07-20,15:00:00,complete,Ceramica Cleopatra,Baladiyyat Al Mehalla,1.65,3.4,5.0,1.95,1.85,1.91,1.8,4,0
+2023/2024,Egypt Egyptian Premier League,2024-07-20,15:00:00,complete,National Bank of Egypt,Al Ittihad,1.9,3.4,3.8,1.95,1.85,1.83,1.83,0,0
+2023/2024,Egypt Egyptian Premier League,2024-07-21,11:30:00,complete,Al Masry,Al Mokawloon,1.65,3.5,5.0,2.05,1.68,2.25,1.57,1,1
+2023/2024,Egypt Egyptian Premier League,2024-07-21,15:00:00,complete,El Daklyeh FC,Zamalek,8.0,4.0,1.38,1.85,1.95,2.2,1.62,1,2
+2023/2024,Egypt Egyptian Premier League,2024-07-21,15:00:00,complete,ENPPI,Masr,2.5,2.63,3.3,2.63,1.44,2.1,1.67,1,4
+2023/2024,Egypt Egyptian Premier League,2024-07-22,11:30:00,complete,Ismaily SC,El Gounah,1.91,3.1,3.7,2.2,1.61,2.1,1.67,1,1
+2023/2024,Egypt Egyptian Premier League,2024-07-22,15:00:00,complete,Coca-Cola,Smouha SC,2.38,3.0,3.0,2.5,1.5,2.1,1.67,3,0
+2023/2024,Egypt Egyptian Premier League,2024-07-22,15:00:00,complete,Pyramids FC,Al Ahly,2.8,2.9,2.55,2.08,1.73,1.8,1.91,0,1
+2023/2024,Egypt Egyptian Premier League,2024-07-26,15:00:00,complete,Zamalek,Pyramids FC,4.33,3.6,1.73,1.75,2.05,1.73,2.0,1,1
+2023/2024,Egypt Egyptian Premier League,2024-07-26,15:00:00,complete,Al Masry,Al Ahly,7.0,4.1,1.42,1.8,2.0,2.0,1.73,0,1
+2023/2024,Egypt Egyptian Premier League,2024-07-29,15:00:00,complete,Al Mokawloon,Zamalek,4.1,3.6,1.67,2.05,1.75,1.91,1.8,2,1
+2023/2024,Egypt Egyptian Premier League,2024-07-29,15:00:00,complete,Al Ahly,Ceramica Cleopatra,1.33,5.0,9.0,1.75,2.05,2.2,1.62,4,1
+2023/2024,Egypt Egyptian Premier League,2024-07-30,11:30:00,complete,El Daklyeh FC,El Geish,4.2,3.05,1.87,2.21,1.47,2.25,1.57,0,1
+2023/2024,Egypt Egyptian Premier League,2024-07-30,15:00:00,complete,Baladiyyat Al Mehalla,Ismaily SC,3.4,2.9,2.05,2.35,1.57,2.1,1.67,4,2
+2023/2024,Egypt Egyptian Premier League,2024-07-30,15:00:00,complete,Pharco,Pyramids FC,6.0,3.9,1.44,1.95,1.85,2.1,1.67,2,2
+2023/2024,Egypt Egyptian Premier League,2024-07-31,11:30:00,complete,Al Ittihad,ENPPI,3.0,2.65,2.55,2.4,1.5,2.2,1.62,0,0
+2023/2024,Egypt Egyptian Premier League,2024-07-31,15:00:00,complete,Masr,Coca-Cola,2.7,2.88,2.7,2.25,1.62,1.83,1.83,3,2
+2023/2024,Egypt Egyptian Premier League,2024-08-01,11:30:00,complete,Al Mokawloon,Ceramica Cleopatra,2.65,2.95,2.6,2.0,1.7,1.91,1.8,1,1
+2023/2024,Egypt Egyptian Premier League,2024-08-01,15:00:00,complete,Al Ahly,National Bank of Egypt,1.3,4.33,8.0,1.8,2.0,2.38,1.53,1,0
+2023/2024,Egypt Egyptian Premier League,2024-08-01,15:00:00,complete,Smouha SC,Al Masry,2.3,3.1,2.8,2.1,1.7,1.83,1.83,1,0
+2023/2024,Egypt Egyptian Premier League,2024-08-02,15:00:00,complete,Zamalek,El Gounah,1.67,3.4,4.5,1.8,2.0,1.8,1.91,1,0
+2023/2024,Egypt Egyptian Premier League,2024-08-04,15:00:00,complete,Al Ahly,Al Mokawloon,1.27,4.5,10.0,1.7,2.1,2.25,1.57,4,0
+2023/2024,Egypt Egyptian Premier League,2024-08-04,15:00:00,complete,Pyramids FC,Masr,1.57,3.4,5.25,1.8,2.0,2.0,1.73,2,1
+2023/2024,Egypt Egyptian Premier League,2024-08-05,15:00:00,complete,Zamalek,ENPPI,1.95,3.0,4.1,2.25,1.62,2.0,1.73,4,2
+2023/2024,Egypt Egyptian Premier League,2024-08-08,15:00:00,complete,Smouha SC,Al Ahly,8.5,4.0,1.38,2.0,1.8,2.25,1.57,0,1
+2023/2024,Egypt Egyptian Premier League,2024-08-08,15:00:00,complete,Masr,Zamalek,2.63,2.8,2.63,1.95,1.85,1.73,2.0,0,1
+2023/2024,Egypt Egyptian Premier League,2024-08-11,15:00:00,complete,El Geish,Pyramids FC,6.0,3.6,1.62,2.0,1.8,2.0,1.73,2,5
+2023/2024,Egypt Egyptian Premier League,2024-08-11,15:00:00,complete,Al Ahly,Masr,1.8,3.5,4.0,1.7,2.1,1.67,2.1,2,1
+2023/2024,Egypt Egyptian Premier League,2024-08-12,15:00:00,complete,Coca-Cola,Al Ittihad,1.8,3.4,4.75,2.35,1.57,2.2,1.62,1,1
+2023/2024,Egypt Egyptian Premier League,2024-08-12,15:00:00,complete,Ceramica Cleopatra,Smouha SC,2.6,3.2,2.7,2.08,1.73,1.8,1.91,0,1
+2023/2024,Egypt Egyptian Premier League,2024-08-13,15:00:00,complete,National Bank of Egypt,Pharco,2.45,3.1,2.88,2.08,1.73,1.83,1.83,0,0
+2023/2024,Egypt Egyptian Premier League,2024-08-13,15:00:00,complete,Ismaily SC,Al Mokawloon,2.2,3.1,3.6,2.25,1.62,1.91,1.8,1,1
+2023/2024,Egypt Egyptian Premier League,2024-08-13,15:00:00,complete,El Gounah,Baladiyyat Al Mehalla,2.2,3.1,3.5,2.2,1.65,1.91,1.8,2,1
+2023/2024,Egypt Egyptian Premier League,2024-08-14,11:30:00,complete,Al Masry,Masr,2.5,3.0,2.8,2.0,1.8,1.73,2.0,0,1
+2023/2024,Egypt Egyptian Premier League,2024-08-14,11:30:00,complete,Zamalek,El Geish,1.53,3.75,5.75,2.3,1.5,2.0,1.73,1,3
+2023/2024,Egypt Egyptian Premier League,2024-08-14,15:00:00,complete,Pyramids FC,El Daklyeh FC,1.11,8.0,19.0,1.44,2.63,2.5,1.5,1,0
+2023/2024,Egypt Egyptian Premier League,2024-08-14,15:00:00,complete,ENPPI,Al Ahly,4.5,3.6,1.7,2.0,1.8,2.0,1.73,1,1
+2023/2024,Egypt Egyptian Premier League,2024-08-16,15:00:00,complete,Smouha SC,Ismaily SC,1.62,3.5,5.25,2.0,1.8,2.0,1.73,2,0
+2023/2024,Egypt Egyptian Premier League,2024-08-17,11:30:00,complete,Pharco,ENPPI,2.45,2.9,3.0,2.5,1.5,2.1,1.67,0,0
+2023/2024,Egypt Egyptian Premier League,2024-08-17,15:00:00,complete,Al Ahly,Coca-Cola,1.85,3.25,4.1,2.1,1.7,1.91,1.8,1,2
+2023/2024,Egypt Egyptian Premier League,2024-08-17,15:00:00,complete,Baladiyyat Al Mehalla,Zamalek,5.0,3.8,1.53,1.75,1.91,1.73,2.0,2,2
+2023/2024,Egypt Egyptian Premier League,2024-08-18,11:30:00,complete,Al Mokawloon,El Gounah,2.05,3.0,3.7,2.3,1.6,1.91,1.8,0,1
+2023/2024,Egypt Egyptian Premier League,2024-08-18,11:30:00,complete,El Daklyeh FC,National Bank of Egypt,5.0,3.6,1.65,2.05,1.75,2.0,1.73,0,0
+2023/2024,Egypt Egyptian Premier League,2024-08-18,15:00:00,complete,Masr,Ceramica Cleopatra,2.15,3.0,3.5,1.95,1.85,1.73,2.0,2,2
+2023/2024,Egypt Egyptian Premier League,2024-08-18,15:00:00,complete,Al Ittihad,Al Masry,4.1,3.15,2.16,2.4,1.67,2.02,1.87,0,2
+2024/2025,Egypt Egyptian Premier League,2024-10-30,11:00:00,complete,Haras El Hodood,Smouha SC,3.25,2.88,2.25,2.4,1.5,2.2,1.62,1,3
+2024/2025,Egypt Egyptian Premier League,2024-10-30,14:00:00,complete,El Geish,Al Masry,4.5,2.88,1.95,2.88,1.36,2.4,1.5,0,2
+2024/2025,Egypt Egyptian Premier League,2024-10-31,11:00:00,complete,El Gounah,Masr,3.6,3.1,2.05,2.35,1.57,2.1,1.67,0,0
+2024/2025,Egypt Egyptian Premier League,2024-10-31,14:00:00,complete,Coca-Cola,ENPPI,2.2,2.9,3.6,2.75,1.4,2.2,1.6,0,0
+2024/2025,Egypt Egyptian Premier League,2024-11-01,12:00:00,complete,Pharco,Al Ittihad,2.7,2.7,2.88,3.0,1.36,2.25,1.57,0,1
+2024/2025,Egypt Egyptian Premier League,2024-11-01,12:00:00,complete,Pyramids FC,Petrojet,1.2,4.75,17.0,1.8,2.0,3.0,1.36,1,1
+2024/2025,Egypt Egyptian Premier League,2024-11-01,15:00:00,complete,Zamalek,National Bank of Egypt,1.91,3.5,3.8,1.91,1.8,1.83,1.83,3,2
+2024/2025,Egypt Egyptian Premier League,2024-11-02,12:00:00,complete,Ismaily SC,Ghazl El Mehalla,2.0,3.1,3.75,2.38,1.53,2.2,1.62,0,0
+2024/2025,Egypt Egyptian Premier League,2024-11-02,15:00:00,complete,Al Ahly,Ceramica Cleopatra,1.4,4.2,6.0,1.75,1.95,1.91,1.8,5,2
+2024/2025,Egypt Egyptian Premier League,2024-11-07,12:00:00,complete,Ghazl El Mehalla,El Geish,2.8,2.9,2.4,2.63,1.44,2.2,1.62,2,3
+2024/2025,Egypt Egyptian Premier League,2024-11-07,12:00:00,complete,Al Ittihad,Haras El Hodood,1.7,3.25,4.75,2.3,1.6,2.2,1.62,1,0
+2024/2025,Egypt Egyptian Premier League,2024-11-07,15:00:00,complete,Masr,Al Ahly,5.5,3.7,1.6,1.85,1.95,1.83,1.83,0,1
+2024/2025,Egypt Egyptian Premier League,2024-11-08,12:00:00,complete,Petrojet,Coca-Cola,3.4,3.25,1.95,2.38,1.53,2.2,1.62,1,1
+2024/2025,Egypt Egyptian Premier League,2024-11-08,12:00:00,complete,Smouha SC,Zamalek,2.63,3.1,2.5,2.1,1.7,1.83,1.83,0,2
+2024/2025,Egypt Egyptian Premier League,2024-11-08,15:00:00,complete,ENPPI,Pyramids FC,5.5,3.6,1.53,2.05,1.7,2.1,1.67,1,2
+2024/2025,Egypt Egyptian Premier League,2024-11-09,12:00:00,complete,National Bank of Egypt,Pharco,1.85,2.9,4.2,2.5,1.5,2.25,1.57,0,0
+2024/2025,Egypt Egyptian Premier League,2024-11-09,12:00:00,complete,Al Masry,El Gounah,1.57,3.4,5.25,2.35,1.57,2.38,1.53,0,0
+2024/2025,Egypt Egyptian Premier League,2024-11-09,15:00:00,complete,Ceramica Cleopatra,Ismaily SC,1.95,3.2,3.8,2.1,1.67,1.91,1.8,1,0
+2024/2025,Egypt Egyptian Premier League,2024-11-22,12:00:00,complete,Pharco,ENPPI,2.38,2.63,3.5,3.0,1.36,2.5,1.5,4,3
+2024/2025,Egypt Egyptian Premier League,2024-11-22,12:00:00,complete,Pyramids FC,National Bank of Egypt,1.65,3.5,5.25,2.1,1.7,2.1,1.67,3,1
+2024/2025,Egypt Egyptian Premier League,2024-11-22,15:00:00,complete,Al Ahly,Al Ittihad,1.3,4.7,10.3,1.97,1.75,2.63,1.44,1,1
+2024/2025,Egypt Egyptian Premier League,2024-11-23,12:00:00,complete,El Geish,Smouha SC,3.4,2.9,2.25,2.5,1.5,2.1,1.67,0,0
+2024/2025,Egypt Egyptian Premier League,2024-11-23,12:00:00,complete,El Gounah,Ghazl El Mehalla,2.55,2.75,2.75,3.0,1.36,2.38,1.53,0,1
+2024/2025,Egypt Egyptian Premier League,2024-11-23,15:00:00,complete,Zamalek,Al Masry,2.24,3.15,3.0,1.96,1.75,1.83,1.83,0,1
+2024/2025,Egypt Egyptian Premier League,2024-11-24,12:00:00,complete,Ismaily SC,Petrojet,2.15,2.88,3.3,2.35,1.57,2.0,1.73,1,0
+2024/2025,Egypt Egyptian Premier League,2024-11-24,15:00:00,complete,Coca-Cola,Masr,2.7,2.6,3.0,3.25,1.33,2.5,1.5,0,0
+2024/2025,Egypt Egyptian Premier League,2024-11-24,15:00:00,complete,Haras El Hodood,Ceramica Cleopatra,4.94,3.29,1.68,2.17,1.61,2.1,1.67,0,0
+2024/2025,Egypt Egyptian Premier League,2024-11-30,12:00:00,complete,Masr,Haras El Hodood,1.7,3.0,5.5,2.63,1.44,2.63,1.44,2,0
+2024/2025,Egypt Egyptian Premier League,2024-11-30,12:00:00,complete,Ceramica Cleopatra,Coca-Cola,2.2,2.88,3.4,2.63,1.44,2.2,1.62,4,1
+2024/2025,Egypt Egyptian Premier League,2024-11-30,15:00:00,complete,Al Ittihad,El Geish,2.2,3.0,3.3,2.5,1.5,2.2,1.62,0,1
+2024/2025,Egypt Egyptian Premier League,2024-12-01,12:00:00,complete,National Bank of Egypt,Al Ahly,6.0,3.8,1.57,2.0,1.73,2.0,1.73,0,0
+2024/2025,Egypt Egyptian Premier League,2024-12-01,15:00:00,complete,Smouha SC,El Gounah,1.81,3.25,4.6,2.56,1.45,2.25,1.57,0,0
+2024/2025,Egypt Egyptian Premier League,2024-12-01,15:00:00,complete,ENPPI,Ismaily SC,2.2,2.87,3.6,2.41,1.5,2.1,1.67,1,0
+2024/2025,Egypt Egyptian Premier League,2024-12-02,12:00:00,complete,Al Masry,Pyramids FC,3.3,3.0,2.15,2.38,1.53,2.1,1.67,1,0
+2024/2025,Egypt Egyptian Premier League,2024-12-02,12:00:00,complete,Petrojet,Pharco,2.3,2.75,3.1,2.63,1.44,2.2,1.62,1,2
+2024/2025,Egypt Egyptian Premier League,2024-12-02,15:00:00,complete,Ghazl El Mehalla,Zamalek,5.0,2.9,1.83,2.2,1.6,2.0,1.73,0,4
+2024/2025,Egypt Egyptian Premier League,2024-12-19,12:00:00,complete,El Geish,Petrojet,2.7,2.7,2.7,3.0,1.36,2.5,1.5,0,1
+2024/2025,Egypt Egyptian Premier League,2024-12-19,12:00:00,complete,Haras El Hodood,Al Masry,9.0,3.8,1.44,2.75,1.4,2.88,1.36,0,0
+2024/2025,Egypt Egyptian Premier League,2024-12-19,15:00:00,complete,Zamalek,Ceramica Cleopatra,1.94,2.97,3.16,1.92,1.88,1.73,2.0,1,1
+2024/2025,Egypt Egyptian Premier League,2024-12-20,12:00:00,complete,El Gounah,ENPPI,3.75,2.5,2.38,3.75,1.25,2.75,1.4,1,0
+2024/2025,Egypt Egyptian Premier League,2024-12-20,12:00:00,complete,Coca-Cola,National Bank of Egypt,2.7,2.75,2.9,2.88,1.36,2.2,1.6,0,1
+2024/2025,Egypt Egyptian Premier League,2024-12-20,15:00:00,complete,Pharco,Masr,2.7,2.8,2.55,3.0,1.36,2.5,1.5,1,2
+2024/2025,Egypt Egyptian Premier League,2024-12-21,12:00:00,complete,Ghazl El Mehalla,Al Ittihad,2.88,2.88,2.4,2.75,1.4,2.38,1.53,0,0
+2024/2025,Egypt Egyptian Premier League,2024-12-21,15:00:00,complete,Ismaily SC,Pyramids FC,4.75,3.2,1.75,2.3,1.6,2.1,1.67,1,1
+2024/2025,Egypt Egyptian Premier League,2024-12-24,12:00:00,complete,Masr,ENPPI,1.95,3.2,3.6,2.08,1.73,2.0,1.73,0,0
+2024/2025,Egypt Egyptian Premier League,2024-12-24,15:00:00,complete,El Geish,Zamalek,3.6,3.01,2.07,2.25,1.57,2.1,1.67,2,2
+2024/2025,Egypt Egyptian Premier League,2024-12-25,12:00:00,complete,Al Ittihad,Coca-Cola,3.0,2.6,2.63,3.25,1.33,2.5,1.5,0,0
+2024/2025,Egypt Egyptian Premier League,2024-12-25,12:00:00,complete,Ismaily SC,Haras El Hodood,1.83,2.88,4.75,2.63,1.44,2.5,1.5,2,2
+2024/2025,Egypt Egyptian Premier League,2024-12-25,15:00:00,complete,Pyramids FC,Pharco,1.92,2.43,5.59,1.85,1.85,2.5,1.5,3,0
+2024/2025,Egypt Egyptian Premier League,2024-12-26,12:00:00,complete,Smouha SC,Ghazl El Mehalla,1.73,3.2,4.5,2.35,1.57,2.2,1.62,2,4
+2024/2025,Egypt Egyptian Premier League,2024-12-26,12:00:00,complete,National Bank of Egypt,Ceramica Cleopatra,3.1,2.75,2.35,2.25,1.62,1.83,1.83,1,2
+2024/2025,Egypt Egyptian Premier League,2024-12-26,15:00:00,complete,Al Masry,Al Ahly,4.4,3.1,1.85,2.38,1.53,2.2,1.62,0,2
+2024/2025,Egypt Egyptian Premier League,2024-12-26,15:00:00,complete,Petrojet,El Gounah,2.2,2.63,3.6,3.0,1.36,2.5,1.5,1,0
+2024/2025,Egypt Egyptian Premier League,2024-12-29,12:00:00,complete,Haras El Hodood,El Geish,4.5,2.55,2.0,3.4,1.3,2.75,1.4,3,0
+2024/2025,Egypt Egyptian Premier League,2024-12-29,15:00:00,complete,Zamalek,Al Ittihad,1.7,3.3,4.68,2.11,1.65,2.5,1.5,2,0
+2024/2025,Egypt Egyptian Premier League,2024-12-30,12:00:00,complete,ENPPI,Al Ahly,9.5,4.33,1.33,2.1,1.7,2.75,1.4,0,0
+2024/2025,Egypt Egyptian Premier League,2024-12-30,12:00:00,complete,El Gounah,Pyramids FC,6.0,3.3,1.62,2.38,1.53,2.5,1.5,0,1
+2024/2025,Egypt Egyptian Premier League,2024-12-30,15:00:00,complete,Pharco,Smouha SC,3.4,3.0,2.0,2.2,1.57,2.0,1.73,2,1
+2024/2025,Egypt Egyptian Premier League,2024-12-30,15:00:00,complete,Masr,Petrojet,2.3,2.7,3.4,2.75,1.4,2.38,1.53,1,1
+2024/2025,Egypt Egyptian Premier League,2024-12-31,10:00:00,complete,Ceramica Cleopatra,Al Masry,3.0,2.88,2.5,2.45,1.53,2.05,1.75,1,1
+2024/2025,Egypt Egyptian Premier League,2025-01-01,12:00:00,complete,Coca-Cola,Ismaily SC,2.25,2.63,3.7,3.0,1.36,2.5,1.5,0,0
+2024/2025,Egypt Egyptian Premier League,2025-01-01,15:00:00,complete,Ghazl El Mehalla,National Bank of Egypt,3.3,2.85,2.25,2.3,1.55,2.2,1.62,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-07,11:00:00,complete,Al Ahly,Smouha SC,1.35,4.35,9.0,2.06,1.78,2.5,1.5,2,0
+2024/2025,Egypt Egyptian Premier League,2025-01-10,11:00:00,complete,Petrojet,ENPPI,2.36,2.66,2.83,2.9,1.36,2.38,1.53,0,0
+2024/2025,Egypt Egyptian Premier League,2025-01-10,14:00:00,complete,El Geish,Ceramica Cleopatra,6.0,3.0,1.67,3.0,1.36,2.75,1.4,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-11,11:00:00,complete,National Bank of Egypt,Ismaily SC,1.82,3.1,4.6,2.45,1.49,2.75,1.4,1,0
+2024/2025,Egypt Egyptian Premier League,2025-01-11,14:00:00,complete,Al Ittihad,Masr,3.75,2.5,2.35,3.25,1.33,2.25,1.57,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-12,14:00:00,complete,Smouha SC,Coca-Cola,2.2,2.75,3.6,3.0,1.36,2.38,1.53,1,0
+2024/2025,Egypt Egyptian Premier League,2025-01-15,11:00:00,complete,Pyramids FC,Ghazl El Mehalla,1.34,4.12,7.5,1.95,1.75,2.38,1.53,3,0
+2024/2025,Egypt Egyptian Premier League,2025-01-15,14:00:00,complete,Al Ahly,El Gounah,1.22,5.25,13.0,1.95,1.85,2.75,1.4,2,0
+2024/2025,Egypt Egyptian Premier League,2025-01-16,11:00:00,complete,Zamalek,Haras El Hodood,1.42,3.55,6.0,2.18,1.64,3.0,1.36,3,2
+2024/2025,Egypt Egyptian Premier League,2025-01-16,14:00:00,complete,Al Masry,Pharco,1.8,3.1,4.5,2.5,1.5,2.25,1.57,1,0
+2024/2025,Egypt Egyptian Premier League,2025-01-21,11:00:00,complete,El Gounah,National Bank of Egypt,3.8,2.62,2.1,2.81,1.38,2.5,1.5,1,2
+2024/2025,Egypt Egyptian Premier League,2025-01-21,11:00:00,complete,Ghazl El Mehalla,Haras El Hodood,2.1,2.5,4.2,2.99,1.34,2.5,1.5,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-21,14:00:00,complete,ENPPI,El Geish,2.4,2.4,3.8,4.0,1.22,3.0,1.36,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-21,14:00:00,complete,Ismaily SC,Smouha SC,3.4,2.9,2.2,2.63,1.44,2.25,1.57,1,0
+2024/2025,Egypt Egyptian Premier League,2025-01-22,11:00:00,complete,Pharco,Al Ahly,6.7,4.3,1.44,1.85,1.8,2.2,1.62,1,1
+2024/2025,Egypt Egyptian Premier League,2025-01-22,14:00:00,complete,Ceramica Cleopatra,Al Ittihad,1.65,3.4,5.25,2.2,1.65,2.25,1.57,1,1
+2024/2025,Egypt Egyptian Premier League,2025-01-22,14:00:00,complete,Masr,Pyramids FC,3.5,2.8,2.2,2.63,1.44,2.2,1.62,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-23,11:00:00,complete,Petrojet,Al Masry,3.6,2.7,2.3,2.7,1.44,2.25,1.62,2,1
+2024/2025,Egypt Egyptian Premier League,2025-01-23,14:00:00,complete,Coca-Cola,Zamalek,3.6,2.8,2.15,2.75,1.4,2.38,1.53,1,0
+2024/2025,Egypt Egyptian Premier League,2025-01-26,11:00:00,complete,Al Ittihad,Ismaily SC,3.25,2.14,3.0,2.94,1.35,2.5,1.5,1,0
+2024/2025,Egypt Egyptian Premier League,2025-01-26,11:00:00,complete,El Geish,Pharco,2.59,2.48,3.35,2.94,1.35,2.5,1.5,0,0
+2024/2025,Egypt Egyptian Premier League,2025-01-26,14:00:00,complete,Ghazl El Mehalla,Ceramica Cleopatra,4.66,3.07,1.82,2.47,1.48,2.2,1.62,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-26,14:00:00,complete,Al Ahly,Pyramids FC,2.07,3.0,3.68,2.11,1.65,1.83,1.83,2,2
+2024/2025,Egypt Egyptian Premier League,2025-01-27,11:00:00,complete,Zamalek,El Gounah,1.53,3.6,6.5,2.0,1.73,2.25,1.57,4,1
+2024/2025,Egypt Egyptian Premier League,2025-01-27,14:00:00,complete,Haras El Hodood,Coca-Cola,4.2,2.6,2.05,3.25,1.33,2.63,1.44,1,0
+2024/2025,Egypt Egyptian Premier League,2025-01-27,14:00:00,complete,Al Masry,ENPPI,1.83,2.9,4.5,2.75,1.4,2.5,1.5,2,1
+2024/2025,Egypt Egyptian Premier League,2025-01-28,11:00:00,complete,National Bank of Egypt,Petrojet,2.1,2.88,3.8,2.55,1.45,2.2,1.62,0,2
+2024/2025,Egypt Egyptian Premier League,2025-01-28,14:00:00,complete,Smouha SC,Masr,2.5,2.9,2.75,2.63,1.44,2.25,1.57,2,1
+2024/2025,Egypt Egyptian Premier League,2025-01-31,11:00:00,complete,Ismaily SC,El Geish,2.34,2.85,3.29,3.05,1.3,2.38,1.53,1,2
+2024/2025,Egypt Egyptian Premier League,2025-01-31,11:00:00,complete,El Gounah,Haras El Hodood,2.42,2.53,3.65,2.85,1.35,2.5,1.5,0,1
+2024/2025,Egypt Egyptian Premier League,2025-01-31,14:00:00,complete,Pyramids FC,Zamalek,2.19,3.32,3.09,1.95,1.77,1.8,1.91,3,0
+2024/2025,Egypt Egyptian Premier League,2025-02-01,11:00:00,complete,ENPPI,National Bank of Egypt,2.7,3.25,2.3,2.75,1.4,2.63,1.44,0,1
+2024/2025,Egypt Egyptian Premier League,2025-02-01,11:00:00,complete,Masr,Al Masry,2.88,2.75,2.75,2.7,1.44,2.15,1.67,1,1
+2024/2025,Egypt Egyptian Premier League,2025-02-01,14:00:00,complete,Petrojet,Al Ittihad,2.5,2.49,3.72,3.04,1.33,2.5,1.5,0,0
+2024/2025,Egypt Egyptian Premier League,2025-02-01,14:00:00,complete,Pharco,Ghazl El Mehalla,2.46,2.45,3.92,2.77,1.39,2.25,1.57,3,2
+2024/2025,Egypt Egyptian Premier League,2025-02-02,11:00:00,complete,Ceramica Cleopatra,Smouha SC,1.95,3.25,3.3,2.1,1.6,1.92,1.79,0,1
+2024/2025,Egypt Egyptian Premier League,2025-02-02,14:00:00,complete,Coca-Cola,Al Ahly,6.0,3.4,1.57,2.38,1.53,2.5,1.5,1,3
+2024/2025,Egypt Egyptian Premier League,2025-02-06,11:00:00,complete,Ghazl El Mehalla,Coca-Cola,3.29,2.64,2.59,3.21,1.3,2.55,1.44,2,1
+2024/2025,Egypt Egyptian Premier League,2025-02-06,11:00:00,complete,Ceramica Cleopatra,Pharco,1.72,3.41,5.1,2.1,1.61,2.05,1.66,1,2
+2024/2025,Egypt Egyptian Premier League,2025-02-06,14:00:00,complete,Al Ahly,Petrojet,1.46,3.97,7.5,2.05,1.65,2.4,1.5,2,1
+2024/2025,Egypt Egyptian Premier League,2025-02-07,11:00:00,complete,Smouha SC,Pyramids FC,3.57,3.25,2.07,1.98,1.77,2.0,1.73,0,1
+2024/2025,Egypt Egyptian Premier League,2025-02-07,11:00:00,complete,Haras El Hodood,ENPPI,3.0,2.82,2.61,2.89,1.36,2.21,1.56,1,0
+2024/2025,Egypt Egyptian Premier League,2025-02-07,14:00:00,complete,El Geish,El Gounah,2.05,2.82,4.4,2.9,1.36,2.45,1.53,0,0
+2024/2025,Egypt Egyptian Premier League,2025-02-07,14:00:00,complete,Zamalek,Ismaily SC,1.62,3.8,5.3,1.95,1.7,2.25,1.57,2,0
+2024/2025,Egypt Egyptian Premier League,2025-02-08,11:00:00,complete,Al Ittihad,Al Masry,4.0,2.81,2.15,2.85,1.37,2.25,1.57,1,2
+2024/2025,Egypt Egyptian Premier League,2025-02-08,14:00:00,complete,National Bank of Egypt,Masr,2.3,2.75,3.2,3.0,1.36,2.5,1.5,1,1
+2024/2025,Egypt Egyptian Premier League,2025-02-11,11:00:00,complete,Petrojet,Smouha SC,2.82,2.99,2.62,2.77,1.43,2.25,1.57,0,1
+2024/2025,Egypt Egyptian Premier League,2025-02-11,11:00:00,complete,Pharco,Zamalek,5.1,3.4,1.72,2.1,1.61,2.05,1.66,0,1
+2024/2025,Egypt Egyptian Premier League,2025-02-11,14:00:00,complete,Al Ahly,Ghazl El Mehalla,1.27,5.0,12.0,1.95,1.79,2.6,1.43,1,0
+2024/2025,Egypt Egyptian Premier League,2025-02-12,11:00:00,complete,El Gounah,Ismaily SC,2.84,2.79,2.79,2.99,1.34,2.38,1.53,2,0
+2024/2025,Egypt Egyptian Premier League,2025-02-12,11:00:00,complete,Masr,Ceramica Cleopatra,2.93,2.88,2.69,2.35,1.53,1.95,1.75,1,1
+2024/2025,Egypt Egyptian Premier League,2025-02-12,14:00:00,complete,Al Masry,National Bank of Egypt,2.28,2.86,3.55,2.89,1.36,2.38,1.53,0,0
+2024/2025,Egypt Egyptian Premier League,2025-02-12,14:00:00,complete,Pyramids FC,Haras El Hodood,1.29,4.8,11.0,1.87,1.87,2.6,1.43,3,0
+2024/2025,Egypt Egyptian Premier League,2025-02-13,11:00:00,complete,Coca-Cola,El Geish,2.47,2.61,3.55,3.09,1.32,2.48,1.49,0,0
+2024/2025,Egypt Egyptian Premier League,2025-02-13,14:00:00,complete,ENPPI,Al Ittihad,2.6,2.63,3.28,3.41,1.27,2.5,1.48,1,1
+2024/2025,Egypt Egyptian Premier League,2025-02-16,11:00:00,complete,Zamalek,Petrojet,1.73,3.38,5.1,1.92,1.82,1.9,1.78,1,1
+2024/2025,Egypt Egyptian Premier League,2025-02-16,11:00:00,complete,Smouha SC,National Bank of Egypt,2.3,2.65,3.88,2.69,1.41,2.15,1.61,1,4
+2024/2025,Egypt Egyptian Premier League,2025-02-16,13:30:00,complete,Haras El Hodood,Pharco,2.91,2.47,3.11,2.99,1.34,2.25,1.55,2,0
+2024/2025,Egypt Egyptian Premier League,2025-02-16,14:00:00,complete,Ismaily SC,Al Ahly,7.4,4.1,1.45,1.98,1.77,2.2,1.58,0,4
+2024/2025,Egypt Egyptian Premier League,2025-02-17,11:00:00,complete,Ceramica Cleopatra,ENPPI,1.54,3.59,6.9,2.3,1.5,2.37,1.51,2,2
+2024/2025,Egypt Egyptian Premier League,2025-02-17,14:00:00,complete,Coca-Cola,Pyramids FC,5.1,3.41,1.72,2.3,1.5,2.3,1.55,0,1
+2024/2025,Egypt Egyptian Premier League,2025-02-17,14:00:00,complete,Al Ittihad,El Gounah,2.37,2.62,3.75,3.15,1.31,2.5,1.46,1,0
+2024/2025,Egypt Egyptian Premier League,2025-02-18,11:00:00,complete,El Geish,Masr,2.75,2.41,2.95,3.15,1.33,2.34,1.54,1,0
+2024/2025,Egypt Egyptian Premier League,2025-02-18,14:00:00,complete,Ghazl El Mehalla,Al Masry,3.89,2.86,2.16,2.62,1.43,2.09,1.67,1,0
+2024/2025,Egypt Egyptian Premier League,2025-02-21,11:00:00,complete,ENPPI,Smouha SC,3.52,2.88,2.28,2.89,1.36,2.3,1.53,1,0
+2024/2025,Egypt Egyptian Premier League,2025-02-21,11:00:00,complete,Pharco,Coca-Cola,2.94,2.72,2.76,2.89,1.36,2.25,1.55,0,0
+2024/2025,Egypt Egyptian Premier League,2025-02-21,14:00:00,complete,Petrojet,Haras El Hodood,2.08,2.83,4.2,2.94,1.35,2.25,1.53,2,2
+2024/2025,Egypt Egyptian Premier League,2025-02-21,14:00:00,complete,National Bank of Egypt,Al Ittihad,2.06,2.83,4.3,3.04,1.33,2.45,1.47,3,2
+2024/2025,Egypt Egyptian Premier League,2025-02-22,11:00:00,complete,Al Masry,Ismaily SC,1.77,3.17,5.3,2.3,1.5,2.37,1.51,0,0
+2024/2025,Egypt Egyptian Premier League,2025-02-22,11:00:00,complete,El Gounah,Ceramica Cleopatra,4.6,3.1,1.88,2.62,1.43,2.1,1.62,2,0
+2024/2025,Egypt Egyptian Premier League,2025-02-22,14:00:00,complete,Al Ahly,Zamalek,1.99,3.12,4.1,1.91,1.83,1.83,1.87,1,1
+2024/2025,Egypt Egyptian Premier League,2025-02-23,11:00:00,complete,Masr,Ghazl El Mehalla,2.1,2.88,3.6,2.7,1.4,2.25,1.57,2,0
+2024/2025,Egypt Egyptian Premier League,2025-02-23,14:00:00,complete,Pyramids FC,El Geish,1.47,3.99,7.2,1.95,1.79,2.25,1.57,2,1
+2024/2025,Egypt Egyptian Premier League,2025-02-26,11:00:00,complete,Coca-Cola,El Gounah,2.01,2.69,5.0,3.48,1.26,2.8,1.39,2,3
+2024/2025,Egypt Egyptian Premier League,2025-02-26,11:00:00,complete,Haras El Hodood,Al Ahly,9.5,4.3,1.37,2.0,1.75,2.6,1.43,0,1
+2024/2025,Egypt Egyptian Premier League,2025-02-26,14:00:00,complete,Ismaily SC,Pharco,2.71,2.66,3.07,3.27,1.29,2.41,1.51,0,2
+2024/2025,Egypt Egyptian Premier League,2025-02-27,11:00:00,complete,Smouha SC,Al Masry,2.93,2.8,2.7,2.56,1.45,2.1,1.66,0,3
+2024/2025,Egypt Egyptian Premier League,2025-02-27,11:00:00,complete,El Geish,National Bank of Egypt,2.92,2.76,2.74,2.94,1.35,2.46,1.5,2,2
+2024/2025,Egypt Egyptian Premier League,2025-02-27,14:00:00,complete,Zamalek,Masr,1.76,3.29,5.09,2.3,1.57,2.11,1.65,1,1
+2024/2025,Egypt Egyptian Premier League,2025-02-28,11:00:00,complete,Ghazl El Mehalla,ENPPI,2.42,2.65,3.59,2.94,1.35,2.42,1.51,3,0
+2024/2025,Egypt Egyptian Premier League,2025-02-28,14:00:00,complete,Al Ittihad,Pyramids FC,5.3,3.52,1.67,2.1,1.6,2.26,1.57,1,3
+2024/2025,Egypt Egyptian Premier League,2025-02-28,14:00:00,complete,Ceramica Cleopatra,Petrojet,1.98,2.83,4.7,2.3,1.5,2.06,1.68,4,1
+2024/2025,Egypt Egyptian Premier League,2025-03-03,16:00:00,complete,National Bank of Egypt,Haras El Hodood,1.88,3.02,4.8,2.77,1.39,2.1,1.6,2,1
+2024/2025,Egypt Egyptian Premier League,2025-03-03,16:00:00,complete,Pharco,El Gounah,2.19,2.76,3.98,2.89,1.36,2.2,1.55,0,0
+2024/2025,Egypt Egyptian Premier League,2025-03-03,16:00:00,complete,Al Masry,Coca-Cola,2.32,2.55,3.85,2.88,1.38,2.25,1.53,4,2
+2024/2025,Egypt Egyptian Premier League,2025-03-04,16:00:00,complete,ENPPI,Zamalek,4.8,3.13,1.84,2.25,1.53,2.25,1.62,0,3
+2024/2025,Egypt Egyptian Premier League,2025-03-04,16:00:00,complete,Masr,Ismaily SC,1.65,3.0,5.5,3.05,1.36,2.62,1.42,2,2
+2024/2025,Egypt Egyptian Premier League,2025-03-04,16:00:00,complete,Al Ittihad,Smouha SC,2.99,2.68,2.75,2.99,1.34,2.35,1.61,0,1
+2024/2025,Egypt Egyptian Premier League,2025-03-05,16:00:00,complete,Al Ahly,El Geish,1.43,3.99,8.4,1.95,1.79,2.45,1.44,2,0
+2024/2025,Egypt Egyptian Premier League,2025-03-05,16:00:00,complete,Pyramids FC,Ceramica Cleopatra,1.69,3.45,5.3,1.98,1.77,1.95,1.85,2,1
+2024/2025,Egypt Egyptian Premier League,2025-03-05,16:00:00,complete,Petrojet,Ghazl El Mehalla,2.27,2.66,3.93,2.65,1.42,2.16,1.68,2,1
+2024/2025,Egypt Egyptian Premier League,2025-03-11,16:30:00,complete,Zamalek,Al Ahly,4.75,3.41,1.77,1.83,1.91,1.72,1.95,3,0
+2024/2025,Egypt Egyptian Premier League,2025-03-11,16:30:00,complete,Coca-Cola,Smouha SC,2.62,2.69,3.21,2.81,1.33,2.28,1.53,2,0
+2024/2025,Egypt Egyptian Premier League,2025-03-11,16:30:00,complete,El Gounah,Al Ittihad,3.07,2.69,2.68,2.9,1.36,2.25,1.57,2,0
+2024/2025,Egypt Egyptian Premier League,2025-03-11,16:30:00,complete,Haras El Hodood,Petrojet,3.5,2.69,2.43,2.6,1.44,2.14,1.6,1,2
+2024/2025,Egypt Egyptian Premier League,2025-03-12,16:30:00,complete,Pyramids FC,Al Masry,1.7,3.45,5.3,1.98,1.77,2.02,1.67,0,0
+2024/2025,Egypt Egyptian Premier League,2025-03-12,16:30:00,complete,Ghazl El Mehalla,Masr,3.48,2.69,2.49,2.91,1.39,2.25,1.54,0,3
+2024/2025,Egypt Egyptian Premier League,2025-03-12,16:30:00,complete,Pharco,National Bank of Egypt,3.02,2.77,2.65,2.77,1.39,2.17,1.58,2,1
+2024/2025,Egypt Egyptian Premier League,2025-03-13,16:30:00,complete,El Geish,Ismaily SC,2.12,2.69,4.4,3.15,1.31,2.5,1.46,0,1
+2024/2025,Egypt Egyptian Premier League,2025-04-10,11:00:00,complete,ENPPI,Coca-Cola,3.93,2.73,2.15,3.3,1.28,2.5,1.48,2,1
+2024/2025,Egypt Egyptian Premier League,2025-04-10,14:00:00,complete,Ismaily SC,Al Ittihad,2.96,2.6,2.95,4.0,1.2,2.8,1.4,0,0
+2024/2025,Egypt Egyptian Premier League,2025-04-11,11:00:00,complete,Masr,El Gounah,2.1,2.7,3.5,2.9,1.34,2.32,1.5,1,2
+2024/2025,Egypt Egyptian Premier League,2025-04-11,14:00:00,complete,Ghazl El Mehalla,Smouha SC,2.56,2.71,3.0,2.75,1.39,2.1,1.6,1,0
+2024/2025,Egypt Egyptian Premier League,2025-04-12,11:00:00,complete,Pharco,Ceramica Cleopatra,3.35,2.75,2.25,2.46,1.46,2.19,1.62,0,2
+2024/2025,Egypt Egyptian Premier League,2025-04-12,14:00:00,complete,Pyramids FC,Al Ahly,2.95,2.7,2.78,2.0,1.67,1.8,2.07,1,1
+2024/2025,Egypt Egyptian Premier League,2025-04-13,11:00:00,complete,Al Masry,Petrojet,2.12,3.1,3.89,2.22,1.62,1.91,1.85,4,0
+2024/2025,Egypt Egyptian Premier League,2025-04-13,14:00:00,complete,Haras El Hodood,Zamalek,6.0,3.7,1.48,2.2,1.65,2.1,1.62,0,2
+2024/2025,Egypt Egyptian Premier League,2025-04-28,11:00:00,complete,El Gounah,Smouha SC,2.92,2.46,3.1,2.89,1.36,2.15,1.55,1,1
+2024/2025,Egypt Egyptian Premier League,2025-04-28,14:00:00,complete,Ismaily SC,Masr,3.38,2.46,2.74,2.88,1.32,2.35,1.55,0,2
+2024/2025,Egypt Egyptian Premier League,2025-04-28,14:00:00,complete,El Geish,Al Ittihad,2.45,2.45,3.9,4.0,1.22,2.63,1.44,1,2
+2024/2025,Egypt Egyptian Premier League,2025-04-29,14:00:00,complete,ENPPI,Ghazl El Mehalla,2.45,0.0,0.0,3.2,1.3,2.2,1.57,1,0
+2024/2025,Egypt Egyptian Premier League,2025-04-30,11:00:00,complete,Haras El Hodood,Pyramids FC,7.4,3.99,1.46,1.95,1.75,2.25,1.55,1,2
+2024/2025,Egypt Egyptian Premier League,2025-04-30,14:00:00,complete,Petrojet,Al Ahly,7.2,4.39,1.35,1.83,1.86,2.04,1.61,2,3
+2024/2025,Egypt Egyptian Premier League,2025-05-01,11:00:00,complete,Ceramica Cleopatra,National Bank of Egypt,2.31,3.08,3.2,1.93,1.77,1.75,1.93,2,4
+2024/2025,Egypt Egyptian Premier League,2025-05-01,14:00:00,complete,Al Masry,Zamalek,3.28,2.7,2.3,2.35,1.35,2.32,1.53,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-02,11:00:00,complete,Smouha SC,Ismaily SC,2.45,2.65,3.2,3.4,1.33,2.5,1.52,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-02,14:00:00,complete,Masr,El Geish,3.1,2.6,2.69,3.15,1.36,2.35,1.52,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-03,11:00:00,complete,ENPPI,El Gounah,2.16,2.62,3.75,3.25,1.33,2.6,1.51,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-03,14:00:00,complete,Coca-Cola,Ghazl El Mehalla,2.43,2.62,3.59,3.3,1.32,2.4,1.49,2,1
+2024/2025,Egypt Egyptian Premier League,2025-05-04,11:00:00,complete,Pharco,Pyramids FC,6.0,3.8,1.5,1.93,1.71,2.17,1.66,3,2
+2024/2025,Egypt Egyptian Premier League,2025-05-04,14:00:00,complete,Al Ahly,Haras El Hodood,1.18,6.0,14.0,1.52,2.28,2.32,1.55,5,0
+2024/2025,Egypt Egyptian Premier League,2025-05-05,11:00:00,complete,Petrojet,Ceramica Cleopatra,3.47,2.68,2.18,1.92,1.78,1.9,1.8,0,2
+2024/2025,Egypt Egyptian Premier League,2025-05-05,14:00:00,complete,National Bank of Egypt,Zamalek,3.5,3.0,2.05,2.25,1.57,1.98,1.79,2,2
+2024/2025,Egypt Egyptian Premier League,2025-05-06,11:00:00,complete,Smouha SC,El Geish,2.73,2.45,2.9,3.41,1.27,2.51,1.49,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-06,14:00:00,complete,Masr,Al Ittihad,2.5,2.7,3.0,2.9,1.35,2.2,1.55,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-07,11:00:00,complete,El Gounah,Coca-Cola,3.51,2.47,2.32,3.09,1.32,2.5,1.47,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-07,14:00:00,complete,Ismaily SC,ENPPI,2.95,2.45,2.8,3.8,1.22,2.65,1.42,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-08,14:00:00,complete,Al Ahly,Al Masry,1.38,4.0,7.0,1.77,1.7,1.85,1.65,4,2
+2024/2025,Egypt Egyptian Premier League,2025-05-09,11:00:00,complete,Ceramica Cleopatra,Zamalek,3.57,3.08,2.09,2.07,1.7,1.85,1.8,2,2
+2024/2025,Egypt Egyptian Premier League,2025-05-09,14:00:00,complete,National Bank of Egypt,Pyramids FC,3.99,3.5,1.9,1.85,1.85,1.71,2.05,4,2
+2024/2025,Egypt Egyptian Premier League,2025-05-09,14:00:00,complete,Pharco,Petrojet,2.5,3.0,2.9,2.2,1.62,1.77,1.85,2,2
+2024/2025,Egypt Egyptian Premier League,2025-05-10,14:00:00,complete,Al Ittihad,Ghazl El Mehalla,2.45,2.47,3.7,3.75,1.25,2.75,1.4,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-11,11:00:00,complete,Smouha SC,ENPPI,2.85,2.56,3.1,3.0,1.33,2.4,1.5,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-11,14:00:00,complete,El Gounah,El Geish,3.75,2.45,2.5,3.0,1.35,2.97,1.41,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-11,14:00:00,complete,Masr,Coca-Cola,2.9,2.78,2.7,3.0,1.37,2.3,1.53,2,2
+2024/2025,Egypt Egyptian Premier League,2025-05-13,11:00:00,complete,Ceramica Cleopatra,Al Ahly,5.2,3.82,1.51,1.76,1.94,1.78,1.86,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-13,11:00:00,complete,Pharco,Al Masry,4.17,2.79,2.05,2.65,1.36,2.1,1.62,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-13,14:00:00,complete,Zamalek,Pyramids FC,3.03,3.0,2.3,2.15,1.66,1.86,1.84,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-13,14:00:00,complete,Haras El Hodood,National Bank of Egypt,4.75,3.25,1.79,2.26,1.6,2.14,1.72,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-16,14:00:00,complete,Smouha SC,Al Ittihad,2.49,2.55,3.45,4.3,1.18,2.95,1.3,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-16,14:00:00,complete,El Geish,ENPPI,3.25,2.7,2.37,3.4,1.3,2.45,1.45,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-16,14:00:00,complete,Ismaily SC,Coca-Cola,3.0,2.6,2.5,3.6,1.25,2.35,1.43,1,2
+2024/2025,Egypt Egyptian Premier League,2025-05-16,14:00:00,complete,Ghazl El Mehalla,El Gounah,2.1,2.62,3.75,3.29,1.3,2.45,1.5,0,4
+2024/2025,Egypt Egyptian Premier League,2025-05-17,14:00:00,complete,Petrojet,Pyramids FC,3.9,3.6,1.65,1.59,2.12,1.7,2.18,0,2
+2024/2025,Egypt Egyptian Premier League,2025-05-17,14:00:00,complete,Al Ahly,National Bank of Egypt,1.54,3.75,6.0,1.83,1.85,1.92,1.73,2,1
+2024/2025,Egypt Egyptian Premier League,2025-05-17,14:00:00,complete,Al Masry,Ceramica Cleopatra,2.15,3.1,2.95,2.0,1.89,1.8,2.0,0,4
+2024/2025,Egypt Egyptian Premier League,2025-05-18,14:00:00,complete,Pharco,Haras El Hodood,2.2,3.0,3.5,2.33,1.5,2.14,1.67,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-24,14:00:00,complete,National Bank of Egypt,Al Masry,2.3,2.9,3.05,2.25,1.57,1.91,1.8,0,1
+2024/2025,Egypt Egyptian Premier League,2025-05-24,14:00:00,complete,Petrojet,Zamalek,4.8,3.35,1.67,2.26,1.66,2.09,1.75,1,3
+2024/2025,Egypt Egyptian Premier League,2025-05-24,14:00:00,complete,Ceramica Cleopatra,Haras El Hodood,1.38,4.33,8.5,1.7,1.98,2.0,1.7,2,0
+2024/2025,Egypt Egyptian Premier League,2025-05-25,14:00:00,complete,ENPPI,Masr,2.55,2.62,3.1,2.9,1.32,2.25,1.5,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-25,14:00:00,complete,El Geish,Ghazl El Mehalla,2.5,2.86,3.0,2.74,1.4,2.37,1.6,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-25,14:00:00,complete,Ismaily SC,El Gounah,2.6,2.6,2.95,2.62,1.4,2.2,1.62,3,0
+2024/2025,Egypt Egyptian Premier League,2025-05-25,14:00:00,complete,Coca-Cola,Al Ittihad,2.8,2.37,2.9,4.0,1.22,2.8,1.38,1,0
+2024/2025,Egypt Egyptian Premier League,2025-05-28,14:00:00,complete,Ceramica Cleopatra,Pyramids FC,3.5,3.2,1.95,1.95,1.83,1.72,2.07,1,5
+2024/2025,Egypt Egyptian Premier League,2025-05-28,14:00:00,complete,Petrojet,National Bank of Egypt,2.9,3.25,2.2,1.59,2.1,1.5,2.33,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-28,14:00:00,complete,Al Ahly,Pharco,1.1,8.0,9.3,1.42,2.49,2.6,1.44,6,0
+2024/2025,Egypt Egyptian Premier League,2025-05-28,14:00:00,complete,Al Masry,Haras El Hodood,1.76,3.35,5.25,1.85,2.0,1.88,1.76,2,0
+2024/2025,Egypt Egyptian Premier League,2025-05-29,14:00:00,complete,Al Ittihad,ENPPI,2.15,2.43,3.9,3.15,1.34,2.4,1.46,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-29,14:00:00,complete,El Geish,Coca-Cola,3.42,2.37,2.7,2.88,1.26,2.32,1.58,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-29,14:00:00,complete,Ghazl El Mehalla,Ismaily SC,1.91,2.92,4.68,2.66,1.39,2.32,1.59,1,1
+2024/2025,Egypt Egyptian Premier League,2025-05-29,14:00:00,complete,Masr,Smouha SC,2.74,2.89,2.7,2.5,1.46,2.05,1.72,0,0
+2024/2025,Egypt Egyptian Premier League,2025-05-31,14:00:00,complete,Zamalek,Pharco,1.61,3.4,4.8,2.14,1.72,1.87,1.77,2,0
+2025/2026,Egypt Egyptian Premier League,2025-08-08,12:00:00,complete,Wadi Degla,Pyramids FC,6.5,3.7,1.61,2.08,1.61,2.16,1.62,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-08,15:00:00,complete,Ceramica Cleopatra,Zamalek,2.63,2.78,2.8,2.35,1.52,1.95,1.8,0,2
+2025/2026,Egypt Egyptian Premier League,2025-08-08,15:00:00,complete,Al Masry,Al Ittihad,2.19,2.7,3.75,2.88,1.36,2.2,1.55,3,1
+2025/2026,Egypt Egyptian Premier League,2025-08-09,12:00:00,complete,Al Mokawloon,Masr,3.4,2.8,2.29,2.5,1.44,2.05,1.59,0,2
+2025/2026,Egypt Egyptian Premier League,2025-08-09,12:00:00,complete,Smouha SC,El Geish,2.29,2.65,3.0,3.5,1.28,2.2,1.62,1,1
+2025/2026,Egypt Egyptian Premier League,2025-08-09,15:00:00,complete,Coca-Cola,Al Ahly,7.0,3.7,1.48,2.12,1.74,2.32,1.57,2,2
+2025/2026,Egypt Egyptian Premier League,2025-08-09,15:00:00,complete,Ismaily SC,Petrojet,2.67,2.9,2.54,2.37,1.57,1.91,1.78,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-10,12:00:00,complete,Kahraba Ismailia,El Gounah,2.6,2.75,3.0,2.56,1.46,1.95,1.63,0,1
+2025/2026,Egypt Egyptian Premier League,2025-08-10,15:00:00,complete,National Bank of Egypt,Ghazl El Mehalla,1.89,3.1,4.1,2.3,1.53,2.1,1.67,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-10,15:00:00,complete,Pharco,ENPPI,3.0,2.62,2.6,2.8,1.37,2.25,1.56,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-14,12:00:00,complete,Al Ittihad,Coca-Cola,2.78,2.77,1.99,3.2,1.28,2.5,1.44,1,2
+2025/2026,Egypt Egyptian Premier League,2025-08-14,12:00:00,complete,Masr,Ceramica Cleopatra,2.97,2.7,2.39,2.75,1.33,2.07,1.67,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-14,15:00:00,complete,Pyramids FC,Ismaily SC,1.32,4.55,9.4,2.08,1.68,2.83,1.38,1,0
+2025/2026,Egypt Egyptian Premier League,2025-08-14,15:30:00,complete,El Geish,Al Masry,4.2,2.7,1.98,3.25,1.33,2.25,1.52,0,3
+2025/2026,Egypt Egyptian Premier League,2025-08-15,12:00:00,complete,Petrojet,Kahraba Ismailia,1.94,2.93,3.75,2.62,1.38,2.25,1.6,2,2
+2025/2026,Egypt Egyptian Premier League,2025-08-15,15:00:00,complete,Al Ahly,Pharco,1.22,5.2,10.0,1.73,2.05,2.42,1.53,4,1
+2025/2026,Egypt Egyptian Premier League,2025-08-15,15:00:00,complete,Haras El Hodood,National Bank of Egypt,4.25,3.4,1.85,2.75,1.41,2.25,1.5,1,0
+2025/2026,Egypt Egyptian Premier League,2025-08-16,12:00:00,complete,ENPPI,Wadi Degla,2.55,2.65,3.35,2.8,1.38,2.25,1.64,1,0
+2025/2026,Egypt Egyptian Premier League,2025-08-16,15:00:00,complete,Zamalek,Al Mokawloon,1.54,3.8,5.75,2.31,1.57,2.4,1.5,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-16,15:00:00,complete,Ghazl El Mehalla,Smouha SC,3.0,2.7,2.5,3.0,1.31,2.35,1.6,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-19,12:00:00,complete,National Bank of Egypt,Kahraba Ismailia,1.8,3.22,4.2,2.3,1.49,2.18,1.54,1,1
+2025/2026,Egypt Egyptian Premier League,2025-08-19,12:00:00,complete,Pharco,El Geish,3.14,2.66,2.84,3.2,1.3,2.38,1.5,0,1
+2025/2026,Egypt Egyptian Premier League,2025-08-19,15:00:00,complete,Al Masry,Pyramids FC,3.35,3.04,2.2,2.32,1.55,2.02,1.85,2,2
+2025/2026,Egypt Egyptian Premier League,2025-08-19,15:00:00,complete,Ismaily SC,Al Ittihad,3.94,2.58,2.42,3.5,1.28,2.63,1.44,0,1
+2025/2026,Egypt Egyptian Premier League,2025-08-20,12:00:00,complete,Ceramica Cleopatra,ENPPI,2.2,2.78,3.9,2.55,1.37,2.35,1.48,2,0
+2025/2026,Egypt Egyptian Premier League,2025-08-20,15:00:00,complete,Wadi Degla,Petrojet,2.63,2.8,2.52,2.94,1.4,2.2,1.58,0,1
+2025/2026,Egypt Egyptian Premier League,2025-08-20,15:00:00,complete,El Gounah,Ghazl El Mehalla,2.88,2.67,2.72,3.08,1.3,2.51,1.53,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-21,12:00:00,complete,Al Mokawloon,Haras El Hodood,2.37,2.68,3.48,2.78,1.36,2.34,1.57,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-21,15:00:00,complete,Smouha SC,Masr,2.67,2.5,3.24,3.6,1.25,2.64,1.42,1,1
+2025/2026,Egypt Egyptian Premier League,2025-08-21,15:00:00,complete,Coca-Cola,Zamalek,3.8,2.92,1.98,2.35,1.57,2.0,1.64,1,2
+2025/2026,Egypt Egyptian Premier League,2025-08-24,12:00:00,complete,Al Ittihad,National Bank of Egypt,4.26,2.95,2.0,2.7,1.4,2.28,1.55,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-24,15:00:00,complete,ENPPI,El Gounah,2.11,2.62,3.8,3.2,1.33,2.54,1.48,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-24,15:00:00,complete,El Geish,Ismaily SC,2.11,2.75,4.1,3.2,1.36,2.5,1.51,0,1
+2025/2026,Egypt Egyptian Premier League,2025-08-25,12:00:00,complete,Masr,Wadi Degla,2.75,2.5,2.95,3.55,1.25,2.59,1.44,1,2
+2025/2026,Egypt Egyptian Premier League,2025-08-25,12:00:00,complete,Ghazl El Mehalla,Al Ahly,8.52,4.22,1.29,1.9,1.68,2.19,1.52,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-25,15:00:00,complete,Pyramids FC,Coca-Cola,1.53,3.7,6.4,2.1,1.53,2.2,1.6,1,2
+2025/2026,Egypt Egyptian Premier League,2025-08-25,15:00:00,complete,Petrojet,Al Mokawloon,1.88,2.8,3.1,2.63,1.44,2.16,1.68,1,0
+2025/2026,Egypt Egyptian Premier League,2025-08-26,12:00:00,complete,Kahraba Ismailia,Smouha SC,2.91,2.88,2.15,2.8,1.44,2.27,1.55,1,2
+2025/2026,Egypt Egyptian Premier League,2025-08-26,15:00:00,complete,Haras El Hodood,Al Masry,6.73,3.68,1.51,2.29,1.67,2.25,1.57,1,1
+2025/2026,Egypt Egyptian Premier League,2025-08-26,15:00:00,complete,Zamalek,Pharco,1.27,5.0,9.0,2.18,1.86,2.5,1.48,1,0
+2025/2026,Egypt Egyptian Premier League,2025-08-29,12:00:00,complete,Al Mokawloon,Ceramica Cleopatra,3.8,2.88,2.0,2.65,1.45,2.16,1.59,0,1
+2025/2026,Egypt Egyptian Premier League,2025-08-29,15:00:00,complete,Al Ittihad,ENPPI,2.7,2.71,2.9,3.6,1.29,2.5,1.46,0,3
+2025/2026,Egypt Egyptian Premier League,2025-08-29,15:00:00,complete,National Bank of Egypt,El Geish,1.99,2.88,4.29,2.84,1.37,2.25,1.49,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-30,12:00:00,complete,El Gounah,Masr,3.2,2.76,2.29,3.2,1.32,2.38,1.54,1,1
+2025/2026,Egypt Egyptian Premier League,2025-08-30,15:00:00,complete,Al Ahly,Pyramids FC,2.3,2.95,3.05,2.1,1.7,1.8,1.83,0,2
+2025/2026,Egypt Egyptian Premier League,2025-08-30,15:00:00,complete,Ismaily SC,Ghazl El Mehalla,3.4,2.62,2.6,3.05,1.31,2.4,1.5,0,3
+2025/2026,Egypt Egyptian Premier League,2025-08-31,12:00:00,complete,Coca-Cola,Haras El Hodood,1.68,3.1,5.5,2.75,1.4,2.5,1.51,1,0
+2025/2026,Egypt Egyptian Premier League,2025-08-31,12:00:00,complete,Al Masry,Kahraba Ismailia,1.55,3.9,5.3,1.84,1.87,1.85,1.84,4,0
+2025/2026,Egypt Egyptian Premier League,2025-08-31,15:00:00,complete,Smouha SC,Petrojet,1.87,2.9,4.4,2.62,1.4,2.33,1.57,0,0
+2025/2026,Egypt Egyptian Premier League,2025-08-31,15:00:00,complete,Wadi Degla,Zamalek,4.6,2.89,1.85,3.2,1.37,2.69,1.45,2,1
+2025/2026,Egypt Egyptian Premier League,2025-09-12,11:00:00,complete,Petrojet,National Bank of Egypt,3.73,2.77,2.04,2.5,1.49,2.1,1.8,0,3
+2025/2026,Egypt Egyptian Premier League,2025-09-12,14:00:00,complete,Pharco,Al Ittihad,3.5,2.5,2.34,4.0,1.22,2.5,1.5,0,0
+2025/2026,Egypt Egyptian Premier League,2025-09-12,14:00:00,complete,Masr,Ismaily SC,1.79,2.9,3.9,2.59,1.36,2.25,1.57,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-13,11:00:00,complete,Ghazl El Mehalla,Al Mokawloon,2.55,2.7,2.84,2.74,1.35,2.23,1.56,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-13,11:00:00,complete,Haras El Hodood,El Gounah,3.5,2.7,2.3,2.7,1.4,2.32,1.53,2,1
+2025/2026,Egypt Egyptian Premier League,2025-09-13,14:00:00,complete,Zamalek,Al Masry,2.15,2.9,3.25,2.5,1.5,2.05,1.67,3,0
+2025/2026,Egypt Egyptian Premier League,2025-09-13,14:00:00,complete,Ceramica Cleopatra,Smouha SC,2.17,2.75,3.07,2.81,1.4,2.25,1.55,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-14,11:00:00,complete,El Geish,Coca-Cola,3.58,2.52,2.55,3.32,1.28,2.4,1.5,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-14,14:00:00,complete,ENPPI,Al Ahly,7.73,4.26,1.42,2.3,1.64,2.45,1.45,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-14,14:00:00,complete,Kahraba Ismailia,Wadi Degla,3.55,2.87,2.17,2.63,1.5,2.1,1.67,1,4
+2025/2026,Egypt Egyptian Premier League,2025-09-17,11:00:00,complete,Al Mokawloon,Pharco,1.96,2.77,4.0,2.81,1.38,2.37,1.57,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-17,14:00:00,complete,El Gounah,Petrojet,2.48,2.7,3.05,2.43,1.5,2.0,1.64,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-17,14:00:00,complete,Al Masry,Ghazl El Mehalla,1.58,3.4,5.88,2.15,1.62,2.14,1.58,2,1
+2025/2026,Egypt Egyptian Premier League,2025-09-18,11:00:00,complete,Coca-Cola,ENPPI,2.3,2.8,3.25,2.88,1.33,2.54,1.51,2,2
+2025/2026,Egypt Egyptian Premier League,2025-09-18,11:00:00,complete,Ismaily SC,Zamalek,7.0,3.47,1.45,2.35,1.53,2.6,1.41,0,2
+2025/2026,Egypt Egyptian Premier League,2025-09-18,14:00:00,complete,Pyramids FC,Masr,1.43,3.54,7.5,2.08,1.67,2.07,1.66,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-18,14:00:00,complete,Al Ittihad,Kahraba Ismailia,2.2,2.87,3.57,2.75,1.4,2.37,1.53,0,1
+2025/2026,Egypt Egyptian Premier League,2025-09-19,11:00:00,complete,Wadi Degla,El Geish,2.42,2.49,3.28,3.48,1.26,2.8,1.35,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-19,14:00:00,complete,Al Ahly,Ceramica Cleopatra,1.55,3.55,5.2,1.85,1.85,2.1,1.61,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-19,14:00:00,complete,Smouha SC,Haras El Hodood,1.63,2.84,6.4,2.65,1.42,2.32,1.51,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-22,11:00:00,complete,Pharco,Al Masry,5.1,3.45,1.58,2.28,1.64,2.12,1.63,0,0
+2025/2026,Egypt Egyptian Premier League,2025-09-22,14:00:00,complete,Masr,Al Ittihad,2.57,2.73,3.35,3.25,1.33,2.62,1.44,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-22,14:00:00,complete,Petrojet,Ghazl El Mehalla,2.3,2.76,3.52,2.3,1.5,2.24,1.72,0,0
+2025/2026,Egypt Egyptian Premier League,2025-09-23,11:00:00,complete,Haras El Hodood,Al Ahly,12.0,5.3,1.18,1.81,1.89,2.57,1.4,2,3
+2025/2026,Egypt Egyptian Premier League,2025-09-23,14:00:00,complete,El Geish,Al Mokawloon,5.29,2.61,2.69,2.97,1.34,2.64,1.43,0,0
+2025/2026,Egypt Egyptian Premier League,2025-09-23,14:00:00,complete,Zamalek,El Gounah,1.44,3.83,7.3,2.41,1.61,2.5,1.44,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-24,11:00:00,complete,ENPPI,Ismaily SC,1.92,2.67,4.5,2.89,1.36,2.45,1.48,1,0
+2025/2026,Egypt Egyptian Premier League,2025-09-24,14:00:00,complete,National Bank of Egypt,Wadi Degla,2.11,2.79,3.52,3.02,1.36,2.23,1.55,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-24,14:00:00,complete,Ceramica Cleopatra,Coca-Cola,2.3,2.9,3.6,2.48,1.44,2.05,1.72,2,0
+2025/2026,Egypt Egyptian Premier League,2025-09-27,11:00:00,complete,Al Mokawloon,Kahraba Ismailia,1.95,3.0,4.0,2.5,1.51,2.33,1.61,0,1
+2025/2026,Egypt Egyptian Premier League,2025-09-27,11:00:00,complete,Masr,Haras El Hodood,1.95,2.8,4.74,2.75,1.43,2.28,1.53,0,1
+2025/2026,Egypt Egyptian Premier League,2025-09-27,14:00:00,complete,Pyramids FC,El Geish,1.3,4.3,10.0,1.95,1.75,2.3,1.52,4,0
+2025/2026,Egypt Egyptian Premier League,2025-09-27,14:00:00,complete,Al Masry,Petrojet,1.64,3.02,5.6,2.05,1.68,1.95,1.83,2,3
+2025/2026,Egypt Egyptian Premier League,2025-09-28,11:00:00,complete,Coca-Cola,Pharco,1.7,3.1,5.65,2.62,1.44,2.63,1.5,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-28,14:00:00,complete,Ghazl El Mehalla,ENPPI,3.3,2.83,2.2,3.0,1.36,2.28,1.58,0,0
+2025/2026,Egypt Egyptian Premier League,2025-09-28,14:00:00,complete,Wadi Degla,Smouha SC,2.61,2.72,3.44,3.2,1.26,2.45,1.42,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-29,11:00:00,complete,Ismaily SC,National Bank of Egypt,6.0,3.3,1.54,2.35,1.53,2.3,1.52,1,2
+2025/2026,Egypt Egyptian Premier League,2025-09-29,11:00:00,complete,El Gounah,Ceramica Cleopatra,3.47,2.87,2.07,2.77,1.39,2.48,1.57,1,1
+2025/2026,Egypt Egyptian Premier League,2025-09-29,14:00:00,complete,Al Ahly,Zamalek,1.98,3.1,3.75,2.5,1.49,2.0,1.72,2,1
+2025/2026,Egypt Egyptian Premier League,2025-10-03,11:00:00,complete,Smouha SC,Ismaily SC,1.47,3.34,7.0,2.59,1.44,2.4,1.46,2,0
+2025/2026,Egypt Egyptian Premier League,2025-10-03,14:00:00,complete,Al Ittihad,Al Mokawloon,2.7,2.65,2.7,2.75,1.4,2.5,1.45,2,1
+2025/2026,Egypt Egyptian Premier League,2025-10-03,14:00:00,complete,National Bank of Egypt,Al Masry,2.31,2.9,3.15,2.1,1.57,1.85,1.83,0,1
+2025/2026,Egypt Egyptian Premier League,2025-10-04,11:00:00,complete,Zamalek,Ghazl El Mehalla,1.43,3.95,6.25,2.21,1.6,2.38,1.53,1,1
+2025/2026,Egypt Egyptian Premier League,2025-10-04,11:00:00,complete,El Geish,El Gounah,3.0,2.55,2.45,3.14,1.29,2.5,1.43,0,1
+2025/2026,Egypt Egyptian Premier League,2025-10-04,14:00:00,complete,Kahraba Ismailia,Al Ahly,9.0,5.3,1.16,1.63,2.15,2.2,1.62,2,4
+2025/2026,Egypt Egyptian Premier League,2025-10-04,14:00:00,complete,Haras El Hodood,Ceramica Cleopatra,5.62,3.5,1.5,2.31,1.55,2.3,1.57,0,3
+2025/2026,Egypt Egyptian Premier League,2025-10-05,11:00:00,complete,ENPPI,Masr,2.48,2.8,2.75,2.9,1.36,2.2,1.6,1,0
+2025/2026,Egypt Egyptian Premier League,2025-10-05,14:00:00,complete,Pharco,Wadi Degla,4.21,2.75,1.92,2.88,1.36,2.35,1.42,0,0
+2025/2026,Egypt Egyptian Premier League,2025-10-17,11:00:00,complete,Wadi Degla,Coca-Cola,2.3,2.81,3.15,2.7,1.36,2.23,1.55,1,2
+2025/2026,Egypt Egyptian Premier League,2025-10-17,14:00:00,complete,Al Mokawloon,ENPPI,2.3,2.75,3.7,2.83,1.38,2.29,1.62,1,1
+2025/2026,Egypt Egyptian Premier League,2025-10-17,14:00:00,complete,Ghazl El Mehalla,Kahraba Ismailia,1.86,2.8,3.8,2.65,1.39,2.16,1.64,1,0
+2025/2026,Egypt Egyptian Premier League,2025-10-18,11:00:00,complete,El Gounah,National Bank of Egypt,3.5,2.8,2.1,2.75,1.36,2.25,1.48,0,3
+2025/2026,Egypt Egyptian Premier League,2025-10-18,14:00:00,complete,Ismaily SC,Haras El Hodood,2.34,2.65,3.4,3.08,1.28,2.15,1.49,3,1
+2025/2026,Egypt Egyptian Premier League,2025-10-19,11:00:00,complete,Masr,Petrojet,2.36,2.88,3.25,2.4,1.51,2.0,1.66,2,1
+2025/2026,Egypt Egyptian Premier League,2025-10-19,14:00:00,complete,Ceramica Cleopatra,El Geish,1.73,3.05,4.9,2.46,1.5,2.3,1.54,2,0
+2025/2026,Egypt Egyptian Premier League,2025-10-21,11:00:00,complete,Pyramids FC,Pharco,1.25,4.5,10.0,1.9,1.8,2.3,1.5,2,0
+2025/2026,Egypt Egyptian Premier League,2025-10-22,11:00:00,complete,Al Ahly,Al Ittihad,1.23,4.6,12.0,1.96,1.74,2.75,1.4,2,1
+2025/2026,Egypt Egyptian Premier League,2025-10-22,14:00:00,complete,Al Masry,Smouha SC,1.9,3.0,4.1,2.28,1.57,2.0,1.67,0,0
+2025/2026,Egypt Egyptian Premier League,2025-10-22,14:00:00,incomplete,Smouha SC,Al Masry,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2025/2026,Egypt Egyptian Premier League,2025-10-25,11:00:00,complete,Haras El Hodood,Ghazl El Mehalla,3.25,2.65,2.5,3.2,1.33,2.4,1.52,0,0
+2025/2026,Egypt Egyptian Premier League,2025-10-25,14:00:00,complete,Coca-Cola,Al Mokawloon,2.1,2.75,3.56,2.81,1.38,2.2,1.55,1,2
+2025/2026,Egypt Egyptian Premier League,2025-10-26,11:00:00,complete,Kahraba Ismailia,Ceramica Cleopatra,5.0,3.25,1.64,1.95,1.75,2.04,1.72,0,1
+2025/2026,Egypt Egyptian Premier League,2025-10-26,14:00:00,complete,El Geish,Masr,3.65,2.46,2.44,3.4,1.3,2.48,1.45,2,2
+2025/2026,Egypt Egyptian Premier League,2025-10-26,14:00:00,complete,Pharco,Ismaily SC,2.58,2.48,3.73,2.75,1.22,2.6,1.6,1,0
+2025/2026,Egypt Egyptian Premier League,2025-10-27,11:00:00,complete,Smouha SC,El Gounah,2.1,2.58,3.91,2.89,1.36,2.45,1.49,0,1
+2025/2026,Egypt Egyptian Premier League,2025-10-27,14:00:00,complete,Al Ittihad,Wadi Degla,3.5,2.6,2.4,3.2,1.31,2.54,1.52,1,2
+2025/2026,Egypt Egyptian Premier League,2025-10-29,14:00:00,complete,Petrojet,Al Ahly,7.5,4.2,1.44,1.88,1.88,2.05,1.57,1,1
+2025/2026,Egypt Egyptian Premier League,2025-10-30,14:00:00,complete,National Bank of Egypt,Zamalek,3.5,2.93,2.2,2.55,1.48,2.12,1.67,1,1
+2025/2026,Egypt Egyptian Premier League,2025-11-01,12:00:00,complete,Ghazl El Mehalla,Coca-Cola,3.48,2.57,2.4,2.9,1.32,2.24,1.53,0,0
+2025/2026,Egypt Egyptian Premier League,2025-11-01,15:00:00,complete,El Gounah,Pharco,2.15,2.65,3.7,3.2,1.3,2.48,1.44,0,1
+2025/2026,Egypt Egyptian Premier League,2025-11-01,15:00:00,complete,Ismaily SC,Kahraba Ismailia,2.78,2.75,2.62,2.66,1.37,2.15,1.52,3,1
+2025/2026,Egypt Egyptian Premier League,2025-11-02,12:00:00,complete,Pyramids FC,Al Ittihad,1.37,4.2,7.0,2.1,1.71,2.38,1.51,2,1
+2025/2026,Egypt Egyptian Premier League,2025-11-02,12:00:00,complete,Zamalek,El Geish,1.5,3.65,6.5,2.48,1.48,2.8,1.35,3,1
+2025/2026,Egypt Egyptian Premier League,2025-11-02,15:00:00,complete,Al Ahly,Al Masry,1.42,4.2,6.4,1.74,2.0,1.82,1.83,0,0
+2025/2026,Egypt Egyptian Premier League,2025-11-02,15:00:00,complete,Ceramica Cleopatra,Petrojet,1.6,3.58,6.01,1.95,1.8,2.04,1.8,2,1
+2025/2026,Egypt Egyptian Premier League,2025-11-04,12:00:00,complete,Wadi Degla,Haras El Hodood,1.64,3.3,5.5,2.41,1.45,2.53,1.48,1,1
+2025/2026,Egypt Egyptian Premier League,2025-11-04,15:00:00,complete,Al Mokawloon,Smouha SC,2.88,2.6,2.5,3.28,1.28,2.49,1.42,1,1
+2025/2026,Egypt Egyptian Premier League,2025-11-04,15:00:00,complete,Masr,National Bank of Egypt,3.25,2.8,2.58,2.62,1.38,2.1,1.65,1,1
+2025/2026,Egypt Egyptian Premier League,2025-11-22,12:00:00,complete,Pharco,Ceramica Cleopatra,5.5,3.5,1.57,2.38,1.46,2.38,1.64,0,2
+2025/2026,Egypt Egyptian Premier League,2025-11-22,15:00:00,complete,El Geish,ENPPI,2.6,2.8,2.95,3.13,1.36,2.35,1.44,1,1
+2025/2026,Egypt Egyptian Premier League,2025-11-22,15:00:00,complete,Coca-Cola,National Bank of Egypt,2.9,2.65,2.77,2.66,1.4,2.19,1.68,0,0
+2025/2026,Egypt Egyptian Premier League,2025-11-23,12:00:00,complete,Al Ittihad,El Gounah,2.45,2.5,3.35,4.16,1.19,2.75,1.37,0,2
+2025/2026,Egypt Egyptian Premier League,2025-11-23,15:00:00,complete,Kahraba Ismailia,Masr,2.8,2.85,2.4,2.3,1.53,1.95,1.74,1,2
+2025/2026,Egypt Egyptian Premier League,2025-11-23,15:00:00,complete,Petrojet,Haras El Hodood,2.2,2.9,3.3,2.3,1.46,2.1,1.68,3,1
+2025/2026,Egypt Egyptian Premier League,2025-11-25,12:00:00,complete,Pyramids FC,Al Mokawloon,1.3,4.15,11.0,2.08,1.65,2.57,1.42,2,0
+2025/2026,Egypt Egyptian Premier League,2025-12-03,15:00:00,complete,Kahraba Ismailia,Pyramids FC,9.0,4.7,1.32,1.93,1.73,2.35,1.52,1,2
+2025/2026,Egypt Egyptian Premier League,2025-12-06,15:00:00,complete,Petrojet,Pyramids FC,7.5,4.0,1.44,2.04,1.69,2.45,1.55,2,2
+2025/2026,Egypt Egyptian Premier League,2026-01-21,12:00:00,complete,Ceramica Cleopatra,Al Ittihad,1.71,3.03,4.9,2.37,1.48,2.25,1.57,3,1
+2025/2026,Egypt Egyptian Premier League,2026-01-21,15:00:00,complete,Smouha SC,Pharco,1.95,3.0,3.9,2.7,1.36,2.5,1.43,2,0
+2025/2026,Egypt Egyptian Premier League,2026-01-22,12:00:00,complete,Haras El Hodood,Kahraba Ismailia,2.32,2.78,3.04,2.45,1.48,2.15,1.61,1,2
+2025/2026,Egypt Egyptian Premier League,2026-01-22,12:00:00,complete,Wadi Degla,Ghazl El Mehalla,1.79,2.85,4.75,2.85,1.37,2.46,1.5,3,2
+2025/2026,Egypt Egyptian Premier League,2026-01-22,15:00:00,complete,Ismaily SC,Al Mokawloon,3.55,2.79,2.45,2.97,1.3,2.38,1.51,1,2
+2025/2026,Egypt Egyptian Premier League,2026-01-27,12:00:00,complete,Al Ahly,Wadi Degla,1.66,3.1,5.25,2.55,1.45,2.29,1.5,3,1
+2025/2026,Egypt Egyptian Premier League,2026-01-28,12:00:00,complete,Zamalek,Petrojet,1.53,3.6,6.18,2.19,1.6,2.29,1.58,2,0
+2025/2026,Egypt Egyptian Premier League,2026-01-28,15:00:00,complete,Pyramids FC,El Gounah,1.44,3.64,8.6,2.76,1.44,2.84,1.36,1,1
+2025/2026,Egypt Egyptian Premier League,2026-01-28,15:00:00,complete,Al Masry,Ceramica Cleopatra,2.55,2.9,2.62,2.25,1.66,1.85,1.8,3,2
+2025/2026,Egypt Egyptian Premier League,2026-01-29,12:00:00,complete,ENPPI,Smouha SC,2.81,2.63,2.73,3.29,1.28,2.38,1.51,1,2
+2025/2026,Egypt Egyptian Premier League,2026-01-29,15:00:00,complete,Ghazl El Mehalla,El Geish,3.16,2.7,2.37,3.0,1.26,2.5,1.44,0,0
+2025/2026,Egypt Egyptian Premier League,2026-01-29,15:00:00,complete,Coca-Cola,Ismaily SC,1.79,2.75,3.9,2.9,1.34,2.38,1.51,1,0
+2025/2026,Egypt Egyptian Premier League,2026-01-30,12:00:00,complete,Pharco,Masr,4.7,2.7,1.85,2.92,1.36,2.65,1.49,0,2
+2025/2026,Egypt Egyptian Premier League,2026-01-30,15:00:00,complete,Al Ittihad,Haras El Hodood,1.75,3.1,5.55,2.6,1.44,2.4,1.5,2,0
+2025/2026,Egypt Egyptian Premier League,2026-01-30,15:00:00,complete,Al Mokawloon,National Bank of Egypt,3.89,2.82,2.12,3.0,1.36,1.95,1.55,0,1
+2025/2026,Egypt Egyptian Premier League,2026-02-03,15:00:00,complete,National Bank of Egypt,Al Ahly,4.74,3.2,1.9,2.49,1.5,2.08,1.7,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-04,12:00:00,complete,Masr,Al Masry,2.7,2.72,3.0,2.89,1.49,1.85,1.62,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-04,12:00:00,complete,Smouha SC,Pyramids FC,3.55,2.82,2.13,2.86,1.4,2.23,1.67,2,1
+2025/2026,Egypt Egyptian Premier League,2026-02-04,15:00:00,complete,Kahraba Ismailia,Zamalek,4.49,3.0,1.9,2.36,1.56,2.05,1.65,2,5
+2025/2026,Egypt Egyptian Premier League,2026-02-05,12:00:00,complete,Haras El Hodood,Pharco,2.8,2.7,2.8,3.09,1.37,2.27,1.55,2,2
+2025/2026,Egypt Egyptian Premier League,2026-02-05,15:00:00,complete,Ceramica Cleopatra,Ghazl El Mehalla,1.6,3.5,5.5,2.35,1.5,2.3,1.54,3,2
+2025/2026,Egypt Egyptian Premier League,2026-02-05,15:00:00,complete,Wadi Degla,Al Mokawloon,2.62,2.62,2.8,3.1,1.3,2.38,1.48,0,1
+2025/2026,Egypt Egyptian Premier League,2026-02-06,12:00:00,complete,El Gounah,Coca-Cola,3.1,2.7,2.4,3.11,1.33,2.28,1.55,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-06,15:00:00,complete,Petrojet,ENPPI,2.8,2.95,2.35,2.46,1.51,1.95,1.76,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-06,15:00:00,complete,El Geish,Al Ittihad,2.3,2.6,3.3,3.53,1.24,2.6,1.43,0,1
+2025/2026,Egypt Egyptian Premier League,2026-02-11,12:00:00,complete,Al Ahly,Ismaily SC,1.22,5.3,12.5,1.92,1.84,2.71,1.4,2,0
+2025/2026,Egypt Egyptian Premier League,2026-02-11,12:00:00,complete,ENPPI,Pyramids FC,3.9,2.99,1.87,2.52,1.5,2.11,1.67,1,2
+2025/2026,Egypt Egyptian Premier League,2026-02-11,15:00:00,complete,Al Masry,Wadi Degla,1.95,3.0,3.6,2.32,1.57,2.12,1.72,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-11,15:00:00,complete,Zamalek,Smouha SC,2.08,2.93,4.0,2.83,1.44,2.21,1.61,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-16,12:00:00,complete,Coca-Cola,Kahraba Ismailia,1.69,3.15,4.5,2.29,1.61,2.12,1.63,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-16,12:00:00,complete,Al Ittihad,Smouha SC,3.1,2.63,2.63,3.53,1.27,2.45,1.48,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-16,15:00:00,complete,ENPPI,National Bank of Egypt,3.15,2.78,2.4,3.0,1.36,2.44,1.54,0,0
+2025/2026,Egypt Egyptian Premier League,2026-02-19,16:30:00,complete,Al Ahly,El Gounah,1.28,4.63,9.18,2.06,1.73,2.4,1.5,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-19,16:30:00,complete,Pharco,Petrojet,3.0,2.87,2.32,2.3,1.55,1.95,1.75,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-19,16:30:00,complete,Al Mokawloon,Al Masry,3.12,2.96,2.24,2.5,1.48,2.1,1.67,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-20,16:30:00,complete,Ismaily SC,Wadi Degla,3.8,2.75,2.05,3.0,1.33,2.47,1.53,1,2
+2025/2026,Egypt Egyptian Premier League,2026-02-20,16:30:00,complete,Pyramids FC,Ceramica Cleopatra,2.04,2.79,3.7,2.28,1.65,1.91,1.91,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-20,16:30:00,complete,Ghazl El Mehalla,Masr,4.01,2.6,2.28,2.78,1.38,2.25,1.55,0,0
+2025/2026,Egypt Egyptian Premier League,2026-02-20,16:30:00,complete,Zamalek,Haras El Hodood,1.3,4.2,8.5,2.07,1.71,2.6,1.48,2,0
+2025/2026,Egypt Egyptian Premier League,2026-02-23,16:30:00,complete,Kahraba Ismailia,El Geish,3.1,2.85,2.24,2.6,1.49,2.0,1.71,2,2
+2025/2026,Egypt Egyptian Premier League,2026-02-23,16:30:00,complete,Smouha SC,Al Ahly,6.5,3.4,1.55,2.1,1.67,2.5,1.42,0,1
+2025/2026,Egypt Egyptian Premier League,2026-02-23,16:30:00,complete,El Gounah,Al Mokawloon,2.65,2.62,2.87,3.1,1.33,2.34,1.5,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-24,16:30:00,complete,Ceramica Cleopatra,Ismaily SC,1.55,3.5,6.0,2.25,1.57,2.2,1.55,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-24,16:30:00,complete,Haras El Hodood,ENPPI,3.85,2.73,2.11,2.91,1.42,2.28,1.53,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-24,16:30:00,complete,Masr,Zamalek,3.6,2.75,2.1,2.88,1.36,2.25,1.55,1,2
+2025/2026,Egypt Egyptian Premier League,2026-02-24,16:30:00,complete,Ghazl El Mehalla,Pyramids FC,7.0,3.9,1.43,2.12,1.64,2.55,1.55,1,3
+2025/2026,Egypt Egyptian Premier League,2026-02-25,16:30:00,complete,Petrojet,Al Ittihad,2.37,2.9,3.2,2.62,1.4,2.1,1.64,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-25,16:30:00,complete,Al Masry,Coca-Cola,2.38,2.9,3.15,2.49,1.57,2.05,1.8,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-25,16:30:00,complete,National Bank of Egypt,Pharco,1.5,3.5,5.2,2.44,1.5,2.54,1.5,1,0
+2025/2026,Egypt Egyptian Premier League,2026-02-28,16:30:00,complete,Al Ahly,Masr,1.55,3.5,5.5,2.17,1.63,2.25,1.57,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-28,16:30:00,complete,Ismaily SC,El Gounah,2.85,2.6,2.55,3.08,1.29,2.35,1.5,1,2
+2025/2026,Egypt Egyptian Premier League,2026-02-28,16:30:00,complete,Wadi Degla,Ceramica Cleopatra,2.8,2.75,2.5,2.5,1.44,2.07,1.64,1,1
+2025/2026,Egypt Egyptian Premier League,2026-02-28,16:30:00,complete,El Geish,Haras El Hodood,1.55,2.95,7.95,3.1,1.31,2.98,1.36,1,0
+2025/2026,Egypt Egyptian Premier League,2026-03-01,16:30:00,complete,Coca-Cola,Petrojet,2.07,2.88,3.4,2.5,1.47,2.05,1.65,1,1
+2025/2026,Egypt Egyptian Premier League,2026-03-01,16:30:00,complete,Pyramids FC,Zamalek,1.99,3.0,3.79,2.5,1.49,2.04,1.7,0,1
+2025/2026,Egypt Egyptian Premier League,2026-03-01,16:30:00,complete,National Bank of Egypt,Smouha SC,2.22,2.72,3.8,3.29,1.33,2.3,1.5,1,3
+2025/2026,Egypt Egyptian Premier League,2026-03-01,16:30:00,complete,ENPPI,Al Masry,3.6,2.9,2.2,2.59,1.43,2.11,1.6,3,2
+2025/2026,Egypt Egyptian Premier League,2026-03-02,16:30:00,complete,Al Ittihad,Ghazl El Mehalla,2.06,2.53,4.17,3.4,1.3,2.51,1.44,2,0
+2025/2026,Egypt Egyptian Premier League,2026-03-02,16:30:00,complete,Pharco,Kahraba Ismailia,2.72,2.8,2.6,2.38,1.47,2.0,1.75,0,2
+2025/2026,Egypt Egyptian Premier League,2026-03-05,16:30:00,complete,Ceramica Cleopatra,National Bank of Egypt,2.3,3.0,3.1,2.14,1.65,1.83,1.73,2,2
+2025/2026,Egypt Egyptian Premier League,2026-03-05,16:30:00,complete,Al Mokawloon,Al Ahly,6.7,3.6,1.5,2.5,1.5,2.45,1.49,1,3
+2025/2026,Egypt Egyptian Premier League,2026-03-05,16:30:00,complete,Petrojet,El Geish,2.45,2.75,2.85,2.75,1.4,2.17,1.6,1,2
+2025/2026,Egypt Egyptian Premier League,2026-03-05,16:30:00,complete,Haras El Hodood,Pyramids FC,9.3,5.04,1.28,2.03,1.8,2.5,1.42,1,3
+2025/2026,Egypt Egyptian Premier League,2026-03-06,16:30:00,complete,Zamalek,Al Ittihad,1.45,3.9,6.5,2.36,1.52,2.59,1.44,1,0
+2025/2026,Egypt Egyptian Premier League,2026-03-06,16:30:00,complete,El Gounah,Wadi Degla,3.34,2.73,2.5,2.83,1.4,2.1,1.62,0,0
+2025/2026,Egypt Egyptian Premier League,2026-03-06,16:30:00,complete,Al Masry,Ismaily SC,1.53,3.7,6.83,2.34,1.61,2.2,1.55,2,0
+2025/2026,Egypt Egyptian Premier League,2026-03-07,16:30:00,complete,Kahraba Ismailia,ENPPI,3.25,2.9,2.16,2.69,1.41,2.15,1.57,1,2
+2025/2026,Egypt Egyptian Premier League,2026-03-07,16:30:00,complete,Smouha SC,Coca-Cola,2.58,2.43,3.07,3.14,1.33,2.52,1.48,3,0
+2025/2026,Egypt Egyptian Premier League,2026-03-07,16:30:00,complete,Ghazl El Mehalla,Pharco,2.55,2.65,2.94,2.7,1.36,2.15,1.55,0,0
+2025/2026,Egypt Egyptian Premier League,2026-03-09,16:30:00,complete,El Geish,Al Ahly,6.0,3.5,1.5,2.25,1.5,2.4,1.48,2,1
+2025/2026,Egypt Egyptian Premier League,2026-03-09,16:30:00,complete,National Bank of Egypt,Pyramids FC,4.0,3.05,1.9,2.23,1.58,1.95,1.7,0,1
+2025/2026,Egypt Egyptian Premier League,2026-03-10,16:30:00,complete,El Gounah,Al Masry,3.7,2.9,2.05,2.65,1.44,2.19,1.57,1,0
+2025/2026,Egypt Egyptian Premier League,2026-03-11,16:30:00,complete,ENPPI,Zamalek,4.33,3.0,1.8,2.48,1.53,2.1,1.67,1,0
+2025/2026,Egypt Egyptian Premier League,2026-03-11,16:30:00,complete,Masr,Coca-Cola,2.75,2.62,2.75,2.95,1.33,2.25,1.56,2,0
+2025/2026,Egypt Egyptian Premier League,2026-03-20,12:00:00,complete,Haras El Hodood,Ismaily SC,2.89,2.53,2.8,2.92,1.31,2.3,1.55,0,0
+2025/2026,Egypt Egyptian Premier League,2026-03-20,15:00:00,complete,Wadi Degla,El Gounah,2.12,2.83,3.4,3.13,1.33,2.45,1.56,0,0
+2025/2026,Egypt Egyptian Premier League,2026-03-21,12:00:00,complete,Al Mokawloon,Petrojet,2.45,2.74,2.88,2.62,1.5,2.07,1.65,2,2
+2025/2026,Egypt Egyptian Premier League,2026-03-21,15:00:00,complete,Ghazl El Mehalla,National Bank of Egypt,3.9,2.8,2.03,2.75,1.36,2.2,1.55,1,1
+2025/2026,Egypt Egyptian Premier League,2026-03-22,12:00:00,complete,Masr,El Geish,2.8,2.4,3.0,2.92,1.33,2.28,1.53,1,0
+2025/2026,Egypt Egyptian Premier League,2026-03-22,15:00:00,complete,Al Ittihad,Pharco,1.96,2.65,4.2,3.0,1.36,2.5,1.56,1,1
+2025/2026,Egypt Egyptian Premier League,2026-03-22,15:00:00,complete,Kahraba Ismailia,Coca-Cola,3.5,3.0,2.0,2.25,1.62,1.85,1.75,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-04,12:00:00,complete,Pharco,Ghazl El Mehalla,2.6,2.7,2.9,2.95,1.41,2.1,1.57,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-04,15:00:00,complete,El Gounah,Al Ittihad,2.8,2.8,2.8,2.75,1.33,2.3,1.55,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-04,15:00:00,complete,Coca-Cola,Wadi Degla,2.63,2.78,2.66,2.7,1.42,2.17,1.6,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-05,12:00:00,complete,National Bank of Egypt,Haras El Hodood,1.49,3.76,7.5,2.15,1.66,2.32,1.48,4,2
+2025/2026,Egypt Egyptian Premier League,2026-04-05,15:00:00,complete,Ismaily SC,El Geish,4.0,2.7,2.15,2.83,1.36,2.3,1.5,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-05,15:00:00,complete,Al Masry,Zamalek,3.25,3.0,2.05,2.12,1.64,1.84,1.85,1,4
+2025/2026,Egypt Egyptian Premier League,2026-04-06,12:00:00,complete,Kahraba Ismailia,Petrojet,2.85,2.85,2.4,2.22,1.64,1.84,1.89,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-06,15:00:00,complete,Masr,Al Mokawloon,3.0,2.7,2.6,2.88,1.33,2.25,1.56,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-07,12:00:00,complete,Smouha SC,ENPPI,2.61,2.46,3.2,3.42,1.23,2.5,1.42,0,2
+2025/2026,Egypt Egyptian Premier League,2026-04-07,15:00:00,complete,Ceramica Cleopatra,Al Ahly,4.65,3.65,1.57,1.88,1.76,1.95,1.73,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-08,12:00:00,complete,Wadi Degla,Pharco,1.8,3.25,5.14,2.65,1.53,2.19,1.65,2,0
+2025/2026,Egypt Egyptian Premier League,2026-04-08,15:00:00,complete,Haras El Hodood,Coca-Cola,4.0,2.7,1.94,2.75,1.31,2.4,1.53,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-08,15:00:00,complete,Ghazl El Mehalla,El Gounah,3.44,2.5,2.72,3.76,1.22,2.51,1.43,1,0
+2025/2026,Egypt Egyptian Premier League,2026-04-09,12:00:00,complete,Kahraba Ismailia,Al Ittihad,3.1,2.9,2.15,2.48,1.55,2.07,1.67,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-09,12:00:00,complete,El Geish,National Bank of Egypt,2.8,2.8,2.5,2.62,1.44,2.25,1.53,1,0
+2025/2026,Egypt Egyptian Premier League,2026-04-09,15:00:00,complete,Petrojet,Masr,3.01,2.88,2.6,2.85,1.37,2.15,1.55,2,1
+2025/2026,Egypt Egyptian Premier League,2026-04-09,15:00:00,complete,Al Mokawloon,Ismaily SC,2.01,2.5,4.2,3.0,1.22,2.8,1.45,1,0
+2025/2026,Egypt Egyptian Premier League,2026-04-11,12:00:00,complete,Pyramids FC,Al Masry,1.63,3.5,5.71,1.95,1.8,1.83,1.7,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-11,15:00:00,complete,ENPPI,Ceramica Cleopatra,3.0,2.75,2.3,3.03,1.36,1.95,1.54,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-11,15:00:00,complete,Al Ahly,Smouha SC,1.35,4.33,7.0,1.86,1.8,2.2,1.51,2,1
+2025/2026,Egypt Egyptian Premier League,2026-04-13,12:00:00,complete,Ghazl El Mehalla,Wadi Degla,4.1,2.75,2.0,2.7,1.32,2.35,1.53,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-13,12:00:00,complete,Pharco,Haras El Hodood,2.11,2.75,3.4,2.56,1.45,2.04,1.6,2,1
+2025/2026,Egypt Egyptian Premier League,2026-04-13,15:00:00,complete,El Geish,Petrojet,2.37,2.75,3.31,2.65,1.42,2.14,1.62,2,0
+2025/2026,Egypt Egyptian Premier League,2026-04-13,15:00:00,complete,National Bank of Egypt,Al Mokawloon,2.3,2.87,3.2,2.4,1.47,2.1,1.76,2,1
+2025/2026,Egypt Egyptian Premier League,2026-04-14,12:00:00,complete,Coca-Cola,El Gounah,2.75,2.6,2.7,2.83,1.33,2.28,1.55,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-14,15:00:00,complete,Kahraba Ismailia,Ismaily SC,2.62,2.72,2.55,2.62,1.42,2.12,1.67,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-14,15:00:00,complete,Al Ittihad,Masr,2.7,2.48,2.75,3.25,1.33,2.05,1.55,2,1
+2025/2026,Egypt Egyptian Premier League,2026-04-18,12:00:00,complete,Petrojet,Pharco,2.19,2.68,3.71,2.27,1.56,1.93,1.74,1,0
+2025/2026,Egypt Egyptian Premier League,2026-04-18,15:00:00,complete,Wadi Degla,National Bank of Egypt,2.75,2.76,2.6,2.11,1.7,1.8,1.89,2,0
+2025/2026,Egypt Egyptian Premier League,2026-04-18,15:00:00,complete,Al Mokawloon,El Geish,2.88,2.45,2.75,3.6,1.3,2.5,1.47,2,0
+2025/2026,Egypt Egyptian Premier League,2026-04-19,12:00:00,complete,El Gounah,Ismaily SC,1.95,2.7,4.45,3.2,1.28,2.67,1.4,1,0
+2025/2026,Egypt Egyptian Premier League,2026-04-19,12:00:00,complete,Haras El Hodood,Al Ittihad,4.25,3.0,2.02,3.0,1.31,2.4,1.47,2,2
+2025/2026,Egypt Egyptian Premier League,2026-04-19,15:00:00,complete,Kahraba Ismailia,Ghazl El Mehalla,2.75,2.61,2.7,2.62,1.43,2.1,1.62,1,3
+2025/2026,Egypt Egyptian Premier League,2026-04-19,15:00:00,complete,Coca-Cola,Masr,2.8,2.62,2.62,3.41,1.3,2.45,1.5,1,3
+2025/2026,Egypt Egyptian Premier League,2026-04-22,12:00:00,complete,Al Masry,ENPPI,2.2,2.7,3.69,2.99,1.35,2.23,1.55,2,2
+2025/2026,Egypt Egyptian Premier League,2026-04-22,15:00:00,complete,Smouha SC,Ceramica Cleopatra,3.07,2.6,2.5,2.75,1.27,2.3,1.47,0,2
+2025/2026,Egypt Egyptian Premier League,2026-04-23,12:00:00,complete,Al Mokawloon,Al Ittihad,2.63,2.55,2.9,3.08,1.32,2.4,1.5,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-23,15:00:00,complete,Ghazl El Mehalla,Petrojet,2.7,2.54,2.6,2.74,1.34,2.25,1.6,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-23,15:00:00,complete,Zamalek,Pyramids FC,2.8,2.85,2.63,2.35,1.5,1.97,1.73,1,0
+2025/2026,Egypt Egyptian Premier League,2026-04-24,11:00:00,complete,National Bank of Egypt,Masr,2.08,2.8,3.0,2.35,1.55,1.98,1.72,2,1
+2025/2026,Egypt Egyptian Premier League,2026-04-24,11:00:00,complete,Pharco,El Gounah,2.7,2.75,2.75,2.75,1.36,2.15,1.62,0,1
+2025/2026,Egypt Egyptian Premier League,2026-04-24,14:00:00,complete,El Geish,Kahraba Ismailia,1.95,2.9,3.8,2.45,1.5,2.1,1.65,1,2
+2025/2026,Egypt Egyptian Premier League,2026-04-24,14:00:00,complete,Ismaily SC,Coca-Cola,2.94,2.75,2.65,2.92,1.31,2.3,1.52,0,2
+2025/2026,Egypt Egyptian Premier League,2026-04-25,11:00:00,complete,Haras El Hodood,Wadi Degla,4.6,3.2,1.71,2.48,1.47,2.1,1.59,0,1
+2025/2026,Egypt Egyptian Premier League,2026-04-27,11:00:00,complete,Zamalek,ENPPI,1.63,3.2,5.65,2.41,1.57,2.27,1.57,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-27,11:00:00,complete,Smouha SC,Al Masry,3.1,2.75,2.4,2.48,1.44,2.02,1.68,0,1
+2025/2026,Egypt Egyptian Premier League,2026-04-27,14:00:00,complete,Pyramids FC,Al Ahly,2.5,2.9,2.63,2.58,1.49,2.0,1.74,2,1
+2025/2026,Egypt Egyptian Premier League,2026-04-28,11:00:00,complete,Petrojet,Ismaily SC,1.98,2.9,3.8,2.41,1.52,2.2,1.6,0,1
+2025/2026,Egypt Egyptian Premier League,2026-04-28,11:00:00,complete,Masr,Pharco,2.0,3.0,3.9,2.5,1.49,2.11,1.67,1,0
+2025/2026,Egypt Egyptian Premier League,2026-04-28,14:00:00,complete,Al Mokawloon,Ghazl El Mehalla,2.05,2.62,4.0,3.5,1.28,2.64,1.42,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-28,14:00:00,complete,Kahraba Ismailia,National Bank of Egypt,4.11,2.87,1.8,2.13,1.7,1.85,1.8,1,3
+2025/2026,Egypt Egyptian Premier League,2026-04-29,11:00:00,complete,El Gounah,Haras El Hodood,2.1,2.8,4.04,3.03,1.34,2.3,1.54,1,1
+2025/2026,Egypt Egyptian Premier League,2026-04-29,14:00:00,complete,Coca-Cola,El Geish,2.7,2.56,3.12,3.1,1.3,2.5,1.48,0,0
+2025/2026,Egypt Egyptian Premier League,2026-04-29,14:00:00,complete,Wadi Degla,Al Ittihad,2.7,2.6,2.82,2.63,1.37,2.21,1.58,4,1
+2025/2026,Egypt Egyptian Premier League,2026-05-01,11:00:00,complete,Pyramids FC,ENPPI,1.46,4.0,6.0,2.06,1.72,2.19,1.59,3,2
+2025/2026,Egypt Egyptian Premier League,2026-05-01,11:00:00,complete,Ceramica Cleopatra,Al Masry,2.3,3.0,2.82,2.25,1.61,2.0,1.82,0,1
+2025/2026,Egypt Egyptian Premier League,2026-05-01,14:00:00,complete,Zamalek,Al Ahly,3.1,3.0,2.15,2.03,1.73,1.79,1.9,0,3
+2025/2026,Egypt Egyptian Premier League,2026-05-03,11:00:00,complete,Haras El Hodood,El Geish,3.4,2.75,2.05,3.15,1.36,2.25,1.5,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-03,11:00:00,complete,Masr,El Gounah,2.4,2.69,3.3,2.92,1.36,2.25,1.52,2,2
+2025/2026,Egypt Egyptian Premier League,2026-05-03,14:00:00,complete,National Bank of Egypt,Coca-Cola,2.25,2.9,3.5,2.65,1.46,2.1,1.7,2,1
+2025/2026,Egypt Egyptian Premier League,2026-05-03,14:00:00,complete,Ghazl El Mehalla,Ismaily SC,2.37,2.57,4.05,3.84,1.26,2.6,1.46,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-04,11:00:00,complete,Pharco,Al Mokawloon,2.93,2.65,2.5,2.62,1.4,2.11,1.64,1,1
+2025/2026,Egypt Egyptian Premier League,2026-05-04,14:00:00,complete,Al Ittihad,Petrojet,2.2,2.78,3.3,2.65,1.49,2.15,1.67,1,2
+2025/2026,Egypt Egyptian Premier League,2026-05-04,14:00:00,complete,Wadi Degla,Kahraba Ismailia,1.61,3.34,5.05,2.16,1.7,1.98,1.78,1,2
+2025/2026,Egypt Egyptian Premier League,2026-05-05,14:00:00,complete,Ceramica Cleopatra,Pyramids FC,4.33,3.2,1.75,2.25,1.57,2.05,1.67,1,1
+2025/2026,Egypt Egyptian Premier League,2026-05-05,14:00:00,complete,Smouha SC,Zamalek,5.25,3.3,1.61,2.49,1.53,2.3,1.54,0,1
+2025/2026,Egypt Egyptian Premier League,2026-05-05,14:00:00,complete,Al Ahly,ENPPI,1.29,4.6,7.5,1.85,1.91,2.38,1.55,3,0
+2025/2026,Egypt Egyptian Premier League,2026-05-07,11:00:00,complete,El Geish,Ghazl El Mehalla,2.25,2.45,3.85,3.15,1.3,2.45,1.48,1,0
+2025/2026,Egypt Egyptian Premier League,2026-05-07,14:00:00,complete,Haras El Hodood,Masr,1.86,3.15,3.8,2.49,1.5,2.15,1.59,1,2
+2025/2026,Egypt Egyptian Premier League,2026-05-07,14:00:00,complete,National Bank of Egypt,Ismaily SC,1.56,3.34,5.75,2.23,1.58,2.1,1.56,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-08,11:00:00,complete,Petrojet,Wadi Degla,3.25,3.1,2.25,2.34,1.55,2.02,1.7,2,2
+2025/2026,Egypt Egyptian Premier League,2026-05-08,11:00:00,complete,Al Mokawloon,El Gounah,2.1,2.7,3.5,3.1,1.33,2.3,1.54,1,0
+2025/2026,Egypt Egyptian Premier League,2026-05-08,14:00:00,complete,Kahraba Ismailia,Pharco,2.6,2.8,2.61,2.21,1.59,1.83,1.84,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-08,14:00:00,complete,Coca-Cola,Al Ittihad,3.25,2.75,2.37,2.9,1.35,2.21,1.58,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-12,11:00:00,complete,Pharco,Coca-Cola,3.18,2.7,2.35,2.89,1.38,2.15,1.61,0,1
+2025/2026,Egypt Egyptian Premier League,2026-05-12,11:00:00,complete,El Gounah,Kahraba Ismailia,2.35,2.71,3.25,2.64,1.45,2.09,1.65,0,1
+2025/2026,Egypt Egyptian Premier League,2026-05-12,14:00:00,complete,Wadi Degla,Ismaily SC,1.91,3.0,3.9,2.33,1.48,2.14,1.62,2,1
+2025/2026,Egypt Egyptian Premier League,2026-05-13,11:00:00,complete,Masr,Ghazl El Mehalla,2.61,2.75,3.1,2.75,1.4,2.15,1.61,3,2
+2025/2026,Egypt Egyptian Premier League,2026-05-13,11:00:00,complete,Haras El Hodood,Al Mokawloon,3.79,2.73,2.13,3.0,1.36,2.3,1.52,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-13,14:00:00,complete,National Bank of Egypt,Petrojet,1.95,3.3,3.3,1.75,2.06,1.62,2.14,2,3
+2025/2026,Egypt Egyptian Premier League,2026-05-13,14:00:00,complete,Al Ittihad,El Geish,2.35,2.6,3.33,2.88,1.32,2.38,1.57,1,0
+2025/2026,Egypt Egyptian Premier League,2026-05-17,11:00:00,complete,National Bank of Egypt,El Gounah,1.75,3.21,5.06,2.35,1.56,2.15,1.62,1,1
+2025/2026,Egypt Egyptian Premier League,2026-05-17,14:00:00,complete,Petrojet,Coca-Cola,2.82,2.6,2.5,2.5,1.5,1.95,1.74,1,1
+2025/2026,Egypt Egyptian Premier League,2026-05-17,14:00:00,complete,Ismaily SC,Masr,2.89,2.81,2.39,2.88,1.34,2.2,1.55,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-18,11:00:00,complete,El Geish,Pharco,2.0,2.7,4.0,2.92,1.31,2.51,1.5,1,0
+2025/2026,Egypt Egyptian Premier League,2026-05-18,11:00:00,complete,Kahraba Ismailia,Haras El Hodood,1.82,3.0,3.6,2.3,1.58,2.0,1.67,0,2
+2025/2026,Egypt Egyptian Premier League,2026-05-18,14:00:00,complete,Ghazl El Mehalla,Al Ittihad,3.1,2.45,2.45,3.28,1.25,2.51,1.44,1,0
+2025/2026,Egypt Egyptian Premier League,2026-05-18,14:00:00,complete,Al Mokawloon,Wadi Degla,2.05,2.85,3.6,2.49,1.42,2.2,1.62,1,1
+2025/2026,Egypt Egyptian Premier League,2026-05-20,14:00:00,complete,Zamalek,Ceramica Cleopatra,2.0,3.0,3.5,2.37,1.53,1.95,1.7,1,0
+2025/2026,Egypt Egyptian Premier League,2026-05-20,14:00:00,complete,Pyramids FC,Smouha SC,1.35,4.75,8.3,2.11,1.65,2.45,1.44,2,1
+2025/2026,Egypt Egyptian Premier League,2026-05-20,14:00:00,complete,Al Masry,Al Ahly,4.25,3.5,1.53,2.05,1.73,1.93,1.7,0,2
+2025/2026,Egypt Egyptian Premier League,2026-05-21,14:00:00,complete,Wadi Degla,Masr,2.2,2.8,3.2,2.55,1.41,2.05,1.62,2,2
+2025/2026,Egypt Egyptian Premier League,2026-05-22,11:00:00,complete,El Gounah,El Geish,2.7,2.6,2.62,2.95,1.32,2.38,1.48,2,1
+2025/2026,Egypt Egyptian Premier League,2026-05-22,14:00:00,complete,Pharco,National Bank of Egypt,4.4,3.2,1.72,2.1,1.61,2.0,1.7,0,1
+2025/2026,Egypt Egyptian Premier League,2026-05-23,14:00:00,complete,Haras El Hodood,Petrojet,2.37,3.0,2.49,2.37,1.57,1.85,1.76,0,3
+2025/2026,Egypt Egyptian Premier League,2026-05-23,14:00:00,complete,Coca-Cola,Ghazl El Mehalla,2.9,2.6,2.7,2.78,1.33,2.25,1.53,0,0
+2025/2026,Egypt Egyptian Premier League,2026-05-23,14:00:00,complete,Al Ittihad,Ismaily SC,1.74,2.97,5.31,2.92,1.31,2.55,1.44,3,0
+2025/2026,Egypt Egyptian Premier League,2026-05-23,14:00:00,complete,Kahraba Ismailia,Al Mokawloon,3.76,3.0,2.0,2.2,1.65,1.95,1.8,2,2
+2025/2026,Egypt Egyptian Premier League,2026-05-28,11:00:00,complete,El Geish,Wadi Degla,2.44,2.65,2.8,2.5,1.48,2.0,1.66,0,2
+2025/2026,Egypt Egyptian Premier League,2026-05-28,11:00:00,complete,Petrojet,El Gounah,2.35,2.67,3.15,2.5,1.5,1.95,1.74,1,2
+2025/2026,Egypt Egyptian Premier League,2026-05-28,11:00:00,complete,Ismaily SC,Pharco,3.17,2.4,2.62,2.88,1.36,2.15,1.62,1,2
+2025/2026,Egypt Egyptian Premier League,2026-05-29,11:00:00,complete,Al Mokawloon,Coca-Cola,2.35,2.75,3.1,2.49,1.38,2.15,1.57,3,1
+2025/2026,Egypt Egyptian Premier League,2026-05-29,11:00:00,complete,Masr,Kahraba Ismailia,2.63,2.98,2.53,2.23,1.61,1.86,1.85,1,1
+2025/2026,Egypt Egyptian Premier League,2026-05-29,14:00:00,complete,National Bank of Egypt,Al Ittihad,1.88,3.1,3.7,2.15,1.61,2.0,1.75,2,2
+2025/2026,Egypt Egyptian Premier League,2026-05-29,14:00:00,complete,Ghazl El Mehalla,Haras El Hodood,2.25,2.75,3.36,2.52,1.6,2.15,1.5,4,2
