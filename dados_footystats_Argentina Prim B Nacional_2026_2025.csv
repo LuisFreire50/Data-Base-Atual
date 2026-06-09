@@ -1,0 +1,880 @@
+season,league,date,time,status,home_name,away_name,odds_ft_1,odds_ft_x,odds_ft_2,odds_ft_over25,odds_ft_under25,odds_btts_yes,odds_btts_no,homeGoalCount,awayGoalCount
+2025,Argentina Prim B Nacional,2025-02-06,21:10:00,complete,Colón,Temperley,1.76,3.08,5.6,3.09,1.32,2.75,1.39,0,0
+2025,Argentina Prim B Nacional,2025-02-07,17:00:00,complete,Arsenal de Sarandí,All Boys,2.7,2.63,3.13,3.27,1.29,2.55,1.44,0,0
+2025,Argentina Prim B Nacional,2025-02-07,19:00:00,complete,Nueva Chicago,San Telmo,1.91,3.0,4.7,3.04,1.33,2.5,1.46,0,2
+2025,Argentina Prim B Nacional,2025-02-07,21:30:00,complete,Chaco For Ever,Estudiantes Caseros,2.88,2.7,2.83,3.21,1.3,2.46,1.52,0,1
+2025,Argentina Prim B Nacional,2025-02-08,17:00:00,complete,Los Andes,Patronato,2.72,2.83,2.87,2.94,1.35,2.38,1.53,1,3
+2025,Argentina Prim B Nacional,2025-02-08,17:00:00,complete,Almagro,San Martín Tucumán,4.2,2.89,2.06,3.09,1.32,2.63,1.44,0,0
+2025,Argentina Prim B Nacional,2025-02-08,17:00:00,complete,San Miguel,Tristán Suárez,2.35,2.69,3.67,3.04,1.33,2.75,1.4,2,1
+2025,Argentina Prim B Nacional,2025-02-08,17:00:00,complete,Quilmes,Gimnasia y Tiro,2.01,2.86,4.5,3.09,1.32,2.65,1.45,1,1
+2025,Argentina Prim B Nacional,2025-02-08,17:00:00,complete,Colegiales,Alvarado,2.86,2.63,2.93,3.15,1.31,2.5,1.5,0,0
+2025,Argentina Prim B Nacional,2025-02-08,20:30:00,complete,Gimnasia Mendoza,Estudiantes Río Cuarto,2.12,2.77,4.2,3.21,1.3,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-02-09,17:00:00,complete,Central Norte,Talleres Remedios,2.3,2.9,3.2,3.15,1.31,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-02-09,17:00:00,complete,Gimnasia Jujuy,Defensores de Belgrano,1.93,2.85,5.0,3.21,1.3,2.7,1.44,0,0
+2025,Argentina Prim B Nacional,2025-02-09,19:00:00,complete,Racing Córdoba,Deportivo Maipú,1.71,3.35,5.4,2.65,1.42,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-02-09,19:15:00,complete,Almirante Brown,Deportivo Morón,2.11,2.94,3.91,3.04,1.33,2.63,1.44,1,1
+2025,Argentina Prim B Nacional,2025-02-09,20:00:00,complete,Club Atlético Mitre,Defensores Unidos,1.55,3.53,7.1,2.69,1.41,2.7,1.44,0,1
+2025,Argentina Prim B Nacional,2025-02-09,21:30:00,complete,Ferro Carril Oeste,Club Atlético Güemes,1.93,2.97,4.7,2.89,1.36,2.44,1.53,0,0
+2025,Argentina Prim B Nacional,2025-02-10,19:00:00,complete,Atlanta,Deportivo Madryn,2.37,3.03,3.14,2.5,1.47,2.1,1.67,1,0
+2025,Argentina Prim B Nacional,2025-02-10,21:30:00,complete,Agropecuario,Chacarita Juniors,1.9,3.16,4.4,2.4,1.48,2.25,1.57,0,1
+2025,Argentina Prim B Nacional,2025-02-14,21:00:00,complete,Tristán Suárez,Almagro,1.91,2.77,5.4,2.9,1.36,2.5,1.47,2,1
+2025,Argentina Prim B Nacional,2025-02-14,21:30:00,complete,Club Atlético Güemes,Patronato,2.12,2.93,3.62,2.74,1.35,2.3,1.52,1,1
+2025,Argentina Prim B Nacional,2025-02-15,17:00:00,complete,Talleres Remedios,Gimnasia Mendoza,3.39,2.79,2.4,3.04,1.33,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-02-15,17:00:00,complete,Defensores Unidos,Chaco For Ever,2.85,2.29,3.55,3.56,1.25,2.7,1.41,0,2
+2025,Argentina Prim B Nacional,2025-02-15,19:00:00,complete,Deportivo Madryn,Racing Córdoba,1.93,2.81,5.1,3.09,1.32,2.63,1.44,1,2
+2025,Argentina Prim B Nacional,2025-02-15,19:05:00,complete,Estudiantes Caseros,Almirante Brown,1.88,2.76,5.7,3.04,1.33,2.63,1.44,5,2
+2025,Argentina Prim B Nacional,2025-02-15,21:00:00,complete,All Boys,Colegiales,2.16,2.61,4.5,3.41,1.27,2.5,1.5,0,0
+2025,Argentina Prim B Nacional,2025-02-16,17:00:00,complete,Deportivo Morón,Central Norte,2.15,2.54,4.7,3.09,1.32,2.63,1.44,2,0
+2025,Argentina Prim B Nacional,2025-02-16,17:00:00,complete,Gimnasia y Tiro,San Miguel,2.41,2.47,3.99,2.37,1.48,2.5,1.5,1,0
+2025,Argentina Prim B Nacional,2025-02-16,17:00:00,complete,Chacarita Juniors,San Telmo,2.35,2.64,3.75,2.89,1.36,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-02-16,17:00:00,complete,Arsenal de Sarandí,Los Andes,2.16,2.55,4.7,3.09,1.32,2.63,1.44,1,1
+2025,Argentina Prim B Nacional,2025-02-16,17:00:00,complete,Temperley,Club Atlético Mitre,2.37,2.35,4.5,3.48,1.26,2.75,1.39,2,0
+2025,Argentina Prim B Nacional,2025-02-16,17:30:00,complete,Alvarado,Atlanta,2.39,2.54,3.87,2.85,1.37,2.38,1.53,0,0
+2025,Argentina Prim B Nacional,2025-02-16,18:00:00,complete,Deportivo Maipú,Quilmes,2.66,2.51,3.38,2.85,1.37,2.25,1.54,2,0
+2025,Argentina Prim B Nacional,2025-02-16,18:00:00,complete,Estudiantes Río Cuarto,Gimnasia Jujuy,2.17,2.46,5.0,3.48,1.26,2.79,1.36,1,1
+2025,Argentina Prim B Nacional,2025-02-17,17:00:00,complete,Defensores de Belgrano,Agropecuario,2.2,2.6,4.3,2.81,1.38,2.25,1.57,1,1
+2025,Argentina Prim B Nacional,2025-02-17,20:00:00,complete,Colón,Nueva Chicago,1.85,2.89,5.5,3.09,1.32,2.75,1.4,2,1
+2025,Argentina Prim B Nacional,2025-02-17,22:00:00,complete,San Martín Tucumán,Ferro Carril Oeste,1.88,2.85,5.3,2.9,1.36,2.38,1.53,1,0
+2025,Argentina Prim B Nacional,2025-02-22,17:00:00,complete,Atlanta,All Boys,2.28,2.49,4.33,3.09,1.32,2.5,1.5,0,0
+2025,Argentina Prim B Nacional,2025-02-22,17:00:00,complete,Almirante Brown,Defensores Unidos,2.12,2.82,4.1,2.65,1.42,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-02-22,17:00:00,complete,San Miguel,Deportivo Maipú,2.1,2.94,3.95,2.85,1.37,2.38,1.53,2,0
+2025,Argentina Prim B Nacional,2025-02-22,17:00:00,complete,Los Andes,Club Atlético Güemes,2.95,2.41,3.17,3.04,1.33,2.38,1.53,2,0
+2025,Argentina Prim B Nacional,2025-02-22,17:00:00,complete,Almagro,Gimnasia y Tiro,2.71,2.68,3.06,3.15,1.31,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-02-22,18:00:00,complete,Colegiales,Arsenal de Sarandí,2.1,3.0,3.83,2.81,1.38,2.38,1.53,1,1
+2025,Argentina Prim B Nacional,2025-02-22,20:00:00,complete,Chaco For Ever,Temperley,2.8,2.46,3.27,3.34,1.28,2.63,1.44,2,0
+2025,Argentina Prim B Nacional,2025-02-23,17:00:00,complete,San Telmo,Defensores de Belgrano,2.23,2.83,3.73,3.04,1.33,2.5,1.5,0,3
+2025,Argentina Prim B Nacional,2025-02-23,17:00:00,complete,Gimnasia Jujuy,Talleres Remedios,1.68,3.31,5.8,2.85,1.37,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-02-23,17:00:00,complete,Club Atlético Mitre,Colón,3.06,2.58,2.81,3.34,1.28,2.63,1.44,0,1
+2025,Argentina Prim B Nacional,2025-02-23,18:00:00,complete,Central Norte,Estudiantes Caseros,2.79,2.49,3.23,2.85,1.37,2.38,1.53,1,1
+2025,Argentina Prim B Nacional,2025-02-23,19:00:00,complete,Ferro Carril Oeste,Tristán Suárez,2.1,2.52,5.1,2.69,1.41,2.25,1.57,0,0
+2025,Argentina Prim B Nacional,2025-02-23,19:00:00,complete,Patronato,San Martín Tucumán,2.36,2.77,3.5,2.89,1.36,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-02-23,20:30:00,complete,Gimnasia Mendoza,Deportivo Morón,1.7,3.16,6.0,3.21,1.3,2.75,1.4,1,0
+2025,Argentina Prim B Nacional,2025-02-23,21:00:00,complete,Quilmes,Deportivo Madryn,2.46,2.74,3.35,3.21,1.3,2.63,1.44,1,1
+2025,Argentina Prim B Nacional,2025-02-23,21:15:00,complete,Agropecuario,Estudiantes Río Cuarto,2.86,2.67,2.88,3.04,1.33,2.5,1.5,2,1
+2025,Argentina Prim B Nacional,2025-02-24,19:00:00,complete,Nueva Chicago,Chacarita Juniors,2.38,2.62,3.72,2.99,1.34,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-02-24,21:00:00,complete,Racing Córdoba,Alvarado,1.8,3.15,5.1,2.8,1.38,2.63,1.44,2,1
+2025,Argentina Prim B Nacional,2025-02-28,17:00:00,complete,Arsenal de Sarandí,Atlanta,2.96,2.28,3.41,3.48,1.26,2.75,1.4,1,1
+2025,Argentina Prim B Nacional,2025-02-28,21:00:00,complete,Colegiales,Los Andes,2.16,2.8,4.0,3.04,1.33,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-02-28,21:00:00,complete,Estudiantes Río Cuarto,San Telmo,2.05,2.7,3.8,2.94,1.35,2.75,1.4,1,0
+2025,Argentina Prim B Nacional,2025-03-01,17:00:00,complete,Talleres Remedios,Agropecuario,2.55,2.75,3.1,2.85,1.37,2.25,1.57,2,0
+2025,Argentina Prim B Nacional,2025-03-01,17:00:00,complete,Defensores Unidos,Central Norte,2.5,2.7,3.2,3.21,1.3,2.63,1.44,1,1
+2025,Argentina Prim B Nacional,2025-03-01,20:00:00,complete,Tristán Suárez,Patronato,2.27,2.95,3.45,2.47,1.48,2.1,1.67,2,0
+2025,Argentina Prim B Nacional,2025-03-01,21:30:00,complete,Temperley,Almirante Brown,1.91,2.9,4.6,3.09,1.32,2.63,1.44,2,0
+2025,Argentina Prim B Nacional,2025-03-02,17:00:00,complete,Club Atlético Mitre,Nueva Chicago,2.03,2.84,4.4,3.27,1.29,2.63,1.44,0,1
+2025,Argentina Prim B Nacional,2025-03-02,17:00:00,complete,Estudiantes Caseros,Gimnasia Mendoza,2.19,2.86,3.78,2.81,1.38,2.25,1.57,0,0
+2025,Argentina Prim B Nacional,2025-03-02,17:00:00,complete,Alvarado,Quilmes,2.62,2.74,3.1,2.99,1.34,2.25,1.57,0,0
+2025,Argentina Prim B Nacional,2025-03-02,17:00:00,complete,Deportivo Madryn,San Miguel,2.1,2.45,5.4,3.34,1.28,2.63,1.44,2,1
+2025,Argentina Prim B Nacional,2025-03-02,17:00:00,complete,Gimnasia y Tiro,Ferro Carril Oeste,2.39,2.39,4.3,3.41,1.27,2.63,1.44,1,2
+2025,Argentina Prim B Nacional,2025-03-02,18:00:00,complete,Deportivo Maipú,Almagro,1.76,3.08,5.6,2.81,1.38,2.63,1.44,3,1
+2025,Argentina Prim B Nacional,2025-03-02,19:15:00,complete,Defensores de Belgrano,Chacarita Juniors,2.36,2.81,3.45,3.34,1.28,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-03-02,20:00:00,complete,San Martín Tucumán,Club Atlético Güemes,2.12,2.61,4.6,3.34,1.28,2.63,1.44,1,1
+2025,Argentina Prim B Nacional,2025-03-02,21:15:00,complete,Deportivo Morón,Gimnasia Jujuy,2.3,2.55,3.8,3.34,1.28,2.75,1.4,0,0
+2025,Argentina Prim B Nacional,2025-03-02,21:30:00,complete,Colón,Chaco For Ever,1.67,3.1,6.0,3.09,1.32,3.0,1.36,2,1
+2025,Argentina Prim B Nacional,2025-03-03,21:10:00,complete,All Boys,Racing Córdoba,2.45,2.55,3.5,3.34,1.28,2.63,1.44,4,0
+2025,Argentina Prim B Nacional,2025-03-08,17:00:00,complete,Almagro,Deportivo Madryn,3.07,2.83,2.56,3.27,1.29,2.55,1.44,1,0
+2025,Argentina Prim B Nacional,2025-03-08,17:00:00,complete,Los Andes,San Martín Tucumán,2.8,2.42,3.34,2.99,1.34,2.38,1.53,1,1
+2025,Argentina Prim B Nacional,2025-03-08,17:00:00,complete,Club Atlético Güemes,Tristán Suárez,2.16,2.64,4.4,2.77,1.39,2.2,1.58,0,1
+2025,Argentina Prim B Nacional,2025-03-08,19:05:00,complete,Ferro Carril Oeste,Deportivo Maipú,2.2,2.82,3.85,2.99,1.34,2.35,1.51,2,0
+2025,Argentina Prim B Nacional,2025-03-08,21:00:00,complete,Chaco For Ever,Club Atlético Mitre,2.21,2.7,4.0,3.41,1.27,2.65,1.42,0,1
+2025,Argentina Prim B Nacional,2025-03-08,21:10:00,complete,Quilmes,All Boys,2.25,2.63,4.1,3.48,1.26,2.75,1.4,3,1
+2025,Argentina Prim B Nacional,2025-03-09,17:00:00,complete,San Miguel,Alvarado,1.79,3.17,5.1,2.77,1.39,2.5,1.5,2,0
+2025,Argentina Prim B Nacional,2025-03-09,17:00:00,complete,Racing Córdoba,Arsenal de Sarandí,1.79,3.28,4.9,2.85,1.37,2.63,1.44,3,0
+2025,Argentina Prim B Nacional,2025-03-09,17:00:00,complete,Chacarita Juniors,Estudiantes Río Cuarto,2.59,2.57,3.4,3.56,1.25,2.63,1.44,0,2
+2025,Argentina Prim B Nacional,2025-03-09,17:00:00,complete,Agropecuario,Deportivo Morón,2.15,2.81,4.0,2.94,1.35,2.3,1.55,1,0
+2025,Argentina Prim B Nacional,2025-03-09,17:00:00,complete,Gimnasia Jujuy,Estudiantes Caseros,1.87,2.78,5.7,3.48,1.26,2.63,1.44,0,1
+2025,Argentina Prim B Nacional,2025-03-09,18:00:00,complete,Central Norte,Temperley,2.72,2.4,3.5,3.09,1.32,2.5,1.5,2,0
+2025,Argentina Prim B Nacional,2025-03-09,19:00:00,complete,Patronato,Gimnasia y Tiro,2.32,2.71,3.69,3.04,1.33,2.38,1.53,0,0
+2025,Argentina Prim B Nacional,2025-03-09,21:30:00,complete,Almirante Brown,Colón,3.67,2.99,2.16,3.04,1.33,2.5,1.5,2,0
+2025,Argentina Prim B Nacional,2025-03-10,17:00:00,complete,San Telmo,Talleres Remedios,2.3,2.85,3.52,2.77,1.39,2.2,1.62,1,0
+2025,Argentina Prim B Nacional,2025-03-10,19:00:00,complete,Nueva Chicago,Defensores de Belgrano,2.48,2.6,3.55,3.15,1.31,2.63,1.44,0,0
+2025,Argentina Prim B Nacional,2025-03-11,20:10:00,complete,Atlanta,Colegiales,1.92,2.88,4.9,3.04,1.33,2.5,1.5,1,0
+2025,Argentina Prim B Nacional,2025-03-11,21:00:00,complete,Gimnasia Mendoza,Defensores Unidos,1.56,3.47,7.1,2.85,1.37,3.0,1.36,2,0
+2025,Argentina Prim B Nacional,2025-03-14,21:10:00,complete,All Boys,San Miguel,2.85,2.9,2.68,3.04,1.33,2.5,1.5,2,1
+2025,Argentina Prim B Nacional,2025-03-15,16:00:00,complete,Estudiantes Caseros,Agropecuario,1.92,3.0,4.6,2.81,1.38,2.5,1.5,2,1
+2025,Argentina Prim B Nacional,2025-03-15,17:30:00,complete,Chaco For Ever,Nueva Chicago,2.27,2.77,3.73,3.48,1.26,2.63,1.44,2,1
+2025,Argentina Prim B Nacional,2025-03-15,18:00:00,complete,Deportivo Morón,San Telmo,1.77,3.16,5.3,2.89,1.36,2.75,1.4,1,1
+2025,Argentina Prim B Nacional,2025-03-15,19:00:00,complete,Tristán Suárez,San Martín Tucumán,2.3,2.59,4.0,2.99,1.34,2.38,1.53,0,0
+2025,Argentina Prim B Nacional,2025-03-15,19:05:00,complete,Arsenal de Sarandí,Quilmes,2.94,2.65,2.84,3.27,1.29,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-03-15,20:00:00,complete,Talleres Remedios,Chacarita Juniors,2.9,2.78,2.74,3.09,1.32,2.5,1.5,0,2
+2025,Argentina Prim B Nacional,2025-03-15,22:10:00,complete,Colón,Central Norte,1.58,3.2,5.75,2.94,1.35,2.65,1.41,2,0
+2025,Argentina Prim B Nacional,2025-03-16,16:00:00,complete,Deportivo Madryn,Ferro Carril Oeste,2.21,2.92,3.63,3.04,1.33,2.4,1.49,1,0
+2025,Argentina Prim B Nacional,2025-03-16,16:00:00,complete,Defensores Unidos,Gimnasia Jujuy,2.55,2.8,3.11,3.21,1.3,2.37,1.51,0,3
+2025,Argentina Prim B Nacional,2025-03-16,16:00:00,complete,Colegiales,Racing Córdoba,2.88,3.01,2.56,2.81,1.38,2.2,1.6,0,1
+2025,Argentina Prim B Nacional,2025-03-16,17:00:00,complete,Alvarado,Almagro,2.03,2.96,4.2,2.99,1.34,2.4,1.49,1,1
+2025,Argentina Prim B Nacional,2025-03-16,17:00:00,complete,Gimnasia y Tiro,Club Atlético Güemes,2.39,2.72,3.53,3.56,1.25,2.75,1.39,1,0
+2025,Argentina Prim B Nacional,2025-03-16,17:30:00,complete,Deportivo Maipú,Patronato,2.24,2.98,3.47,2.5,1.47,2.15,1.6,1,1
+2025,Argentina Prim B Nacional,2025-03-16,19:30:00,complete,Estudiantes Río Cuarto,Defensores de Belgrano,2.03,2.7,4.8,3.27,1.29,2.75,1.4,1,1
+2025,Argentina Prim B Nacional,2025-03-16,20:30:00,complete,Club Atlético Mitre,Almirante Brown,1.82,3.05,5.2,2.99,1.34,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-03-17,18:10:00,complete,Atlanta,Los Andes,1.94,2.87,4.8,3.09,1.32,2.63,1.44,2,1
+2025,Argentina Prim B Nacional,2025-03-17,21:45:00,complete,Temperley,Gimnasia Mendoza,2.15,2.87,3.9,2.94,1.35,2.63,1.44,0,2
+2025,Argentina Prim B Nacional,2025-03-22,13:00:00,complete,San Miguel,Arsenal de Sarandí,1.65,3.25,6.4,2.89,1.36,2.75,1.4,1,1
+2025,Argentina Prim B Nacional,2025-03-22,15:00:00,complete,Nueva Chicago,Estudiantes Río Cuarto,2.58,2.41,3.74,3.1,1.36,2.38,1.53,1,2
+2025,Argentina Prim B Nacional,2025-03-22,15:35:00,complete,Almagro,All Boys,2.5,2.77,3.23,2.89,1.36,2.25,1.57,1,0
+2025,Argentina Prim B Nacional,2025-03-22,16:00:00,complete,San Telmo,Estudiantes Caseros,2.74,2.75,2.94,2.77,1.39,2.38,1.53,1,0
+2025,Argentina Prim B Nacional,2025-03-22,16:30:00,complete,Agropecuario,Defensores Unidos,1.72,3.52,4.9,2.52,1.46,2.5,1.5,3,0
+2025,Argentina Prim B Nacional,2025-03-22,17:00:00,complete,Gimnasia Jujuy,Temperley,2.12,2.57,4.8,3.15,1.31,2.63,1.44,2,0
+2025,Argentina Prim B Nacional,2025-03-23,14:45:00,complete,Chacarita Juniors,Deportivo Morón,2.05,2.7,4.0,3.21,1.3,2.63,1.44,1,1
+2025,Argentina Prim B Nacional,2025-03-23,15:30:00,complete,Ferro Carril Oeste,Alvarado,1.79,3.14,5.2,2.94,1.35,2.75,1.4,0,0
+2025,Argentina Prim B Nacional,2025-03-23,15:30:00,complete,Defensores de Belgrano,Talleres Remedios,1.74,3.15,5.6,2.99,1.34,2.75,1.4,0,0
+2025,Argentina Prim B Nacional,2025-03-23,16:00:00,complete,Racing Córdoba,Atlanta,2.35,3.05,3.16,2.3,1.5,2.25,1.57,1,1
+2025,Argentina Prim B Nacional,2025-03-23,16:00:00,complete,Almirante Brown,Chaco For Ever,2.43,2.8,3.32,3.56,1.25,2.75,1.4,0,0
+2025,Argentina Prim B Nacional,2025-03-23,17:00:00,complete,Club Atlético Güemes,Deportivo Maipú,2.07,3.0,3.97,2.77,1.39,2.38,1.53,1,1
+2025,Argentina Prim B Nacional,2025-03-23,18:00:00,complete,Central Norte,Club Atlético Mitre,2.33,2.75,3.61,3.04,1.33,2.5,1.5,0,2
+2025,Argentina Prim B Nacional,2025-03-23,18:00:00,complete,Patronato,Deportivo Madryn,2.49,2.82,3.2,2.99,1.34,2.5,1.5,0,0
+2025,Argentina Prim B Nacional,2025-03-23,19:30:00,complete,Los Andes,Tristán Suárez,2.48,2.4,3.99,2.99,1.34,2.38,1.53,2,0
+2025,Argentina Prim B Nacional,2025-03-23,20:00:00,complete,San Martín Tucumán,Gimnasia y Tiro,1.96,2.82,4.9,3.41,1.27,3.0,1.36,1,0
+2025,Argentina Prim B Nacional,2025-03-23,21:30:00,complete,Gimnasia Mendoza,Colón,2.2,2.84,3.82,2.99,1.34,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-03-26,21:00:00,complete,Quilmes,Colegiales,1.89,2.96,4.9,3.0,1.33,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-03-28,21:00:00,complete,Racing Córdoba,Los Andes,1.88,3.1,4.7,2.73,1.4,2.25,1.57,1,1
+2025,Argentina Prim B Nacional,2025-03-29,15:30:00,complete,Temperley,Agropecuario,1.83,3.28,4.6,2.65,1.42,2.5,1.5,1,0
+2025,Argentina Prim B Nacional,2025-03-29,17:30:00,complete,Estudiantes Caseros,Chacarita Juniors,2.09,3.07,3.75,2.77,1.39,2.25,1.57,0,2
+2025,Argentina Prim B Nacional,2025-03-29,17:30:00,complete,Chaco For Ever,Central Norte,2.18,2.94,3.7,2.94,1.35,2.25,1.57,1,0
+2025,Argentina Prim B Nacional,2025-03-30,13:15:00,complete,All Boys,Ferro Carril Oeste,2.61,2.78,3.06,2.94,1.35,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-03-30,15:30:00,complete,Deportivo Morón,Defensores de Belgrano,2.56,2.44,3.71,3.09,1.32,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-03-30,15:30:00,complete,Arsenal de Sarandí,Almagro,2.38,2.72,3.53,3.21,1.3,2.63,1.44,2,2
+2025,Argentina Prim B Nacional,2025-03-30,16:00:00,complete,Alvarado,Patronato,2.08,2.96,3.97,3.04,1.33,2.5,1.5,3,1
+2025,Argentina Prim B Nacional,2025-03-30,16:00:00,complete,Defensores Unidos,San Telmo,2.4,2.85,3.1,2.85,1.37,2.5,1.5,2,2
+2025,Argentina Prim B Nacional,2025-03-30,16:00:00,complete,Deportivo Madryn,Club Atlético Güemes,1.8,3.03,5.4,3.0,1.34,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-03-30,16:00:00,complete,Talleres Remedios,Estudiantes Río Cuarto,3.1,2.8,2.45,3.34,1.28,2.63,1.44,0,2
+2025,Argentina Prim B Nacional,2025-03-30,16:00:00,complete,Colegiales,San Miguel,2.89,2.89,2.64,2.94,1.35,2.38,1.53,0,0
+2025,Argentina Prim B Nacional,2025-03-30,17:00:00,complete,Gimnasia y Tiro,Tristán Suárez,2.55,2.48,3.63,2.94,1.35,2.38,1.53,1,1
+2025,Argentina Prim B Nacional,2025-03-30,17:00:00,complete,Deportivo Maipú,San Martín Tucumán,2.32,2.74,3.65,3.04,1.33,2.63,1.44,0,1
+2025,Argentina Prim B Nacional,2025-03-30,18:00:00,complete,Colón,Gimnasia Jujuy,1.91,3.0,4.3,3.04,1.33,2.63,1.44,0,1
+2025,Argentina Prim B Nacional,2025-03-30,20:30:00,complete,Club Atlético Mitre,Gimnasia Mendoza,2.81,2.71,2.9,3.04,1.33,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-03-31,21:10:00,complete,Atlanta,Quilmes,2.4,2.68,3.56,3.15,1.31,2.63,1.44,2,0
+2025,Argentina Prim B Nacional,2025-04-05,13:30:00,complete,Chacarita Juniors,Defensores Unidos,1.71,3.26,5.6,2.69,1.41,2.63,1.44,2,0
+2025,Argentina Prim B Nacional,2025-04-05,15:00:00,complete,Club Atlético Güemes,Alvarado,2.04,2.95,4.1,2.85,1.37,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-04-05,15:30:00,complete,San Telmo,Temperley,2.67,2.66,3.13,2.59,1.44,2.1,1.67,0,3
+2025,Argentina Prim B Nacional,2025-04-05,15:30:00,complete,Los Andes,Gimnasia y Tiro,2.73,2.4,3.47,3.27,1.29,2.63,1.44,0,0
+2025,Argentina Prim B Nacional,2025-04-05,15:30:00,complete,San Miguel,Atlanta,2.04,2.9,4.3,3.09,1.32,2.75,1.4,0,0
+2025,Argentina Prim B Nacional,2025-04-05,15:30:00,complete,Defensores de Belgrano,Estudiantes Caseros,2.42,2.72,3.45,3.09,1.32,2.5,1.5,2,1
+2025,Argentina Prim B Nacional,2025-04-05,17:30:00,complete,Nueva Chicago,Talleres Remedios,1.98,2.95,4.4,3.04,1.33,2.5,1.5,2,0
+2025,Argentina Prim B Nacional,2025-04-05,19:00:00,complete,Tristán Suárez,Deportivo Maipú,2.01,3.01,4.2,2.62,1.43,2.25,1.57,1,1
+2025,Argentina Prim B Nacional,2025-04-06,15:30:00,complete,Almagro,Colegiales,2.11,2.78,4.3,3.21,1.3,2.63,1.44,0,0
+2025,Argentina Prim B Nacional,2025-04-06,15:30:00,complete,San Martín Tucumán,Deportivo Madryn,2.24,2.69,3.98,3.34,1.28,2.75,1.4,0,0
+2025,Argentina Prim B Nacional,2025-04-06,16:00:00,complete,Gimnasia Jujuy,Club Atlético Mitre,2.07,2.87,4.2,3.09,1.32,2.63,1.44,0,0
+2025,Argentina Prim B Nacional,2025-04-06,16:30:00,complete,Gimnasia Mendoza,Chaco For Ever,1.77,3.18,5.2,2.77,1.39,2.63,1.44,2,0
+2025,Argentina Prim B Nacional,2025-04-06,18:00:00,complete,Central Norte,Almirante Brown,2.1,3.09,3.7,2.56,1.45,2.2,1.62,2,1
+2025,Argentina Prim B Nacional,2025-04-06,19:00:00,complete,Estudiantes Río Cuarto,Deportivo Morón,2.15,2.8,4.0,3.04,1.33,2.5,1.5,1,0
+2025,Argentina Prim B Nacional,2025-04-07,18:00:00,complete,Agropecuario,Colón,3.14,2.79,2.54,2.81,1.38,2.25,1.57,2,1
+2025,Argentina Prim B Nacional,2025-04-07,19:00:00,complete,Ferro Carril Oeste,Arsenal de Sarandí,1.69,3.34,5.6,2.88,1.4,2.5,1.5,2,0
+2025,Argentina Prim B Nacional,2025-04-07,20:30:00,complete,Patronato,All Boys,1.98,2.99,4.33,2.89,1.36,2.5,1.5,3,1
+2025,Argentina Prim B Nacional,2025-04-07,21:10:00,complete,Quilmes,Racing Córdoba,1.98,2.98,4.4,3.34,1.28,2.63,1.44,3,0
+2025,Argentina Prim B Nacional,2025-04-12,15:30:00,complete,Defensores Unidos,Defensores de Belgrano,3.45,2.7,2.15,3.2,1.32,2.38,1.53,1,2
+2025,Argentina Prim B Nacional,2025-04-12,15:30:00,complete,Estudiantes Caseros,Estudiantes Río Cuarto,2.35,2.55,3.6,2.97,1.36,2.38,1.48,1,0
+2025,Argentina Prim B Nacional,2025-04-12,15:30:00,complete,All Boys,Club Atlético Güemes,2.35,2.7,3.35,3.08,1.28,2.2,1.47,3,1
+2025,Argentina Prim B Nacional,2025-04-12,15:30:00,complete,Alvarado,San Martín Tucumán,2.86,2.77,2.85,3.25,1.33,2.38,1.53,0,2
+2025,Argentina Prim B Nacional,2025-04-12,16:00:00,complete,Central Norte,Nueva Chicago,2.25,2.8,3.2,2.9,1.36,2.38,1.55,1,1
+2025,Argentina Prim B Nacional,2025-04-12,17:10:00,complete,Colegiales,Ferro Carril Oeste,2.8,2.66,2.78,3.05,1.33,2.2,1.44,1,0
+2025,Argentina Prim B Nacional,2025-04-13,15:00:00,complete,Almirante Brown,Gimnasia Mendoza,3.5,2.98,2.08,2.87,1.38,2.3,1.57,1,1
+2025,Argentina Prim B Nacional,2025-04-13,15:35:00,complete,Quilmes,Los Andes,1.85,2.9,4.4,3.1,1.36,2.5,1.55,2,0
+2025,Argentina Prim B Nacional,2025-04-13,16:00:00,complete,Racing Córdoba,San Miguel,2.6,2.58,3.05,3.3,1.33,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-04-13,16:00:00,complete,Deportivo Morón,Talleres Remedios,1.98,2.85,4.2,3.24,1.36,2.5,1.44,3,0
+2025,Argentina Prim B Nacional,2025-04-13,16:30:00,complete,Deportivo Maipú,Gimnasia y Tiro,2.2,2.85,3.4,2.9,1.38,2.3,1.57,1,0
+2025,Argentina Prim B Nacional,2025-04-13,16:30:00,complete,Chaco For Ever,Gimnasia Jujuy,2.45,2.55,3.35,3.2,1.28,2.45,1.5,2,1
+2025,Argentina Prim B Nacional,2025-04-13,17:00:00,complete,Temperley,Chacarita Juniors,2.15,2.86,3.5,2.8,1.36,2.38,1.53,0,3
+2025,Argentina Prim B Nacional,2025-04-13,17:00:00,complete,Club Atlético Mitre,Agropecuario,1.85,2.94,4.1,2.83,1.36,2.3,1.5,3,0
+2025,Argentina Prim B Nacional,2025-04-13,17:30:00,complete,Deportivo Madryn,Tristán Suárez,1.94,2.93,4.1,2.75,1.33,2.45,1.53,0,0
+2025,Argentina Prim B Nacional,2025-04-14,14:00:00,complete,Arsenal de Sarandí,Patronato,2.7,2.8,2.6,3.1,1.4,2.4,1.46,0,1
+2025,Argentina Prim B Nacional,2025-04-14,18:00:00,complete,Colón,San Telmo,1.7,3.4,4.8,2.4,1.54,2.25,1.5,0,1
+2025,Argentina Prim B Nacional,2025-04-14,21:10:00,complete,Atlanta,Almagro,1.83,2.9,4.33,2.78,1.34,2.5,1.44,1,0
+2025,Argentina Prim B Nacional,2025-04-19,15:00:00,complete,Club Atlético Güemes,Arsenal de Sarandí,1.63,3.1,5.75,2.9,1.35,2.8,1.36,1,0
+2025,Argentina Prim B Nacional,2025-04-19,15:30:00,complete,Almagro,Racing Córdoba,2.7,2.8,2.8,2.65,1.41,2.19,1.57,1,1
+2025,Argentina Prim B Nacional,2025-04-19,15:30:00,complete,Tristán Suárez,Alvarado,1.95,2.95,4.0,2.6,1.42,2.4,1.6,2,1
+2025,Argentina Prim B Nacional,2025-04-19,15:35:00,complete,San Miguel,Quilmes,2.0,2.9,4.0,2.7,1.38,2.25,1.53,2,2
+2025,Argentina Prim B Nacional,2025-04-19,16:00:00,complete,San Martín Tucumán,All Boys,1.77,2.95,5.0,3.21,1.36,2.63,1.5,1,1
+2025,Argentina Prim B Nacional,2025-04-19,16:00:00,complete,Gimnasia Mendoza,Central Norte,1.57,3.48,5.5,2.48,1.53,2.3,1.49,1,0
+2025,Argentina Prim B Nacional,2025-04-19,17:00:00,complete,Agropecuario,Chaco For Ever,2.34,2.89,3.15,2.7,1.37,2.2,1.55,2,0
+2025,Argentina Prim B Nacional,2025-04-19,21:00:00,complete,Gimnasia Jujuy,Almirante Brown,1.61,3.45,6.3,2.73,1.4,2.5,1.5,1,0
+2025,Argentina Prim B Nacional,2025-04-20,15:00:00,complete,Chacarita Juniors,Colón,2.24,2.92,3.2,3.02,1.4,2.25,1.6,3,2
+2025,Argentina Prim B Nacional,2025-04-20,15:30:00,complete,San Telmo,Club Atlético Mitre,2.47,2.82,3.16,2.75,1.33,2.1,1.55,0,0
+2025,Argentina Prim B Nacional,2025-04-20,15:30:00,complete,Talleres Remedios,Estudiantes Caseros,3.5,2.88,2.16,2.8,1.33,2.2,1.55,0,1
+2025,Argentina Prim B Nacional,2025-04-20,15:30:00,complete,Estudiantes Río Cuarto,Defensores Unidos,1.44,3.6,8.62,2.77,1.45,2.63,1.4,0,0
+2025,Argentina Prim B Nacional,2025-04-20,15:30:00,complete,Los Andes,Deportivo Maipú,2.2,2.65,3.3,2.6,1.37,2.1,1.62,3,0
+2025,Argentina Prim B Nacional,2025-04-20,17:00:00,complete,Patronato,Colegiales,1.84,2.97,5.3,2.73,1.4,2.3,1.57,0,1
+2025,Argentina Prim B Nacional,2025-04-20,17:00:00,complete,Gimnasia y Tiro,Deportivo Madryn,2.54,2.49,3.63,3.15,1.31,2.4,1.44,1,1
+2025,Argentina Prim B Nacional,2025-04-20,17:10:00,complete,Nueva Chicago,Deportivo Morón,2.32,2.84,3.47,2.85,1.37,2.38,1.49,1,2
+2025,Argentina Prim B Nacional,2025-04-22,17:10:00,complete,Defensores de Belgrano,Temperley,2.09,2.71,3.95,3.25,1.33,2.5,1.52,0,0
+2025,Argentina Prim B Nacional,2025-04-22,21:10:00,complete,Ferro Carril Oeste,Atlanta,2.15,2.77,3.6,2.95,1.33,2.45,1.53,0,1
+2025,Argentina Prim B Nacional,2025-04-26,13:40:00,complete,Atlanta,Patronato,1.85,3.0,3.7,2.63,1.44,2.3,1.57,1,1
+2025,Argentina Prim B Nacional,2025-04-26,15:30:00,complete,Colegiales,Club Atlético Güemes,2.45,2.75,3.1,3.0,1.36,2.38,1.5,1,0
+2025,Argentina Prim B Nacional,2025-04-26,15:30:00,complete,Defensores Unidos,Talleres Remedios,2.37,2.75,3.36,2.7,1.36,2.25,1.55,0,0
+2025,Argentina Prim B Nacional,2025-04-26,15:30:00,complete,San Miguel,Los Andes,1.85,2.94,5.42,2.87,1.36,2.63,1.46,1,0
+2025,Argentina Prim B Nacional,2025-04-26,16:30:00,complete,Chaco For Ever,San Telmo,1.8,3.1,4.75,2.78,1.41,2.38,1.52,1,2
+2025,Argentina Prim B Nacional,2025-04-26,17:10:00,complete,Estudiantes Caseros,Deportivo Morón,1.96,2.76,5.13,2.9,1.35,2.5,1.45,0,1
+2025,Argentina Prim B Nacional,2025-04-26,18:00:00,complete,Deportivo Madryn,Deportivo Maipú,1.77,2.95,5.77,3.3,1.29,2.6,1.47,1,1
+2025,Argentina Prim B Nacional,2025-04-26,19:10:00,complete,Quilmes,Almagro,1.81,3.14,5.0,2.73,1.4,2.42,1.53,0,1
+2025,Argentina Prim B Nacional,2025-04-26,20:00:00,complete,Arsenal de Sarandí,San Martín Tucumán,3.19,2.71,2.58,3.04,1.33,2.48,1.49,0,1
+2025,Argentina Prim B Nacional,2025-04-27,12:00:00,complete,Alvarado,Gimnasia y Tiro,2.05,2.68,4.5,3.0,1.29,2.55,1.4,2,1
+2025,Argentina Prim B Nacional,2025-04-27,15:00:00,complete,Almirante Brown,Agropecuario,2.45,2.88,3.1,3.0,1.37,2.25,1.6,0,0
+2025,Argentina Prim B Nacional,2025-04-27,15:30:00,complete,Temperley,Estudiantes Río Cuarto,2.45,2.65,3.1,2.8,1.33,2.25,1.5,1,0
+2025,Argentina Prim B Nacional,2025-04-27,16:00:00,complete,Racing Córdoba,Ferro Carril Oeste,2.2,2.85,3.25,2.8,1.37,2.1,1.67,4,0
+2025,Argentina Prim B Nacional,2025-04-27,16:00:00,complete,Gimnasia Mendoza,Nueva Chicago,1.52,3.5,6.3,2.62,1.5,2.3,1.5,1,1
+2025,Argentina Prim B Nacional,2025-04-27,17:00:00,complete,Club Atlético Mitre,Chacarita Juniors,2.1,2.63,4.0,3.1,1.4,2.2,1.6,0,0
+2025,Argentina Prim B Nacional,2025-04-27,18:30:00,complete,Central Norte,Gimnasia Jujuy,2.78,2.71,2.58,2.97,1.33,2.3,1.55,1,2
+2025,Argentina Prim B Nacional,2025-04-27,20:15:00,complete,Colón,Defensores de Belgrano,2.05,2.66,4.0,3.42,1.3,2.63,1.45,0,1
+2025,Argentina Prim B Nacional,2025-04-28,21:10:00,complete,All Boys,Tristán Suárez,2.4,2.74,3.26,3.0,1.38,2.25,1.49,0,2
+2025,Argentina Prim B Nacional,2025-05-02,20:10:00,complete,San Martín Tucumán,Colegiales,1.75,2.92,4.55,2.86,1.38,2.45,1.5,2,0
+2025,Argentina Prim B Nacional,2025-05-03,15:00:00,complete,Club Atlético Güemes,Atlanta,2.3,2.76,3.33,3.2,1.26,2.5,1.45,2,0
+2025,Argentina Prim B Nacional,2025-05-03,15:30:00,complete,Almagro,San Miguel,3.0,2.8,2.3,2.87,1.4,2.2,1.53,1,0
+2025,Argentina Prim B Nacional,2025-05-03,15:30:00,complete,San Telmo,Almirante Brown,2.2,2.9,3.4,2.69,1.45,2.23,1.57,0,1
+2025,Argentina Prim B Nacional,2025-05-03,17:05:00,complete,Los Andes,Deportivo Madryn,2.33,2.66,3.4,3.2,1.31,2.5,1.45,2,1
+2025,Argentina Prim B Nacional,2025-05-03,19:05:00,complete,Deportivo Morón,Defensores Unidos,1.73,3.1,4.9,2.63,1.47,2.4,1.45,4,0
+2025,Argentina Prim B Nacional,2025-05-03,21:10:00,complete,Ferro Carril Oeste,Quilmes,2.3,2.75,3.5,3.05,1.38,2.25,1.57,1,0
+2025,Argentina Prim B Nacional,2025-05-04,15:00:00,complete,Chacarita Juniors,Chaco For Ever,2.0,2.9,3.8,2.9,1.33,2.3,1.6,0,3
+2025,Argentina Prim B Nacional,2025-05-04,15:30:00,complete,Deportivo Maipú,Alvarado,2.15,2.8,3.87,2.75,1.38,2.25,1.57,3,0
+2025,Argentina Prim B Nacional,2025-05-04,15:30:00,complete,Talleres Remedios,Temperley,3.15,2.6,2.32,3.51,1.25,2.35,1.44,0,0
+2025,Argentina Prim B Nacional,2025-05-04,15:35:00,complete,Tristán Suárez,Arsenal de Sarandí,1.73,3.0,5.55,2.7,1.4,2.57,1.44,3,1
+2025,Argentina Prim B Nacional,2025-05-04,16:00:00,complete,Estudiantes Río Cuarto,Colón,2.21,2.75,3.4,3.29,1.33,2.5,1.45,2,1
+2025,Argentina Prim B Nacional,2025-05-04,16:00:00,complete,Gimnasia Jujuy,Gimnasia Mendoza,2.25,2.7,3.65,3.25,1.33,2.5,1.46,2,0
+2025,Argentina Prim B Nacional,2025-05-04,17:00:00,complete,Patronato,Racing Córdoba,2.31,2.85,2.98,2.3,1.5,2.2,1.62,3,2
+2025,Argentina Prim B Nacional,2025-05-04,17:00:00,complete,Gimnasia y Tiro,All Boys,2.03,2.61,4.1,2.99,1.34,2.71,1.44,0,0
+2025,Argentina Prim B Nacional,2025-05-05,17:05:00,complete,Nueva Chicago,Estudiantes Caseros,2.33,2.65,3.18,2.99,1.34,2.3,1.51,2,1
+2025,Argentina Prim B Nacional,2025-05-05,20:00:00,complete,Agropecuario,Central Norte,1.92,3.1,3.9,2.7,1.5,2.2,1.62,2,0
+2025,Argentina Prim B Nacional,2025-05-05,21:10:00,complete,Defensores de Belgrano,Club Atlético Mitre,2.01,2.53,5.21,3.25,1.33,2.63,1.42,1,0
+2025,Argentina Prim B Nacional,2025-05-09,20:00:00,complete,Arsenal de Sarandí,Gimnasia y Tiro,2.59,2.64,3.32,3.82,1.27,2.75,1.4,0,0
+2025,Argentina Prim B Nacional,2025-05-10,15:30:00,complete,Almagro,Los Andes,2.28,2.64,3.3,3.1,1.32,2.3,1.57,1,0
+2025,Argentina Prim B Nacional,2025-05-10,15:30:00,complete,San Miguel,Ferro Carril Oeste,1.91,2.88,4.0,2.88,1.32,2.48,1.5,2,0
+2025,Argentina Prim B Nacional,2025-05-10,16:00:00,complete,Gimnasia Jujuy,Nueva Chicago,1.6,3.05,5.5,3.0,1.4,2.88,1.36,2,1
+2025,Argentina Prim B Nacional,2025-05-10,18:00:00,complete,Colegiales,Tristán Suárez,3.03,2.65,2.7,3.4,1.26,2.4,1.5,1,0
+2025,Argentina Prim B Nacional,2025-05-10,18:10:00,complete,Quilmes,Patronato,2.08,2.88,3.9,2.75,1.38,2.3,1.55,1,1
+2025,Argentina Prim B Nacional,2025-05-11,13:30:00,complete,Atlanta,San Martín Tucumán,2.72,2.38,3.1,3.5,1.25,2.65,1.4,3,1
+2025,Argentina Prim B Nacional,2025-05-11,15:00:00,complete,Alvarado,Deportivo Madryn,2.76,2.81,2.57,3.0,1.28,2.3,1.55,0,2
+2025,Argentina Prim B Nacional,2025-05-11,15:30:00,complete,Defensores Unidos,Estudiantes Caseros,3.45,2.86,2.09,2.9,1.38,2.35,1.5,1,1
+2025,Argentina Prim B Nacional,2025-05-11,15:30:00,complete,Gimnasia Mendoza,Agropecuario,1.5,3.8,5.5,2.36,1.57,2.25,1.57,2,1
+2025,Argentina Prim B Nacional,2025-05-11,16:00:00,complete,Club Atlético Mitre,Estudiantes Río Cuarto,2.39,2.85,2.85,3.21,1.3,2.57,1.42,0,0
+2025,Argentina Prim B Nacional,2025-05-11,16:00:00,complete,Racing Córdoba,Club Atlético Güemes,1.91,2.9,3.75,2.75,1.36,2.38,1.53,2,2
+2025,Argentina Prim B Nacional,2025-05-11,17:00:00,complete,Colón,Talleres Remedios,1.51,3.68,5.4,2.3,1.5,2.5,1.42,1,0
+2025,Argentina Prim B Nacional,2025-05-11,17:45:00,complete,Almirante Brown,Chacarita Juniors,2.75,2.75,2.65,3.1,1.38,2.25,1.57,1,3
+2025,Argentina Prim B Nacional,2025-05-11,19:45:00,complete,Temperley,Deportivo Morón,2.4,2.7,3.2,3.14,1.33,2.4,1.46,1,1
+2025,Argentina Prim B Nacional,2025-05-12,20:00:00,complete,All Boys,Deportivo Maipú,2.15,2.9,3.35,2.88,1.41,2.2,1.62,0,0
+2025,Argentina Prim B Nacional,2025-05-12,21:00:00,complete,Chaco For Ever,Defensores de Belgrano,2.14,2.55,3.35,3.4,1.33,2.5,1.5,1,0
+2025,Argentina Prim B Nacional,2025-05-12,21:30:00,complete,Central Norte,San Telmo,1.99,2.9,3.7,2.54,1.5,2.1,1.63,1,2
+2025,Argentina Prim B Nacional,2025-05-16,20:05:00,complete,Ferro Carril Oeste,Almagro,1.91,3.0,4.23,2.75,1.4,2.25,1.51,1,1
+2025,Argentina Prim B Nacional,2025-05-17,18:00:00,complete,Estudiantes Río Cuarto,Chaco For Ever,2.15,2.6,3.35,3.4,1.28,2.55,1.44,0,0
+2025,Argentina Prim B Nacional,2025-05-17,21:10:00,complete,San Martín Tucumán,Racing Córdoba,1.97,2.85,4.63,2.75,1.37,2.45,1.46,1,1
+2025,Argentina Prim B Nacional,2025-05-18,15:00:00,complete,Club Atlético Güemes,Quilmes,2.16,2.9,3.35,2.97,1.4,2.3,1.48,0,0
+2025,Argentina Prim B Nacional,2025-05-18,15:30:00,complete,Chacarita Juniors,Central Norte,1.6,3.5,4.95,2.38,1.43,2.38,1.49,4,0
+2025,Argentina Prim B Nacional,2025-05-18,15:30:00,complete,Deportivo Maipú,Arsenal de Sarandí,1.66,3.15,5.5,2.6,1.36,2.62,1.44,1,1
+2025,Argentina Prim B Nacional,2025-05-18,15:30:00,complete,Tristán Suárez,Atlanta,2.41,2.7,2.84,2.92,1.36,2.2,1.62,0,0
+2025,Argentina Prim B Nacional,2025-05-18,15:30:00,complete,Deportivo Madryn,All Boys,1.61,3.3,6.0,2.97,1.36,2.91,1.44,2,1
+2025,Argentina Prim B Nacional,2025-05-18,17:00:00,complete,Gimnasia y Tiro,Colegiales,2.12,2.87,3.34,3.34,1.28,2.62,1.46,4,0
+2025,Argentina Prim B Nacional,2025-05-19,16:00:00,complete,Patronato,San Miguel,2.12,2.96,3.23,2.65,1.42,2.25,1.6,2,1
+2025,Argentina Prim B Nacional,2025-05-19,20:00:00,complete,Agropecuario,Gimnasia Jujuy,2.62,2.62,2.75,2.88,1.35,2.3,1.53,1,1
+2025,Argentina Prim B Nacional,2025-05-23,20:00:00,complete,Almirante Brown,Estudiantes Río Cuarto,3.24,2.64,2.53,3.3,1.29,2.64,1.4,0,2
+2025,Argentina Prim B Nacional,2025-05-24,13:30:00,complete,Atlanta,Gimnasia y Tiro,2.05,2.7,4.78,3.5,1.25,2.75,1.38,1,0
+2025,Argentina Prim B Nacional,2025-05-24,15:00:00,complete,Colón,Estudiantes Caseros,2.0,2.9,3.75,2.95,1.36,2.38,1.53,0,0
+2025,Argentina Prim B Nacional,2025-05-24,15:30:00,complete,San Miguel,Club Atlético Güemes,1.76,3.0,6.51,2.94,1.36,2.63,1.42,1,1
+2025,Argentina Prim B Nacional,2025-05-24,15:30:00,complete,Temperley,Defensores Unidos,1.6,3.2,6.5,2.77,1.4,2.65,1.4,3,0
+2025,Argentina Prim B Nacional,2025-05-24,15:30:00,complete,Agropecuario,Nueva Chicago,2.1,2.9,3.75,2.7,1.42,2.38,1.62,1,0
+2025,Argentina Prim B Nacional,2025-05-24,16:00:00,complete,Ferro Carril Oeste,Los Andes,2.0,2.88,3.8,2.75,1.39,2.3,1.55,2,0
+2025,Argentina Prim B Nacional,2025-05-24,19:00:00,complete,Chaco For Ever,Talleres Remedios,1.61,3.2,5.5,2.85,1.4,2.75,1.45,1,0
+2025,Argentina Prim B Nacional,2025-05-25,13:00:00,complete,Arsenal de Sarandí,Deportivo Madryn,3.7,2.6,2.0,3.74,1.29,2.75,1.4,1,1
+2025,Argentina Prim B Nacional,2025-05-25,14:00:00,complete,Colegiales,Deportivo Maipú,2.16,2.75,3.4,3.15,1.42,2.2,1.62,0,1
+2025,Argentina Prim B Nacional,2025-05-25,15:30:00,complete,Almagro,Patronato,2.3,2.9,3.35,2.87,1.39,2.2,1.6,2,1
+2025,Argentina Prim B Nacional,2025-05-25,15:30:00,complete,Gimnasia Mendoza,Chacarita Juniors,1.84,3.05,4.2,2.39,1.51,2.1,1.54,0,0
+2025,Argentina Prim B Nacional,2025-05-25,15:30:00,complete,All Boys,Alvarado,1.99,2.88,3.7,2.88,1.33,2.38,1.53,0,1
+2025,Argentina Prim B Nacional,2025-05-25,16:00:00,complete,Gimnasia Jujuy,San Telmo,1.73,3.1,4.8,2.37,1.48,2.38,1.55,1,1
+2025,Argentina Prim B Nacional,2025-05-25,17:00:00,complete,Central Norte,Defensores de Belgrano,2.75,2.75,2.6,3.21,1.3,2.4,1.55,2,1
+2025,Argentina Prim B Nacional,2025-05-25,17:00:00,complete,Club Atlético Mitre,Deportivo Morón,2.22,2.65,3.55,3.34,1.28,2.7,1.4,0,0
+2025,Argentina Prim B Nacional,2025-05-25,17:00:00,complete,Racing Córdoba,Tristán Suárez,2.02,3.0,3.5,2.56,1.45,2.2,1.62,1,1
+2025,Argentina Prim B Nacional,2025-05-26,20:10:00,complete,Quilmes,San Martín Tucumán,2.14,2.75,3.89,3.5,1.3,2.62,1.4,1,2
+2025,Argentina Prim B Nacional,2025-05-28,21:10:00,complete,Almirante Brown,Nueva Chicago,2.38,2.7,3.32,3.0,1.33,2.32,1.5,0,0
+2025,Argentina Prim B Nacional,2025-05-30,22:00:00,complete,Gimnasia y Tiro,Racing Córdoba,2.4,2.57,3.5,3.81,1.22,2.63,1.39,2,0
+2025,Argentina Prim B Nacional,2025-05-31,13:30:00,complete,Tristán Suárez,Quilmes,2.2,2.7,3.4,2.97,1.33,2.4,1.5,0,0
+2025,Argentina Prim B Nacional,2025-05-31,15:00:00,complete,Club Atlético Güemes,Almagro,1.84,3.08,3.99,2.85,1.37,2.4,1.45,1,1
+2025,Argentina Prim B Nacional,2025-05-31,15:30:00,complete,Deportivo Morón,Chaco For Ever,2.07,2.9,3.41,3.34,1.28,2.65,1.44,2,1
+2025,Argentina Prim B Nacional,2025-05-31,15:30:00,complete,Estudiantes Caseros,Club Atlético Mitre,1.89,2.93,4.0,3.15,1.31,2.62,1.42,2,0
+2025,Argentina Prim B Nacional,2025-05-31,18:00:00,complete,Estudiantes Río Cuarto,Central Norte,1.57,3.3,7.52,2.62,1.41,2.63,1.38,1,0
+2025,Argentina Prim B Nacional,2025-05-31,19:30:00,complete,Los Andes,All Boys,2.25,2.63,4.15,3.34,1.29,2.5,1.41,1,1
+2025,Argentina Prim B Nacional,2025-05-31,21:30:00,complete,San Martín Tucumán,San Miguel,2.3,2.6,3.25,3.4,1.33,2.38,1.5,0,1
+2025,Argentina Prim B Nacional,2025-06-01,14:30:00,complete,Chacarita Juniors,Gimnasia Jujuy,1.89,3.09,3.73,2.89,1.36,2.45,1.57,0,1
+2025,Argentina Prim B Nacional,2025-06-01,15:30:00,complete,Deportivo Madryn,Colegiales,1.89,2.83,4.2,2.8,1.38,2.8,1.38,3,1
+2025,Argentina Prim B Nacional,2025-06-01,15:30:00,complete,Defensores Unidos,Colón,3.0,2.92,2.25,2.59,1.44,2.2,1.62,0,1
+2025,Argentina Prim B Nacional,2025-06-01,15:30:00,complete,San Telmo,Agropecuario,1.95,3.1,3.53,2.37,1.48,2.16,1.67,3,3
+2025,Argentina Prim B Nacional,2025-06-01,15:30:00,complete,Deportivo Maipú,Atlanta,2.2,2.89,3.14,2.85,1.37,2.1,1.62,0,1
+2025,Argentina Prim B Nacional,2025-06-01,15:30:00,complete,Talleres Remedios,Almirante Brown,2.39,2.72,3.01,3.0,1.34,2.38,1.53,1,2
+2025,Argentina Prim B Nacional,2025-06-01,15:30:00,complete,Defensores de Belgrano,Gimnasia Mendoza,2.08,2.98,3.3,3.27,1.29,2.38,1.53,0,2
+2025,Argentina Prim B Nacional,2025-06-01,15:30:00,complete,Alvarado,Arsenal de Sarandí,1.59,3.39,5.1,2.37,1.48,2.3,1.57,0,2
+2025,Argentina Prim B Nacional,2025-06-01,16:00:00,complete,Patronato,Ferro Carril Oeste,1.98,3.13,3.37,2.25,1.53,2.2,1.62,3,0
+2025,Argentina Prim B Nacional,2025-06-02,19:00:00,complete,Nueva Chicago,Temperley,2.5,2.64,2.7,3.2,1.34,2.5,1.48,0,1
+2025,Argentina Prim B Nacional,2025-06-06,15:15:00,complete,Defensores de Belgrano,Almirante Brown,1.61,3.06,5.8,2.89,1.36,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-06-06,19:00:00,complete,Estudiantes Caseros,Temperley,2.25,2.65,3.6,3.4,1.35,2.48,1.42,0,0
+2025,Argentina Prim B Nacional,2025-06-06,19:00:00,complete,Los Andes,Alvarado,1.84,2.86,4.1,3.28,1.28,2.5,1.42,1,0
+2025,Argentina Prim B Nacional,2025-06-07,13:40:00,complete,Talleres Remedios,Club Atlético Mitre,2.85,2.5,2.94,3.7,1.25,3.0,1.4,1,3
+2025,Argentina Prim B Nacional,2025-06-07,19:10:00,complete,Deportivo Morón,Colón,2.14,2.75,3.85,2.8,1.3,2.3,1.57,1,0
+2025,Argentina Prim B Nacional,2025-06-08,15:00:00,complete,Nueva Chicago,Defensores Unidos,1.62,3.41,4.75,2.65,1.42,2.38,1.53,1,0
+2025,Argentina Prim B Nacional,2025-06-08,15:00:00,complete,San Telmo,Gimnasia Mendoza,3.7,2.89,1.99,2.65,1.42,2.4,1.62,0,0
+2025,Argentina Prim B Nacional,2025-06-13,22:00:00,complete,Gimnasia y Tiro,Quilmes,2.4,2.42,3.4,3.82,1.25,2.62,1.44,2,1
+2025,Argentina Prim B Nacional,2025-06-14,13:40:00,complete,Defensores de Belgrano,Gimnasia Jujuy,2.67,2.43,3.3,3.75,1.25,2.65,1.44,0,1
+2025,Argentina Prim B Nacional,2025-06-14,15:00:00,complete,Chacarita Juniors,Agropecuario,1.95,2.95,4.07,2.63,1.44,2.2,1.62,3,0
+2025,Argentina Prim B Nacional,2025-06-14,15:00:00,complete,Talleres Remedios,Central Norte,2.3,2.8,3.16,2.75,1.4,2.2,1.62,0,1
+2025,Argentina Prim B Nacional,2025-06-14,15:00:00,complete,Tristán Suárez,San Miguel,2.7,2.75,2.92,2.9,1.35,2.38,1.55,0,0
+2025,Argentina Prim B Nacional,2025-06-14,15:30:00,complete,Estudiantes Caseros,Chaco For Ever,2.08,2.75,4.19,3.14,1.27,2.5,1.5,1,2
+2025,Argentina Prim B Nacional,2025-06-14,15:30:00,complete,Deportivo Maipú,Racing Córdoba,2.47,2.87,3.11,2.87,1.4,2.2,1.62,1,1
+2025,Argentina Prim B Nacional,2025-06-14,16:00:00,complete,San Martín Tucumán,Almagro,1.7,3.14,5.55,3.5,1.33,2.75,1.4,1,1
+2025,Argentina Prim B Nacional,2025-06-14,16:40:00,complete,Temperley,Colón,2.42,2.55,3.61,3.75,1.25,2.63,1.44,2,1
+2025,Argentina Prim B Nacional,2025-06-14,18:00:00,complete,Estudiantes Río Cuarto,Gimnasia Mendoza,2.84,2.4,3.0,3.75,1.25,2.6,1.45,1,1
+2025,Argentina Prim B Nacional,2025-06-14,18:40:00,complete,Deportivo Morón,Almirante Brown,1.92,2.83,4.6,2.8,1.33,2.5,1.48,2,0
+2025,Argentina Prim B Nacional,2025-06-15,13:10:00,complete,San Telmo,Nueva Chicago,2.55,2.8,2.97,2.63,1.44,2.1,1.58,2,2
+2025,Argentina Prim B Nacional,2025-06-15,15:00:00,complete,Club Atlético Güemes,Ferro Carril Oeste,2.52,2.82,3.15,3.08,1.33,2.43,1.52,1,1
+2025,Argentina Prim B Nacional,2025-06-15,15:30:00,complete,Alvarado,Colegiales,2.46,2.68,3.15,3.44,1.36,2.68,1.44,1,0
+2025,Argentina Prim B Nacional,2025-06-15,15:30:00,complete,Deportivo Madryn,Atlanta,1.95,2.89,4.69,3.0,1.36,2.77,1.53,1,1
+2025,Argentina Prim B Nacional,2025-06-15,15:30:00,complete,Defensores Unidos,Club Atlético Mitre,3.2,2.73,2.26,2.97,1.35,2.38,1.53,0,2
+2025,Argentina Prim B Nacional,2025-06-15,16:00:00,complete,Patronato,Los Andes,2.03,2.91,3.6,2.75,1.4,2.52,1.57,0,0
+2025,Argentina Prim B Nacional,2025-06-15,17:30:00,complete,All Boys,Arsenal de Sarandí,2.16,2.67,3.55,3.09,1.32,2.55,1.5,2,1
+2025,Argentina Prim B Nacional,2025-06-20,16:00:00,complete,Racing Córdoba,Deportivo Madryn,2.4,2.6,3.2,3.05,1.28,2.38,1.5,2,3
+2025,Argentina Prim B Nacional,2025-06-21,15:10:00,complete,Almagro,Tristán Suárez,2.3,2.8,3.2,2.87,1.4,2.2,1.56,0,1
+2025,Argentina Prim B Nacional,2025-06-21,15:30:00,complete,San Miguel,Gimnasia y Tiro,1.67,3.1,5.2,3.0,1.36,3.25,1.31,1,0
+2025,Argentina Prim B Nacional,2025-06-21,16:30:00,complete,Chaco For Ever,Defensores Unidos,1.36,3.8,12.0,3.4,1.27,4.1,1.17,2,0
+2025,Argentina Prim B Nacional,2025-06-21,17:10:00,complete,Quilmes,Deportivo Maipú,1.82,2.9,4.5,2.89,1.36,2.4,1.48,2,2
+2025,Argentina Prim B Nacional,2025-06-21,19:10:00,complete,Colegiales,All Boys,2.83,2.58,3.0,2.75,1.36,2.43,1.5,2,1
+2025,Argentina Prim B Nacional,2025-06-22,13:10:00,complete,San Telmo,Chacarita Juniors,2.7,2.75,2.72,2.7,1.43,2.05,1.56,0,1
+2025,Argentina Prim B Nacional,2025-06-22,13:10:00,complete,Atlanta,Alvarado,1.57,3.36,6.76,2.87,1.4,2.71,1.42,0,2
+2025,Argentina Prim B Nacional,2025-06-22,15:00:00,complete,Los Andes,Arsenal de Sarandí,1.75,2.87,5.18,3.1,1.33,2.35,1.38,1,3
+2025,Argentina Prim B Nacional,2025-06-22,15:10:00,complete,Ferro Carril Oeste,San Martín Tucumán,2.34,2.71,3.77,3.14,1.27,2.45,1.44,0,2
+2025,Argentina Prim B Nacional,2025-06-22,15:30:00,complete,Gimnasia Mendoza,Talleres Remedios,1.32,4.0,8.75,2.35,1.46,3.0,1.36,1,1
+2025,Argentina Prim B Nacional,2025-06-22,15:30:00,complete,Agropecuario,Defensores de Belgrano,2.45,2.75,3.0,2.95,1.34,2.55,1.48,1,1
+2025,Argentina Prim B Nacional,2025-06-22,15:30:00,complete,Almirante Brown,Estudiantes Caseros,2.7,2.54,2.76,3.0,1.33,2.3,1.5,0,1
+2025,Argentina Prim B Nacional,2025-06-22,16:00:00,complete,Gimnasia Jujuy,Estudiantes Río Cuarto,2.0,2.72,4.33,4.0,1.25,2.88,1.36,2,2
+2025,Argentina Prim B Nacional,2025-06-22,16:00:00,complete,Patronato,Club Atlético Güemes,2.2,2.87,3.76,2.55,1.4,2.25,1.57,1,1
+2025,Argentina Prim B Nacional,2025-06-22,17:00:00,complete,Central Norte,Deportivo Morón,2.76,2.55,2.74,2.73,1.4,2.38,1.53,0,0
+2025,Argentina Prim B Nacional,2025-06-22,17:00:00,complete,Club Atlético Mitre,Temperley,2.24,2.53,3.61,3.41,1.27,2.75,1.4,2,2
+2025,Argentina Prim B Nacional,2025-06-23,19:00:00,complete,Nueva Chicago,Colón,2.5,2.76,2.75,3.12,1.34,2.37,1.51,1,0
+2025,Argentina Prim B Nacional,2025-06-28,15:00:00,complete,Arsenal de Sarandí,Colegiales,2.4,2.67,3.36,3.25,1.33,2.3,1.52,0,2
+2025,Argentina Prim B Nacional,2025-06-28,15:00:00,complete,Tristán Suárez,Ferro Carril Oeste,2.18,2.8,3.8,2.85,1.44,2.1,1.67,1,1
+2025,Argentina Prim B Nacional,2025-06-28,15:15:00,complete,Chacarita Juniors,Nueva Chicago,1.74,3.05,4.6,2.65,1.44,2.2,1.53,0,0
+2025,Argentina Prim B Nacional,2025-06-28,15:30:00,complete,Talleres Remedios,Gimnasia Jujuy,4.0,2.68,2.01,3.2,1.36,2.5,1.5,0,1
+2025,Argentina Prim B Nacional,2025-06-28,15:30:00,complete,Defensores Unidos,Almirante Brown,3.1,2.75,2.3,2.99,1.39,2.2,1.62,1,1
+2025,Argentina Prim B Nacional,2025-06-28,17:15:00,complete,Temperley,Chaco For Ever,2.15,2.92,3.21,3.27,1.29,2.5,1.5,2,2
+2025,Argentina Prim B Nacional,2025-06-28,20:00:00,complete,San Martín Tucumán,Patronato,1.67,3.32,5.0,2.67,1.42,2.7,1.45,0,1
+2025,Argentina Prim B Nacional,2025-06-29,14:45:00,complete,All Boys,Atlanta,3.42,2.48,2.45,3.5,1.3,2.5,1.5,0,0
+2025,Argentina Prim B Nacional,2025-06-29,15:00:00,complete,Estudiantes Caseros,Central Norte,1.7,3.05,4.8,2.7,1.42,2.4,1.53,0,1
+2025,Argentina Prim B Nacional,2025-06-29,15:30:00,complete,Club Atlético Güemes,Los Andes,2.1,2.7,4.0,3.62,1.32,3.05,1.39,2,1
+2025,Argentina Prim B Nacional,2025-06-29,15:30:00,complete,Deportivo Maipú,San Miguel,2.55,2.7,2.9,2.75,1.39,2.21,1.57,0,1
+2025,Argentina Prim B Nacional,2025-06-29,15:30:00,complete,Alvarado,Racing Córdoba,3.16,2.5,2.69,3.5,1.25,2.55,1.44,0,1
+2025,Argentina Prim B Nacional,2025-06-29,16:00:00,complete,Estudiantes Río Cuarto,Agropecuario,1.77,3.1,4.35,2.7,1.43,2.3,1.57,1,1
+2025,Argentina Prim B Nacional,2025-06-29,16:00:00,complete,Gimnasia y Tiro,Almagro,2.0,2.71,3.95,3.05,1.33,2.54,1.44,1,0
+2025,Argentina Prim B Nacional,2025-07-01,11:00:00,complete,Colón,Club Atlético Mitre,2.13,2.61,4.45,3.5,1.32,2.75,1.45,0,1
+2025,Argentina Prim B Nacional,2025-07-05,14:00:00,complete,Deportivo Morón,Gimnasia Mendoza,3.85,3.2,2.0,0.0,0.0,0.0,0.0,1,0
+2025,Argentina Prim B Nacional,2025-07-05,15:00:00,complete,San Telmo,Estudiantes Río Cuarto,2.62,2.8,2.41,2.88,1.36,2.32,1.6,0,1
+2025,Argentina Prim B Nacional,2025-07-05,15:00:00,complete,Los Andes,Colegiales,2.05,2.75,3.94,3.08,1.28,2.5,1.44,0,0
+2025,Argentina Prim B Nacional,2025-07-05,15:30:00,complete,Almagro,Deportivo Maipú,2.03,2.87,3.8,2.78,1.4,2.25,1.52,0,1
+2025,Argentina Prim B Nacional,2025-07-05,15:30:00,complete,San Miguel,Deportivo Madryn,1.91,2.75,4.1,3.0,1.36,2.38,1.53,1,1
+2025,Argentina Prim B Nacional,2025-07-05,19:00:00,complete,Ferro Carril Oeste,Gimnasia y Tiro,2.38,2.63,3.54,3.83,1.28,2.8,1.4,0,0
+2025,Argentina Prim B Nacional,2025-07-06,13:05:00,complete,Atlanta,Arsenal de Sarandí,1.6,3.58,7.67,2.55,1.44,2.5,1.5,4,0
+2025,Argentina Prim B Nacional,2025-07-06,14:00:00,complete,Nueva Chicago,Club Atlético Mitre,2.66,2.65,3.07,3.25,1.33,2.3,1.5,2,0
+2025,Argentina Prim B Nacional,2025-07-06,15:05:00,complete,Chacarita Juniors,Defensores de Belgrano,2.14,2.87,3.4,3.1,1.36,2.3,1.55,0,2
+2025,Argentina Prim B Nacional,2025-07-06,15:30:00,complete,Gimnasia Mendoza,Estudiantes Caseros,1.6,3.0,5.93,2.63,1.42,2.3,1.5,1,0
+2025,Argentina Prim B Nacional,2025-07-06,15:30:00,complete,Agropecuario,Talleres Remedios,1.61,3.46,6.0,2.35,1.57,2.42,1.48,2,1
+2025,Argentina Prim B Nacional,2025-07-06,15:30:00,complete,Patronato,Tristán Suárez,2.28,2.8,3.25,2.7,1.37,2.2,1.62,2,0
+2025,Argentina Prim B Nacional,2025-07-06,16:00:00,complete,Gimnasia Jujuy,Deportivo Morón,1.72,2.85,5.77,3.33,1.3,2.63,1.44,0,0
+2025,Argentina Prim B Nacional,2025-07-06,16:00:00,complete,Chaco For Ever,Colón,2.2,2.81,3.68,3.25,1.3,2.5,1.48,2,0
+2025,Argentina Prim B Nacional,2025-07-06,16:00:00,complete,Racing Córdoba,All Boys,1.8,3.12,5.19,2.87,1.4,2.3,1.48,0,0
+2025,Argentina Prim B Nacional,2025-07-06,17:00:00,complete,Central Norte,Defensores Unidos,1.61,3.11,5.6,2.37,1.48,2.45,1.44,3,0
+2025,Argentina Prim B Nacional,2025-07-06,17:10:00,complete,Club Atlético Güemes,San Martín Tucumán,2.43,2.5,3.35,3.27,1.29,2.3,1.48,2,1
+2025,Argentina Prim B Nacional,2025-07-06,19:10:00,complete,Almirante Brown,Temperley,3.46,2.72,2.31,3.4,1.36,2.4,1.5,0,0
+2025,Argentina Prim B Nacional,2025-07-11,22:00:00,complete,Gimnasia y Tiro,Patronato,2.14,2.89,3.27,3.21,1.3,2.69,1.44,2,1
+2025,Argentina Prim B Nacional,2025-07-12,13:00:00,complete,All Boys,Quilmes,2.35,2.65,3.35,3.5,1.3,2.38,1.53,0,0
+2025,Argentina Prim B Nacional,2025-07-12,15:00:00,complete,Talleres Remedios,San Telmo,2.8,2.8,2.45,2.69,1.44,2.05,1.7,0,0
+2025,Argentina Prim B Nacional,2025-07-12,15:00:00,complete,Tristán Suárez,Club Atlético Güemes,2.3,3.1,3.3,2.7,1.44,2.25,1.57,2,2
+2025,Argentina Prim B Nacional,2025-07-12,15:05:00,complete,Colegiales,Atlanta,3.35,2.65,2.2,3.0,1.32,2.48,1.52,2,0
+2025,Argentina Prim B Nacional,2025-07-12,15:15:00,complete,Deportivo Morón,Agropecuario,1.75,3.1,4.6,2.45,1.44,2.3,1.57,1,1
+2025,Argentina Prim B Nacional,2025-07-12,15:30:00,complete,Defensores Unidos,Gimnasia Mendoza,4.9,3.15,1.73,2.62,1.42,2.45,1.44,0,1
+2025,Argentina Prim B Nacional,2025-07-12,15:30:00,complete,Temperley,Central Norte,1.73,2.9,5.5,3.1,1.33,2.65,1.38,1,0
+2025,Argentina Prim B Nacional,2025-07-12,17:10:00,complete,Estudiantes Caseros,Gimnasia Jujuy,2.55,2.46,3.5,3.2,1.3,2.51,1.5,0,0
+2025,Argentina Prim B Nacional,2025-07-12,19:00:00,complete,San Martín Tucumán,Los Andes,1.72,3.3,4.6,3.04,1.33,2.93,1.33,1,0
+2025,Argentina Prim B Nacional,2025-07-12,19:10:00,complete,Defensores de Belgrano,Nueva Chicago,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,2
+2025,Argentina Prim B Nacional,2025-07-13,13:40:00,complete,Colón,Almirante Brown,1.65,3.17,5.1,2.62,1.42,2.25,1.6,1,0
+2025,Argentina Prim B Nacional,2025-07-13,14:00:00,complete,Deportivo Madryn,Almagro,1.47,3.8,7.5,2.55,1.5,2.78,1.5,2,1
+2025,Argentina Prim B Nacional,2025-07-13,15:00:00,complete,Arsenal de Sarandí,Racing Córdoba,2.94,2.74,2.25,3.0,1.3,2.38,1.53,2,1
+2025,Argentina Prim B Nacional,2025-07-13,15:00:00,complete,Deportivo Maipú,Ferro Carril Oeste,1.9,2.89,4.0,2.75,1.4,2.38,1.53,2,1
+2025,Argentina Prim B Nacional,2025-07-13,15:00:00,complete,Alvarado,San Miguel,3.95,2.86,2.0,3.4,1.29,2.63,1.44,0,0
+2025,Argentina Prim B Nacional,2025-07-13,15:30:00,complete,Club Atlético Mitre,Chaco For Ever,2.17,2.6,3.38,3.25,1.3,2.4,1.45,1,0
+2025,Argentina Prim B Nacional,2025-07-13,15:45:00,complete,Estudiantes Río Cuarto,Chacarita Juniors,2.12,2.74,3.76,3.05,1.33,2.45,1.45,1,0
+2025,Argentina Prim B Nacional,2025-07-19,14:35:00,complete,San Telmo,Deportivo Morón,0.0,0.0,0.0,3.1,1.36,0.0,0.0,1,2
+2025,Argentina Prim B Nacional,2025-07-19,15:30:00,complete,San Miguel,All Boys,1.72,3.06,4.7,3.4,1.33,2.78,1.44,1,0
+2025,Argentina Prim B Nacional,2025-07-19,15:30:00,complete,Almagro,Alvarado,2.1,2.95,4.2,3.4,1.33,2.48,1.5,0,0
+2025,Argentina Prim B Nacional,2025-07-19,16:40:00,complete,San Martín Tucumán,Tristán Suárez,1.82,3.05,4.4,2.7,1.44,2.38,1.5,1,1
+2025,Argentina Prim B Nacional,2025-07-19,18:30:00,complete,Quilmes,Arsenal de Sarandí,1.7,3.2,5.15,2.75,1.4,2.6,1.44,3,1
+2025,Argentina Prim B Nacional,2025-07-19,18:45:00,complete,Los Andes,Atlanta,3.08,2.64,2.55,3.14,1.27,2.45,1.46,3,0
+2025,Argentina Prim B Nacional,2025-07-19,19:00:00,complete,Ferro Carril Oeste,Deportivo Madryn,2.77,2.64,2.86,3.25,1.33,2.38,1.53,1,1
+2025,Argentina Prim B Nacional,2025-07-20,14:00:00,complete,Chacarita Juniors,Talleres Remedios,1.5,3.35,6.5,3.0,1.31,2.9,1.36,2,1
+2025,Argentina Prim B Nacional,2025-07-20,15:00:00,complete,Gimnasia Mendoza,Temperley,1.86,3.01,4.4,2.85,1.4,2.4,1.5,0,1
+2025,Argentina Prim B Nacional,2025-07-20,15:30:00,complete,Almirante Brown,Club Atlético Mitre,2.75,2.8,2.92,3.2,1.33,2.3,1.53,2,0
+2025,Argentina Prim B Nacional,2025-07-20,15:30:00,complete,Club Atlético Güemes,Gimnasia y Tiro,2.03,2.7,4.4,3.85,1.25,2.75,1.35,1,1
+2025,Argentina Prim B Nacional,2025-07-20,15:30:00,complete,Patronato,Deportivo Maipú,2.09,3.0,3.4,2.6,1.42,2.17,1.6,1,0
+2025,Argentina Prim B Nacional,2025-07-20,16:00:00,complete,Racing Córdoba,Colegiales,2.11,2.65,4.09,3.55,1.3,2.63,1.44,2,1
+2025,Argentina Prim B Nacional,2025-07-20,16:00:00,complete,Gimnasia Jujuy,Defensores Unidos,1.28,4.25,13.0,2.25,1.55,3.0,1.36,1,1
+2025,Argentina Prim B Nacional,2025-07-20,16:00:00,complete,Defensores de Belgrano,Estudiantes Río Cuarto,2.53,2.63,3.45,3.0,1.33,2.45,1.48,0,0
+2025,Argentina Prim B Nacional,2025-07-20,18:00:00,complete,Nueva Chicago,Chaco For Ever,2.4,2.69,3.3,3.2,1.3,2.54,1.46,0,0
+2025,Argentina Prim B Nacional,2025-07-20,18:00:00,complete,Central Norte,Colón,2.5,2.8,3.2,3.4,1.28,2.3,1.57,3,4
+2025,Argentina Prim B Nacional,2025-07-21,14:00:00,complete,Agropecuario,Estudiantes Caseros,2.39,2.85,3.3,2.65,1.46,2.25,1.67,1,2
+2025,Argentina Prim B Nacional,2025-07-25,21:10:00,complete,Colegiales,Quilmes,2.64,2.7,2.8,3.35,1.3,2.5,1.5,1,0
+2025,Argentina Prim B Nacional,2025-07-25,22:00:00,complete,Gimnasia y Tiro,San Martín Tucumán,2.5,2.63,2.79,3.1,1.26,2.38,1.53,2,0
+2025,Argentina Prim B Nacional,2025-07-26,14:45:00,complete,Tristán Suárez,Los Andes,2.4,2.84,3.34,2.75,1.31,2.38,1.49,2,1
+2025,Argentina Prim B Nacional,2025-07-26,15:00:00,complete,Deportivo Madryn,Patronato,1.7,2.88,4.45,2.7,1.36,2.5,1.5,2,0
+2025,Argentina Prim B Nacional,2025-07-26,15:30:00,complete,All Boys,Almagro,2.0,2.58,3.8,3.6,1.28,2.75,1.4,1,0
+2025,Argentina Prim B Nacional,2025-07-26,15:30:00,complete,Talleres Remedios,Defensores de Belgrano,3.65,2.7,2.0,3.05,1.3,2.5,1.47,2,0
+2025,Argentina Prim B Nacional,2025-07-26,17:00:00,incomplete,Club Atlético Güemes,Deportivo Madryn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2025,Argentina Prim B Nacional,2025-07-26,19:05:00,complete,Estudiantes Caseros,San Telmo,1.74,3.05,5.0,2.59,1.44,2.3,1.57,2,0
+2025,Argentina Prim B Nacional,2025-07-27,13:35:00,complete,Arsenal de Sarandí,San Miguel,4.5,2.76,2.05,3.45,1.3,2.62,1.37,5,2
+2025,Argentina Prim B Nacional,2025-07-27,15:00:00,complete,Alvarado,Ferro Carril Oeste,2.92,2.65,2.75,3.4,1.33,2.64,1.53,3,0
+2025,Argentina Prim B Nacional,2025-07-27,15:30:00,complete,Defensores Unidos,Agropecuario,3.38,2.96,2.11,2.5,1.48,1.95,1.64,3,2
+2025,Argentina Prim B Nacional,2025-07-27,15:30:00,complete,Deportivo Maipú,Club Atlético Güemes,2.15,2.67,3.6,2.78,1.48,2.1,1.67,1,1
+2025,Argentina Prim B Nacional,2025-07-27,15:30:00,complete,Temperley,Gimnasia Jujuy,2.57,2.5,3.35,4.0,1.22,2.6,1.4,1,0
+2025,Argentina Prim B Nacional,2025-07-27,15:30:00,complete,Club Atlético Mitre,Central Norte,2.05,2.85,4.39,3.2,1.32,2.5,1.42,0,2
+2025,Argentina Prim B Nacional,2025-07-27,15:40:00,complete,Colón,Gimnasia Mendoza,2.65,2.66,2.74,2.97,1.34,2.3,1.5,0,2
+2025,Argentina Prim B Nacional,2025-07-27,16:00:00,complete,Estudiantes Río Cuarto,Nueva Chicago,2.01,2.6,4.65,2.9,1.33,2.35,1.5,0,1
+2025,Argentina Prim B Nacional,2025-07-27,16:30:00,complete,Chaco For Ever,Almirante Brown,1.75,2.8,5.8,2.9,1.33,2.82,1.4,2,1
+2025,Argentina Prim B Nacional,2025-07-28,21:10:00,complete,Atlanta,Racing Córdoba,1.88,2.63,4.8,2.99,1.34,2.5,1.46,2,0
+2025,Argentina Prim B Nacional,2025-07-30,16:00:00,complete,Deportivo Madryn,Quilmes,1.73,2.92,6.17,3.4,1.33,2.75,1.4,3,1
+2025,Argentina Prim B Nacional,2025-07-30,21:10:00,complete,Defensores de Belgrano,San Telmo,1.7,3.15,4.9,2.85,1.37,2.25,1.47,1,2
+2025,Argentina Prim B Nacional,2025-08-02,14:00:00,complete,San Miguel,Colegiales,1.7,3.05,5.75,2.92,1.36,2.75,1.38,2,1
+2025,Argentina Prim B Nacional,2025-08-02,15:00:00,complete,Tristán Suárez,Gimnasia y Tiro,2.17,2.9,3.6,3.0,1.35,2.62,1.49,1,0
+2025,Argentina Prim B Nacional,2025-08-02,15:30:00,complete,Almagro,Arsenal de Sarandí,2.05,2.87,3.95,2.9,1.38,2.25,1.53,3,1
+2025,Argentina Prim B Nacional,2025-08-03,13:45:00,complete,Nueva Chicago,Almirante Brown,2.37,2.63,3.3,3.32,1.33,2.7,1.5,1,3
+2025,Argentina Prim B Nacional,2025-08-03,15:00:00,complete,Los Andes,Racing Córdoba,2.2,2.7,3.4,3.1,1.33,2.45,1.51,2,0
+2025,Argentina Prim B Nacional,2025-08-03,15:00:00,complete,Agropecuario,Temperley,2.15,2.8,3.3,2.75,1.4,2.3,1.57,0,0
+2025,Argentina Prim B Nacional,2025-08-03,15:00:00,complete,San Telmo,Defensores Unidos,1.9,2.8,4.0,2.8,1.42,2.4,1.49,2,2
+2025,Argentina Prim B Nacional,2025-08-03,15:00:00,complete,Gimnasia Mendoza,Club Atlético Mitre,1.67,3.25,5.5,3.1,1.36,2.62,1.35,1,0
+2025,Argentina Prim B Nacional,2025-08-03,15:30:00,complete,Club Atlético Güemes,Deportivo Madryn,2.5,2.7,2.69,2.8,1.33,2.25,1.57,1,3
+2025,Argentina Prim B Nacional,2025-08-03,15:30:00,complete,Patronato,Alvarado,1.91,2.87,4.4,2.75,1.33,2.3,1.55,1,0
+2025,Argentina Prim B Nacional,2025-08-03,15:30:00,complete,Chacarita Juniors,Estudiantes Caseros,2.25,2.77,3.45,3.4,1.23,2.77,1.42,0,3
+2025,Argentina Prim B Nacional,2025-08-03,16:00:00,complete,Estudiantes Río Cuarto,Talleres Remedios,1.57,3.2,7.15,2.88,1.32,2.8,1.4,2,0
+2025,Argentina Prim B Nacional,2025-08-03,17:00:00,complete,Central Norte,Chaco For Ever,2.5,2.79,2.69,3.05,1.33,2.57,1.48,0,1
+2025,Argentina Prim B Nacional,2025-08-03,18:15:00,complete,Gimnasia Jujuy,Colón,1.78,2.95,4.8,2.93,1.4,2.79,1.38,4,0
+2025,Argentina Prim B Nacional,2025-08-03,20:15:00,complete,Ferro Carril Oeste,All Boys,2.02,2.94,3.52,3.21,1.3,2.54,1.48,0,0
+2025,Argentina Prim B Nacional,2025-08-04,21:10:00,complete,Defensores de Belgrano,Deportivo Morón,2.26,2.75,3.25,3.21,1.3,2.42,1.49,0,0
+2025,Argentina Prim B Nacional,2025-08-05,21:10:00,incomplete,Quilmes,Atlanta,2.4,2.7,3.0,3.08,1.28,2.5,1.5,0,0
+2025,Argentina Prim B Nacional,2025-08-09,14:10:00,complete,Defensores Unidos,Chacarita Juniors,4.2,2.85,2.02,2.81,1.38,2.3,1.53,0,0
+2025,Argentina Prim B Nacional,2025-08-09,15:30:00,complete,Talleres Remedios,Nueva Chicago,2.84,2.83,2.41,3.04,1.33,2.4,1.51,2,1
+2025,Argentina Prim B Nacional,2025-08-09,15:30:00,complete,Colegiales,Almagro,2.01,2.7,3.98,2.85,1.37,2.54,1.42,2,0
+2025,Argentina Prim B Nacional,2025-08-09,15:30:00,complete,Deportivo Maipú,Tristán Suárez,2.1,2.55,3.96,2.0,1.67,2.14,1.66,1,0
+2025,Argentina Prim B Nacional,2025-08-09,15:30:00,complete,Deportivo Morón,Estudiantes Río Cuarto,2.02,2.95,3.5,3.34,1.28,2.5,1.44,2,1
+2025,Argentina Prim B Nacional,2025-08-10,13:30:00,complete,Atlanta,San Miguel,2.19,2.75,3.5,3.1,1.33,2.5,1.5,1,1
+2025,Argentina Prim B Nacional,2025-08-10,15:00:00,complete,Alvarado,Club Atlético Güemes,2.54,2.85,2.95,2.97,1.36,2.25,1.53,1,1
+2025,Argentina Prim B Nacional,2025-08-10,15:30:00,complete,Club Atlético Mitre,Gimnasia Jujuy,2.75,2.5,2.8,3.3,1.29,2.5,1.48,1,1
+2025,Argentina Prim B Nacional,2025-08-10,15:30:00,complete,Deportivo Madryn,San Martín Tucumán,2.15,2.65,3.85,3.0,1.33,2.63,1.45,3,1
+2025,Argentina Prim B Nacional,2025-08-10,15:30:00,complete,Temperley,San Telmo,2.2,3.03,3.25,2.85,1.4,2.25,1.53,0,0
+2025,Argentina Prim B Nacional,2025-08-10,15:30:00,complete,Almirante Brown,Central Norte,2.01,3.01,4.0,2.62,1.4,2.42,1.57,0,0
+2025,Argentina Prim B Nacional,2025-08-10,16:00:00,complete,Colón,Agropecuario,1.98,2.98,3.59,2.6,1.48,2.05,1.7,0,1
+2025,Argentina Prim B Nacional,2025-08-10,16:30:00,complete,Chaco For Ever,Gimnasia Mendoza,2.52,2.62,2.9,3.2,1.26,2.45,1.53,0,2
+2025,Argentina Prim B Nacional,2025-08-10,17:00:00,complete,Gimnasia y Tiro,Los Andes,2.0,2.67,4.3,3.35,1.29,2.83,1.4,0,0
+2025,Argentina Prim B Nacional,2025-08-10,17:45:00,complete,Estudiantes Caseros,Defensores de Belgrano,2.15,2.83,3.56,2.95,1.33,2.4,1.47,2,0
+2025,Argentina Prim B Nacional,2025-08-10,20:00:00,complete,Arsenal de Sarandí,Ferro Carril Oeste,2.7,2.83,2.8,2.8,1.4,2.05,1.62,2,0
+2025,Argentina Prim B Nacional,2025-08-11,19:10:00,complete,All Boys,Patronato,2.18,2.62,3.0,3.47,1.36,2.35,1.44,1,0
+2025,Argentina Prim B Nacional,2025-08-11,21:10:00,complete,Racing Córdoba,Quilmes,2.02,2.75,3.84,2.99,1.34,2.4,1.45,2,0
+2025,Argentina Prim B Nacional,2025-08-15,21:10:00,complete,Ferro Carril Oeste,Colegiales,1.99,2.88,4.5,3.1,1.33,2.55,1.43,1,0
+2025,Argentina Prim B Nacional,2025-08-15,22:00:00,complete,Gimnasia y Tiro,Deportivo Maipú,2.05,2.85,4.2,3.08,1.28,2.78,1.43,1,0
+2025,Argentina Prim B Nacional,2025-08-16,14:00:00,complete,San Telmo,Colón,2.28,2.74,3.16,2.4,1.5,2.17,1.55,1,0
+2025,Argentina Prim B Nacional,2025-08-16,14:05:00,complete,Chacarita Juniors,Temperley,2.07,2.66,3.83,3.15,1.31,2.48,1.45,0,0
+2025,Argentina Prim B Nacional,2025-08-16,15:00:00,complete,Tristán Suárez,Deportivo Madryn,2.56,2.7,2.78,2.89,1.36,2.15,1.57,2,2
+2025,Argentina Prim B Nacional,2025-08-16,15:30:00,complete,Talleres Remedios,Deportivo Morón,3.58,2.58,2.21,3.21,1.3,2.4,1.5,2,1
+2025,Argentina Prim B Nacional,2025-08-16,16:10:00,complete,Gimnasia Mendoza,Almirante Brown,1.5,3.65,7.2,2.65,1.42,2.5,1.44,2,1
+2025,Argentina Prim B Nacional,2025-08-16,18:15:00,complete,Los Andes,Quilmes,2.21,2.62,3.4,3.2,1.27,2.5,1.44,1,0
+2025,Argentina Prim B Nacional,2025-08-17,15:30:00,complete,San Miguel,Racing Córdoba,1.96,2.9,4.1,2.9,1.35,2.62,1.44,1,0
+2025,Argentina Prim B Nacional,2025-08-17,16:00:00,complete,Patronato,Arsenal de Sarandí,1.92,2.95,4.68,2.51,1.46,2.15,1.5,1,0
+2025,Argentina Prim B Nacional,2025-08-17,16:00:00,complete,Almagro,Atlanta,3.0,2.62,2.41,3.1,1.32,2.4,1.53,0,0
+2025,Argentina Prim B Nacional,2025-08-17,16:00:00,complete,Club Atlético Güemes,All Boys,1.84,2.9,4.6,2.8,1.38,2.63,1.4,1,2
+2025,Argentina Prim B Nacional,2025-08-17,16:00:00,complete,Gimnasia Jujuy,Chaco For Ever,1.75,2.84,4.6,3.1,1.33,3.2,1.32,2,0
+2025,Argentina Prim B Nacional,2025-08-17,16:00:00,complete,Estudiantes Río Cuarto,Estudiantes Caseros,2.38,2.7,3.76,3.2,1.3,2.5,1.45,1,0
+2025,Argentina Prim B Nacional,2025-08-17,17:10:00,complete,San Martín Tucumán,Alvarado,1.55,3.25,6.7,2.75,1.44,2.5,1.38,0,0
+2025,Argentina Prim B Nacional,2025-08-18,14:00:00,complete,Agropecuario,Club Atlético Mitre,2.19,2.8,3.82,2.95,1.36,2.3,1.53,2,1
+2025,Argentina Prim B Nacional,2025-08-18,15:30:00,complete,Defensores de Belgrano,Defensores Unidos,1.6,3.44,6.5,2.55,1.43,2.45,1.46,3,1
+2025,Argentina Prim B Nacional,2025-08-18,15:30:00,complete,Nueva Chicago,Central Norte,2.11,2.85,3.7,2.85,1.36,2.32,1.53,0,0
+2025,Argentina Prim B Nacional,2025-08-20,21:30:00,complete,San Martín Tucumán,Deportivo Maipú,1.7,3.4,4.75,2.6,1.47,2.5,1.5,2,1
+2025,Argentina Prim B Nacional,2025-08-22,18:00:00,complete,Quilmes,San Miguel,2.88,2.55,2.99,4.0,1.25,2.62,1.44,2,0
+2025,Argentina Prim B Nacional,2025-08-23,13:00:00,complete,Arsenal de Sarandí,Club Atlético Güemes,2.27,3.05,3.05,2.65,1.42,2.11,1.64,2,1
+2025,Argentina Prim B Nacional,2025-08-23,15:00:00,complete,Atlanta,Ferro Carril Oeste,1.75,2.92,4.8,2.4,1.5,2.38,1.46,2,1
+2025,Argentina Prim B Nacional,2025-08-23,15:00:00,complete,Alvarado,Tristán Suárez,2.3,2.63,3.28,2.94,1.35,2.25,1.6,0,0
+2025,Argentina Prim B Nacional,2025-08-23,17:05:00,complete,Colón,Chacarita Juniors,2.35,2.77,3.0,2.89,1.36,2.2,1.57,1,1
+2025,Argentina Prim B Nacional,2025-08-23,19:10:00,complete,Estudiantes Caseros,Talleres Remedios,1.84,3.05,4.75,2.75,1.4,2.54,1.5,2,0
+2025,Argentina Prim B Nacional,2025-08-23,21:15:00,complete,Deportivo Morón,Nueva Chicago,1.95,2.75,4.1,3.1,1.33,2.55,1.44,1,0
+2025,Argentina Prim B Nacional,2025-08-23,22:00:00,complete,Central Norte,Gimnasia Mendoza,3.25,2.72,2.48,2.92,1.33,2.4,1.51,1,0
+2025,Argentina Prim B Nacional,2025-08-24,13:00:00,complete,Colegiales,Patronato,2.51,2.7,3.05,2.97,1.33,2.3,1.55,0,0
+2025,Argentina Prim B Nacional,2025-08-24,14:00:00,complete,Almirante Brown,Gimnasia Jujuy,3.09,2.68,2.73,3.1,1.33,2.38,1.48,0,0
+2025,Argentina Prim B Nacional,2025-08-24,15:30:00,complete,Defensores Unidos,Estudiantes Río Cuarto,3.8,2.69,2.3,3.4,1.3,2.55,1.38,1,2
+2025,Argentina Prim B Nacional,2025-08-24,15:30:00,complete,Temperley,Defensores de Belgrano,2.36,2.53,3.6,3.5,1.25,2.55,1.42,1,1
+2025,Argentina Prim B Nacional,2025-08-24,15:30:00,complete,Club Atlético Mitre,San Telmo,2.03,2.85,4.25,2.87,1.37,2.3,1.55,3,0
+2025,Argentina Prim B Nacional,2025-08-24,15:30:00,complete,Deportivo Madryn,Gimnasia y Tiro,1.65,3.15,7.0,2.9,1.4,2.5,1.39,2,0
+2025,Argentina Prim B Nacional,2025-08-24,15:30:00,complete,Deportivo Maipú,Los Andes,1.91,3.0,4.0,2.7,1.37,2.25,1.5,1,1
+2025,Argentina Prim B Nacional,2025-08-24,16:30:00,complete,Racing Córdoba,Almagro,1.76,2.95,4.9,3.26,1.3,2.7,1.37,1,1
+2025,Argentina Prim B Nacional,2025-08-24,16:30:00,complete,Chaco For Ever,Agropecuario,2.1,3.02,3.5,2.65,1.38,2.25,1.57,1,1
+2025,Argentina Prim B Nacional,2025-08-25,21:05:00,complete,All Boys,San Martín Tucumán,2.95,2.5,2.61,3.3,1.28,2.5,1.48,0,0
+2025,Argentina Prim B Nacional,2025-08-28,20:00:00,complete,Quilmes,Alvarado,1.87,3.2,4.15,2.7,1.44,2.4,1.5,0,0
+2025,Argentina Prim B Nacional,2025-08-30,13:10:00,complete,Tristán Suárez,All Boys,1.94,2.9,4.58,3.1,1.33,2.4,1.44,2,0
+2025,Argentina Prim B Nacional,2025-08-30,14:00:00,complete,Chacarita Juniors,Club Atlético Mitre,2.02,2.69,3.97,2.99,1.34,2.43,1.48,2,2
+2025,Argentina Prim B Nacional,2025-08-30,15:30:00,complete,Talleres Remedios,Defensores Unidos,1.86,2.84,4.4,2.89,1.36,2.38,1.5,0,1
+2025,Argentina Prim B Nacional,2025-08-30,15:30:00,complete,San Telmo,Chaco For Ever,2.33,2.65,3.19,2.85,1.37,2.2,1.62,0,2
+2025,Argentina Prim B Nacional,2025-08-30,17:00:00,complete,Nueva Chicago,Gimnasia Mendoza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2025,Argentina Prim B Nacional,2025-08-31,15:30:00,complete,Almagro,Quilmes,2.53,2.51,3.36,4.0,1.25,2.75,1.38,2,2
+2025,Argentina Prim B Nacional,2025-08-31,16:00:00,complete,Patronato,Atlanta,2.37,2.8,3.15,2.98,1.36,2.25,1.53,0,0
+2025,Argentina Prim B Nacional,2025-08-31,16:00:00,complete,Gimnasia Jujuy,Central Norte,1.66,3.1,5.5,2.94,1.39,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-08-31,16:00:00,complete,Club Atlético Güemes,Colegiales,1.57,3.3,6.5,2.75,1.38,2.5,1.36,0,1
+2025,Argentina Prim B Nacional,2025-08-31,16:00:00,complete,Gimnasia y Tiro,Alvarado,1.87,2.7,4.88,3.2,1.3,2.7,1.36,3,0
+2025,Argentina Prim B Nacional,2025-08-31,16:00:00,complete,Deportivo Maipú,Deportivo Madryn,2.64,2.75,2.7,2.59,1.4,2.15,1.62,2,1
+2025,Argentina Prim B Nacional,2025-08-31,16:00:00,complete,Estudiantes Río Cuarto,Temperley,1.89,2.95,5.0,3.5,1.28,2.88,1.35,1,0
+2025,Argentina Prim B Nacional,2025-08-31,19:00:00,complete,Los Andes,San Miguel,2.95,2.54,2.82,3.25,1.3,2.51,1.46,0,0
+2025,Argentina Prim B Nacional,2025-08-31,21:00:00,complete,San Martín Tucumán,Arsenal de Sarandí,1.7,3.3,5.2,2.7,1.44,2.38,1.51,0,3
+2025,Argentina Prim B Nacional,2025-08-31,21:15:00,complete,Deportivo Morón,Estudiantes Caseros,2.2,2.6,3.6,3.05,1.32,2.64,1.48,1,1
+2025,Argentina Prim B Nacional,2025-09-01,14:00:00,complete,Agropecuario,Almirante Brown,2.4,2.81,3.5,2.96,1.4,2.2,1.62,3,1
+2025,Argentina Prim B Nacional,2025-09-01,19:10:00,complete,Defensores de Belgrano,Colón,1.79,3.36,4.42,0.0,0.0,0.0,0.0,1,0
+2025,Argentina Prim B Nacional,2025-09-01,21:15:00,complete,Ferro Carril Oeste,Racing Córdoba,2.24,2.7,3.3,3.04,1.33,2.4,1.5,2,2
+2025,Argentina Prim B Nacional,2025-09-05,15:30:00,complete,Defensores Unidos,Deportivo Morón,3.55,2.7,2.2,3.4,1.3,2.3,1.5,0,1
+2025,Argentina Prim B Nacional,2025-09-05,15:30:00,complete,San Miguel,Almagro,1.71,2.9,5.53,2.88,1.33,2.6,1.38,1,1
+2025,Argentina Prim B Nacional,2025-09-05,19:00:00,complete,Colegiales,San Martín Tucumán,3.15,2.7,2.9,3.14,1.3,2.45,1.5,2,0
+2025,Argentina Prim B Nacional,2025-09-05,20:00:00,complete,All Boys,Gimnasia y Tiro,2.78,2.6,2.98,3.5,1.25,2.77,1.38,1,1
+2025,Argentina Prim B Nacional,2025-09-05,20:00:00,complete,Temperley,Talleres Remedios,1.64,2.9,5.5,2.98,1.36,2.62,1.44,1,0
+2025,Argentina Prim B Nacional,2025-09-05,20:05:00,complete,Estudiantes Caseros,Nueva Chicago,1.59,2.91,6.5,2.8,1.44,2.64,1.45,2,0
+2025,Argentina Prim B Nacional,2025-09-06,13:30:00,complete,Atlanta,Club Atlético Güemes,1.86,2.9,4.2,2.89,1.36,2.3,1.5,1,0
+2025,Argentina Prim B Nacional,2025-09-07,14:15:00,complete,Gimnasia Mendoza,Gimnasia Jujuy,1.97,2.7,3.7,3.08,1.3,2.6,1.44,1,0
+2025,Argentina Prim B Nacional,2025-09-07,16:00:00,complete,Club Atlético Mitre,Defensores de Belgrano,2.1,2.59,4.1,3.14,1.3,2.57,1.4,1,2
+2025,Argentina Prim B Nacional,2025-09-07,16:15:00,complete,Deportivo Madryn,Los Andes,1.63,3.35,7.2,2.7,1.4,2.63,1.44,1,0
+2025,Argentina Prim B Nacional,2025-09-07,17:00:00,complete,Central Norte,Agropecuario,2.26,2.95,3.4,2.98,1.38,2.25,1.55,0,2
+2025,Argentina Prim B Nacional,2025-09-07,18:00:00,complete,Racing Córdoba,Patronato,2.2,2.86,3.59,2.7,1.36,2.3,1.53,1,0
+2025,Argentina Prim B Nacional,2025-09-07,19:00:00,complete,Chaco For Ever,Chacarita Juniors,2.06,2.64,3.8,3.14,1.36,2.45,1.5,0,0
+2025,Argentina Prim B Nacional,2025-09-08,13:00:00,complete,Arsenal de Sarandí,Tristán Suárez,2.25,2.73,3.5,2.59,1.4,2.15,1.57,0,0
+2025,Argentina Prim B Nacional,2025-09-08,15:00:00,complete,Alvarado,Deportivo Maipú,2.65,2.65,3.05,3.4,1.36,2.23,1.6,0,0
+2025,Argentina Prim B Nacional,2025-09-08,18:00:00,complete,Almirante Brown,San Telmo,2.36,2.83,3.55,2.87,1.36,2.4,1.49,1,0
+2025,Argentina Prim B Nacional,2025-09-08,19:00:00,complete,Colón,Estudiantes Río Cuarto,2.3,2.87,2.97,2.95,1.27,2.45,1.48,0,1
+2025,Argentina Prim B Nacional,2025-09-08,19:00:00,complete,Quilmes,Ferro Carril Oeste,2.15,2.76,3.65,3.0,1.33,2.3,1.53,0,0
+2025,Argentina Prim B Nacional,2025-09-13,15:30:00,complete,Estudiantes Caseros,Defensores Unidos,1.45,3.57,6.7,2.69,1.41,2.62,1.4,3,0
+2025,Argentina Prim B Nacional,2025-09-13,15:30:00,complete,Defensores de Belgrano,Chaco For Ever,2.26,2.73,3.23,3.34,1.28,2.55,1.44,0,0
+2025,Argentina Prim B Nacional,2025-09-13,16:30:00,complete,Deportivo Morón,Temperley,1.93,2.84,3.99,3.34,1.28,2.75,1.44,0,1
+2025,Argentina Prim B Nacional,2025-09-13,21:30:00,complete,Gimnasia y Tiro,Arsenal de Sarandí,2.0,2.75,4.05,2.85,1.36,2.4,1.45,3,0
+2025,Argentina Prim B Nacional,2025-09-14,14:00:00,complete,San Martín Tucumán,Atlanta,2.29,2.64,3.28,2.75,1.4,2.3,1.55,0,0
+2025,Argentina Prim B Nacional,2025-09-14,15:30:00,complete,Talleres Remedios,Colón,2.62,2.8,2.8,2.7,1.4,2.25,1.57,2,0
+2025,Argentina Prim B Nacional,2025-09-14,15:30:00,complete,Chacarita Juniors,Almirante Brown,1.88,3.0,4.6,2.93,1.38,2.3,1.53,0,0
+2025,Argentina Prim B Nacional,2025-09-14,15:30:00,complete,Nueva Chicago,Gimnasia Jujuy,3.04,2.54,2.52,3.2,1.3,2.6,1.48,0,0
+2025,Argentina Prim B Nacional,2025-09-14,15:30:00,complete,Ferro Carril Oeste,San Miguel,2.31,2.67,3.1,3.2,1.3,2.4,1.5,0,1
+2025,Argentina Prim B Nacional,2025-09-14,15:30:00,complete,San Telmo,Central Norte,2.06,2.93,3.78,0.0,0.0,0.0,0.0,3,1
+2025,Argentina Prim B Nacional,2025-09-14,15:30:00,complete,Los Andes,Almagro,2.42,2.52,3.21,3.0,1.33,2.4,1.5,0,0
+2025,Argentina Prim B Nacional,2025-09-14,16:00:00,complete,Deportivo Maipú,All Boys,1.93,2.87,3.95,2.9,1.36,2.4,1.5,0,0
+2025,Argentina Prim B Nacional,2025-09-14,16:00:00,complete,Patronato,Quilmes,2.11,2.68,3.68,3.0,1.33,2.45,1.52,0,0
+2025,Argentina Prim B Nacional,2025-09-14,16:00:00,complete,Estudiantes Río Cuarto,Club Atlético Mitre,1.8,3.0,5.1,3.1,1.3,2.8,1.39,0,0
+2025,Argentina Prim B Nacional,2025-09-14,16:00:00,complete,Deportivo Madryn,Alvarado,1.52,3.21,6.6,2.6,1.44,2.9,1.38,0,0
+2025,Argentina Prim B Nacional,2025-09-14,16:00:00,complete,Club Atlético Güemes,Racing Córdoba,2.16,2.86,3.25,2.75,1.4,2.32,1.53,0,0
+2025,Argentina Prim B Nacional,2025-09-15,14:00:00,complete,Agropecuario,Gimnasia Mendoza,3.3,3.0,2.25,2.7,1.44,2.17,1.62,0,0
+2025,Argentina Prim B Nacional,2025-09-20,13:10:00,complete,Atlanta,Tristán Suárez,2.05,3.05,3.5,2.74,1.35,2.35,1.6,1,0
+2025,Argentina Prim B Nacional,2025-09-20,15:10:00,complete,Almagro,Ferro Carril Oeste,2.33,2.56,3.34,3.09,1.32,2.3,1.52,0,1
+2025,Argentina Prim B Nacional,2025-09-20,15:30:00,complete,Colegiales,Gimnasia y Tiro,2.67,2.51,2.88,3.34,1.28,2.45,1.5,2,0
+2025,Argentina Prim B Nacional,2025-09-20,15:30:00,complete,San Miguel,Patronato,1.95,2.84,3.92,2.81,1.38,2.25,1.46,0,0
+2025,Argentina Prim B Nacional,2025-09-20,15:30:00,complete,Arsenal de Sarandí,Deportivo Maipú,2.03,2.95,3.45,2.55,1.45,2.28,1.52,1,2
+2025,Argentina Prim B Nacional,2025-09-20,17:10:00,complete,Temperley,Estudiantes Caseros,2.42,2.56,3.16,3.27,1.29,2.65,1.44,1,3
+2025,Argentina Prim B Nacional,2025-09-20,17:30:00,complete,Gimnasia Mendoza,San Telmo,1.43,3.65,6.9,2.6,1.43,2.43,1.45,2,0
+2025,Argentina Prim B Nacional,2025-09-20,17:30:00,complete,Chaco For Ever,Estudiantes Río Cuarto,2.48,2.55,3.08,3.34,1.28,2.54,1.43,2,0
+2025,Argentina Prim B Nacional,2025-09-21,15:00:00,complete,Almirante Brown,Defensores de Belgrano,2.75,2.85,2.75,3.15,1.31,2.5,1.44,1,2
+2025,Argentina Prim B Nacional,2025-09-21,15:30:00,complete,Alvarado,Los Andes,2.4,2.6,3.3,3.48,1.28,2.7,1.38,1,0
+2025,Argentina Prim B Nacional,2025-09-21,15:30:00,complete,Defensores Unidos,Nueva Chicago,3.08,2.73,2.55,3.0,1.33,2.3,1.53,0,0
+2025,Argentina Prim B Nacional,2025-09-21,16:00:00,complete,Club Atlético Mitre,Talleres Remedios,1.65,3.15,5.25,2.87,1.36,2.5,1.44,2,0
+2025,Argentina Prim B Nacional,2025-09-21,17:00:00,complete,Central Norte,Chacarita Juniors,2.7,2.8,2.87,2.9,1.36,2.25,1.57,2,1
+2025,Argentina Prim B Nacional,2025-09-21,17:00:00,complete,Colón,Deportivo Morón,2.68,2.76,2.6,2.97,1.3,2.3,1.49,0,0
+2025,Argentina Prim B Nacional,2025-09-21,18:00:00,complete,Gimnasia Jujuy,Agropecuario,1.82,3.0,3.9,2.7,1.39,2.3,1.53,0,2
+2025,Argentina Prim B Nacional,2025-09-21,19:00:00,complete,Racing Córdoba,San Martín Tucumán,2.39,2.7,3.1,3.0,1.36,2.48,1.5,1,0
+2025,Argentina Prim B Nacional,2025-09-22,21:05:00,complete,All Boys,Deportivo Madryn,3.4,2.6,2.45,3.3,1.3,2.5,1.46,0,0
+2025,Argentina Prim B Nacional,2025-09-22,21:05:00,complete,Quilmes,Club Atlético Güemes,2.45,2.75,3.0,3.0,1.3,2.4,1.53,0,0
+2025,Argentina Prim B Nacional,2025-09-26,22:00:00,complete,Gimnasia y Tiro,Atlanta,2.09,2.62,3.75,3.08,1.3,2.5,1.45,2,2
+2025,Argentina Prim B Nacional,2025-09-27,13:05:00,complete,San Telmo,Gimnasia Jujuy,3.54,3.05,2.25,2.82,1.38,2.27,1.49,3,2
+2025,Argentina Prim B Nacional,2025-09-27,14:30:00,complete,Nueva Chicago,Agropecuario,3.2,2.8,2.4,2.65,1.39,2.19,1.57,1,0
+2025,Argentina Prim B Nacional,2025-09-27,15:30:00,complete,Talleres Remedios,Chaco For Ever,2.69,2.66,2.69,3.09,1.32,2.51,1.44,1,0
+2025,Argentina Prim B Nacional,2025-09-27,16:30:00,complete,Defensores de Belgrano,Central Norte,1.83,2.77,4.75,3.04,1.33,2.51,1.5,2,0
+2025,Argentina Prim B Nacional,2025-09-27,17:30:00,complete,Estudiantes Caseros,Colón,1.62,3.09,5.5,2.62,1.43,2.55,1.39,1,0
+2025,Argentina Prim B Nacional,2025-09-27,19:00:00,complete,Tristán Suárez,Racing Córdoba,1.93,2.9,3.55,2.7,1.4,2.28,1.55,4,1
+2025,Argentina Prim B Nacional,2025-09-27,21:00:00,complete,Deportivo Morón,Club Atlético Mitre,1.72,2.97,5.5,3.1,1.36,2.6,1.43,3,0
+2025,Argentina Prim B Nacional,2025-09-28,15:15:00,complete,Chacarita Juniors,Gimnasia Mendoza,3.06,2.56,2.48,2.99,1.34,2.5,1.53,1,1
+2025,Argentina Prim B Nacional,2025-09-28,15:30:00,complete,Patronato,Almagro,1.87,2.84,4.3,2.89,1.36,2.3,1.44,0,0
+2025,Argentina Prim B Nacional,2025-09-28,15:30:00,complete,Club Atlético Güemes,San Miguel,2.08,2.46,4.3,3.21,1.3,2.5,1.44,1,0
+2025,Argentina Prim B Nacional,2025-09-28,15:30:00,complete,Defensores Unidos,Temperley,3.99,2.78,1.96,3.04,1.33,2.54,1.45,0,0
+2025,Argentina Prim B Nacional,2025-09-28,15:30:00,complete,Alvarado,All Boys,2.26,2.58,3.45,3.34,1.28,2.6,1.44,0,0
+2025,Argentina Prim B Nacional,2025-09-28,15:30:00,complete,Los Andes,Ferro Carril Oeste,2.44,2.49,3.23,3.09,1.32,2.38,1.48,0,1
+2025,Argentina Prim B Nacional,2025-09-28,15:30:00,complete,Deportivo Madryn,Arsenal de Sarandí,1.49,3.47,6.2,2.15,1.62,2.3,1.55,2,1
+2025,Argentina Prim B Nacional,2025-09-28,16:30:00,complete,Deportivo Maipú,Colegiales,1.91,2.74,4.33,2.99,1.34,2.4,1.47,1,2
+2025,Argentina Prim B Nacional,2025-09-28,19:00:00,complete,Estudiantes Río Cuarto,Almirante Brown,1.56,3.28,7.5,2.97,1.36,3.05,1.35,1,1
+2025,Argentina Prim B Nacional,2025-09-28,20:30:00,complete,San Martín Tucumán,Quilmes,1.85,2.9,5.17,3.22,1.33,2.74,1.42,1,1
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,suspended,All Boys,Los Andes,2.03,2.63,4.0,3.34,1.28,2.57,1.44,0,0
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,complete,Racing Córdoba,Gimnasia y Tiro,2.27,2.61,3.39,3.34,1.28,2.5,1.43,1,2
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,complete,Arsenal de Sarandí,Alvarado,1.78,2.89,4.75,2.65,1.42,2.05,1.67,5,0
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,complete,Almagro,Club Atlético Güemes,2.24,2.68,3.33,2.99,1.34,2.75,1.4,0,1
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,complete,Quilmes,Tristán Suárez,2.73,2.46,2.89,3.04,1.33,2.3,1.57,0,1
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,complete,Ferro Carril Oeste,Patronato,1.98,2.79,3.93,2.85,1.37,2.2,1.57,3,1
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,complete,San Miguel,San Martín Tucumán,2.01,2.68,4.0,3.15,1.31,2.5,1.45,2,2
+2025,Argentina Prim B Nacional,2025-10-04,15:30:00,complete,Atlanta,Deportivo Maipú,2.95,2.53,2.59,2.94,1.35,2.3,1.54,0,3
+2025,Argentina Prim B Nacional,2025-10-05,15:30:00,complete,Colón,Defensores Unidos,1.55,3.31,5.8,2.7,1.45,2.4,1.53,1,0
+2025,Argentina Prim B Nacional,2025-10-05,15:30:00,complete,Temperley,Nueva Chicago,1.84,2.88,4.9,3.1,1.33,2.8,1.35,3,0
+2026,Argentina Prim B Nacional,2026-02-13,17:00:00,complete,San Miguel,Central Norte,1.85,2.9,4.96,3.1,1.36,0.0,0.0,1,0
+2026,Argentina Prim B Nacional,2026-02-13,21:30:00,complete,Godoy Cruz,Ciudad de Bolívar,1.68,3.05,5.99,3.1,1.38,2.4,1.5,1,0
+2026,Argentina Prim B Nacional,2026-02-14,17:00:00,complete,Deportivo Morón,Defensores de Belgrano,2.15,2.5,4.51,4.14,1.25,2.5,1.44,1,1
+2026,Argentina Prim B Nacional,2026-02-14,17:00:00,complete,Acassuso,Chaco For Ever,2.65,2.65,3.11,3.08,1.3,2.4,1.57,2,0
+2026,Argentina Prim B Nacional,2026-02-14,17:00:00,complete,All Boys,Club Atlético Mitre,1.98,2.8,4.35,3.51,1.27,2.5,1.46,2,1
+2026,Argentina Prim B Nacional,2026-02-14,18:00:00,complete,Agropecuario,Deportivo Maipú,1.9,3.05,3.65,2.69,1.44,2.25,1.54,2,1
+2026,Argentina Prim B Nacional,2026-02-14,19:00:00,complete,Tristán Suárez,Temperley,2.55,2.55,3.3,2.8,1.33,2.2,1.6,0,0
+2026,Argentina Prim B Nacional,2026-02-15,17:00:00,complete,Club Atlético Güemes,Nueva Chicago,1.92,2.9,4.5,3.4,1.28,2.4,1.5,0,1
+2026,Argentina Prim B Nacional,2026-02-15,17:30:00,complete,Los Andes,Almirante Brown,2.45,2.44,3.35,3.5,1.27,2.5,1.49,0,0
+2026,Argentina Prim B Nacional,2026-02-15,19:00:00,complete,Racing Córdoba,Estudiantes Caseros,2.8,2.6,2.75,3.25,1.3,2.38,1.51,1,0
+2026,Argentina Prim B Nacional,2026-02-21,17:00:00,complete,Almagro,San Martín Tucumán,2.6,2.5,3.1,3.89,1.22,2.64,1.4,0,1
+2026,Argentina Prim B Nacional,2026-02-21,17:00:00,complete,Nueva Chicago,Tristán Suárez,2.25,2.75,3.2,2.81,1.33,2.24,1.56,0,0
+2026,Argentina Prim B Nacional,2026-02-21,19:00:00,complete,Ferro Carril Oeste,San Miguel,2.5,2.48,3.85,3.7,1.2,2.75,1.38,1,1
+2026,Argentina Prim B Nacional,2026-02-21,20:00:00,complete,San Martín San Juan,Club Atlético Güemes,1.9,2.85,4.4,2.83,1.33,2.5,1.47,2,1
+2026,Argentina Prim B Nacional,2026-02-21,20:00:00,complete,Quilmes,Midland,1.95,3.0,4.29,2.78,1.34,2.45,1.46,0,0
+2026,Argentina Prim B Nacional,2026-02-21,20:00:00,complete,Deportivo Maipú,Atlético Rafaela,2.29,2.56,3.3,2.92,1.31,2.32,1.53,2,1
+2026,Argentina Prim B Nacional,2026-02-21,20:00:00,complete,Patronato,Gimnasia y Tiro,2.5,2.7,3.19,3.4,1.26,2.48,1.47,1,2
+2026,Argentina Prim B Nacional,2026-02-22,17:00:00,complete,Chacarita Juniors,Gimnasia Jujuy,2.71,2.65,3.4,3.36,1.3,2.32,1.5,3,1
+2026,Argentina Prim B Nacional,2026-02-22,17:00:00,complete,Almirante Brown,All Boys,2.55,2.5,3.25,3.58,1.21,2.67,1.41,2,1
+2026,Argentina Prim B Nacional,2026-02-22,17:00:00,complete,Defensores de Belgrano,Godoy Cruz,2.85,2.8,2.62,2.8,1.34,2.23,1.57,1,1
+2026,Argentina Prim B Nacional,2026-02-22,18:00:00,complete,Central Norte,Colón,2.34,2.6,3.6,3.1,1.34,2.25,1.56,0,0
+2026,Argentina Prim B Nacional,2026-02-23,10:45:00,complete,Club Atlético Mitre,Estudiantes Caseros,2.6,2.62,3.94,3.2,1.3,2.4,1.5,1,0
+2026,Argentina Prim B Nacional,2026-02-28,17:00:00,complete,Los Andes,Defensores de Belgrano,2.6,2.4,3.35,3.5,1.28,2.55,1.44,0,1
+2026,Argentina Prim B Nacional,2026-02-28,20:30:00,complete,Agropecuario,Nueva Chicago,1.75,3.0,4.8,2.83,1.36,2.5,1.44,0,2
+2026,Argentina Prim B Nacional,2026-03-01,17:00:00,complete,Club Atlético Güemes,Chacarita Juniors,2.1,2.77,3.81,2.97,1.3,2.34,1.49,2,1
+2026,Argentina Prim B Nacional,2026-03-01,17:00:00,complete,Gimnasia Jujuy,Quilmes,1.87,2.8,4.9,2.83,1.33,2.5,1.43,1,0
+2026,Argentina Prim B Nacional,2026-03-01,17:00:00,complete,Godoy Cruz,Deportivo Madryn,1.74,3.08,5.0,2.7,1.4,2.3,1.53,0,0
+2026,Argentina Prim B Nacional,2026-03-01,17:00:00,complete,Midland,Colegiales,1.96,2.85,4.2,3.4,1.33,2.5,1.47,2,0
+2026,Argentina Prim B Nacional,2026-03-01,18:00:00,complete,Racing Córdoba,Club Atlético Mitre,2.0,2.8,4.15,2.9,1.34,2.3,1.53,0,0
+2026,Argentina Prim B Nacional,2026-03-01,20:30:00,complete,Estudiantes Caseros,Almirante Brown,2.0,2.7,3.9,3.5,1.3,2.45,1.44,0,1
+2026,Argentina Prim B Nacional,2026-03-01,20:30:00,complete,Atlético Rafaela,Temperley,2.31,2.6,3.7,3.4,1.29,2.62,1.45,1,0
+2026,Argentina Prim B Nacional,2026-03-01,20:30:00,complete,Tristán Suárez,San Martín San Juan,2.4,2.6,3.84,2.83,1.33,2.15,1.53,2,1
+2026,Argentina Prim B Nacional,2026-03-07,17:00:00,suspended,Acassuso,San Miguel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-03-08,17:00:00,suspended,Deportivo Madryn,Los Andes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-03-08,18:00:00,suspended,Central Norte,Godoy Cruz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-03-08,19:00:00,suspended,Ferro Carril Oeste,Deportivo Morón,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-03-08,20:00:00,suspended,San Martín San Juan,Agropecuario,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-03-13,21:00:00,complete,Racing Córdoba,Almirante Brown,1.02,2.5,105.0,3.68,1.25,2.6,1.41,2,1
+2026,Argentina Prim B Nacional,2026-03-13,21:00:00,complete,Atlético Rafaela,San Martín San Juan,2.4,2.49,3.2,2.97,1.3,2.3,1.53,1,0
+2026,Argentina Prim B Nacional,2026-03-14,14:00:00,complete,Los Andes,Central Norte,2.0,2.83,4.0,3.13,1.36,2.4,1.5,0,0
+2026,Argentina Prim B Nacional,2026-03-14,16:00:00,complete,Estudiantes Caseros,Defensores de Belgrano,2.09,2.75,4.27,3.4,1.31,2.51,1.44,0,2
+2026,Argentina Prim B Nacional,2026-03-14,16:00:00,complete,San Miguel,San Telmo,1.67,3.2,4.8,2.87,1.4,0.0,0.0,1,1
+2026,Argentina Prim B Nacional,2026-03-14,19:00:00,complete,Tristán Suárez,Club Atlético Güemes,2.18,2.81,3.5,2.97,1.3,2.42,1.49,1,1
+2026,Argentina Prim B Nacional,2026-03-14,20:00:00,complete,Quilmes,Patronato,2.26,2.67,3.35,3.4,1.33,0.0,0.0,3,0
+2026,Argentina Prim B Nacional,2026-03-14,20:00:00,complete,Colón,Acassuso,1.87,2.82,4.76,3.28,1.25,2.5,1.42,1,0
+2026,Argentina Prim B Nacional,2026-03-15,16:00:00,complete,Gimnasia y Tiro,Temperley,1.8,2.87,4.6,2.87,1.4,2.33,1.44,0,0
+2026,Argentina Prim B Nacional,2026-03-15,16:00:00,complete,Agropecuario,Chacarita Juniors,2.3,2.99,3.65,2.6,1.43,2.15,1.62,2,0
+2026,Argentina Prim B Nacional,2026-03-15,17:00:00,complete,Gimnasia Jujuy,Colegiales,1.71,3.05,5.5,3.1,1.36,2.63,1.44,2,1
+2026,Argentina Prim B Nacional,2026-03-15,17:00:00,complete,Club Atlético Mitre,Ciudad de Bolívar,1.95,2.7,4.7,3.42,1.27,2.75,1.4,1,1
+2026,Argentina Prim B Nacional,2026-03-16,21:00:00,complete,Atlanta,Deportivo Maipú,2.15,2.75,3.9,2.56,1.4,2.15,1.61,3,1
+2026,Argentina Prim B Nacional,2026-03-20,21:30:00,complete,San Martín San Juan,San Martín Tucumán,2.3,2.8,3.1,3.25,1.3,2.38,1.51,1,1
+2026,Argentina Prim B Nacional,2026-03-21,14:00:00,complete,Almagro,Quilmes,2.37,2.63,3.39,4.0,1.25,0.0,0.0,1,0
+2026,Argentina Prim B Nacional,2026-03-21,16:00:00,complete,Acassuso,Deportivo Morón,3.25,2.5,2.45,3.14,1.29,2.5,1.42,0,3
+2026,Argentina Prim B Nacional,2026-03-21,16:00:00,complete,Defensores de Belgrano,Club Atlético Mitre,1.95,2.7,4.2,3.1,1.28,2.5,1.44,0,0
+2026,Argentina Prim B Nacional,2026-03-21,16:00:00,complete,San Miguel,Racing Córdoba,2.0,2.82,4.5,3.4,1.33,0.0,0.0,1,2
+2026,Argentina Prim B Nacional,2026-03-21,17:00:00,complete,Ciudad de Bolívar,Almirante Brown,2.37,2.3,4.0,5.0,1.1,2.45,1.25,0,0
+2026,Argentina Prim B Nacional,2026-03-21,19:00:00,complete,Ferro Carril Oeste,Los Andes,2.0,2.75,4.61,3.15,1.25,2.7,1.4,0,2
+2026,Argentina Prim B Nacional,2026-03-21,19:00:00,complete,Deportivo Madryn,Estudiantes Caseros,2.3,2.6,3.3,3.35,1.27,2.67,1.4,3,0
+2026,Argentina Prim B Nacional,2026-03-21,19:00:00,complete,Tristán Suárez,Gimnasia Jujuy,2.31,2.7,3.4,3.46,1.3,2.4,1.5,3,0
+2026,Argentina Prim B Nacional,2026-03-21,21:00:00,complete,Chaco For Ever,Godoy Cruz,2.6,2.62,2.75,2.7,1.33,2.46,1.51,1,1
+2026,Argentina Prim B Nacional,2026-03-22,16:00:00,complete,San Telmo,Colón,2.78,2.7,2.6,2.46,1.4,2.05,1.7,3,1
+2026,Argentina Prim B Nacional,2026-03-22,16:00:00,complete,Chacarita Juniors,Atlético Rafaela,2.35,2.9,3.3,3.1,1.36,2.25,1.55,0,1
+2026,Argentina Prim B Nacional,2026-03-22,16:00:00,complete,Temperley,Atlanta,2.2,2.55,3.95,3.53,1.3,2.5,1.45,2,1
+2026,Argentina Prim B Nacional,2026-03-22,16:00:00,complete,Patronato,Colegiales,1.8,2.87,5.0,3.5,1.3,2.75,1.42,2,0
+2026,Argentina Prim B Nacional,2026-03-22,17:00:00,complete,Central Norte,All Boys,2.62,2.6,2.8,3.6,1.25,2.6,1.4,1,0
+2026,Argentina Prim B Nacional,2026-03-22,17:00:00,complete,Club Atlético Güemes,Agropecuario,2.2,2.8,3.2,2.8,1.4,2.15,1.57,1,1
+2026,Argentina Prim B Nacional,2026-03-22,19:00:00,complete,Deportivo Maipú,Midland,2.2,2.87,3.44,2.55,1.4,2.14,1.6,0,1
+2026,Argentina Prim B Nacional,2026-03-23,16:00:00,complete,Nueva Chicago,Gimnasia y Tiro,3.5,2.55,2.62,3.34,1.25,2.5,1.44,3,1
+2026,Argentina Prim B Nacional,2026-03-27,18:15:00,complete,Ciudad de Bolívar,Agropecuario,2.75,2.75,2.76,3.4,1.33,2.0,1.58,0,0
+2026,Argentina Prim B Nacional,2026-03-27,22:10:00,complete,Chaco For Ever,Gimnasia Jujuy,2.3,2.75,3.1,3.24,1.36,2.25,1.51,1,2
+2026,Argentina Prim B Nacional,2026-03-27,22:10:00,complete,San Martín San Juan,Racing Córdoba,1.95,2.62,4.33,3.15,1.28,2.88,1.36,0,0
+2026,Argentina Prim B Nacional,2026-03-28,15:30:00,complete,Almagro,Deportivo Morón,3.8,2.4,2.55,3.28,1.25,2.57,1.44,2,0
+2026,Argentina Prim B Nacional,2026-03-28,16:00:00,complete,Almirante Brown,Tristán Suárez,2.59,2.48,3.25,3.78,1.19,2.78,1.38,0,1
+2026,Argentina Prim B Nacional,2026-03-28,20:00:00,complete,Colegiales,San Miguel,2.72,2.5,2.84,4.0,1.25,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-03-29,15:00:00,complete,Los Andes,Temperley,2.37,2.5,3.4,3.34,1.24,2.6,1.43,0,1
+2026,Argentina Prim B Nacional,2026-03-29,15:30:00,complete,Nueva Chicago,All Boys,2.72,2.5,3.2,3.3,1.22,2.64,1.42,0,0
+2026,Argentina Prim B Nacional,2026-03-29,16:00:00,complete,Patronato,Colón,2.19,2.55,3.25,3.1,1.36,2.28,1.55,0,2
+2026,Argentina Prim B Nacional,2026-03-29,16:00:00,complete,Deportivo Madryn,San Martín Tucumán,2.38,2.65,3.48,3.44,1.33,2.48,1.47,1,1
+2026,Argentina Prim B Nacional,2026-03-29,16:00:00,complete,Chacarita Juniors,Estudiantes Caseros,2.35,2.65,3.3,2.83,1.33,2.32,1.53,0,3
+2026,Argentina Prim B Nacional,2026-03-29,16:00:00,complete,San Telmo,Quilmes,2.59,2.62,2.77,3.1,1.36,0.0,0.0,0,3
+2026,Argentina Prim B Nacional,2026-03-29,17:00:00,complete,Club Atlético Güemes,Club Atlético Mitre,2.2,2.5,3.7,3.15,1.3,2.67,1.41,2,2
+2026,Argentina Prim B Nacional,2026-03-29,17:00:00,complete,Deportivo Maipú,Godoy Cruz,3.52,2.8,2.2,2.62,1.4,2.2,1.62,0,1
+2026,Argentina Prim B Nacional,2026-03-29,17:30:00,complete,Gimnasia y Tiro,Central Norte,1.75,2.87,4.8,3.25,1.39,2.62,1.42,0,1
+2026,Argentina Prim B Nacional,2026-03-30,16:00:00,complete,Defensores de Belgrano,Atlético Rafaela,2.3,2.45,3.7,3.28,1.27,2.55,1.48,1,1
+2026,Argentina Prim B Nacional,2026-04-03,22:00:00,complete,Gimnasia y Tiro,San Martín San Juan,1.91,2.8,4.77,2.97,1.3,2.45,1.5,1,1
+2026,Argentina Prim B Nacional,2026-04-04,15:30:00,complete,All Boys,Ferro Carril Oeste,2.39,2.62,3.4,3.0,1.33,2.83,1.49,0,0
+2026,Argentina Prim B Nacional,2026-04-04,16:00:00,complete,Estudiantes Caseros,Central Norte,1.78,2.9,5.0,3.18,1.35,2.5,1.38,1,0
+2026,Argentina Prim B Nacional,2026-04-04,16:00:00,complete,Colegiales,Almagro,2.3,2.63,3.3,3.5,1.22,2.62,1.39,1,0
+2026,Argentina Prim B Nacional,2026-04-04,16:00:00,complete,Midland,Temperley,1.93,2.74,4.92,3.25,1.33,2.45,1.42,0,0
+2026,Argentina Prim B Nacional,2026-04-04,16:00:00,complete,Agropecuario,Tristán Suárez,2.14,2.5,4.83,2.9,1.4,2.15,1.57,0,2
+2026,Argentina Prim B Nacional,2026-04-04,16:30:00,complete,Godoy Cruz,Acassuso,1.29,4.25,11.3,2.35,1.55,2.6,1.32,2,0
+2026,Argentina Prim B Nacional,2026-04-04,17:30:00,complete,San Martín Tucumán,Chacarita Juniors,1.83,3.0,4.6,2.74,1.35,2.45,1.44,1,1
+2026,Argentina Prim B Nacional,2026-04-04,19:00:00,complete,Colón,San Miguel,2.11,2.73,3.85,2.74,1.36,2.4,1.5,3,0
+2026,Argentina Prim B Nacional,2026-04-05,15:00:00,complete,Los Andes,Chaco For Ever,1.95,2.8,4.2,2.8,1.32,2.45,1.5,2,0
+2026,Argentina Prim B Nacional,2026-04-05,15:30:00,complete,Almirante Brown,Defensores de Belgrano,2.48,2.65,3.3,3.42,1.25,2.55,1.42,0,2
+2026,Argentina Prim B Nacional,2026-04-05,15:30:00,complete,Deportivo Morón,San Telmo,1.51,3.5,7.04,2.72,1.4,2.97,1.4,1,0
+2026,Argentina Prim B Nacional,2026-04-05,17:00:00,complete,Gimnasia Jujuy,Patronato,1.66,3.2,5.0,2.59,1.42,2.48,1.45,2,0
+2026,Argentina Prim B Nacional,2026-04-05,17:00:00,complete,Quilmes,Deportivo Maipú,2.0,2.84,3.75,2.7,1.44,0.0,0.0,2,1
+2026,Argentina Prim B Nacional,2026-04-05,17:00:00,complete,Racing Córdoba,Ciudad de Bolívar,1.95,2.77,4.75,3.48,1.22,2.7,1.4,0,2
+2026,Argentina Prim B Nacional,2026-04-05,19:00:00,complete,Club Atlético Mitre,Deportivo Madryn,2.0,2.75,4.0,3.34,1.24,2.7,1.4,1,3
+2026,Argentina Prim B Nacional,2026-04-05,20:00:00,complete,Atlético Rafaela,Club Atlético Güemes,2.05,2.5,4.2,3.62,1.26,2.67,1.42,1,2
+2026,Argentina Prim B Nacional,2026-04-07,21:00:00,complete,Atlanta,Nueva Chicago,2.0,2.75,4.2,2.88,1.36,2.5,1.35,1,2
+2026,Argentina Prim B Nacional,2026-04-08,20:00:00,complete,Midland,Acassuso,1.69,3.05,3.8,2.49,1.42,2.3,1.52,1,0
+2026,Argentina Prim B Nacional,2026-04-11,15:30:00,complete,San Miguel,Deportivo Morón,3.04,2.47,2.66,3.4,1.33,0.0,0.0,2,1
+2026,Argentina Prim B Nacional,2026-04-11,15:30:00,complete,San Telmo,Godoy Cruz,3.6,2.9,2.05,2.76,1.45,2.08,1.62,2,0
+2026,Argentina Prim B Nacional,2026-04-11,15:30:00,complete,Almagro,Patronato,2.2,2.8,3.7,3.2,1.33,2.5,1.46,0,1
+2026,Argentina Prim B Nacional,2026-04-12,15:00:00,complete,Acassuso,Los Andes,3.12,2.55,2.65,2.95,1.33,2.07,1.7,0,1
+2026,Argentina Prim B Nacional,2026-04-12,15:00:00,complete,Ferro Carril Oeste,Estudiantes Caseros,2.3,2.7,3.4,2.92,1.31,2.23,1.52,0,1
+2026,Argentina Prim B Nacional,2026-04-12,15:00:00,complete,Defensores de Belgrano,Ciudad de Bolívar,2.03,2.6,4.77,3.7,1.22,2.84,1.36,0,0
+2026,Argentina Prim B Nacional,2026-04-12,16:00:00,complete,Agropecuario,Gimnasia Jujuy,2.3,2.51,4.1,2.6,1.41,2.2,1.55,1,2
+2026,Argentina Prim B Nacional,2026-04-12,17:00:00,complete,Chaco For Ever,All Boys,2.23,2.56,3.84,3.14,1.3,2.5,1.51,2,0
+2026,Argentina Prim B Nacional,2026-04-12,17:00:00,complete,Central Norte,Club Atlético Mitre,2.25,2.75,3.52,2.88,1.32,2.43,1.55,1,1
+2026,Argentina Prim B Nacional,2026-04-12,19:00:00,complete,Colón,Racing Córdoba,1.77,3.2,5.08,2.7,1.46,2.28,1.47,1,0
+2026,Argentina Prim B Nacional,2026-04-13,21:30:00,complete,San Martín San Juan,Atlanta,2.08,2.8,3.6,2.74,1.35,2.3,1.51,1,2
+2026,Argentina Prim B Nacional,2026-04-18,15:00:00,complete,Los Andes,San Telmo,1.83,3.1,5.19,2.87,1.4,2.4,1.53,0,0
+2026,Argentina Prim B Nacional,2026-04-18,15:00:00,complete,Midland,San Martín San Juan,1.95,2.85,3.98,2.59,1.39,2.28,1.57,0,1
+2026,Argentina Prim B Nacional,2026-04-18,15:30:00,complete,Deportivo Morón,Colón,2.1,2.62,3.75,3.2,1.3,2.6,1.44,2,0
+2026,Argentina Prim B Nacional,2026-04-18,15:30:00,complete,All Boys,Acassuso,1.64,3.1,4.9,2.6,1.36,2.65,1.43,0,0
+2026,Argentina Prim B Nacional,2026-04-18,16:30:00,complete,Godoy Cruz,San Miguel,1.61,3.3,5.7,2.7,1.44,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-04-18,16:30:00,complete,Quilmes,Nueva Chicago,1.9,2.84,4.67,2.7,1.38,2.3,1.57,0,0
+2026,Argentina Prim B Nacional,2026-04-18,20:00:00,complete,Patronato,Deportivo Maipú,2.4,2.5,3.64,2.88,1.38,2.25,1.6,0,0
+2026,Argentina Prim B Nacional,2026-04-18,20:00:00,complete,Ciudad de Bolívar,Deportivo Madryn,2.25,2.6,3.75,3.34,1.27,2.6,1.49,1,0
+2026,Argentina Prim B Nacional,2026-04-19,14:00:00,complete,Colegiales,Temperley,2.58,2.55,3.09,3.5,1.25,2.5,1.4,1,1
+2026,Argentina Prim B Nacional,2026-04-19,15:00:00,complete,Estudiantes Caseros,Chaco For Ever,1.82,3.04,4.2,2.6,1.4,2.38,1.55,0,0
+2026,Argentina Prim B Nacional,2026-04-19,15:00:00,complete,Almirante Brown,Central Norte,2.1,2.62,3.6,3.4,1.29,2.63,1.42,1,0
+2026,Argentina Prim B Nacional,2026-04-19,15:00:00,complete,Club Atlético Mitre,Ferro Carril Oeste,2.37,2.61,3.0,4.0,1.24,2.38,1.48,0,1
+2026,Argentina Prim B Nacional,2026-04-19,15:30:00,complete,Gimnasia Jujuy,Almagro,1.55,3.4,6.3,2.87,1.4,2.45,1.44,6,1
+2026,Argentina Prim B Nacional,2026-04-19,19:00:00,complete,San Martín Tucumán,Tristán Suárez,1.83,2.87,4.2,2.85,1.36,2.45,1.52,0,0
+2026,Argentina Prim B Nacional,2026-04-19,20:00:00,complete,Racing Córdoba,Defensores de Belgrano,2.31,2.6,3.4,3.42,1.26,2.64,1.44,3,0
+2026,Argentina Prim B Nacional,2026-04-19,20:00:00,complete,Gimnasia y Tiro,Club Atlético Güemes,1.85,2.95,4.55,2.78,1.36,2.43,1.5,1,1
+2026,Argentina Prim B Nacional,2026-04-20,20:00:00,complete,Atlético Rafaela,Agropecuario,2.2,2.8,3.5,3.17,1.36,2.16,1.51,4,1
+2026,Argentina Prim B Nacional,2026-04-20,21:00:00,complete,Atlanta,Chacarita Juniors,2.0,2.75,3.9,2.97,1.33,2.28,1.44,1,0
+2026,Argentina Prim B Nacional,2026-04-25,15:30:00,complete,San Miguel,Los Andes,2.2,2.7,3.93,3.5,1.3,0.0,0.0,0,2
+2026,Argentina Prim B Nacional,2026-04-25,15:30:00,complete,San Telmo,All Boys,3.1,2.5,3.21,3.2,1.3,2.3,1.5,1,0
+2026,Argentina Prim B Nacional,2026-04-25,15:30:00,complete,Temperley,Patronato,2.1,2.25,4.62,3.45,1.25,2.63,1.44,0,0
+2026,Argentina Prim B Nacional,2026-04-25,17:30:00,complete,San Martín San Juan,Quilmes,2.05,2.9,4.09,2.95,1.42,2.28,1.55,1,0
+2026,Argentina Prim B Nacional,2026-04-25,18:00:00,complete,Atlético Rafaela,Gimnasia Jujuy,2.3,2.85,3.41,2.7,1.4,2.2,1.55,0,0
+2026,Argentina Prim B Nacional,2026-04-26,15:00:00,complete,Nueva Chicago,Colegiales,2.1,2.75,3.6,3.25,1.3,2.4,1.46,0,0
+2026,Argentina Prim B Nacional,2026-04-26,15:00:00,complete,Deportivo Morón,Racing Córdoba,1.85,2.8,5.47,3.5,1.3,2.8,1.4,2,1
+2026,Argentina Prim B Nacional,2026-04-26,15:00:00,complete,Tristán Suárez,Gimnasia y Tiro,1.95,2.8,4.4,3.1,1.33,2.5,1.44,2,1
+2026,Argentina Prim B Nacional,2026-04-26,15:30:00,complete,Chacarita Juniors,Midland,2.3,2.8,3.4,2.87,1.4,2.25,1.53,1,0
+2026,Argentina Prim B Nacional,2026-04-26,15:30:00,complete,Acassuso,Estudiantes Caseros,3.25,2.75,2.45,2.85,1.33,2.3,1.53,0,1
+2026,Argentina Prim B Nacional,2026-04-26,16:00:00,complete,Deportivo Madryn,Defensores de Belgrano,2.08,2.8,3.75,2.74,1.35,2.4,1.53,2,1
+2026,Argentina Prim B Nacional,2026-04-26,16:00:00,complete,Agropecuario,San Martín Tucumán,2.3,2.75,3.29,2.83,1.36,2.2,1.6,2,0
+2026,Argentina Prim B Nacional,2026-04-26,17:00:00,complete,Club Atlético Güemes,Atlanta,2.55,2.6,3.05,2.92,1.4,2.35,1.53,0,2
+2026,Argentina Prim B Nacional,2026-04-26,17:00:00,complete,Chaco For Ever,Club Atlético Mitre,2.12,2.83,3.4,3.0,1.36,2.34,1.5,1,1
+2026,Argentina Prim B Nacional,2026-04-26,17:00:00,complete,Central Norte,Ciudad de Bolívar,2.1,2.7,3.7,3.25,1.3,2.5,1.44,0,1
+2026,Argentina Prim B Nacional,2026-04-26,18:00:00,complete,Deportivo Maipú,Almagro,1.75,3.0,4.75,2.6,1.42,2.35,1.51,1,0
+2026,Argentina Prim B Nacional,2026-04-26,19:00:00,complete,Colón,Godoy Cruz,2.32,2.65,3.43,2.88,1.32,2.3,1.53,0,0
+2026,Argentina Prim B Nacional,2026-04-28,19:30:00,complete,Ferro Carril Oeste,Almirante Brown,1.94,2.88,3.9,3.1,1.33,2.55,1.42,0,1
+2026,Argentina Prim B Nacional,2026-04-30,20:30:00,complete,All Boys,San Miguel,2.15,2.65,3.9,4.2,1.22,0.0,0.0,1,1
+2026,Argentina Prim B Nacional,2026-05-02,15:30:00,complete,Los Andes,Colón,2.45,2.6,3.3,3.6,1.28,2.51,1.46,1,1
+2026,Argentina Prim B Nacional,2026-05-02,15:30:00,complete,Estudiantes Caseros,San Telmo,1.64,3.1,5.0,2.62,1.38,2.45,1.48,1,1
+2026,Argentina Prim B Nacional,2026-05-02,15:30:00,complete,Defensores de Belgrano,Central Norte,1.8,2.9,5.0,3.4,1.33,2.48,1.42,1,1
+2026,Argentina Prim B Nacional,2026-05-02,20:00:00,complete,San Martín Tucumán,Atlético Rafaela,1.85,2.92,4.75,2.88,1.32,2.51,1.46,2,1
+2026,Argentina Prim B Nacional,2026-05-03,13:00:00,complete,Atlanta,Tristán Suárez,2.08,2.48,4.63,3.1,1.33,2.45,1.49,3,1
+2026,Argentina Prim B Nacional,2026-05-03,15:00:00,complete,Club Atlético Mitre,Acassuso,1.6,3.3,6.77,2.6,1.39,2.51,1.45,2,0
+2026,Argentina Prim B Nacional,2026-05-03,15:00:00,complete,Almagro,Temperley,2.56,2.62,2.45,3.55,1.27,2.45,1.5,1,1
+2026,Argentina Prim B Nacional,2026-05-03,15:00:00,complete,Colegiales,San Martín San Juan,2.2,2.7,2.57,2.92,1.33,2.4,1.5,2,0
+2026,Argentina Prim B Nacional,2026-05-03,15:30:00,complete,Gimnasia Jujuy,Deportivo Maipú,1.82,2.77,4.75,2.19,1.54,2.07,1.66,1,1
+2026,Argentina Prim B Nacional,2026-05-03,15:30:00,complete,Almirante Brown,Chaco For Ever,2.2,2.7,3.9,3.49,1.24,2.64,1.42,1,0
+2026,Argentina Prim B Nacional,2026-05-03,16:00:00,complete,Patronato,Nueva Chicago,2.0,2.8,4.19,3.1,1.32,2.42,1.49,2,1
+2026,Argentina Prim B Nacional,2026-05-03,16:00:00,complete,Ciudad de Bolívar,Ferro Carril Oeste,2.47,2.59,3.12,3.6,1.27,2.45,1.45,2,4
+2026,Argentina Prim B Nacional,2026-05-03,16:30:00,complete,Midland,Club Atlético Güemes,1.65,3.1,6.0,2.56,1.4,2.4,1.49,2,1
+2026,Argentina Prim B Nacional,2026-05-03,16:30:00,complete,Godoy Cruz,Deportivo Morón,1.96,2.8,4.53,3.39,1.28,2.57,1.44,2,2
+2026,Argentina Prim B Nacional,2026-05-03,17:00:00,complete,Racing Córdoba,Deportivo Madryn,2.16,2.77,3.6,3.05,1.33,2.3,1.48,2,2
+2026,Argentina Prim B Nacional,2026-05-04,20:00:00,complete,Quilmes,Chacarita Juniors,2.18,2.6,3.4,3.0,1.33,2.3,1.53,0,0
+2026,Argentina Prim B Nacional,2026-05-04,21:30:00,complete,Gimnasia y Tiro,Agropecuario,2.25,2.8,3.3,2.7,1.36,2.25,1.57,2,3
+2026,Argentina Prim B Nacional,2026-05-09,15:00:00,complete,Tristán Suárez,Midland,2.2,2.87,3.3,2.59,1.44,2.15,1.5,1,3
+2026,Argentina Prim B Nacional,2026-05-09,15:00:00,complete,San Telmo,Club Atlético Mitre,2.45,2.7,2.87,3.1,1.36,2.15,1.62,0,0
+2026,Argentina Prim B Nacional,2026-05-09,15:00:00,complete,Deportivo Morón,Los Andes,1.76,2.9,5.52,3.08,1.31,2.7,1.4,0,0
+2026,Argentina Prim B Nacional,2026-05-09,15:30:00,complete,San Miguel,Estudiantes Caseros,2.3,2.62,3.48,4.0,1.25,0.0,0.0,1,1
+2026,Argentina Prim B Nacional,2026-05-09,15:30:00,complete,Temperley,Deportivo Maipú,2.11,2.75,3.8,2.49,1.4,2.38,1.53,0,5
+2026,Argentina Prim B Nacional,2026-05-09,16:30:00,complete,San Martín San Juan,Patronato,1.82,2.9,4.6,3.1,1.36,2.45,1.5,1,1
+2026,Argentina Prim B Nacional,2026-05-09,18:00:00,complete,Atlético Rafaela,Gimnasia y Tiro,2.19,2.89,3.49,3.1,1.3,2.54,1.43,1,0
+2026,Argentina Prim B Nacional,2026-05-10,15:30:00,complete,Acassuso,Almirante Brown,2.72,2.67,2.42,3.1,1.36,2.3,1.54,0,0
+2026,Argentina Prim B Nacional,2026-05-10,15:30:00,complete,Chacarita Juniors,Colegiales,2.1,2.65,4.0,3.25,1.3,2.5,1.44,2,0
+2026,Argentina Prim B Nacional,2026-05-10,16:00:00,complete,Agropecuario,Atlanta,2.3,2.77,3.26,3.1,1.33,2.3,1.57,0,0
+2026,Argentina Prim B Nacional,2026-05-10,16:00:00,complete,Club Atlético Güemes,Quilmes,2.4,2.63,3.25,2.92,1.33,2.38,1.53,2,1
+2026,Argentina Prim B Nacional,2026-05-10,16:30:00,complete,Godoy Cruz,Racing Córdoba,1.85,2.95,4.33,2.8,1.4,2.45,1.5,2,1
+2026,Argentina Prim B Nacional,2026-05-10,16:30:00,complete,Chaco For Ever,Ciudad de Bolívar,1.88,2.75,3.9,3.05,1.3,2.5,1.42,0,1
+2026,Argentina Prim B Nacional,2026-05-10,17:00:00,complete,Central Norte,Deportivo Madryn,2.2,2.8,3.5,2.95,1.39,2.2,1.53,2,3
+2026,Argentina Prim B Nacional,2026-05-10,18:00:00,complete,Colón,All Boys,1.84,2.9,5.11,2.88,1.32,2.54,1.44,3,2
+2026,Argentina Prim B Nacional,2026-05-11,19:00:00,complete,Ferro Carril Oeste,Defensores de Belgrano,1.72,2.8,3.85,3.26,1.3,2.71,1.47,2,1
+2026,Argentina Prim B Nacional,2026-05-11,19:30:00,complete,Nueva Chicago,Almagro,1.95,2.95,4.6,2.88,1.36,2.51,1.5,1,2
+2026,Argentina Prim B Nacional,2026-05-12,21:10:00,complete,San Martín Tucumán,Gimnasia Jujuy,2.1,2.5,3.3,3.1,1.3,2.45,1.5,2,0
+2026,Argentina Prim B Nacional,2026-05-15,21:00:00,complete,Racing Córdoba,Central Norte,1.85,2.85,5.36,3.2,1.3,2.71,1.4,1,2
+2026,Argentina Prim B Nacional,2026-05-16,13:00:00,complete,Atlanta,Atlético Rafaela,1.82,2.84,5.06,2.95,1.3,2.7,1.4,2,0
+2026,Argentina Prim B Nacional,2026-05-16,15:00:00,complete,Los Andes,Godoy Cruz,2.55,2.5,3.25,3.34,1.29,2.63,1.44,1,0
+2026,Argentina Prim B Nacional,2026-05-16,15:30:00,complete,Almirante Brown,San Telmo,2.05,2.75,4.0,3.4,1.25,2.7,1.4,0,0
+2026,Argentina Prim B Nacional,2026-05-16,15:30:00,complete,Estudiantes Caseros,Colón,2.25,2.8,3.25,2.88,1.33,2.25,1.53,1,1
+2026,Argentina Prim B Nacional,2026-05-16,16:00:00,complete,Ciudad de Bolívar,Acassuso,1.79,3.0,4.97,2.62,1.44,2.4,1.53,1,0
+2026,Argentina Prim B Nacional,2026-05-16,16:00:00,complete,Colegiales,Club Atlético Güemes,1.95,2.8,3.9,2.88,1.36,2.35,1.53,4,1
+2026,Argentina Prim B Nacional,2026-05-17,15:00:00,complete,Deportivo Madryn,Ferro Carril Oeste,2.7,2.9,2.5,2.45,1.5,2.05,1.7,0,1
+2026,Argentina Prim B Nacional,2026-05-17,15:30:00,complete,Almagro,San Martín San Juan,3.0,2.7,2.45,3.1,1.3,2.3,1.5,1,2
+2026,Argentina Prim B Nacional,2026-05-17,15:30:00,complete,Gimnasia Jujuy,Temperley,1.7,3.25,4.5,2.25,1.57,2.2,1.6,1,0
+2026,Argentina Prim B Nacional,2026-05-17,16:00:00,complete,Patronato,Chacarita Juniors,2.2,2.87,3.4,2.86,1.4,2.1,1.57,2,0
+2026,Argentina Prim B Nacional,2026-05-17,16:00:00,complete,Club Atlético Mitre,San Miguel,2.4,2.6,3.0,3.25,1.3,2.4,1.53,4,0
+2026,Argentina Prim B Nacional,2026-05-17,16:30:00,complete,Midland,Agropecuario,1.95,3.0,3.75,2.35,1.47,2.1,1.62,2,0
+2026,Argentina Prim B Nacional,2026-05-17,17:00:00,complete,Gimnasia y Tiro,San Martín Tucumán,2.8,2.6,2.62,3.4,1.33,2.38,1.55,1,0
+2026,Argentina Prim B Nacional,2026-05-17,17:00:00,complete,Deportivo Maipú,Nueva Chicago,1.9,3.1,3.98,2.34,1.53,2.05,1.67,1,0
+2026,Argentina Prim B Nacional,2026-05-17,17:00:00,complete,Quilmes,Tristán Suárez,2.25,2.61,3.5,3.5,1.3,2.45,1.44,0,1
+2026,Argentina Prim B Nacional,2026-05-18,15:30:00,complete,Defensores de Belgrano,Chaco For Ever,1.83,3.0,4.4,2.87,1.42,2.4,1.51,0,0
+2026,Argentina Prim B Nacional,2026-05-18,20:00:00,complete,All Boys,Deportivo Morón,2.55,2.55,4.2,3.34,1.25,2.75,1.4,1,0
+2026,Argentina Prim B Nacional,2026-05-23,15:00:00,complete,San Telmo,Ciudad de Bolívar,2.45,2.6,3.55,3.6,1.25,2.5,1.44,0,1
+2026,Argentina Prim B Nacional,2026-05-23,15:00:00,complete,Tristán Suárez,Colegiales,2.1,2.8,3.8,3.5,1.29,2.45,1.5,0,0
+2026,Argentina Prim B Nacional,2026-05-23,15:00:00,complete,Los Andes,Racing Córdoba,2.15,2.7,3.6,2.8,1.3,2.5,1.5,2,0
+2026,Argentina Prim B Nacional,2026-05-23,15:30:00,complete,San Miguel,Almirante Brown,2.45,2.6,3.2,3.3,1.29,2.45,1.5,1,0
+2026,Argentina Prim B Nacional,2026-05-23,16:00:00,complete,Nueva Chicago,Temperley,2.35,2.8,3.5,2.56,1.44,2.14,1.62,1,1
+2026,Argentina Prim B Nacional,2026-05-23,16:30:00,complete,San Martín San Juan,Deportivo Maipú,2.01,2.9,3.7,2.75,1.4,2.3,1.53,2,1
+2026,Argentina Prim B Nacional,2026-05-23,16:30:00,complete,Atlético Rafaela,Midland,3.0,2.63,2.4,3.1,1.3,2.3,1.53,1,0
+2026,Argentina Prim B Nacional,2026-05-24,14:00:00,complete,Acassuso,Defensores de Belgrano,2.89,2.7,2.46,3.1,1.36,2.3,1.53,1,0
+2026,Argentina Prim B Nacional,2026-05-24,15:00:00,complete,Deportivo Morón,Estudiantes Caseros,1.91,2.7,4.4,3.25,1.3,2.5,1.44,2,0
+2026,Argentina Prim B Nacional,2026-05-24,15:30:00,complete,Chacarita Juniors,Almagro,1.75,3.1,4.4,2.56,1.44,2.25,1.6,1,0
+2026,Argentina Prim B Nacional,2026-05-24,16:00:00,complete,Agropecuario,Quilmes,1.91,2.83,4.3,2.6,1.4,2.2,1.53,0,0
+2026,Argentina Prim B Nacional,2026-05-24,16:00:00,complete,Ferro Carril Oeste,Central Norte,1.47,3.85,6.75,2.6,1.53,2.5,1.44,1,0
+2026,Argentina Prim B Nacional,2026-05-24,16:00:00,complete,Chaco For Ever,Deportivo Madryn,2.27,2.8,3.31,2.5,1.44,2.1,1.65,1,2
+2026,Argentina Prim B Nacional,2026-05-24,16:30:00,complete,Godoy Cruz,All Boys,1.78,2.89,5.22,3.1,1.33,2.6,1.44,4,0
+2026,Argentina Prim B Nacional,2026-05-24,18:00:00,complete,Colón,Club Atlético Mitre,1.67,3.2,5.0,2.49,1.44,2.4,1.53,1,1
+2026,Argentina Prim B Nacional,2026-05-24,18:30:00,complete,Club Atlético Güemes,Patronato,2.6,2.75,3.06,2.85,1.4,2.2,1.65,1,0
+2026,Argentina Prim B Nacional,2026-05-24,18:30:00,complete,Gimnasia y Tiro,Gimnasia Jujuy,2.8,2.35,3.05,3.0,1.33,2.2,1.53,1,1
+2026,Argentina Prim B Nacional,2026-05-24,19:00:00,complete,San Martín Tucumán,Atlanta,1.9,2.85,4.5,3.0,1.33,2.5,1.44,0,1
+2026,Argentina Prim B Nacional,2026-05-29,21:00:00,incomplete,Gimnasia Jujuy,Nueva Chicago,1.58,3.52,5.48,2.05,1.7,2.05,1.73,0,0
+2026,Argentina Prim B Nacional,2026-05-29,21:00:00,complete,Racing Córdoba,Ferro Carril Oeste,2.7,2.75,2.6,2.9,1.36,2.15,1.59,0,0
+2026,Argentina Prim B Nacional,2026-05-30,15:00:00,complete,Colegiales,Agropecuario,2.0,2.8,3.75,2.7,1.36,2.25,1.54,0,0
+2026,Argentina Prim B Nacional,2026-05-30,15:00:00,complete,Estudiantes Caseros,Godoy Cruz,2.75,2.7,2.8,2.97,1.3,2.25,1.53,1,0
+2026,Argentina Prim B Nacional,2026-05-30,15:30:00,complete,Defensores de Belgrano,San Telmo,1.9,3.05,4.33,2.5,1.47,2.23,1.55,1,0
+2026,Argentina Prim B Nacional,2026-05-30,15:30:00,complete,Almirante Brown,Colón,2.8,2.6,2.85,3.1,1.31,2.38,1.53,1,1
+2026,Argentina Prim B Nacional,2026-05-30,15:30:00,complete,All Boys,Los Andes,2.25,2.55,4.0,3.6,1.22,2.75,1.44,0,0
+2026,Argentina Prim B Nacional,2026-05-31,13:30:00,complete,Atlanta,Gimnasia y Tiro,1.83,2.95,3.83,2.74,1.39,2.45,1.5,1,1
+2026,Argentina Prim B Nacional,2026-05-31,15:00:00,complete,Deportivo Madryn,Acassuso,1.43,3.38,6.0,2.17,1.61,2.3,1.65,0,0
+2026,Argentina Prim B Nacional,2026-05-31,15:30:00,complete,Almagro,Club Atlético Güemes,2.65,2.68,2.92,2.75,1.4,2.2,1.6,2,0
+2026,Argentina Prim B Nacional,2026-05-31,16:00:00,complete,Temperley,San Martín San Juan,2.3,2.8,3.1,2.56,1.44,2.14,1.62,2,1
+2026,Argentina Prim B Nacional,2026-05-31,16:00:00,complete,Midland,San Martín Tucumán,2.15,2.75,3.6,3.2,1.3,2.38,1.51,2,0
+2026,Argentina Prim B Nacional,2026-05-31,16:00:00,complete,Ciudad de Bolívar,San Miguel,2.15,2.62,3.7,3.6,1.3,2.5,1.44,1,1
+2026,Argentina Prim B Nacional,2026-05-31,16:00:00,complete,Club Atlético Mitre,Deportivo Morón,2.6,2.6,3.2,3.5,1.3,2.4,1.5,1,3
+2026,Argentina Prim B Nacional,2026-05-31,16:00:00,complete,Patronato,Tristán Suárez,2.25,2.7,3.4,3.0,1.33,2.4,1.5,1,1
+2026,Argentina Prim B Nacional,2026-05-31,16:30:00,complete,Central Norte,Chaco For Ever,2.0,2.8,4.29,3.1,1.33,2.4,1.57,1,1
+2026,Argentina Prim B Nacional,2026-05-31,17:00:00,complete,Quilmes,Atlético Rafaela,1.92,2.76,4.61,3.0,1.33,2.4,1.5,2,0
+2026,Argentina Prim B Nacional,2026-05-31,17:00:00,complete,Deportivo Maipú,Chacarita Juniors,2.05,2.87,3.1,2.88,1.38,2.3,1.57,3,2
+2026,Argentina Prim B Nacional,2026-06-05,21:30:00,complete,Gimnasia y Tiro,Midland,2.75,2.75,2.9,3.06,1.4,2.32,1.57,1,0
+2026,Argentina Prim B Nacional,2026-06-06,14:00:00,complete,Atlanta,Gimnasia Jujuy,1.93,2.85,4.83,2.7,1.36,2.25,1.57,3,0
+2026,Argentina Prim B Nacional,2026-06-06,15:00:00,complete,Los Andes,Estudiantes Caseros,2.17,2.65,3.32,3.6,1.28,2.5,1.46,0,0
+2026,Argentina Prim B Nacional,2026-06-06,15:30:00,complete,Acassuso,Central Norte,2.65,2.5,3.15,4.0,1.25,0.0,0.0,2,1
+2026,Argentina Prim B Nacional,2026-06-06,15:30:00,complete,San Miguel,Defensores de Belgrano,2.38,2.5,3.65,3.1,1.36,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-06,16:00:00,incomplete,San Martín San Juan,Nueva Chicago,1.67,3.1,5.5,2.63,1.4,2.38,1.55,0,0
+2026,Argentina Prim B Nacional,2026-06-06,16:30:00,complete,Atlético Rafaela,Colegiales,2.0,2.7,3.6,3.14,1.27,2.4,1.48,1,0
+2026,Argentina Prim B Nacional,2026-06-06,19:00:00,complete,Tristán Suárez,Almagro,1.74,3.1,4.8,2.7,1.36,2.6,1.41,0,0
+2026,Argentina Prim B Nacional,2026-06-07,15:00:00,complete,San Telmo,Deportivo Madryn,2.45,2.9,2.58,2.7,1.44,2.05,1.67,0,0
+2026,Argentina Prim B Nacional,2026-06-07,15:00:00,complete,Deportivo Morón,Almirante Brown,1.8,2.7,4.2,3.27,1.3,2.67,1.41,1,0
+2026,Argentina Prim B Nacional,2026-06-07,15:30:00,complete,Chacarita Juniors,Temperley,2.45,2.63,3.0,2.62,1.42,2.25,1.57,0,1
+2026,Argentina Prim B Nacional,2026-06-07,15:30:00,complete,All Boys,Racing Córdoba,2.05,2.8,3.9,3.14,1.33,2.6,1.41,1,1
+2026,Argentina Prim B Nacional,2026-06-07,16:00:00,complete,Club Atlético Güemes,Deportivo Maipú,2.1,2.71,3.5,2.55,1.44,2.03,1.69,1,0
+2026,Argentina Prim B Nacional,2026-06-07,16:00:00,complete,Chaco For Ever,Ferro Carril Oeste,3.1,2.75,2.3,2.78,1.34,2.25,1.55,1,2
+2026,Argentina Prim B Nacional,2026-06-07,16:00:00,complete,Agropecuario,Patronato,2.0,2.87,3.6,2.7,1.4,2.2,1.6,1,1
+2026,Argentina Prim B Nacional,2026-06-07,16:30:00,complete,Godoy Cruz,Club Atlético Mitre,1.7,3.1,5.0,2.6,1.47,0.0,0.0,2,1
+2026,Argentina Prim B Nacional,2026-06-07,17:00:00,complete,Colón,Ciudad de Bolívar,1.66,2.9,5.5,2.83,1.44,2.5,1.42,0,0
+2026,Argentina Prim B Nacional,2026-06-07,17:30:00,complete,San Martín Tucumán,Quilmes,1.93,2.8,4.63,3.4,1.33,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-12,21:00:00,incomplete,Racing Córdoba,Chaco For Ever,1.85,2.9,4.33,2.87,1.4,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-13,15:00:00,incomplete,Colegiales,San Martín Tucumán,2.49,2.72,3.03,3.4,1.33,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-13,15:30:00,incomplete,Estudiantes Caseros,All Boys,1.85,2.78,5.02,3.5,1.3,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-13,15:30:00,incomplete,Defensores de Belgrano,Colón,2.32,2.74,3.3,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-13,15:30:00,incomplete,Nueva Chicago,Chacarita Juniors,2.4,2.62,3.33,3.4,1.33,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-13,16:00:00,incomplete,Ciudad de Bolívar,Deportivo Morón,2.88,2.58,2.67,3.6,1.28,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-13,16:00:00,incomplete,Midland,Atlanta,2.1,2.76,3.83,3.1,1.36,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,15:00:00,incomplete,Deportivo Madryn,San Miguel,1.82,3.05,4.5,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,15:30:00,incomplete,Almagro,Agropecuario,3.23,2.83,2.29,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,15:30:00,incomplete,Patronato,Atlético Rafaela,2.29,2.7,3.42,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,15:30:00,incomplete,Ferro Carril Oeste,Acassuso,1.58,3.42,5.74,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,15:30:00,incomplete,Almirante Brown,Godoy Cruz,3.53,2.68,2.26,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,16:00:00,incomplete,Temperley,Club Atlético Güemes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,16:00:00,incomplete,Club Atlético Mitre,Los Andes,2.3,2.67,3.44,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,16:00:00,incomplete,Gimnasia Jujuy,San Martín San Juan,1.9,3.0,4.2,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,16:30:00,incomplete,Deportivo Maipú,Tristán Suárez,2.26,2.78,3.36,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,16:30:00,incomplete,Central Norte,San Telmo,2.12,2.74,3.81,0.0,0.0,0.0,0.0,0,0
+2026,Argentina Prim B Nacional,2026-06-14,17:00:00,incomplete,Quilmes,Gimnasia y Tiro,2.09,2.73,3.93,0.0,0.0,0.0,0.0,0,0
