@@ -1,0 +1,935 @@
+season,league,date,time,status,home_name,away_name,odds_ft_1,odds_ft_x,odds_ft_2,odds_ft_over25,odds_ft_under25,odds_btts_yes,odds_btts_no,homeGoalCount,awayGoalCount
+2024/2025,Spain Segunda División,2024-08-15,15:30:00,complete,Granada CF,Albacete Balompié,1.79,3.17,3.92,2.2,1.55,2.0,1.73,1,2
+2024/2025,Spain Segunda División,2024-08-16,14:00:00,complete,Mirandés,Córdoba,2.4,3.1,2.9,2.38,1.52,2.0,1.73,1,0
+2024/2025,Spain Segunda División,2024-08-16,16:30:00,complete,Cádiz,Real Zaragoza,1.8,3.25,4.5,2.5,1.47,2.25,1.57,0,4
+2024/2025,Spain Segunda División,2024-08-17,12:00:00,complete,Racing Club de Ferrol,Málaga CF,1.85,3.0,4.0,2.37,1.48,2.1,1.67,2,2
+2024/2025,Spain Segunda División,2024-08-17,12:00:00,complete,SD Eibar,CD Castellón,1.6,3.4,5.25,2.05,1.61,2.0,1.73,1,0
+2024/2025,Spain Segunda División,2024-08-17,14:00:00,complete,Deportivo La Coruña,Real Oviedo,2.6,2.95,2.75,2.38,1.52,2.0,1.73,0,1
+2024/2025,Spain Segunda División,2024-08-18,12:00:00,complete,Sporting Gijón,Levante UD,1.9,2.98,3.73,2.4,1.53,2.25,1.57,1,2
+2024/2025,Spain Segunda División,2024-08-18,12:00:00,complete,Racing Santander,Almería,2.09,3.07,3.07,2.1,1.7,1.83,1.83,2,2
+2024/2025,Spain Segunda División,2024-08-18,14:30:00,complete,Burgos CF,FC Cartagena,1.86,2.98,3.92,2.4,1.53,2.2,1.62,3,1
+2024/2025,Spain Segunda División,2024-08-18,14:30:00,complete,Elche CF,SD Huesca,1.99,2.89,3.55,2.5,1.5,2.38,1.53,0,1
+2024/2025,Spain Segunda División,2024-08-19,15:30:00,complete,CD Eldense,CD Tenerife,2.39,3.05,3.3,2.35,1.52,2.2,1.62,2,1
+2024/2025,Spain Segunda División,2024-08-23,14:00:00,complete,Racing Santander,SD Eibar,2.11,3.42,3.1,1.8,1.9,1.75,1.93,2,2
+2024/2025,Spain Segunda División,2024-08-23,16:30:00,complete,SD Huesca,Deportivo La Coruña,2.11,2.94,3.62,2.81,1.38,2.25,1.57,2,1
+2024/2025,Spain Segunda División,2024-08-24,12:00:00,complete,Sporting Gijón,CD Eldense,1.75,3.51,4.74,2.05,1.67,2.1,1.67,0,0
+2024/2025,Spain Segunda División,2024-08-24,12:00:00,complete,Racing Club de Ferrol,Granada CF,2.57,3.08,2.89,2.13,1.61,1.91,1.8,0,1
+2024/2025,Spain Segunda División,2024-08-24,14:00:00,complete,Levante UD,Cádiz,2.1,3.2,3.66,2.25,1.62,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2024-08-24,16:30:00,complete,Málaga CF,Mirandés,1.99,3.18,4.06,2.3,1.6,2.2,1.62,1,1
+2024/2025,Spain Segunda División,2024-08-24,16:30:00,complete,CD Tenerife,Almería,3.0,2.89,2.63,2.56,1.45,2.1,1.67,0,1
+2024/2025,Spain Segunda División,2024-08-25,14:00:00,complete,Albacete Balompié,Elche CF,2.3,3.0,2.95,2.0,1.7,1.95,1.73,1,0
+2024/2025,Spain Segunda División,2024-08-25,16:30:00,complete,CD Castellón,Real Oviedo,2.05,3.1,3.3,2.2,1.6,2.0,1.73,0,0
+2024/2025,Spain Segunda División,2024-08-26,14:00:00,complete,FC Cartagena,Real Zaragoza,2.75,2.87,2.45,2.65,1.42,2.2,1.62,1,2
+2024/2025,Spain Segunda División,2024-08-26,16:30:00,complete,Córdoba,Burgos CF,2.0,3.1,3.5,2.2,1.55,2.0,1.73,2,2
+2024/2025,Spain Segunda División,2024-08-30,14:00:00,complete,Granada CF,SD Huesca,1.85,3.2,4.4,2.06,1.68,2.2,1.62,1,3
+2024/2025,Spain Segunda División,2024-08-30,16:30:00,complete,Real Oviedo,Racing Santander,2.1,3.2,3.4,1.91,1.79,1.83,1.85,1,3
+2024/2025,Spain Segunda División,2024-08-31,14:00:00,complete,Cádiz,CD Tenerife,1.85,3.1,4.6,2.38,1.52,2.25,1.57,2,2
+2024/2025,Spain Segunda División,2024-08-31,16:30:00,complete,Málaga CF,Albacete Balompié,1.91,3.25,4.0,2.3,1.55,2.0,1.73,2,1
+2024/2025,Spain Segunda División,2024-08-31,16:30:00,complete,Almería,Sporting Gijón,1.8,3.4,4.4,2.06,1.68,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2024-09-01,12:00:00,complete,Burgos CF,CD Castellón,2.45,3.25,2.75,2.1,1.65,1.83,1.83,0,2
+2024/2025,Spain Segunda División,2024-09-01,12:00:00,complete,Deportivo La Coruña,Racing Club de Ferrol,1.85,3.3,4.2,2.3,1.55,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2024-09-01,14:00:00,complete,Mirandés,Real Zaragoza,2.7,3.0,2.62,2.55,1.45,2.1,1.67,0,0
+2024/2025,Spain Segunda División,2024-09-01,14:00:00,complete,CD Eldense,FC Cartagena,1.91,3.25,4.0,2.35,1.53,2.2,1.62,1,2
+2024/2025,Spain Segunda División,2024-09-02,14:00:00,complete,SD Eibar,Levante UD,2.05,3.35,3.5,2.05,1.67,1.8,1.91,2,2
+2024/2025,Spain Segunda División,2024-09-02,16:30:00,complete,Elche CF,Córdoba,2.27,3.0,3.32,2.33,1.5,2.0,1.73,3,1
+2024/2025,Spain Segunda División,2024-09-06,16:00:00,complete,CD Tenerife,Racing Santander,2.5,3.1,2.8,2.1,1.67,1.8,1.85,0,1
+2024/2025,Spain Segunda División,2024-09-07,11:15:00,complete,Granada CF,Deportivo La Coruña,2.2,3.1,3.3,2.2,1.6,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2024-09-07,13:30:00,complete,SD Huesca,Burgos CF,2.39,3.15,3.15,2.44,1.56,1.95,1.73,0,1
+2024/2025,Spain Segunda División,2024-09-07,13:30:00,complete,Sporting Gijón,Real Oviedo,2.26,2.97,3.64,2.55,1.51,2.05,1.67,3,1
+2024/2025,Spain Segunda División,2024-09-07,16:00:00,complete,Córdoba,Málaga CF,1.99,3.15,3.92,2.18,1.58,2.0,1.73,0,0
+2024/2025,Spain Segunda División,2024-09-08,09:00:00,complete,Racing Club de Ferrol,Mirandés,1.73,3.35,4.75,2.3,1.54,2.15,1.65,0,0
+2024/2025,Spain Segunda División,2024-09-08,11:15:00,complete,FC Cartagena,Levante UD,3.1,3.05,2.28,2.12,1.64,1.83,1.83,0,1
+2024/2025,Spain Segunda División,2024-09-08,13:30:00,complete,CD Eldense,Almería,2.9,3.2,2.53,2.32,1.61,1.83,1.83,1,0
+2024/2025,Spain Segunda División,2024-09-08,13:30:00,complete,Real Zaragoza,Elche CF,2.46,3.1,3.09,2.55,1.45,2.2,1.62,3,0
+2024/2025,Spain Segunda División,2024-09-09,16:00:00,complete,CD Castellón,Cádiz,2.25,3.1,3.1,2.0,1.84,1.8,1.91,1,3
+2024/2025,Spain Segunda División,2024-09-09,16:00:00,complete,Albacete Balompié,SD Eibar,2.25,3.1,3.2,2.1,1.65,1.83,1.83,0,1
+2024/2025,Spain Segunda División,2024-09-13,15:30:00,complete,Córdoba,Deportivo La Coruña,2.55,3.0,2.8,2.37,1.52,2.1,1.67,2,0
+2024/2025,Spain Segunda División,2024-09-14,11:15:00,complete,Levante UD,CD Eldense,1.77,3.3,4.7,2.0,1.7,2.0,1.73,3,1
+2024/2025,Spain Segunda División,2024-09-14,11:15:00,complete,SD Eibar,CD Tenerife,1.73,3.4,4.8,1.9,1.72,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2024-09-14,13:30:00,complete,Málaga CF,SD Huesca,2.25,3.0,3.3,2.1,1.6,2.25,1.57,1,0
+2024/2025,Spain Segunda División,2024-09-14,13:30:00,complete,Racing Santander,Sporting Gijón,2.1,3.3,3.3,1.91,1.8,1.78,1.95,1,0
+2024/2025,Spain Segunda División,2024-09-15,09:00:00,complete,Mirandés,Albacete Balompié,2.43,3.05,2.92,2.4,1.5,2.1,1.67,2,0
+2024/2025,Spain Segunda División,2024-09-15,11:15:00,complete,Real Oviedo,FC Cartagena,1.68,3.45,5.1,2.25,1.57,2.1,1.65,1,0
+2024/2025,Spain Segunda División,2024-09-15,13:30:00,complete,Burgos CF,Real Zaragoza,2.32,3.15,2.93,2.21,1.59,1.95,1.8,1,0
+2024/2025,Spain Segunda División,2024-09-15,13:30:00,complete,Cádiz,Racing Club de Ferrol,1.65,3.65,5.0,2.14,1.63,2.2,1.62,0,0
+2024/2025,Spain Segunda División,2024-09-15,16:00:00,complete,Elche CF,Granada CF,2.02,3.35,3.4,2.02,1.71,1.91,1.8,2,2
+2024/2025,Spain Segunda División,2024-09-16,15:30:00,complete,Almería,CD Castellón,1.98,3.15,3.24,1.95,1.76,1.83,1.83,2,5
+2024/2025,Spain Segunda División,2024-09-20,15:30:00,complete,Granada CF,Málaga CF,1.81,3.4,4.4,2.12,1.65,2.0,1.73,2,2
+2024/2025,Spain Segunda División,2024-09-21,11:15:00,complete,Racing Club de Ferrol,Albacete Balompié,2.4,3.0,3.0,2.2,1.61,2.0,1.73,1,4
+2024/2025,Spain Segunda División,2024-09-21,13:30:00,complete,CD Eldense,Real Oviedo,2.9,2.9,2.6,2.45,1.5,2.05,1.67,1,1
+2024/2025,Spain Segunda División,2024-09-21,13:30:00,complete,Deportivo La Coruña,Burgos CF,1.91,3.2,4.0,2.05,1.7,2.0,1.73,0,2
+2024/2025,Spain Segunda División,2024-09-21,16:00:00,complete,Real Zaragoza,Levante UD,2.15,3.1,3.4,2.25,1.57,2.0,1.73,2,1
+2024/2025,Spain Segunda División,2024-09-22,09:00:00,complete,CD Tenerife,Sporting Gijón,2.15,3.0,3.3,2.5,1.5,2.1,1.67,1,1
+2024/2025,Spain Segunda División,2024-09-22,11:15:00,complete,FC Cartagena,Cádiz,2.9,3.0,2.35,2.17,1.7,2.1,1.67,1,2
+2024/2025,Spain Segunda División,2024-09-22,11:15:00,complete,CD Castellón,Racing Santander,2.15,3.1,3.2,2.25,1.65,1.67,2.1,0,1
+2024/2025,Spain Segunda División,2024-09-22,13:30:00,complete,Elche CF,Mirandés,1.61,3.5,6.0,2.43,1.5,2.25,1.55,1,0
+2024/2025,Spain Segunda División,2024-09-22,16:00:00,complete,Almería,SD Eibar,2.06,3.2,3.6,2.06,1.68,1.8,1.91,2,2
+2024/2025,Spain Segunda División,2024-09-23,15:30:00,complete,SD Huesca,Córdoba,2.5,2.8,3.15,2.55,1.45,2.38,1.53,4,1
+2024/2025,Spain Segunda División,2024-09-27,15:30:00,complete,Albacete Balompié,Deportivo La Coruña,2.42,3.3,2.98,1.93,1.78,1.77,1.98,2,5
+2024/2025,Spain Segunda División,2024-09-28,11:15:00,complete,Cádiz,CD Eldense,1.61,3.5,4.6,2.15,1.57,2.05,1.67,1,2
+2024/2025,Spain Segunda División,2024-09-28,11:15:00,complete,Mirandés,SD Huesca,2.25,2.8,3.2,2.94,1.35,2.2,1.62,1,0
+2024/2025,Spain Segunda División,2024-09-28,13:30:00,complete,Sporting Gijón,Real Zaragoza,2.28,2.85,3.35,2.5,1.47,2.05,1.67,1,0
+2024/2025,Spain Segunda División,2024-09-28,16:00:00,complete,Málaga CF,Elche CF,2.55,2.9,2.85,2.38,1.52,1.93,1.75,0,3
+2024/2025,Spain Segunda División,2024-09-29,09:00:00,complete,Levante UD,Almería,2.37,3.4,2.5,1.67,2.0,1.57,2.25,4,2
+2024/2025,Spain Segunda División,2024-09-29,11:15:00,complete,Burgos CF,Granada CF,2.37,2.87,2.87,1.91,1.75,1.76,2.0,2,2
+2024/2025,Spain Segunda División,2024-09-29,11:15:00,complete,CD Castellón,CD Tenerife,1.73,3.4,4.0,1.91,1.75,1.83,1.83,2,1
+2024/2025,Spain Segunda División,2024-09-29,13:30:00,complete,Córdoba,Racing Club de Ferrol,1.91,3.1,4.1,2.43,1.5,2.1,1.65,3,1
+2024/2025,Spain Segunda División,2024-09-29,13:30:00,complete,Real Oviedo,SD Eibar,2.14,2.9,3.65,2.43,1.5,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2024-09-30,15:30:00,complete,Racing Santander,FC Cartagena,1.5,4.1,5.5,1.9,1.91,2.0,1.73,1,2
+2024/2025,Spain Segunda División,2024-10-04,15:30:00,complete,SD Huesca,Cádiz,2.7,2.9,2.8,2.89,1.36,2.15,1.6,3,1
+2024/2025,Spain Segunda División,2024-10-05,09:00:00,complete,Racing Club de Ferrol,Elche CF,2.9,2.9,2.5,2.55,1.5,2.0,1.7,1,0
+2024/2025,Spain Segunda División,2024-10-05,11:15:00,complete,Mirandés,Granada CF,2.75,3.0,2.6,2.4,1.52,2.0,1.7,0,1
+2024/2025,Spain Segunda División,2024-10-05,11:15:00,complete,SD Eibar,Sporting Gijón,1.95,3.2,3.9,2.3,1.55,1.95,1.73,1,3
+2024/2025,Spain Segunda División,2024-10-05,13:30:00,complete,Real Zaragoza,Racing Santander,2.15,3.25,3.25,1.96,1.85,1.83,1.83,2,3
+2024/2025,Spain Segunda División,2024-10-05,13:30:00,complete,Almería,Burgos CF,1.7,3.8,4.4,1.71,2.02,1.65,2.05,2,0
+2024/2025,Spain Segunda División,2024-10-05,16:00:00,complete,CD Tenerife,FC Cartagena,1.87,3.38,3.87,1.95,1.75,2.25,1.57,2,0
+2024/2025,Spain Segunda División,2024-10-06,09:00:00,complete,Deportivo La Coruña,Málaga CF,1.9,3.0,4.0,2.2,1.6,2.0,1.73,0,0
+2024/2025,Spain Segunda División,2024-10-06,11:15:00,complete,CD Eldense,CD Castellón,2.5,3.15,2.7,1.95,1.76,1.73,2.0,2,3
+2024/2025,Spain Segunda División,2024-10-06,13:30:00,complete,Levante UD,Real Oviedo,2.08,3.1,3.45,2.12,1.64,1.91,1.8,0,0
+2024/2025,Spain Segunda División,2024-10-06,16:00:00,complete,Albacete Balompié,Córdoba,2.18,3.1,3.2,1.95,1.76,1.8,1.91,1,1
+2024/2025,Spain Segunda División,2024-10-11,15:30:00,complete,CD Tenerife,Real Zaragoza,2.3,3.04,3.49,2.75,1.4,2.2,1.62,2,3
+2024/2025,Spain Segunda División,2024-10-12,11:15:00,complete,FC Cartagena,Racing Club de Ferrol,2.2,2.87,3.2,2.4,1.5,2.1,1.68,0,1
+2024/2025,Spain Segunda División,2024-10-12,13:30:00,complete,Cádiz,Málaga CF,1.65,3.61,5.47,2.3,1.55,2.2,1.62,2,2
+2024/2025,Spain Segunda División,2024-10-12,13:30:00,complete,SD Eibar,CD Eldense,1.71,3.63,4.86,2.06,1.68,1.95,1.73,1,0
+2024/2025,Spain Segunda División,2024-10-13,09:00:00,complete,SD Huesca,Albacete Balompié,2.55,2.75,3.0,2.38,1.52,2.0,1.73,2,2
+2024/2025,Spain Segunda División,2024-10-13,11:15:00,complete,Real Oviedo,Almería,2.63,3.75,2.17,1.95,1.75,1.8,1.91,3,2
+2024/2025,Spain Segunda División,2024-10-13,11:15:00,complete,Racing Santander,Levante UD,1.6,4.0,4.26,1.57,2.25,1.53,2.38,1,0
+2024/2025,Spain Segunda División,2024-10-13,13:30:00,complete,Granada CF,Córdoba,2.43,8.6,1.71,1.86,1.86,1.8,1.91,1,0
+2024/2025,Spain Segunda División,2024-10-13,13:30:00,complete,Burgos CF,Mirandés,2.23,2.98,3.09,2.35,1.53,2.1,1.67,0,1
+2024/2025,Spain Segunda División,2024-10-13,16:00:00,complete,Elche CF,Deportivo La Coruña,2.27,3.63,2.55,2.1,1.65,1.83,1.83,0,0
+2024/2025,Spain Segunda División,2024-10-14,15:30:00,complete,Sporting Gijón,CD Castellón,51.0,1.0,51.0,2.3,1.62,1.62,2.2,2,1
+2024/2025,Spain Segunda División,2024-10-18,15:30:00,complete,Córdoba,FC Cartagena,1.8,3.25,4.1,2.12,1.64,2.0,1.73,2,1
+2024/2025,Spain Segunda División,2024-10-19,11:15:00,complete,Málaga CF,Real Oviedo,2.67,2.79,2.4,2.2,1.6,1.91,1.8,0,0
+2024/2025,Spain Segunda División,2024-10-19,11:15:00,complete,Deportivo La Coruña,CD Eldense,1.93,3.09,3.59,2.3,1.55,2.1,1.67,1,1
+2024/2025,Spain Segunda División,2024-10-19,13:30:00,complete,Granada CF,CD Tenerife,1.73,3.35,5.25,2.2,1.6,2.1,1.67,4,0
+2024/2025,Spain Segunda División,2024-10-19,13:30:00,complete,CD Castellón,Levante UD,2.2,3.45,3.1,2.2,1.6,1.91,1.8,2,0
+2024/2025,Spain Segunda División,2024-10-19,16:00:00,complete,Mirandés,SD Eibar,2.98,2.85,2.57,2.62,1.43,2.0,1.73,1,0
+2024/2025,Spain Segunda División,2024-10-20,09:00:00,complete,Cádiz,Racing Santander,2.65,3.32,2.65,2.06,1.76,1.8,1.91,0,1
+2024/2025,Spain Segunda División,2024-10-20,11:15:00,complete,Racing Club de Ferrol,SD Huesca,2.9,3.2,2.52,2.31,1.61,1.91,1.8,0,0
+2024/2025,Spain Segunda División,2024-10-20,13:30:00,complete,Elche CF,Sporting Gijón,2.1,3.1,3.1,2.1,1.65,1.83,1.83,2,1
+2024/2025,Spain Segunda División,2024-10-20,13:30:00,complete,Real Zaragoza,Almería,2.1,3.3,3.0,1.91,1.83,1.83,1.83,1,2
+2024/2025,Spain Segunda División,2024-10-21,15:30:00,complete,Albacete Balompié,Burgos CF,1.98,3.4,3.45,2.01,1.83,1.83,1.83,2,0
+2024/2025,Spain Segunda División,2024-10-22,14:00:00,complete,Real Oviedo,Mirandés,1.68,3.2,5.98,2.94,1.35,2.38,1.53,4,1
+2024/2025,Spain Segunda División,2024-10-22,16:00:00,complete,CD Castellón,Granada CF,2.35,3.4,2.81,1.72,2.0,1.62,2.2,2,3
+2024/2025,Spain Segunda División,2024-10-23,14:00:00,complete,SD Eibar,Cádiz,2.3,3.25,3.25,2.35,1.57,1.85,1.8,1,0
+2024/2025,Spain Segunda División,2024-10-23,14:00:00,complete,CD Eldense,Real Zaragoza,2.75,3.1,2.75,2.3,1.57,2.05,1.67,2,3
+2024/2025,Spain Segunda División,2024-10-23,16:00:00,complete,Racing Santander,Córdoba,1.91,3.6,3.95,1.75,2.05,1.6,2.15,2,0
+2024/2025,Spain Segunda División,2024-10-23,16:00:00,complete,FC Cartagena,Elche CF,4.3,3.35,1.93,2.4,1.53,2.1,1.62,0,0
+2024/2025,Spain Segunda División,2024-10-24,14:00:00,complete,Almería,Albacete Balompié,2.09,3.08,3.27,1.67,2.07,1.57,2.25,3,1
+2024/2025,Spain Segunda División,2024-10-24,14:00:00,complete,Levante UD,Deportivo La Coruña,2.05,3.24,3.49,1.99,1.75,1.75,1.93,2,1
+2024/2025,Spain Segunda División,2024-10-24,16:00:00,complete,Sporting Gijón,SD Huesca,1.82,3.07,4.71,2.45,1.48,2.15,1.6,2,1
+2024/2025,Spain Segunda División,2024-10-24,16:00:00,complete,CD Tenerife,Málaga CF,1.89,3.04,4.42,2.75,1.4,2.15,1.6,0,0
+2024/2025,Spain Segunda División,2024-10-24,16:00:00,complete,Burgos CF,Racing Club de Ferrol,1.76,3.47,3.94,2.3,1.55,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2024-10-26,11:15:00,complete,Cádiz,Real Oviedo,2.5,3.1,2.7,2.2,1.57,2.0,1.73,2,0
+2024/2025,Spain Segunda División,2024-10-26,11:15:00,complete,Mirandés,FC Cartagena,1.72,3.4,4.5,2.1,1.65,2.2,1.62,3,1
+2024/2025,Spain Segunda División,2024-10-26,13:30:00,complete,Córdoba,CD Eldense,1.98,3.3,3.5,2.0,1.7,1.83,1.83,2,0
+2024/2025,Spain Segunda División,2024-10-26,13:30:00,complete,Real Zaragoza,CD Castellón,1.9,3.3,3.7,2.1,1.65,1.91,1.8,1,2
+2024/2025,Spain Segunda División,2024-10-27,10:00:00,complete,Málaga CF,SD Eibar,2.43,2.96,3.22,2.25,1.57,1.91,1.8,1,0
+2024/2025,Spain Segunda División,2024-10-27,12:15:00,complete,Deportivo La Coruña,Racing Santander,2.54,3.23,2.89,1.9,1.72,1.73,2.0,1,2
+2024/2025,Spain Segunda División,2024-10-27,12:15:00,complete,Elche CF,Burgos CF,2.43,2.92,2.83,2.19,1.6,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2024-10-27,14:30:00,complete,Albacete Balompié,Sporting Gijón,2.37,3.11,3.26,2.12,1.64,1.83,1.83,3,3
+2024/2025,Spain Segunda División,2024-10-27,14:30:00,complete,SD Huesca,Almería,3.08,2.14,3.16,1.76,1.85,1.8,1.91,2,2
+2024/2025,Spain Segunda División,2024-10-27,17:00:00,complete,Granada CF,Levante UD,2.21,4.56,2.29,1.94,1.9,2.0,1.73,1,2
+2024/2025,Spain Segunda División,2024-10-28,16:30:00,complete,Racing Club de Ferrol,CD Tenerife,2.36,3.44,2.55,2.4,1.5,2.25,1.57,1,1
+2024/2025,Spain Segunda División,2024-11-02,10:00:00,complete,SD Eibar,Elche CF,2.31,3.02,3.17,2.37,1.52,1.95,1.73,0,2
+2024/2025,Spain Segunda División,2024-11-02,12:15:00,complete,FC Cartagena,Deportivo La Coruña,3.77,3.17,2.01,2.18,1.61,1.83,1.85,1,5
+2024/2025,Spain Segunda División,2024-11-02,12:15:00,complete,Sporting Gijón,Cádiz,2.1,3.2,3.43,2.23,1.58,1.95,1.8,2,0
+2024/2025,Spain Segunda División,2024-11-02,14:30:00,complete,Real Zaragoza,Granada CF,2.13,3.18,3.31,2.11,1.73,1.8,1.95,2,1
+2024/2025,Spain Segunda División,2024-11-02,14:30:00,complete,Racing Santander,Albacete Balompié,1.78,3.67,4.0,1.72,2.12,1.65,2.15,1,1
+2024/2025,Spain Segunda División,2024-11-03,10:00:00,complete,Real Oviedo,Burgos CF,1.8,3.3,4.2,2.15,1.61,1.95,1.73,3,1
+2024/2025,Spain Segunda División,2024-11-03,14:30:00,complete,CD Tenerife,Mirandés,2.08,2.95,4.3,2.94,1.35,2.35,1.5,1,0
+2024/2025,Spain Segunda División,2024-11-08,16:30:00,complete,Elche CF,Almería,1.58,5.01,3.62,1.9,1.8,1.73,1.95,1,2
+2024/2025,Spain Segunda División,2024-11-09,12:15:00,complete,Mirandés,Cádiz,2.63,2.8,2.63,2.65,1.42,2.2,1.62,2,2
+2024/2025,Spain Segunda División,2024-11-09,14:30:00,complete,SD Huesca,Real Zaragoza,3.04,3.0,2.57,2.75,1.4,2.05,1.65,1,1
+2024/2025,Spain Segunda División,2024-11-09,14:30:00,complete,Granada CF,CD Eldense,1.77,3.74,4.58,2.0,1.75,1.85,1.83,3,2
+2024/2025,Spain Segunda División,2024-11-09,17:00:00,complete,Málaga CF,FC Cartagena,1.79,3.4,5.01,2.25,1.57,2.15,1.6,1,0
+2024/2025,Spain Segunda División,2024-11-10,10:00:00,complete,Córdoba,CD Castellón,2.05,3.4,3.25,1.62,2.2,1.5,2.35,2,2
+2024/2025,Spain Segunda División,2024-11-10,12:15:00,complete,Burgos CF,Sporting Gijón,2.35,3.1,2.88,2.2,1.67,1.83,1.83,0,2
+2024/2025,Spain Segunda División,2024-11-10,12:15:00,complete,Racing Club de Ferrol,Racing Santander,3.1,3.1,2.25,2.08,1.75,1.77,1.9,1,2
+2024/2025,Spain Segunda División,2024-11-10,14:30:00,complete,Albacete Balompié,Real Oviedo,2.5,3.0,2.93,2.07,1.67,1.83,1.83,2,2
+2024/2025,Spain Segunda División,2024-11-11,16:30:00,complete,Deportivo La Coruña,SD Eibar,1.83,3.21,3.68,2.05,1.65,1.85,1.8,1,0
+2024/2025,Spain Segunda División,2024-11-16,10:00:00,complete,SD Eibar,Racing Club de Ferrol,1.77,3.25,4.94,2.29,1.55,2.2,1.62,2,0
+2024/2025,Spain Segunda División,2024-11-16,12:15:00,complete,CD Eldense,Albacete Balompié,2.18,3.27,3.18,1.91,1.8,1.8,1.91,2,0
+2024/2025,Spain Segunda División,2024-11-16,12:15:00,complete,CD Castellón,Mirandés,1.7,3.75,4.45,1.81,1.9,1.83,1.83,1,3
+2024/2025,Spain Segunda División,2024-11-16,14:30:00,complete,Levante UD,Elche CF,2.35,3.1,3.0,2.13,1.7,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2024-11-16,14:30:00,complete,Racing Santander,Burgos CF,1.6,3.95,5.25,1.7,2.15,1.73,1.95,2,0
+2024/2025,Spain Segunda División,2024-11-16,17:00:00,complete,Sporting Gijón,Granada CF,1.9,3.4,3.85,2.05,1.77,1.83,1.85,1,2
+2024/2025,Spain Segunda División,2024-11-17,12:15:00,complete,Cádiz,Córdoba,1.8,3.3,3.9,1.95,1.73,1.83,1.83,2,0
+2024/2025,Spain Segunda División,2024-11-17,12:15:00,complete,Real Oviedo,CD Tenerife,1.75,3.1,4.5,2.47,1.48,2.5,1.5,3,1
+2024/2025,Spain Segunda División,2024-11-17,14:30:00,complete,Almería,Deportivo La Coruña,1.73,3.5,3.9,1.65,2.05,1.62,2.2,2,1
+2024/2025,Spain Segunda División,2024-11-17,14:30:00,complete,FC Cartagena,SD Huesca,2.75,2.75,2.6,2.85,1.37,2.2,1.62,1,0
+2024/2025,Spain Segunda División,2024-11-17,17:00:00,complete,Real Zaragoza,Málaga CF,1.8,3.1,4.0,2.25,1.53,2.1,1.67,0,0
+2024/2025,Spain Segunda División,2024-11-20,16:00:00,complete,CD Eldense,SD Huesca,2.05,2.9,3.6,2.65,1.42,2.2,1.62,2,1
+2024/2025,Spain Segunda División,2024-11-22,16:30:00,complete,Racing Club de Ferrol,Levante UD,3.1,2.85,2.33,2.63,1.43,2.1,1.67,0,0
+2024/2025,Spain Segunda División,2024-11-23,10:00:00,complete,FC Cartagena,Almería,7.21,1.4,3.87,2.01,1.81,1.83,1.83,1,2
+2024/2025,Spain Segunda División,2024-11-23,12:15:00,complete,Granada CF,Cádiz,2.17,3.16,3.02,2.0,1.84,1.83,1.83,0,0
+2024/2025,Spain Segunda División,2024-11-23,14:30:00,complete,Burgos CF,SD Eibar,2.31,2.93,3.3,2.5,1.47,2.0,1.73,1,0
+2024/2025,Spain Segunda División,2024-11-23,14:30:00,complete,Córdoba,Real Zaragoza,2.31,3.2,3.0,2.23,1.58,1.83,1.83,2,2
+2024/2025,Spain Segunda División,2024-11-23,17:00:00,complete,Málaga CF,Racing Santander,2.35,2.79,2.58,2.25,1.57,1.83,1.83,0,0
+2024/2025,Spain Segunda División,2024-11-24,10:00:00,complete,Albacete Balompié,CD Tenerife,2.04,3.25,3.55,2.2,1.62,1.91,1.8,2,1
+2024/2025,Spain Segunda División,2024-11-24,12:15:00,complete,Deportivo La Coruña,Sporting Gijón,2.08,2.85,2.96,2.05,1.68,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2024-11-24,12:15:00,complete,Mirandés,CD Eldense,2.1,2.86,3.38,2.4,1.49,2.2,1.62,1,0
+2024/2025,Spain Segunda División,2024-11-24,14:30:00,complete,SD Huesca,CD Castellón,2.52,3.06,2.52,2.04,1.82,1.8,1.91,1,1
+2024/2025,Spain Segunda División,2024-11-24,17:00:00,complete,Elche CF,Real Oviedo,2.07,2.85,3.24,2.45,1.49,2.2,1.62,4,0
+2024/2025,Spain Segunda División,2024-11-26,16:30:00,complete,Almería,Córdoba,1.65,3.8,4.4,1.63,2.1,1.66,2.15,4,0
+2024/2025,Spain Segunda División,2024-11-27,15:00:00,complete,Levante UD,Málaga CF,1.79,3.7,4.45,2.0,1.81,1.95,1.73,4,2
+2024/2025,Spain Segunda División,2024-11-27,15:00:00,complete,CD Castellón,Racing Club de Ferrol,1.63,4.15,5.0,1.82,1.99,1.85,1.83,0,0
+2024/2025,Spain Segunda División,2024-11-29,16:30:00,complete,Real Oviedo,SD Huesca,1.75,3.35,5.4,2.6,1.44,2.38,1.53,0,3
+2024/2025,Spain Segunda División,2024-11-30,12:15:00,complete,Real Zaragoza,Albacete Balompié,1.83,3.5,3.8,1.95,1.73,1.83,1.85,0,1
+2024/2025,Spain Segunda División,2024-11-30,12:15:00,complete,Almería,Granada CF,1.85,3.5,3.7,1.75,1.95,1.67,2.05,2,1
+2024/2025,Spain Segunda División,2024-11-30,14:30:00,complete,Cádiz,Deportivo La Coruña,2.01,2.97,3.18,2.04,1.78,1.8,1.85,2,4
+2024/2025,Spain Segunda División,2024-11-30,14:30:00,complete,Racing Santander,Mirandés,1.67,3.22,4.15,1.93,1.88,1.95,1.73,0,1
+2024/2025,Spain Segunda División,2024-11-30,17:00:00,complete,CD Tenerife,Elche CF,2.78,2.76,2.49,2.75,1.4,2.25,1.57,1,1
+2024/2025,Spain Segunda División,2024-12-01,10:00:00,complete,CD Castellón,Málaga CF,1.93,3.41,3.97,1.93,1.87,1.8,1.91,2,0
+2024/2025,Spain Segunda División,2024-12-01,14:30:00,complete,Levante UD,Burgos CF,1.69,3.23,4.03,2.08,1.78,1.91,1.8,3,1
+2024/2025,Spain Segunda División,2024-12-01,14:30:00,complete,CD Eldense,Racing Club de Ferrol,1.96,2.8,3.56,2.65,1.42,2.2,1.62,0,0
+2024/2025,Spain Segunda División,2024-12-01,17:00:00,complete,Sporting Gijón,Córdoba,1.86,3.17,3.73,2.0,1.75,1.91,1.8,2,0
+2024/2025,Spain Segunda División,2024-12-02,16:30:00,complete,SD Eibar,FC Cartagena,1.5,3.6,6.0,2.25,1.57,2.38,1.53,1,0
+2024/2025,Spain Segunda División,2024-12-06,16:30:00,complete,Mirandés,Levante UD,2.74,3.04,2.79,2.34,1.6,2.0,1.73,2,1
+2024/2025,Spain Segunda División,2024-12-07,10:00:00,complete,Elche CF,Cádiz,1.85,3.1,4.2,2.19,1.6,2.05,1.72,2,1
+2024/2025,Spain Segunda División,2024-12-07,12:15:00,complete,Granada CF,Racing Santander,1.95,3.3,3.3,1.8,1.9,1.62,2.1,3,0
+2024/2025,Spain Segunda División,2024-12-07,14:30:00,complete,Deportivo La Coruña,Real Zaragoza,2.05,3.47,3.86,2.02,1.7,1.83,1.85,1,1
+2024/2025,Spain Segunda División,2024-12-07,17:00:00,complete,SD Huesca,SD Eibar,2.54,2.96,3.29,2.8,1.37,2.1,1.62,2,1
+2024/2025,Spain Segunda División,2024-12-08,10:00:00,complete,Racing Club de Ferrol,Real Oviedo,3.4,2.9,2.23,2.6,1.43,2.25,1.57,1,5
+2024/2025,Spain Segunda División,2024-12-08,12:15:00,complete,Málaga CF,Almería,3.18,3.4,2.24,1.85,1.85,1.73,2.0,1,1
+2024/2025,Spain Segunda División,2024-12-08,14:30:00,complete,Albacete Balompié,CD Castellón,2.2,3.6,2.88,1.6,2.2,1.5,2.5,0,0
+2024/2025,Spain Segunda División,2024-12-08,14:30:00,complete,Burgos CF,CD Eldense,2.1,3.3,3.4,2.15,1.62,1.91,1.8,1,0
+2024/2025,Spain Segunda División,2024-12-08,17:00:00,complete,Córdoba,CD Tenerife,1.85,3.4,4.0,2.25,1.57,2.0,1.73,3,0
+2024/2025,Spain Segunda División,2024-12-09,16:30:00,complete,FC Cartagena,Sporting Gijón,3.8,3.4,1.95,2.14,1.63,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2024-12-13,16:30:00,complete,Almería,Mirandés,1.44,4.0,5.75,1.75,1.85,2.0,1.7,1,0
+2024/2025,Spain Segunda División,2024-12-14,10:00:00,complete,Levante UD,Córdoba,1.75,3.75,4.2,1.73,1.95,1.67,2.1,2,2
+2024/2025,Spain Segunda División,2024-12-14,12:15:00,complete,Cádiz,Albacete Balompié,2.0,3.4,3.5,2.0,1.81,1.8,1.91,1,0
+2024/2025,Spain Segunda División,2024-12-14,12:15:00,complete,CD Castellón,FC Cartagena,1.5,3.9,6.5,2.0,1.71,1.83,1.83,4,1
+2024/2025,Spain Segunda División,2024-12-14,14:30:00,complete,SD Eibar,Real Zaragoza,2.4,3.05,2.83,2.33,1.6,2.05,1.72,2,1
+2024/2025,Spain Segunda División,2024-12-14,14:30:00,complete,CD Eldense,Elche CF,3.45,3.0,2.2,2.52,1.52,2.1,1.67,0,0
+2024/2025,Spain Segunda División,2024-12-14,17:00:00,complete,Real Oviedo,Granada CF,2.03,3.25,3.55,2.15,1.7,1.9,1.77,2,0
+2024/2025,Spain Segunda División,2024-12-15,10:00:00,complete,Sporting Gijón,Racing Club de Ferrol,1.61,3.6,5.6,2.3,1.55,2.38,1.53,1,3
+2024/2025,Spain Segunda División,2024-12-15,12:15:00,complete,Burgos CF,Málaga CF,1.94,2.9,3.5,2.33,1.53,2.1,1.67,0,0
+2024/2025,Spain Segunda División,2024-12-15,14:30:00,complete,Racing Santander,SD Huesca,1.67,3.4,4.4,2.0,1.72,1.91,1.8,0,1
+2024/2025,Spain Segunda División,2024-12-17,15:00:00,complete,Granada CF,FC Cartagena,1.46,4.27,6.59,1.88,1.92,2.0,1.75,4,1
+2024/2025,Spain Segunda División,2024-12-17,15:00:00,complete,Albacete Balompié,Levante UD,2.45,3.34,2.83,1.85,1.96,1.65,2.05,0,0
+2024/2025,Spain Segunda División,2024-12-17,17:15:00,complete,Córdoba,SD Eibar,2.12,3.27,3.53,2.05,1.67,1.85,1.9,2,1
+2024/2025,Spain Segunda División,2024-12-17,17:15:00,complete,Real Zaragoza,Real Oviedo,2.48,2.98,3.11,2.4,1.5,2.0,1.75,2,3
+2024/2025,Spain Segunda División,2024-12-18,15:00:00,complete,Racing Club de Ferrol,Almería,4.0,3.3,1.9,1.91,1.8,1.8,1.95,1,4
+2024/2025,Spain Segunda División,2024-12-18,17:15:00,complete,Mirandés,Sporting Gijón,2.7,2.7,2.95,2.85,1.36,2.15,1.66,1,1
+2024/2025,Spain Segunda División,2024-12-18,17:15:00,complete,Málaga CF,CD Eldense,2.3,2.85,3.4,2.55,1.45,2.1,1.62,3,0
+2024/2025,Spain Segunda División,2024-12-19,15:00:00,complete,Cádiz,Burgos CF,1.91,3.2,4.0,2.15,1.62,1.91,1.77,1,1
+2024/2025,Spain Segunda División,2024-12-19,15:00:00,complete,Elche CF,Racing Santander,1.85,3.4,4.0,2.03,1.81,1.83,1.83,3,0
+2024/2025,Spain Segunda División,2024-12-19,17:15:00,complete,Deportivo La Coruña,CD Castellón,2.05,3.5,3.25,1.69,2.17,1.62,2.2,5,1
+2024/2025,Spain Segunda División,2024-12-19,17:15:00,complete,SD Huesca,CD Tenerife,2.3,2.8,3.4,2.9,1.36,2.5,1.5,1,0
+2024/2025,Spain Segunda División,2024-12-20,16:30:00,complete,FC Cartagena,Albacete Balompié,3.2,3.1,2.1,2.0,1.67,1.83,1.83,0,0
+2024/2025,Spain Segunda División,2024-12-21,10:00:00,complete,SD Eibar,Granada CF,2.43,2.83,3.44,2.2,1.6,1.91,1.8,1,1
+2024/2025,Spain Segunda División,2024-12-21,12:15:00,complete,Real Oviedo,Córdoba,1.51,4.61,4.32,2.03,1.7,2.1,1.67,2,3
+2024/2025,Spain Segunda División,2024-12-21,14:30:00,complete,Real Zaragoza,Racing Club de Ferrol,1.95,2.49,5.15,2.2,1.6,2.2,1.62,1,0
+2024/2025,Spain Segunda División,2024-12-21,14:30:00,complete,Sporting Gijón,Málaga CF,2.11,2.36,4.77,2.3,1.55,2.2,1.62,1,3
+2024/2025,Spain Segunda División,2024-12-22,10:00:00,complete,Burgos CF,CD Tenerife,1.76,3.6,5.3,2.2,1.55,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2024-12-22,12:15:00,complete,CD Castellón,Elche CF,2.23,3.36,3.47,2.15,1.61,1.73,2.0,0,2
+2024/2025,Spain Segunda División,2024-12-22,14:30:00,complete,Almería,Cádiz,1.55,4.2,6.7,2.01,1.81,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2024-12-22,14:30:00,complete,Racing Santander,CD Eldense,1.49,4.2,8.1,2.15,1.61,1.83,1.83,2,2
+2024/2025,Spain Segunda División,2024-12-22,17:00:00,complete,Deportivo La Coruña,Mirandés,2.94,3.21,2.61,2.25,1.57,2.1,1.67,0,4
+2024/2025,Spain Segunda División,2024-12-22,17:00:00,complete,Levante UD,SD Huesca,2.07,3.47,3.79,2.12,1.71,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2025-01-07,17:30:00,complete,CD Tenerife,Levante UD,2.75,3.0,2.8,2.25,1.53,2.0,1.73,0,3
+2024/2025,Spain Segunda División,2025-01-10,16:30:00,complete,Granada CF,Burgos CF,1.83,3.3,4.33,2.2,1.62,2.0,1.73,0,0
+2024/2025,Spain Segunda División,2025-01-11,10:00:00,complete,Racing Club de Ferrol,FC Cartagena,1.77,3.1,4.75,2.48,1.47,2.25,1.57,0,0
+2024/2025,Spain Segunda División,2025-01-11,12:15:00,complete,SD Huesca,Mirandés,2.64,2.9,3.02,2.9,1.36,2.38,1.53,1,0
+2024/2025,Spain Segunda División,2025-01-11,12:15:00,complete,Albacete Balompié,Racing Santander,2.12,3.44,3.44,1.94,1.87,1.73,2.0,2,2
+2024/2025,Spain Segunda División,2025-01-11,14:30:00,complete,CD Tenerife,CD Castellón,3.12,3.18,2.38,2.0,1.82,1.91,1.8,2,0
+2024/2025,Spain Segunda División,2025-01-11,14:30:00,complete,Málaga CF,Deportivo La Coruña,2.56,3.12,2.9,2.15,1.61,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2025-01-11,17:00:00,complete,Real Oviedo,Sporting Gijón,2.08,3.04,3.92,2.3,1.53,2.1,1.67,1,1
+2024/2025,Spain Segunda División,2025-01-12,10:00:00,complete,Córdoba,Almería,2.45,3.2,2.5,1.7,2.0,1.62,2.2,0,3
+2024/2025,Spain Segunda División,2025-01-12,12:15:00,complete,Cádiz,Levante UD,2.3,3.1,3.0,2.2,1.53,1.83,1.83,0,0
+2024/2025,Spain Segunda División,2025-01-12,12:15:00,complete,Elche CF,Real Zaragoza,1.8,3.1,4.6,2.3,1.5,2.2,1.62,1,0
+2024/2025,Spain Segunda División,2025-01-13,16:30:00,complete,CD Eldense,SD Eibar,2.41,3.14,3.13,2.4,1.48,2.2,1.62,1,3
+2024/2025,Spain Segunda División,2025-01-17,16:30:00,complete,FC Cartagena,Real Oviedo,4.4,3.3,1.92,2.41,1.5,2.2,1.6,0,1
+2024/2025,Spain Segunda División,2025-01-18,12:15:00,complete,CD Eldense,Cádiz,2.43,2.83,2.81,2.62,1.43,2.2,1.62,1,4
+2024/2025,Spain Segunda División,2025-01-18,14:30:00,complete,SD Eibar,Albacete Balompié,1.97,3.15,3.9,2.15,1.62,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2025-01-18,14:30:00,complete,Sporting Gijón,Elche CF,2.35,2.9,3.2,2.55,1.46,2.1,1.63,1,1
+2024/2025,Spain Segunda División,2025-01-18,17:00:00,complete,Levante UD,Granada CF,1.95,3.15,4.1,2.0,1.71,1.87,1.82,3,1
+2024/2025,Spain Segunda División,2025-01-19,10:00:00,complete,Burgos CF,Deportivo La Coruña,2.45,3.0,3.0,2.34,1.53,1.83,1.83,0,1
+2024/2025,Spain Segunda División,2025-01-19,12:15:00,complete,Racing Santander,Racing Club de Ferrol,1.63,3.92,5.45,1.99,1.82,1.9,1.85,6,0
+2024/2025,Spain Segunda División,2025-01-19,14:30:00,complete,CD Castellón,Córdoba,1.91,3.6,3.7,1.61,2.1,1.57,2.3,1,2
+2024/2025,Spain Segunda División,2025-01-19,14:30:00,complete,Real Zaragoza,CD Tenerife,1.75,3.48,5.15,2.3,1.5,2.15,1.6,2,2
+2024/2025,Spain Segunda División,2025-01-19,17:00:00,complete,Almería,SD Huesca,1.6,3.8,5.75,2.01,1.81,2.1,1.68,0,0
+2024/2025,Spain Segunda División,2025-01-20,16:30:00,complete,Mirandés,Málaga CF,2.1,2.88,3.75,2.75,1.4,2.38,1.53,3,2
+2024/2025,Spain Segunda División,2025-01-24,16:30:00,complete,Elche CF,SD Eibar,1.84,3.45,5.0,2.37,1.53,2.15,1.61,2,0
+2024/2025,Spain Segunda División,2025-01-25,12:15:00,complete,Córdoba,Racing Santander,2.15,3.3,3.0,1.8,1.88,1.61,2.15,1,2
+2024/2025,Spain Segunda División,2025-01-25,14:30:00,complete,Deportivo La Coruña,Levante UD,2.05,3.05,3.25,1.9,1.8,1.72,2.05,1,2
+2024/2025,Spain Segunda División,2025-01-25,14:30:00,complete,SD Huesca,FC Cartagena,1.57,3.15,6.0,2.6,1.44,2.5,1.46,4,0
+2024/2025,Spain Segunda División,2025-01-25,17:00:00,complete,CD Tenerife,CD Eldense,2.05,2.9,3.5,2.6,1.44,2.2,1.58,0,1
+2024/2025,Spain Segunda División,2025-01-26,10:00:00,complete,Granada CF,Sporting Gijón,2.17,3.1,3.3,2.23,1.58,1.95,1.8,3,1
+2024/2025,Spain Segunda División,2025-01-26,12:15:00,complete,Real Oviedo,CD Castellón,1.9,2.81,4.43,1.9,1.8,1.83,1.83,1,0
+2024/2025,Spain Segunda División,2025-01-26,12:15:00,complete,Albacete Balompié,Almería,2.42,4.29,2.17,1.81,1.89,1.65,2.05,2,1
+2024/2025,Spain Segunda División,2025-01-26,14:30:00,complete,Málaga CF,Real Zaragoza,2.66,2.45,3.08,2.41,1.5,2.1,1.67,1,2
+2024/2025,Spain Segunda División,2025-01-27,16:30:00,complete,Cádiz,Mirandés,2.05,3.0,3.8,2.34,1.6,2.2,1.62,3,1
+2024/2025,Spain Segunda División,2025-01-29,17:00:00,complete,CD Tenerife,Deportivo La Coruña,2.44,2.79,2.61,2.37,1.48,2.0,1.73,0,0
+2024/2025,Spain Segunda División,2025-01-31,16:30:00,complete,CD Eldense,Granada CF,2.52,3.24,2.86,2.25,1.64,1.88,1.8,0,3
+2024/2025,Spain Segunda División,2025-02-01,10:00:00,complete,Mirandés,Elche CF,2.63,3.17,2.95,2.85,1.37,2.38,1.53,3,0
+2024/2025,Spain Segunda División,2025-02-01,12:15:00,complete,Sporting Gijón,Burgos CF,2.01,3.28,4.3,2.25,1.53,2.38,1.53,2,0
+2024/2025,Spain Segunda División,2025-02-01,14:30:00,complete,Almería,Real Oviedo,2.01,3.57,3.87,1.96,1.85,1.8,1.91,1,1
+2024/2025,Spain Segunda División,2025-02-01,17:00:00,complete,Racing Santander,Málaga CF,1.7,3.91,5.2,1.97,1.84,1.9,1.78,2,1
+2024/2025,Spain Segunda División,2025-02-02,10:00:00,complete,CD Castellón,SD Huesca,1.98,3.38,4.3,2.15,1.57,1.91,1.77,0,1
+2024/2025,Spain Segunda División,2025-02-02,12:15:00,complete,SD Eibar,Deportivo La Coruña,2.43,3.34,3.08,2.27,1.6,2.0,1.73,0,1
+2024/2025,Spain Segunda División,2025-02-02,14:30:00,complete,FC Cartagena,Córdoba,3.98,3.4,2.04,2.0,1.67,1.83,1.85,0,1
+2024/2025,Spain Segunda División,2025-02-02,14:30:00,complete,Real Zaragoza,Cádiz,1.95,3.41,4.33,1.96,1.85,2.0,1.73,0,0
+2024/2025,Spain Segunda División,2025-02-02,17:00:00,complete,CD Tenerife,Albacete Balompié,2.77,3.19,2.77,2.1,1.6,2.1,1.67,3,1
+2024/2025,Spain Segunda División,2025-02-03,16:30:00,complete,Levante UD,Racing Club de Ferrol,1.49,4.6,6.8,1.9,1.9,2.1,1.67,0,1
+2024/2025,Spain Segunda División,2025-02-07,16:30:00,complete,Albacete Balompié,Real Zaragoza,2.43,3.15,3.26,2.2,1.55,2.0,1.73,2,1
+2024/2025,Spain Segunda División,2025-02-08,10:00:00,complete,Racing Club de Ferrol,CD Castellón,2.85,3.39,2.57,1.95,1.7,1.83,1.83,1,3
+2024/2025,Spain Segunda División,2025-02-08,12:15:00,complete,Granada CF,Mirandés,1.8,3.53,5.1,2.15,1.57,2.15,1.6,0,0
+2024/2025,Spain Segunda División,2025-02-08,14:30:00,complete,Málaga CF,Levante UD,2.77,3.4,2.63,2.1,1.6,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2025-02-08,14:30:00,complete,Sporting Gijón,SD Eibar,2.09,3.39,3.83,2.15,1.57,2.1,1.67,0,0
+2024/2025,Spain Segunda División,2025-02-09,10:00:00,complete,Elche CF,CD Tenerife,1.73,3.57,5.7,2.37,1.48,2.5,1.5,2,0
+2024/2025,Spain Segunda División,2025-02-09,12:15:00,complete,Burgos CF,Racing Santander,2.57,3.19,3.01,2.01,1.81,1.73,2.0,2,1
+2024/2025,Spain Segunda División,2025-02-09,12:15:00,complete,Córdoba,SD Huesca,2.03,3.15,4.4,2.3,1.5,2.1,1.67,1,2
+2024/2025,Spain Segunda División,2025-02-09,14:30:00,complete,Cádiz,FC Cartagena,1.45,4.5,8.4,1.95,1.7,2.38,1.53,5,2
+2024/2025,Spain Segunda División,2025-02-09,14:30:00,complete,Deportivo La Coruña,Almería,2.47,3.3,3.05,1.9,1.9,1.67,2.1,3,1
+2024/2025,Spain Segunda División,2025-02-10,16:30:00,complete,Real Oviedo,CD Eldense,1.63,3.85,6.2,2.15,1.57,2.25,1.57,0,0
+2024/2025,Spain Segunda División,2025-02-14,16:30:00,complete,Mirandés,Racing Club de Ferrol,1.76,3.41,5.7,2.56,1.45,2.4,1.5,4,1
+2024/2025,Spain Segunda División,2025-02-15,10:00:00,complete,CD Castellón,SD Eibar,2.09,3.45,3.76,1.89,1.92,1.77,1.94,2,0
+2024/2025,Spain Segunda División,2025-02-15,12:15:00,complete,FC Cartagena,Málaga CF,3.79,3.05,2.26,2.37,1.48,2.15,1.62,0,1
+2024/2025,Spain Segunda División,2025-02-15,14:30:00,complete,Racing Santander,Cádiz,1.9,3.67,4.2,2.0,1.82,1.93,1.77,2,3
+2024/2025,Spain Segunda División,2025-02-15,17:00:00,complete,CD Tenerife,Córdoba,2.43,3.18,3.25,2.15,1.57,1.91,1.77,2,3
+2024/2025,Spain Segunda División,2025-02-16,10:00:00,complete,Levante UD,Sporting Gijón,2.08,3.45,3.8,1.95,1.7,1.93,1.77,0,0
+2024/2025,Spain Segunda División,2025-02-16,12:15:00,complete,CD Eldense,Deportivo La Coruña,2.56,3.28,2.95,1.95,1.7,1.95,1.75,2,0
+2024/2025,Spain Segunda División,2025-02-16,12:15:00,complete,SD Huesca,Granada CF,2.66,2.9,3.18,2.44,1.49,2.07,1.68,1,1
+2024/2025,Spain Segunda División,2025-02-16,14:30:00,complete,Real Zaragoza,Burgos CF,2.17,3.11,3.97,2.5,1.53,2.19,1.61,0,1
+2024/2025,Spain Segunda División,2025-02-16,17:00:00,complete,Real Oviedo,Albacete Balompié,1.89,3.52,4.5,2.01,1.81,1.93,1.75,1,0
+2024/2025,Spain Segunda División,2025-02-17,16:30:00,complete,Almería,Elche CF,2.18,3.21,3.78,2.01,1.81,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2025-02-21,16:30:00,complete,Málaga CF,CD Tenerife,2.41,3.1,3.37,2.59,1.44,2.2,1.6,1,0
+2024/2025,Spain Segunda División,2025-02-22,10:00:00,complete,Racing Club de Ferrol,Córdoba,2.97,3.16,2.62,2.15,1.57,1.88,1.84,0,1
+2024/2025,Spain Segunda División,2025-02-22,12:15:00,complete,Burgos CF,Real Oviedo,2.91,2.95,2.84,2.37,1.48,2.2,1.6,1,2
+2024/2025,Spain Segunda División,2025-02-22,12:15:00,complete,SD Eibar,Racing Santander,2.34,3.36,3.23,2.02,1.8,1.79,1.93,2,2
+2024/2025,Spain Segunda División,2025-02-22,14:30:00,complete,Granada CF,Real Zaragoza,2.01,3.41,4.1,2.1,1.6,1.98,1.73,2,2
+2024/2025,Spain Segunda División,2025-02-22,17:00:00,complete,Sporting Gijón,Almería,2.53,3.38,2.9,2.37,1.48,2.0,1.73,1,1
+2024/2025,Spain Segunda División,2025-02-23,10:00:00,complete,Deportivo La Coruña,SD Huesca,1.99,3.41,4.2,2.25,1.53,2.02,1.72,0,0
+2024/2025,Spain Segunda División,2025-02-23,12:15:00,complete,Elche CF,FC Cartagena,1.25,6.0,14.0,1.92,1.89,2.63,1.44,2,1
+2024/2025,Spain Segunda División,2025-02-23,14:30:00,complete,Levante UD,Mirandés,2.03,3.45,3.98,2.01,1.81,1.85,1.83,1,0
+2024/2025,Spain Segunda División,2025-02-23,14:30:00,complete,Albacete Balompié,CD Eldense,2.05,3.37,4.0,2.1,1.6,1.9,1.77,0,1
+2024/2025,Spain Segunda División,2025-02-23,17:00:00,complete,Cádiz,CD Castellón,2.09,3.45,3.76,1.9,1.9,1.75,1.93,0,0
+2024/2025,Spain Segunda División,2025-02-28,16:30:00,complete,FC Cartagena,SD Eibar,4.2,3.27,2.04,2.3,1.5,2.24,1.59,0,2
+2024/2025,Spain Segunda División,2025-03-01,12:15:00,complete,SD Huesca,Racing Club de Ferrol,1.79,3.41,5.4,2.65,1.42,2.46,1.5,3,1
+2024/2025,Spain Segunda División,2025-03-01,12:15:00,complete,CD Castellón,Burgos CF,1.95,3.64,4.0,1.93,1.88,1.98,1.71,2,1
+2024/2025,Spain Segunda División,2025-03-01,14:30:00,complete,Real Zaragoza,Sporting Gijón,2.52,3.08,3.2,2.1,1.6,2.2,1.62,1,1
+2024/2025,Spain Segunda División,2025-03-01,17:00:00,complete,Almería,Málaga CF,1.5,4.6,6.7,1.81,2.01,1.82,1.88,2,2
+2024/2025,Spain Segunda División,2025-03-02,10:00:00,complete,Córdoba,Granada CF,2.44,3.36,3.06,2.0,1.82,1.75,1.98,5,0
+2024/2025,Spain Segunda División,2025-03-02,12:15:00,complete,Real Oviedo,Deportivo La Coruña,1.91,3.5,4.4,2.1,1.6,2.0,1.73,1,2
+2024/2025,Spain Segunda División,2025-03-02,14:30:00,complete,CD Eldense,Levante UD,2.87,3.26,2.64,2.05,1.61,1.83,1.88,1,2
+2024/2025,Spain Segunda División,2025-03-02,14:30:00,complete,Albacete Balompié,Cádiz,2.65,3.04,3.04,2.2,1.57,1.91,1.81,3,0
+2024/2025,Spain Segunda División,2025-03-02,17:00:00,complete,Racing Santander,Elche CF,2.6,3.2,2.96,2.0,1.82,1.74,1.98,2,0
+2024/2025,Spain Segunda División,2025-03-03,16:30:00,complete,Mirandés,CD Tenerife,1.88,3.27,5.1,2.26,1.54,2.38,1.53,2,0
+2024/2025,Spain Segunda División,2025-03-05,16:00:00,complete,Racing Club de Ferrol,Burgos CF,2.92,2.93,2.85,3.09,1.32,2.2,1.62,0,1
+2024/2025,Spain Segunda División,2025-03-07,15:00:00,complete,SD Eibar,Almería,2.77,3.29,2.71,2.0,1.82,1.73,1.95,1,0
+2024/2025,Spain Segunda División,2025-03-07,17:00:00,complete,Deportivo La Coruña,Córdoba,2.04,3.52,3.84,1.92,1.78,1.82,1.87,1,1
+2024/2025,Spain Segunda División,2025-03-08,12:15:00,complete,Mirandés,Real Oviedo,2.47,3.4,2.97,2.57,1.47,2.25,1.57,1,0
+2024/2025,Spain Segunda División,2025-03-08,14:30:00,complete,Elche CF,CD Castellón,1.85,3.69,4.5,2.01,1.81,1.9,1.78,3,1
+2024/2025,Spain Segunda División,2025-03-08,14:30:00,complete,Sporting Gijón,Racing Santander,2.06,3.47,3.85,1.9,1.9,1.77,1.93,1,1
+2024/2025,Spain Segunda División,2025-03-08,17:00:00,complete,Real Zaragoza,CD Eldense,1.98,3.29,4.4,2.37,1.48,2.1,1.65,2,4
+2024/2025,Spain Segunda División,2025-03-09,10:00:00,complete,CD Tenerife,SD Huesca,2.63,3.29,2.85,2.2,1.55,2.5,1.5,2,0
+2024/2025,Spain Segunda División,2025-03-09,12:15:00,complete,Málaga CF,Cádiz,2.74,2.98,2.99,2.55,1.51,2.1,1.67,0,2
+2024/2025,Spain Segunda División,2025-03-09,14:30:00,complete,Levante UD,FC Cartagena,1.32,5.5,11.0,1.8,2.02,2.2,1.62,3,0
+2024/2025,Spain Segunda División,2025-03-09,17:00:00,complete,Granada CF,Racing Club de Ferrol,1.74,3.65,5.4,1.95,1.7,2.1,1.67,3,0
+2024/2025,Spain Segunda División,2025-03-10,16:30:00,complete,Burgos CF,Albacete Balompié,2.35,3.28,3.28,2.2,1.55,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2025-03-14,16:30:00,complete,Real Oviedo,Elche CF,2.26,3.07,3.75,2.62,1.43,2.15,1.62,1,1
+2024/2025,Spain Segunda División,2025-03-15,10:00:00,complete,Racing Club de Ferrol,SD Eibar,3.13,2.96,2.65,2.73,1.4,2.25,1.57,0,0
+2024/2025,Spain Segunda División,2025-03-15,12:15:00,complete,Albacete Balompié,Málaga CF,1.71,3.99,5.0,1.87,1.94,2.0,1.73,2,0
+2024/2025,Spain Segunda División,2025-03-15,12:15:00,complete,FC Cartagena,Burgos CF,3.63,3.41,2.15,2.26,1.54,2.38,1.53,0,1
+2024/2025,Spain Segunda División,2025-03-15,14:30:00,complete,Almería,Real Zaragoza,1.69,4.1,5.1,1.82,2.0,1.8,1.91,4,1
+2024/2025,Spain Segunda División,2025-03-15,17:00:00,complete,Córdoba,Sporting Gijón,2.3,3.28,3.39,2.05,1.61,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2025-03-16,10:00:00,complete,CD Eldense,Mirandés,2.72,3.13,2.88,2.2,1.53,2.0,1.73,2,2
+2024/2025,Spain Segunda División,2025-03-16,12:15:00,complete,SD Huesca,Levante UD,2.53,3.03,3.23,2.25,1.53,1.91,1.8,1,2
+2024/2025,Spain Segunda División,2025-03-16,12:15:00,complete,Racing Santander,CD Tenerife,1.83,3.66,4.7,1.95,1.7,1.91,1.8,2,1
+2024/2025,Spain Segunda División,2025-03-16,14:30:00,complete,Cádiz,Granada CF,2.37,3.29,3.23,2.3,1.5,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2025-03-17,16:30:00,complete,CD Castellón,Deportivo La Coruña,2.15,3.55,3.47,1.78,2.04,1.67,2.1,2,2
+2024/2025,Spain Segunda División,2025-03-21,16:30:00,complete,Burgos CF,Almería,3.13,3.29,2.43,1.95,1.7,2.0,1.73,3,1
+2024/2025,Spain Segunda División,2025-03-22,12:15:00,complete,Elche CF,CD Eldense,1.66,3.84,5.8,2.05,1.65,2.2,1.62,2,0
+2024/2025,Spain Segunda División,2025-03-22,14:30:00,complete,Mirandés,Racing Santander,2.17,3.29,3.7,2.13,1.7,2.0,1.73,2,1
+2024/2025,Spain Segunda División,2025-03-22,14:30:00,complete,Málaga CF,Racing Club de Ferrol,1.92,3.33,4.7,2.37,1.48,2.25,1.57,2,0
+2024/2025,Spain Segunda División,2025-03-22,17:00:00,complete,Granada CF,Real Oviedo,2.28,3.1,3.66,2.3,1.5,2.2,1.62,1,0
+2024/2025,Spain Segunda División,2025-03-23,10:00:00,complete,Levante UD,CD Castellón,1.73,4.2,4.6,1.83,1.98,1.6,2.15,3,2
+2024/2025,Spain Segunda División,2025-03-23,12:15:00,complete,SD Eibar,SD Huesca,1.93,3.15,5.1,2.48,1.54,2.5,1.5,2,1
+2024/2025,Spain Segunda División,2025-03-23,12:15:00,complete,Sporting Gijón,Albacete Balompié,1.89,3.57,4.4,2.05,1.65,2.0,1.73,0,2
+2024/2025,Spain Segunda División,2025-03-23,14:30:00,complete,CD Tenerife,Cádiz,2.55,2.94,3.31,2.73,1.4,2.2,1.62,2,1
+2024/2025,Spain Segunda División,2025-03-23,14:30:00,complete,Deportivo La Coruña,FC Cartagena,1.56,4.1,6.6,1.85,1.96,2.38,1.53,2,2
+2024/2025,Spain Segunda División,2025-03-24,16:30:00,complete,Real Zaragoza,Córdoba,2.26,3.39,3.35,2.03,1.79,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2025-03-28,16:30:00,complete,CD Tenerife,Granada CF,2.62,3.05,3.08,2.3,1.5,2.1,1.67,2,1
+2024/2025,Spain Segunda División,2025-03-29,10:00:00,complete,CD Eldense,Burgos CF,2.38,3.06,3.47,2.85,1.37,2.2,1.62,0,0
+2024/2025,Spain Segunda División,2025-03-29,12:15:00,complete,Racing Club de Ferrol,Deportivo La Coruña,3.6,3.18,2.26,2.3,1.5,2.1,1.67,0,1
+2024/2025,Spain Segunda División,2025-03-29,14:30:00,complete,Racing Santander,Real Zaragoza,1.93,3.74,4.0,1.96,1.85,1.8,1.91,2,0
+2024/2025,Spain Segunda División,2025-03-29,14:30:00,complete,FC Cartagena,CD Castellón,4.7,3.78,1.79,1.85,1.85,1.85,1.83,2,2
+2024/2025,Spain Segunda División,2025-03-29,17:00:00,complete,Almería,Levante UD,1.88,3.82,4.2,1.89,1.92,1.68,2.05,1,0
+2024/2025,Spain Segunda División,2025-03-30,09:00:00,complete,Córdoba,Elche CF,2.63,3.4,2.77,1.95,1.73,1.83,1.83,1,2
+2024/2025,Spain Segunda División,2025-03-30,11:15:00,complete,Real Oviedo,Málaga CF,1.69,3.73,5.7,2.25,1.5,2.2,1.57,2,1
+2024/2025,Spain Segunda División,2025-03-30,13:30:00,complete,SD Huesca,Sporting Gijón,2.51,2.95,3.35,2.62,1.43,2.1,1.62,3,2
+2024/2025,Spain Segunda División,2025-03-30,13:30:00,complete,Albacete Balompié,Mirandés,2.66,3.16,2.91,2.25,1.53,1.95,1.73,3,2
+2024/2025,Spain Segunda División,2025-03-31,15:30:00,complete,Cádiz,SD Eibar,2.31,3.04,3.67,2.45,1.55,2.2,1.62,0,0
+2024/2025,Spain Segunda División,2025-04-04,15:30:00,complete,CD Castellón,Albacete Balompié,1.87,3.82,4.2,1.82,2.0,1.67,2.1,2,2
+2024/2025,Spain Segunda División,2025-04-05,11:15:00,complete,SD Eibar,Real Oviedo,2.51,2.98,3.33,2.81,1.38,2.2,1.62,1,1
+2024/2025,Spain Segunda División,2025-04-05,13:30:00,complete,FC Cartagena,CD Eldense,4.0,3.19,2.12,2.3,1.5,2.2,1.62,0,1
+2024/2025,Spain Segunda División,2025-04-05,13:30:00,complete,Granada CF,Almería,2.68,3.39,2.73,1.93,1.88,1.73,2.0,3,1
+2024/2025,Spain Segunda División,2025-04-05,16:00:00,complete,Sporting Gijón,CD Tenerife,1.96,3.34,4.4,2.4,1.57,2.1,1.67,1,3
+2024/2025,Spain Segunda División,2025-04-06,09:00:00,complete,Real Zaragoza,Mirandés,2.37,3.12,3.41,2.62,1.43,2.2,1.62,1,0
+2024/2025,Spain Segunda División,2025-04-06,11:15:00,complete,Levante UD,Racing Santander,1.98,3.33,4.33,1.87,1.94,1.67,2.1,3,1
+2024/2025,Spain Segunda División,2025-04-06,13:30:00,complete,Burgos CF,SD Huesca,2.19,3.01,4.1,3.09,1.32,2.63,1.44,2,1
+2024/2025,Spain Segunda División,2025-04-06,13:30:00,complete,Málaga CF,Córdoba,2.63,3.12,2.99,2.1,1.6,1.83,1.83,0,1
+2024/2025,Spain Segunda División,2025-04-06,16:00:00,complete,Deportivo La Coruña,Cádiz,2.09,3.45,3.73,2.33,1.58,1.91,1.8,1,0
+2024/2025,Spain Segunda División,2025-04-07,15:30:00,complete,Elche CF,Racing Club de Ferrol,1.33,5.1,11.0,2.1,1.61,3.0,1.36,1,0
+2024/2025,Spain Segunda División,2025-04-11,15:30:00,complete,Córdoba,Levante UD,2.49,3.35,2.98,1.96,1.85,1.73,2.0,2,2
+2024/2025,Spain Segunda División,2025-04-12,11:15:00,complete,Real Zaragoza,SD Eibar,2.36,3.1,3.47,2.37,1.48,2.1,1.67,2,2
+2024/2025,Spain Segunda División,2025-04-12,13:30:00,complete,CD Tenerife,Burgos CF,2.16,3.04,4.1,2.81,1.38,2.38,1.53,0,0
+2024/2025,Spain Segunda División,2025-04-12,13:30:00,complete,Cádiz,Elche CF,3.07,3.07,2.61,2.37,1.48,2.2,1.62,0,1
+2024/2025,Spain Segunda División,2025-04-12,16:00:00,complete,Real Oviedo,Racing Club de Ferrol,1.33,6.2,8.0,1.76,1.94,2.3,1.53,3,0
+2024/2025,Spain Segunda División,2025-04-13,09:00:00,complete,Albacete Balompié,Granada CF,2.51,3.41,2.9,1.94,1.87,1.8,1.91,0,2
+2024/2025,Spain Segunda División,2025-04-13,11:15:00,complete,Racing Santander,CD Castellón,2.14,3.5,3.56,1.6,2.1,1.57,2.25,1,1
+2024/2025,Spain Segunda División,2025-04-13,13:30:00,complete,Mirandés,Deportivo La Coruña,2.32,2.84,3.97,2.3,1.5,2.1,1.67,2,2
+2024/2025,Spain Segunda División,2025-04-13,13:30:00,complete,CD Eldense,Sporting Gijón,2.33,3.18,3.45,2.2,1.55,1.91,1.8,1,2
+2024/2025,Spain Segunda División,2025-04-13,16:00:00,complete,Almería,FC Cartagena,1.22,7.1,13.0,1.47,2.5,2.2,1.62,2,1
+2024/2025,Spain Segunda División,2025-04-14,15:30:00,complete,SD Huesca,Málaga CF,2.0,3.25,4.4,2.42,1.56,2.25,1.57,1,0
+2024/2025,Spain Segunda División,2025-04-18,14:00:00,complete,Sporting Gijón,Mirandés,2.59,3.05,3.12,2.39,1.51,2.0,1.73,3,1
+2024/2025,Spain Segunda División,2025-04-18,16:00:00,complete,CD Castellón,Almería,2.34,3.61,3.03,1.61,2.05,1.53,2.38,4,1
+2024/2025,Spain Segunda División,2025-04-19,09:00:00,complete,Racing Club de Ferrol,CD Eldense,3.5,3.07,2.36,2.81,1.38,2.38,1.53,1,0
+2024/2025,Spain Segunda División,2025-04-19,11:15:00,complete,SD Huesca,Racing Santander,2.5,3.21,3.09,2.1,1.61,1.83,1.83,1,3
+2024/2025,Spain Segunda División,2025-04-19,13:30:00,complete,Levante UD,Real Zaragoza,1.81,3.72,4.7,2.02,1.8,1.91,1.8,5,2
+2024/2025,Spain Segunda División,2025-04-19,16:00:00,complete,Burgos CF,Cádiz,2.48,2.93,3.45,2.89,1.36,2.38,1.53,2,2
+2024/2025,Spain Segunda División,2025-04-20,09:00:00,complete,FC Cartagena,Granada CF,5.9,3.93,1.63,2.05,1.65,2.2,1.62,2,3
+2024/2025,Spain Segunda División,2025-04-20,11:15:00,complete,Córdoba,Real Oviedo,2.42,3.19,3.23,2.15,1.57,1.91,1.8,0,0
+2024/2025,Spain Segunda División,2025-04-20,13:30:00,complete,Elche CF,Albacete Balompié,1.58,4.2,6.2,1.97,1.84,1.91,1.8,2,2
+2024/2025,Spain Segunda División,2025-04-20,16:00:00,complete,Deportivo La Coruña,CD Tenerife,2.06,3.36,3.98,2.15,1.57,1.91,1.8,0,0
+2024/2025,Spain Segunda División,2025-04-21,15:30:00,complete,SD Eibar,Málaga CF,1.81,3.47,5.1,2.37,1.48,2.25,1.57,2,2
+2024/2025,Spain Segunda División,2025-04-25,15:30:00,complete,Cádiz,Sporting Gijón,1.98,3.33,4.33,2.3,1.5,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2025-04-26,09:00:00,complete,Albacete Balompié,FC Cartagena,1.45,4.6,7.9,2.0,1.77,2.1,1.65,3,1
+2024/2025,Spain Segunda División,2025-04-26,11:15:00,complete,Real Oviedo,Levante UD,2.17,3.31,3.68,2.1,1.6,1.93,1.77,1,0
+2024/2025,Spain Segunda División,2025-04-26,11:15:00,complete,CD Eldense,Córdoba,2.67,3.2,2.88,1.94,1.87,1.72,1.98,1,1
+2024/2025,Spain Segunda División,2025-04-26,13:30:00,complete,Granada CF,Elche CF,2.55,3.12,3.11,2.2,1.55,1.95,1.75,1,1
+2024/2025,Spain Segunda División,2025-04-26,13:30:00,complete,Mirandés,Burgos CF,1.85,3.3,5.2,2.56,1.45,2.3,1.55,2,1
+2024/2025,Spain Segunda División,2025-04-27,11:15:00,complete,Racing Santander,Deportivo La Coruña,1.89,3.82,4.1,1.73,1.91,1.67,2.05,2,1
+2024/2025,Spain Segunda División,2025-04-27,13:30:00,complete,CD Tenerife,SD Eibar,2.56,3.16,3.05,2.5,1.53,2.05,1.67,1,1
+2024/2025,Spain Segunda División,2025-04-27,13:30:00,complete,Málaga CF,CD Castellón,2.68,3.16,2.89,2.01,1.81,1.75,1.93,1,0
+2024/2025,Spain Segunda División,2025-04-27,16:00:00,complete,Real Zaragoza,SD Huesca,2.08,3.14,4.3,2.34,1.53,2.05,1.65,1,1
+2024/2025,Spain Segunda División,2025-04-29,15:30:00,complete,Almería,Racing Club de Ferrol,1.3,5.7,11.0,1.73,1.91,2.25,1.57,2,1
+2024/2025,Spain Segunda División,2025-05-02,15:30:00,complete,Córdoba,Cádiz,2.17,3.32,3.67,1.98,1.77,1.91,1.8,4,2
+2024/2025,Spain Segunda División,2025-05-03,11:15:00,complete,SD Huesca,Real Oviedo,2.96,2.83,2.91,2.94,1.35,2.25,1.57,1,2
+2024/2025,Spain Segunda División,2025-05-03,13:30:00,complete,Málaga CF,Granada CF,2.98,3.13,2.63,2.2,1.55,1.91,1.8,1,0
+2024/2025,Spain Segunda División,2025-05-03,13:30:00,complete,SD Eibar,Mirandés,2.37,3.05,3.51,2.55,1.45,2.2,1.62,0,1
+2024/2025,Spain Segunda División,2025-05-03,16:00:00,complete,Burgos CF,Elche CF,3.47,3.07,2.38,2.99,1.34,2.2,1.62,0,1
+2024/2025,Spain Segunda División,2025-05-04,09:00:00,complete,Levante UD,CD Tenerife,1.7,3.98,5.1,1.89,1.92,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2025-05-04,11:15:00,complete,Racing Club de Ferrol,Real Zaragoza,3.93,3.71,1.96,2.01,1.81,2.1,1.67,1,2
+2024/2025,Spain Segunda División,2025-05-04,13:30:00,complete,Almería,CD Eldense,1.79,3.61,5.0,1.96,1.85,1.83,1.83,5,0
+2024/2025,Spain Segunda División,2025-05-04,13:30:00,complete,FC Cartagena,Racing Santander,6.3,4.4,1.54,1.82,2.0,1.83,1.83,1,0
+2024/2025,Spain Segunda División,2025-05-04,16:00:00,complete,Deportivo La Coruña,Albacete Balompié,1.98,3.68,3.85,1.83,1.98,1.8,1.91,5,1
+2024/2025,Spain Segunda División,2025-05-05,15:30:00,complete,CD Castellón,Sporting Gijón,1.92,3.73,4.1,1.81,2.01,1.73,2.0,4,3
+2024/2025,Spain Segunda División,2025-05-09,15:30:00,complete,Cádiz,Almería,2.74,3.13,2.6,1.98,1.77,1.73,2.0,2,1
+2024/2025,Spain Segunda División,2025-05-10,11:15:00,complete,Sporting Gijón,Deportivo La Coruña,2.14,3.27,3.37,2.0,1.65,1.83,1.83,2,1
+2024/2025,Spain Segunda División,2025-05-10,11:15:00,complete,Mirandés,CD Castellón,1.79,3.47,4.5,1.98,1.77,1.8,1.91,3,2
+2024/2025,Spain Segunda División,2025-05-10,13:30:00,complete,Elche CF,Levante UD,1.96,3.33,3.86,2.0,1.65,1.91,1.8,1,3
+2024/2025,Spain Segunda División,2025-05-10,13:30:00,complete,Burgos CF,Córdoba,2.4,3.02,3.11,2.2,1.55,1.91,1.8,3,2
+2024/2025,Spain Segunda División,2025-05-10,16:00:00,complete,Real Zaragoza,FC Cartagena,1.25,5.5,12.0,1.8,1.94,2.38,1.53,3,2
+2024/2025,Spain Segunda División,2025-05-11,09:00:00,complete,Racing Santander,Real Oviedo,2.25,3.25,3.15,1.89,1.85,1.83,1.83,1,1
+2024/2025,Spain Segunda División,2025-05-11,13:30:00,complete,CD Eldense,Málaga CF,1.85,3.38,4.3,2.25,1.53,1.91,1.8,1,0
+2024/2025,Spain Segunda División,2025-05-11,13:30:00,complete,Albacete Balompié,SD Huesca,2.06,3.33,3.53,1.92,1.82,1.83,1.83,3,2
+2024/2025,Spain Segunda División,2025-05-11,16:00:00,complete,CD Tenerife,Racing Club de Ferrol,1.56,3.64,6.5,2.2,1.55,2.5,1.5,0,0
+2024/2025,Spain Segunda División,2025-05-12,15:30:00,complete,Granada CF,SD Eibar,1.75,3.41,4.8,2.15,1.61,2.1,1.67,0,2
+2024/2025,Spain Segunda División,2025-05-16,15:30:00,complete,Levante UD,Albacete Balompié,1.44,4.3,6.5,1.65,2.05,1.83,1.85,1,0
+2024/2025,Spain Segunda División,2025-05-17,11:15:00,complete,Deportivo La Coruña,Granada CF,3.07,3.37,2.23,1.98,1.77,1.8,1.91,2,3
+2024/2025,Spain Segunda División,2025-05-17,11:15:00,complete,SD Eibar,Burgos CF,1.9,3.13,4.5,2.56,1.45,2.1,1.62,1,0
+2024/2025,Spain Segunda División,2025-05-17,13:30:00,complete,FC Cartagena,CD Tenerife,4.3,3.2,1.86,2.2,1.55,1.91,1.8,1,0
+2024/2025,Spain Segunda División,2025-05-17,13:30:00,complete,SD Huesca,Elche CF,3.35,2.9,2.3,2.41,1.5,2.25,1.57,2,1
+2024/2025,Spain Segunda División,2025-05-17,16:00:00,complete,Málaga CF,Sporting Gijón,2.26,2.95,3.35,2.37,1.48,2.0,1.73,2,1
+2024/2025,Spain Segunda División,2025-05-18,09:00:00,complete,Racing Club de Ferrol,Cádiz,3.05,2.9,2.44,2.5,1.47,2.1,1.67,1,0
+2024/2025,Spain Segunda División,2025-05-18,11:15:00,complete,CD Castellón,CD Eldense,1.64,3.85,4.7,1.73,1.91,1.67,2.05,1,1
+2024/2025,Spain Segunda División,2025-05-18,11:15:00,complete,Real Oviedo,Real Zaragoza,1.8,3.25,4.6,2.25,1.53,2.1,1.62,1,0
+2024/2025,Spain Segunda División,2025-05-18,16:00:00,complete,Almería,Racing Santander,1.67,4.2,4.1,1.44,2.59,1.5,2.5,2,0
+2024/2025,Spain Segunda División,2025-05-19,15:30:00,complete,Córdoba,Mirandés,2.57,3.3,2.65,1.98,1.77,1.73,2.0,1,2
+2024/2025,Spain Segunda División,2025-05-24,13:30:00,complete,Albacete Balompié,Racing Club de Ferrol,1.47,4.6,5.8,1.79,1.95,1.85,1.83,2,0
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,Elche CF,Málaga CF,1.35,4.5,8.4,1.75,1.85,2.3,1.53,2,0
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,Burgos CF,Levante UD,5.4,2.57,2.02,2.2,1.55,1.77,1.9,2,3
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,Real Zaragoza,Deportivo La Coruña,1.62,3.91,5.1,1.85,1.89,1.8,1.85,1,0
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,Cádiz,SD Huesca,2.01,3.52,3.47,2.3,1.5,1.95,1.73,4,0
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,Sporting Gijón,FC Cartagena,1.31,5.0,8.8,1.57,2.15,2.25,1.55,3,2
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,CD Tenerife,Real Oviedo,5.0,3.45,1.72,2.39,1.51,2.2,1.57,0,1
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,Granada CF,CD Castellón,1.73,3.9,4.1,1.55,2.2,1.62,2.1,2,1
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,SD Eibar,Córdoba,2.09,2.85,3.95,2.37,1.48,1.85,1.83,4,1
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,Mirandés,Almería,2.63,2.71,3.11,1.95,1.79,1.62,2.1,0,0
+2024/2025,Spain Segunda División,2025-05-25,13:30:00,complete,CD Eldense,Racing Santander,3.15,3.45,2.16,1.65,2.0,1.55,2.25,3,3
+2024/2025,Spain Segunda División,2025-05-30,15:30:00,complete,CD Castellón,Real Zaragoza,1.81,3.8,3.95,1.65,2.05,1.6,2.2,4,1
+2024/2025,Spain Segunda División,2025-05-31,11:15:00,complete,Racing Club de Ferrol,Sporting Gijón,3.28,2.53,2.71,2.14,1.63,1.87,1.82,0,2
+2024/2025,Spain Segunda División,2025-05-31,13:30:00,complete,Málaga CF,Burgos CF,2.07,3.07,3.81,2.37,1.48,2.05,1.67,2,2
+2024/2025,Spain Segunda División,2025-06-01,13:30:00,complete,Levante UD,SD Eibar,1.48,4.2,6.4,1.92,1.82,1.62,2.1,1,0
+2024/2025,Spain Segunda División,2025-06-01,13:30:00,complete,Racing Santander,Granada CF,2.42,3.45,2.73,1.61,2.1,1.48,2.4,2,1
+2024/2025,Spain Segunda División,2025-06-01,13:30:00,complete,Deportivo La Coruña,Elche CF,5.5,4.1,1.54,1.8,1.94,1.62,2.1,0,4
+2024/2025,Spain Segunda División,2025-06-01,13:30:00,complete,SD Huesca,CD Eldense,1.83,3.6,4.1,1.98,1.77,1.83,1.85,3,2
+2024/2025,Spain Segunda División,2025-06-01,13:30:00,complete,FC Cartagena,Mirandés,11.0,5.4,1.26,1.8,1.94,2.25,1.55,1,3
+2024/2025,Spain Segunda División,2025-06-01,13:30:00,complete,Almería,CD Tenerife,1.19,6.7,12.0,1.53,2.2,2.1,1.62,2,0
+2024/2025,Spain Segunda División,2025-06-01,13:30:00,complete,Real Oviedo,Cádiz,1.36,4.4,9.2,2.05,1.61,2.25,1.55,2,1
+2024/2025,Spain Segunda División,2025-06-01,16:00:00,complete,Córdoba,Albacete Balompié,1.7,4.0,4.3,1.6,2.1,1.53,2.3,1,1
+2024/2025,Spain Segunda División,2025-06-07,16:00:00,incomplete,Almería,Real Oviedo,1.86,3.47,4.1,1.98,1.77,1.98,1.79,0,0
+2024/2025,Spain Segunda División,2025-06-08,13:30:00,incomplete,Racing Santander,Mirandés,2.15,3.33,3.29,1.91,1.83,1.85,1.91,0,0
+2024/2025,Spain Segunda División,2025-06-11,16:00:00,incomplete,Real Oviedo,Almería,2.24,3.31,3.11,1.92,1.82,1.73,1.95,0,0
+2024/2025,Spain Segunda División,2025-06-12,16:00:00,incomplete,Mirandés,Racing Santander,2.02,3.47,3.5,1.8,1.94,1.68,2.05,0,0
+2024/2025,Spain Segunda División,2025-06-15,14:00:00,complete,Mirandés,Real Oviedo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+2024/2025,Spain Segunda División,2025-06-21,16:00:00,complete,Real Oviedo,Mirandés,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,1
+2025/2026,Spain Segunda División,2025-08-15,16:30:00,complete,Real Valladolid,Ceuta,1.61,3.84,5.3,1.65,2.2,1.67,2.1,3,0
+2025/2026,Spain Segunda División,2025-08-15,16:30:00,complete,Burgos CF,Cultural y Deportiva Leonesa,1.73,3.59,4.7,2.07,1.75,1.91,1.8,5,1
+2025/2026,Spain Segunda División,2025-08-16,12:00:00,complete,Racing Santander,CD Castellón,2.2,3.65,3.1,1.62,2.3,1.53,2.38,3,1
+2025/2026,Spain Segunda División,2025-08-16,14:30:00,complete,Málaga CF,SD Eibar,2.3,3.0,3.45,2.55,1.52,2.1,1.67,1,1
+2025/2026,Spain Segunda División,2025-08-16,16:30:00,complete,Granada CF,Deportivo La Coruña,2.16,3.4,3.19,1.85,1.89,1.73,2.0,1,3
+2025/2026,Spain Segunda División,2025-08-17,12:00:00,complete,Real Sociedad II,Real Zaragoza,2.63,3.3,2.59,1.89,1.82,1.83,1.83,1,0
+2025/2026,Spain Segunda División,2025-08-17,14:30:00,complete,Cádiz,Mirandés,1.74,3.59,4.6,1.98,1.77,1.91,1.8,1,0
+2025/2026,Spain Segunda División,2025-08-17,16:30:00,complete,SD Huesca,Leganés,2.79,3.1,2.58,2.2,1.68,1.91,1.8,1,1
+2025/2026,Spain Segunda División,2025-08-17,16:30:00,complete,UD Las Palmas,FC Andorra,1.59,3.92,5.3,1.87,1.87,1.85,1.8,1,1
+2025/2026,Spain Segunda División,2025-08-18,14:00:00,complete,Sporting Gijón,Córdoba,2.35,3.21,2.99,1.89,1.85,1.8,1.91,2,1
+2025/2026,Spain Segunda División,2025-08-18,16:30:00,complete,Almería,Albacete Balompié,1.67,3.8,4.75,1.85,1.95,1.83,1.83,4,4
+2025/2026,Spain Segunda División,2025-08-22,14:30:00,complete,SD Eibar,Granada CF,2.45,3.09,2.96,2.25,1.65,1.98,1.72,3,0
+2025/2026,Spain Segunda División,2025-08-22,16:30:00,complete,CD Castellón,Real Valladolid,2.43,3.5,2.69,1.92,1.82,1.62,2.2,0,1
+2025/2026,Spain Segunda División,2025-08-22,16:30:00,complete,Leganés,Cádiz,1.64,3.87,4.9,1.92,1.82,2.2,1.62,1,1
+2025/2026,Spain Segunda División,2025-08-23,12:00:00,complete,Mirandés,SD Huesca,1.83,3.27,4.6,2.48,1.47,2.25,1.57,0,1
+2025/2026,Spain Segunda División,2025-08-23,14:00:00,complete,Ceuta,Sporting Gijón,2.29,3.27,3.06,2.17,1.7,1.83,1.83,0,1
+2025/2026,Spain Segunda División,2025-08-23,16:30:00,complete,Real Zaragoza,FC Andorra,1.88,3.53,3.95,1.98,1.77,1.83,1.83,1,3
+2025/2026,Spain Segunda División,2025-08-24,12:00:00,complete,Deportivo La Coruña,Burgos CF,1.79,3.47,4.5,2.1,1.75,1.95,1.71,0,0
+2025/2026,Spain Segunda División,2025-08-24,14:30:00,complete,Cultural y Deportiva Leonesa,Almería,2.95,3.5,2.25,1.82,1.92,1.65,2.18,0,1
+2025/2026,Spain Segunda División,2025-08-24,16:30:00,complete,Málaga CF,Real Sociedad II,1.85,3.55,4.3,2.1,1.75,1.98,1.8,1,0
+2025/2026,Spain Segunda División,2025-08-25,14:30:00,complete,Albacete Balompié,Racing Santander,2.09,3.5,3.5,1.65,1.87,1.56,2.1,2,3
+2025/2026,Spain Segunda División,2025-08-25,16:30:00,complete,Córdoba,UD Las Palmas,2.08,3.3,3.75,2.08,1.73,1.75,2.01,1,3
+2025/2026,Spain Segunda División,2025-08-29,14:30:00,complete,Real Sociedad II,Almería,4.3,3.45,1.75,1.9,1.9,1.8,1.94,2,2
+2025/2026,Spain Segunda División,2025-08-29,16:30:00,complete,Sporting Gijón,Cultural y Deportiva Leonesa,1.64,3.64,5.8,2.15,1.69,2.0,1.7,1,0
+2025/2026,Spain Segunda División,2025-08-30,12:00:00,complete,Racing Santander,Ceuta,1.49,4.07,5.25,1.8,2.01,1.83,1.91,4,1
+2025/2026,Spain Segunda División,2025-08-30,14:00:00,complete,Real Valladolid,Córdoba,1.91,3.25,3.9,1.97,1.92,1.76,2.0,0,0
+2025/2026,Spain Segunda División,2025-08-30,16:30:00,complete,CD Castellón,Real Zaragoza,1.71,3.5,4.0,1.7,2.15,1.69,2.14,1,1
+2025/2026,Spain Segunda División,2025-08-31,12:00:00,complete,FC Andorra,Burgos CF,2.25,2.9,3.0,2.5,1.53,2.05,1.73,2,1
+2025/2026,Spain Segunda División,2025-08-31,12:00:00,complete,Cádiz,Albacete Balompié,1.8,3.45,4.05,1.85,1.91,1.77,1.94,2,1
+2025/2026,Spain Segunda División,2025-08-31,14:30:00,complete,UD Las Palmas,Málaga CF,1.81,3.6,4.6,2.25,1.6,2.11,1.72,0,1
+2025/2026,Spain Segunda División,2025-08-31,16:30:00,complete,Granada CF,Mirandés,1.85,3.1,4.0,2.27,1.62,2.0,1.75,1,2
+2025/2026,Spain Segunda División,2025-09-01,14:30:00,complete,SD Huesca,SD Eibar,2.54,2.87,2.95,3.03,1.35,2.28,1.6,2,1
+2025/2026,Spain Segunda División,2025-09-01,16:30:00,complete,Leganés,Deportivo La Coruña,2.2,2.97,3.1,2.25,1.61,1.95,1.82,2,2
+2025/2026,Spain Segunda División,2025-09-05,14:30:00,complete,Albacete Balompié,Mirandés,1.92,3.3,4.0,1.97,1.75,1.84,1.84,1,4
+2025/2026,Spain Segunda División,2025-09-05,16:30:00,complete,Córdoba,CD Castellón,2.15,3.25,2.95,1.64,2.2,1.54,2.28,2,1
+2025/2026,Spain Segunda División,2025-09-06,11:15:00,complete,Deportivo La Coruña,Sporting Gijón,2.16,3.32,3.49,1.9,2.0,1.69,2.05,1,0
+2025/2026,Spain Segunda División,2025-09-06,13:30:00,complete,Real Zaragoza,Real Valladolid,2.6,2.9,2.7,2.22,1.62,1.85,1.94,1,1
+2025/2026,Spain Segunda División,2025-09-06,16:00:00,complete,Málaga CF,Granada CF,2.04,3.26,3.75,2.42,1.6,2.0,1.77,2,2
+2025/2026,Spain Segunda División,2025-09-07,09:00:00,complete,Ceuta,SD Huesca,2.62,2.68,2.58,2.6,1.44,2.2,1.67,2,1
+2025/2026,Spain Segunda División,2025-09-07,11:15:00,complete,Burgos CF,UD Las Palmas,2.42,3.02,3.08,2.45,1.55,2.0,1.7,0,0
+2025/2026,Spain Segunda División,2025-09-07,11:15:00,complete,Real Sociedad II,Cádiz,3.45,3.1,2.19,2.25,1.65,2.0,1.73,3,3
+2025/2026,Spain Segunda División,2025-09-07,13:30:00,complete,Cultural y Deportiva Leonesa,Leganés,3.0,3.0,2.27,2.18,1.65,1.85,1.85,0,0
+2025/2026,Spain Segunda División,2025-09-07,13:30:00,complete,Almería,Racing Santander,1.67,3.65,3.4,1.55,2.35,1.55,2.4,2,3
+2025/2026,Spain Segunda División,2025-09-08,15:30:00,complete,SD Eibar,FC Andorra,1.69,3.4,4.6,2.25,1.6,2.05,1.7,2,0
+2025/2026,Spain Segunda División,2025-09-12,15:30:00,complete,UD Las Palmas,Real Sociedad II,1.61,3.75,5.9,1.87,1.84,1.95,1.78,2,1
+2025/2026,Spain Segunda División,2025-09-13,11:15:00,complete,Cádiz,SD Eibar,2.37,2.8,3.1,2.77,1.47,2.1,1.61,1,0
+2025/2026,Spain Segunda División,2025-09-13,11:15:00,complete,Mirandés,Deportivo La Coruña,3.35,2.9,2.37,2.38,1.53,1.98,1.75,1,5
+2025/2026,Spain Segunda División,2025-09-13,13:30:00,complete,SD Huesca,Málaga CF,2.12,3.08,3.64,2.25,1.65,2.2,1.62,1,0
+2025/2026,Spain Segunda División,2025-09-13,16:00:00,complete,Real Valladolid,Almería,2.34,3.39,2.87,1.77,1.98,1.7,2.07,3,1
+2025/2026,Spain Segunda División,2025-09-14,09:00:00,complete,FC Andorra,Córdoba,2.25,3.25,2.87,1.96,1.84,1.75,1.98,3,1
+2025/2026,Spain Segunda División,2025-09-14,11:15:00,complete,Racing Santander,Cultural y Deportiva Leonesa,1.46,3.95,6.35,1.63,2.29,1.95,1.82,2,4
+2025/2026,Spain Segunda División,2025-09-14,13:30:00,complete,CD Castellón,Ceuta,1.42,4.0,6.0,1.58,2.23,1.81,2.02,3,3
+2025/2026,Spain Segunda División,2025-09-14,13:30:00,complete,Sporting Gijón,Burgos CF,2.07,3.04,4.16,2.47,1.47,2.05,1.68,2,3
+2025/2026,Spain Segunda División,2025-09-14,16:00:00,complete,Granada CF,Leganés,2.3,2.92,2.84,2.25,1.57,1.91,1.8,0,2
+2025/2026,Spain Segunda División,2025-09-15,15:30:00,complete,Real Zaragoza,Albacete Balompié,2.11,3.1,2.98,2.05,1.81,1.75,2.0,0,0
+2025/2026,Spain Segunda División,2025-09-19,15:30:00,complete,Deportivo La Coruña,SD Huesca,1.84,3.35,4.4,2.35,1.6,2.04,1.71,4,0
+2025/2026,Spain Segunda División,2025-09-20,11:15:00,complete,Cultural y Deportiva Leonesa,CD Castellón,3.0,3.45,2.0,1.7,2.15,1.53,2.3,1,3
+2025/2026,Spain Segunda División,2025-09-20,13:30:00,complete,FC Andorra,Mirandés,1.97,3.29,3.87,2.1,1.75,1.95,1.74,1,1
+2025/2026,Spain Segunda División,2025-09-20,13:30:00,complete,Leganés,UD Las Palmas,2.46,2.9,3.14,2.3,1.63,2.01,1.8,0,1
+2025/2026,Spain Segunda División,2025-09-20,16:00:00,complete,Almería,Sporting Gijón,1.65,3.86,4.9,1.79,1.95,1.73,2.02,2,1
+2025/2026,Spain Segunda División,2025-09-21,09:00:00,complete,Ceuta,Real Zaragoza,2.05,3.1,2.89,2.2,1.6,1.85,1.91,1,0
+2025/2026,Spain Segunda División,2025-09-21,11:15:00,complete,Albacete Balompié,Real Valladolid,2.74,3.2,2.4,2.02,1.85,1.77,2.0,2,0
+2025/2026,Spain Segunda División,2025-09-21,13:30:00,complete,Málaga CF,Cádiz,2.3,2.88,3.0,2.35,1.57,1.91,1.77,0,1
+2025/2026,Spain Segunda División,2025-09-21,13:30:00,complete,SD Eibar,Real Sociedad II,1.48,3.6,5.5,2.2,1.62,2.2,1.62,2,1
+2025/2026,Spain Segunda División,2025-09-21,16:00:00,complete,Córdoba,Racing Santander,2.33,3.64,3.38,1.6,2.25,1.5,2.49,2,2
+2025/2026,Spain Segunda División,2025-09-22,15:30:00,complete,Burgos CF,Granada CF,2.29,2.9,3.3,2.7,1.52,2.14,1.66,1,1
+2025/2026,Spain Segunda División,2025-09-26,15:30:00,complete,Mirandés,Real Zaragoza,2.55,3.0,2.7,2.49,1.5,2.03,1.7,0,1
+2025/2026,Spain Segunda División,2025-09-27,13:30:00,complete,SD Eibar,Deportivo La Coruña,2.24,3.13,3.29,2.25,1.65,1.97,1.78,1,1
+2025/2026,Spain Segunda División,2025-09-27,13:30:00,complete,Racing Santander,FC Andorra,1.73,3.92,4.2,1.65,2.2,1.6,2.28,1,2
+2025/2026,Spain Segunda División,2025-09-27,16:00:00,complete,UD Las Palmas,Almería,2.13,3.26,3.41,1.92,1.82,1.81,2.05,0,1
+2025/2026,Spain Segunda División,2025-09-28,09:00:00,complete,Real Sociedad II,Córdoba,3.15,3.25,2.29,1.88,1.92,1.68,2.08,1,1
+2025/2026,Spain Segunda División,2025-09-28,11:15:00,complete,Burgos CF,Málaga CF,2.1,2.9,3.25,2.78,1.4,2.3,1.61,2,1
+2025/2026,Spain Segunda División,2025-09-28,11:15:00,complete,Cádiz,Ceuta,1.95,3.11,3.5,2.33,1.65,1.99,1.8,0,0
+2025/2026,Spain Segunda División,2025-09-28,13:30:00,complete,Sporting Gijón,Albacete Balompié,1.98,3.25,3.6,2.0,1.85,1.79,1.93,3,4
+2025/2026,Spain Segunda División,2025-09-28,13:30:00,complete,Real Valladolid,Cultural y Deportiva Leonesa,1.5,4.18,5.75,1.98,1.85,2.13,1.7,0,1
+2025/2026,Spain Segunda División,2025-09-28,16:00:00,complete,SD Huesca,Granada CF,2.05,2.92,3.3,2.5,1.47,2.0,1.68,0,1
+2025/2026,Spain Segunda División,2025-09-29,15:30:00,complete,Leganés,CD Castellón,2.3,3.32,2.9,1.91,1.8,1.71,2.05,0,1
+2025/2026,Spain Segunda División,2025-10-03,15:30:00,complete,Ceuta,SD Eibar,2.52,2.85,2.7,2.38,1.57,1.97,1.75,1,0
+2025/2026,Spain Segunda División,2025-10-04,11:15:00,complete,Deportivo La Coruña,Almería,1.98,3.2,3.6,1.75,2.0,1.62,2.19,1,1
+2025/2026,Spain Segunda División,2025-10-04,13:30:00,complete,SD Huesca,Burgos CF,2.3,2.7,3.5,2.99,1.33,2.38,1.58,2,1
+2025/2026,Spain Segunda División,2025-10-04,13:30:00,complete,FC Andorra,Leganés,2.2,3.0,2.87,2.2,1.64,1.85,1.92,1,2
+2025/2026,Spain Segunda División,2025-10-04,16:00:00,complete,Granada CF,Real Sociedad II,1.77,3.74,4.1,2.05,1.75,1.92,1.8,5,2
+2025/2026,Spain Segunda División,2025-10-05,09:00:00,complete,Real Zaragoza,Córdoba,2.25,3.1,3.0,2.05,1.83,1.81,1.91,0,1
+2025/2026,Spain Segunda División,2025-10-05,11:15:00,complete,CD Castellón,Sporting Gijón,1.85,3.6,4.0,1.71,2.12,1.61,2.22,3,1
+2025/2026,Spain Segunda División,2025-10-05,13:30:00,complete,Real Valladolid,Mirandés,1.59,3.5,6.55,2.25,1.62,2.12,1.57,1,1
+2025/2026,Spain Segunda División,2025-10-05,13:30:00,complete,Racing Santander,Málaga CF,1.81,3.82,4.0,1.8,2.02,1.74,2.0,3,0
+2025/2026,Spain Segunda División,2025-10-05,16:00:00,complete,UD Las Palmas,Cádiz,1.81,3.3,4.66,2.26,1.61,2.14,1.7,1,0
+2025/2026,Spain Segunda División,2025-10-06,15:30:00,complete,Cultural y Deportiva Leonesa,Albacete Balompié,2.86,2.92,2.56,2.01,1.93,1.64,2.13,0,0
+2025/2026,Spain Segunda División,2025-10-10,15:30:00,complete,Granada CF,UD Las Palmas,2.65,2.84,2.5,2.36,1.59,1.9,1.95,0,0
+2025/2026,Spain Segunda División,2025-10-11,11:15:00,complete,Mirandés,Leganés,2.95,2.75,2.6,2.63,1.44,2.2,1.62,0,0
+2025/2026,Spain Segunda División,2025-10-11,13:30:00,complete,Almería,Real Zaragoza,1.57,3.6,4.55,1.91,1.85,1.85,1.91,4,2
+2025/2026,Spain Segunda División,2025-10-11,13:30:00,complete,Real Sociedad II,FC Andorra,2.62,3.1,2.34,2.0,1.75,1.75,2.0,3,0
+2025/2026,Spain Segunda División,2025-10-12,09:00:00,complete,Albacete Balompié,Ceuta,2.05,3.3,3.45,1.91,1.83,1.73,2.05,0,0
+2025/2026,Spain Segunda División,2025-10-12,11:15:00,complete,Sporting Gijón,Racing Santander,2.02,3.4,2.9,1.67,2.1,1.53,2.4,2,1
+2025/2026,Spain Segunda División,2025-10-12,11:15:00,complete,SD Eibar,CD Castellón,2.21,3.1,2.8,2.05,1.73,1.8,1.95,0,0
+2025/2026,Spain Segunda División,2025-10-12,13:30:00,complete,Burgos CF,Real Valladolid,2.8,2.8,2.7,2.63,1.44,2.05,1.7,0,1
+2025/2026,Spain Segunda División,2025-10-12,13:30:00,complete,Cádiz,SD Huesca,2.02,2.78,3.6,2.63,1.44,2.2,1.62,1,0
+2025/2026,Spain Segunda División,2025-10-12,16:00:00,complete,Málaga CF,Deportivo La Coruña,3.25,2.9,2.35,2.2,1.62,1.91,1.85,3,0
+2025/2026,Spain Segunda División,2025-10-13,15:30:00,complete,Córdoba,Cultural y Deportiva Leonesa,1.6,3.82,5.12,1.83,2.06,1.82,2.05,1,0
+2025/2026,Spain Segunda División,2025-10-17,15:30:00,complete,FC Andorra,Granada CF,2.05,3.1,3.1,2.15,1.72,1.9,2.01,0,0
+2025/2026,Spain Segunda División,2025-10-18,11:15:00,complete,Ceuta,Mirandés,1.77,3.25,4.75,2.3,1.63,2.1,1.68,2,0
+2025/2026,Spain Segunda División,2025-10-18,13:30:00,complete,Real Zaragoza,Cultural y Deportiva Leonesa,1.71,3.78,4.5,1.77,1.98,1.94,1.84,0,5
+2025/2026,Spain Segunda División,2025-10-19,09:00:00,complete,Leganés,Málaga CF,1.97,3.2,4.2,2.34,1.57,2.0,1.7,2,0
+2025/2026,Spain Segunda División,2025-10-19,11:15:00,complete,CD Castellón,Albacete Balompié,1.61,3.6,4.25,1.61,2.34,1.62,2.16,0,1
+2025/2026,Spain Segunda División,2025-10-19,11:15:00,complete,Real Valladolid,Sporting Gijón,2.1,3.1,3.5,2.18,1.65,1.94,1.8,2,3
+2025/2026,Spain Segunda División,2025-10-19,13:30:00,complete,Córdoba,Almería,2.6,3.25,2.4,1.78,2.05,1.6,2.2,1,1
+2025/2026,Spain Segunda División,2025-10-19,13:30:00,complete,Racing Santander,Deportivo La Coruña,2.3,3.35,2.96,1.61,2.25,1.52,2.38,2,1
+2025/2026,Spain Segunda División,2025-10-19,16:00:00,complete,UD Las Palmas,SD Eibar,2.0,2.8,3.5,2.45,1.5,2.18,1.72,3,1
+2025/2026,Spain Segunda División,2025-10-20,15:30:00,complete,Cádiz,Burgos CF,2.15,2.85,3.5,2.68,1.37,2.24,1.58,1,3
+2025/2026,Spain Segunda División,2025-10-24,15:30:00,complete,SD Huesca,UD Las Palmas,2.8,2.77,2.84,2.7,1.39,2.35,1.52,1,1
+2025/2026,Spain Segunda División,2025-10-25,09:00:00,complete,Cultural y Deportiva Leonesa,Ceuta,2.43,2.95,3.0,2.27,1.61,2.0,1.8,0,1
+2025/2026,Spain Segunda División,2025-10-25,11:15:00,complete,SD Eibar,Leganés,2.15,3.12,3.9,2.5,1.5,2.05,1.61,0,0
+2025/2026,Spain Segunda División,2025-10-25,11:15:00,complete,Albacete Balompié,Córdoba,2.15,3.2,3.2,1.72,1.85,1.65,2.08,1,3
+2025/2026,Spain Segunda División,2025-10-25,13:30:00,complete,Burgos CF,Real Sociedad II,1.7,3.35,5.1,2.4,1.53,2.2,1.6,1,0
+2025/2026,Spain Segunda División,2025-10-25,13:30:00,complete,Granada CF,Cádiz,2.2,2.8,3.25,2.3,1.57,2.0,1.75,0,0
+2025/2026,Spain Segunda División,2025-10-25,16:00:00,complete,Mirandés,Racing Santander,2.88,3.41,2.32,1.8,2.0,1.57,2.25,1,3
+2025/2026,Spain Segunda División,2025-10-26,10:00:00,complete,Málaga CF,FC Andorra,2.05,3.15,3.4,2.1,1.73,1.88,1.91,4,1
+2025/2026,Spain Segunda División,2025-10-26,14:30:00,complete,Sporting Gijón,Real Zaragoza,1.72,3.3,5.0,2.09,1.71,2.01,1.75,1,0
+2025/2026,Spain Segunda División,2025-10-26,14:30:00,complete,Almería,CD Castellón,1.95,3.5,3.3,1.59,2.31,1.51,2.35,1,0
+2025/2026,Spain Segunda División,2025-10-26,17:00:00,complete,Deportivo La Coruña,Real Valladolid,2.0,3.25,3.25,2.1,1.8,1.75,1.88,1,1
+2025/2026,Spain Segunda División,2025-10-31,16:30:00,complete,Racing Santander,Real Sociedad II,1.52,4.4,5.5,1.58,2.22,1.76,1.96,1,0
+2025/2026,Spain Segunda División,2025-11-01,12:15:00,complete,Cultural y Deportiva Leonesa,Mirandés,1.87,3.2,4.55,2.05,1.73,1.89,1.79,3,2
+2025/2026,Spain Segunda División,2025-11-01,14:30:00,complete,Leganés,Burgos CF,2.02,3.13,3.92,2.45,1.55,2.36,1.6,1,2
+2025/2026,Spain Segunda División,2025-11-01,14:30:00,complete,Albacete Balompié,SD Huesca,2.07,3.1,3.79,2.3,1.63,1.96,1.75,2,1
+2025/2026,Spain Segunda División,2025-11-01,17:00:00,complete,Almería,SD Eibar,1.79,3.67,4.2,1.92,1.82,1.83,1.85,3,1
+2025/2026,Spain Segunda División,2025-11-02,10:00:00,complete,FC Andorra,Cádiz,2.11,2.98,3.7,2.1,1.7,1.9,1.78,0,0
+2025/2026,Spain Segunda División,2025-11-02,12:15:00,complete,Sporting Gijón,UD Las Palmas,2.8,3.0,3.05,2.2,1.62,1.85,1.8,0,0
+2025/2026,Spain Segunda División,2025-11-02,12:15:00,complete,Córdoba,Ceuta,1.9,3.3,4.0,1.94,1.79,1.84,1.88,2,0
+2025/2026,Spain Segunda División,2025-11-02,14:30:00,complete,CD Castellón,Málaga CF,1.68,3.7,4.1,1.77,2.0,1.75,2.0,2,1
+2025/2026,Spain Segunda División,2025-11-02,17:00:00,complete,Real Zaragoza,Deportivo La Coruña,2.76,3.0,2.46,2.25,1.65,1.83,1.91,0,2
+2025/2026,Spain Segunda División,2025-11-03,16:30:00,complete,Real Valladolid,Granada CF,1.94,3.36,3.75,2.15,1.67,1.91,1.78,2,1
+2025/2026,Spain Segunda División,2025-11-05,16:00:00,complete,Real Sociedad II,SD Huesca,2.74,2.87,2.7,2.65,1.44,2.23,1.7,2,0
+2025/2026,Spain Segunda División,2025-11-07,16:30:00,complete,Mirandés,Sporting Gijón,3.06,2.9,2.11,2.38,1.52,1.98,1.75,2,1
+2025/2026,Spain Segunda División,2025-11-08,10:00:00,complete,Real Sociedad II,Leganés,3.3,3.0,2.29,2.33,1.57,2.0,1.73,2,1
+2025/2026,Spain Segunda División,2025-11-08,12:15:00,complete,SD Huesca,FC Andorra,2.45,2.87,2.9,2.5,1.52,2.05,1.71,2,2
+2025/2026,Spain Segunda División,2025-11-08,12:15:00,complete,SD Eibar,Albacete Balompié,1.86,3.35,4.57,2.1,1.75,1.84,1.85,3,2
+2025/2026,Spain Segunda División,2025-11-08,14:30:00,complete,Deportivo La Coruña,Cultural y Deportiva Leonesa,1.65,3.74,4.75,2.0,1.86,1.85,1.86,3,0
+2025/2026,Spain Segunda División,2025-11-08,17:00:00,complete,Málaga CF,Córdoba,2.25,3.1,3.0,1.95,1.85,1.74,1.95,2,2
+2025/2026,Spain Segunda División,2025-11-09,10:00:00,complete,UD Las Palmas,Racing Santander,1.95,3.3,3.6,1.88,1.9,1.73,2.05,3,1
+2025/2026,Spain Segunda División,2025-11-09,14:30:00,complete,Granada CF,Real Zaragoza,1.95,3.4,4.36,2.27,1.58,2.09,1.75,3,1
+2025/2026,Spain Segunda División,2025-11-09,17:00:00,complete,Cádiz,Real Valladolid,2.9,2.95,2.5,2.38,1.59,1.95,1.77,0,0
+2025/2026,Spain Segunda División,2025-11-10,16:30:00,complete,Burgos CF,CD Castellón,2.74,2.95,2.88,2.2,1.66,1.88,1.82,0,0
+2025/2026,Spain Segunda División,2025-11-14,16:30:00,complete,Real Valladolid,UD Las Palmas,2.41,2.8,3.3,2.5,1.56,2.12,1.7,0,1
+2025/2026,Spain Segunda División,2025-11-15,12:00:00,complete,CD Castellón,Real Sociedad II,1.3,5.2,9.0,1.61,2.32,1.93,1.73,5,4
+2025/2026,Spain Segunda División,2025-11-15,12:00:00,complete,Albacete Balompié,FC Andorra,2.1,3.48,3.0,1.78,1.92,1.62,2.18,1,0
+2025/2026,Spain Segunda División,2025-11-15,17:00:00,complete,Racing Santander,Granada CF,1.91,3.8,3.89,1.68,2.26,1.58,2.14,2,2
+2025/2026,Spain Segunda División,2025-11-16,10:00:00,complete,Ceuta,Leganés,2.4,2.95,3.0,2.48,1.57,1.95,1.76,1,2
+2025/2026,Spain Segunda División,2025-11-16,12:15:00,complete,Almería,Cádiz,1.6,3.75,5.4,1.88,1.99,1.88,1.97,3,0
+2025/2026,Spain Segunda División,2025-11-16,12:15:00,complete,Sporting Gijón,SD Eibar,2.28,3.1,2.97,2.46,1.57,2.0,1.86,1,1
+2025/2026,Spain Segunda División,2025-11-16,14:30:00,complete,Mirandés,Burgos CF,3.0,3.05,2.45,2.54,1.41,2.13,1.62,0,2
+2025/2026,Spain Segunda División,2025-11-16,14:30:00,complete,Córdoba,Deportivo La Coruña,2.29,3.27,2.9,1.76,1.98,1.64,2.32,1,3
+2025/2026,Spain Segunda División,2025-11-16,17:00:00,complete,Real Zaragoza,SD Huesca,2.45,2.73,3.2,2.9,1.42,2.31,1.65,1,0
+2025/2026,Spain Segunda División,2025-11-17,16:30:00,complete,Cultural y Deportiva Leonesa,Málaga CF,2.3,2.9,3.41,2.34,1.68,1.88,1.88,1,0
+2025/2026,Spain Segunda División,2025-11-21,16:30:00,complete,UD Las Palmas,Albacete Balompié,1.77,3.6,4.5,2.08,1.8,1.97,1.79,2,1
+2025/2026,Spain Segunda División,2025-11-22,12:15:00,complete,FC Andorra,CD Castellón,2.48,3.34,2.64,1.79,2.0,1.64,2.25,1,3
+2025/2026,Spain Segunda División,2025-11-22,14:30:00,complete,Leganés,Almería,2.69,3.0,2.8,2.31,1.65,1.83,1.94,0,3
+2025/2026,Spain Segunda División,2025-11-22,14:30:00,complete,SD Eibar,Real Zaragoza,1.7,3.45,4.5,2.53,1.53,2.15,1.62,1,2
+2025/2026,Spain Segunda División,2025-11-22,17:00:00,complete,Granada CF,Córdoba,2.16,3.15,3.0,2.06,1.84,1.76,2.13,1,1
+2025/2026,Spain Segunda División,2025-11-23,10:00:00,complete,Deportivo La Coruña,Ceuta,1.75,3.64,4.5,2.1,1.81,1.85,1.87,2,1
+2025/2026,Spain Segunda División,2025-11-23,12:15:00,complete,Cádiz,Cultural y Deportiva Leonesa,2.1,2.9,3.4,2.38,1.61,2.0,1.75,1,2
+2025/2026,Spain Segunda División,2025-11-23,12:15:00,complete,SD Huesca,Sporting Gijón,2.25,2.75,2.87,2.76,1.4,2.15,1.61,2,0
+2025/2026,Spain Segunda División,2025-11-23,14:30:00,complete,Burgos CF,Racing Santander,2.45,3.05,2.87,2.3,1.67,1.83,1.83,0,2
+2025/2026,Spain Segunda División,2025-11-23,17:00:00,complete,Málaga CF,Mirandés,1.95,3.36,4.4,2.23,1.62,2.07,1.75,3,2
+2025/2026,Spain Segunda División,2025-11-24,16:30:00,complete,Real Sociedad II,Real Valladolid,3.4,3.25,2.11,2.2,1.67,1.85,1.79,1,0
+2025/2026,Spain Segunda División,2025-11-26,15:00:00,complete,Ceuta,Almería,2.92,3.2,2.28,1.97,1.8,1.72,2.05,3,2
+2025/2026,Spain Segunda División,2025-11-28,16:30:00,complete,Sporting Gijón,FC Andorra,2.1,3.3,3.55,2.12,1.71,1.83,1.91,1,1
+2025/2026,Spain Segunda División,2025-11-29,10:00:00,complete,Ceuta,Burgos CF,2.25,2.87,3.45,2.6,1.43,2.12,1.7,1,0
+2025/2026,Spain Segunda División,2025-11-29,12:15:00,complete,Cultural y Deportiva Leonesa,Granada CF,2.55,3.2,2.83,2.11,1.7,1.78,1.88,0,1
+2025/2026,Spain Segunda División,2025-11-29,14:30:00,complete,Albacete Balompié,Deportivo La Coruña,2.45,3.2,2.5,1.8,1.95,1.66,2.1,0,2
+2025/2026,Spain Segunda División,2025-11-29,14:30:00,complete,Almería,SD Huesca,1.67,3.5,5.45,2.15,1.67,2.05,1.73,0,0
+2025/2026,Spain Segunda División,2025-11-29,17:00:00,complete,Real Valladolid,Málaga CF,1.69,3.64,5.4,2.13,1.75,1.95,1.82,1,1
+2025/2026,Spain Segunda División,2025-11-30,10:00:00,complete,Real Zaragoza,Leganés,2.75,3.05,2.7,2.72,1.4,2.2,1.62,3,2
+2025/2026,Spain Segunda División,2025-11-30,12:15:00,complete,Racing Santander,SD Eibar,2.05,3.4,3.2,1.83,1.85,1.76,2.04,4,0
+2025/2026,Spain Segunda División,2025-11-30,14:30:00,complete,Córdoba,Cádiz,1.92,3.24,4.32,2.09,1.73,1.85,2.01,1,2
+2025/2026,Spain Segunda División,2025-11-30,14:30:00,complete,Mirandés,Real Sociedad II,2.05,3.0,3.25,2.25,1.64,1.91,1.94,1,0
+2025/2026,Spain Segunda División,2025-11-30,17:00:00,complete,CD Castellón,UD Las Palmas,2.14,3.4,3.2,2.0,1.78,1.76,1.93,1,0
+2025/2026,Spain Segunda División,2025-12-06,10:00:00,complete,FC Andorra,Almería,2.88,3.65,2.05,1.87,1.99,1.7,2.22,1,2
+2025/2026,Spain Segunda División,2025-12-06,12:15:00,complete,SD Huesca,Real Valladolid,3.14,2.7,2.52,2.55,1.42,2.15,1.67,1,4
+2025/2026,Spain Segunda División,2025-12-06,14:30:00,complete,Real Sociedad II,Sporting Gijón,3.3,2.9,2.2,2.22,1.58,1.88,1.81,0,1
+2025/2026,Spain Segunda División,2025-12-07,10:00:00,complete,Cádiz,Racing Santander,2.77,3.35,2.3,1.92,1.92,1.66,2.09,2,3
+2025/2026,Spain Segunda División,2025-12-07,12:15:00,complete,Leganés,Córdoba,2.69,3.0,2.75,2.18,1.68,1.79,2.05,0,0
+2025/2026,Spain Segunda División,2025-12-07,14:30:00,complete,Deportivo La Coruña,CD Castellón,2.42,3.0,2.85,1.86,1.99,1.66,2.15,1,3
+2025/2026,Spain Segunda División,2025-12-07,14:30:00,complete,SD Eibar,Cultural y Deportiva Leonesa,1.74,3.3,4.8,2.21,1.65,2.03,1.68,1,2
+2025/2026,Spain Segunda División,2025-12-07,17:00:00,complete,Granada CF,Ceuta,1.71,3.0,3.8,2.2,1.65,1.92,1.77,1,1
+2025/2026,Spain Segunda División,2025-12-08,12:15:00,complete,Burgos CF,Albacete Balompié,1.95,2.9,3.75,2.5,1.54,2.12,1.77,0,1
+2025/2026,Spain Segunda División,2025-12-08,14:30:00,complete,UD Las Palmas,Mirandés,1.57,3.91,6.4,2.25,1.65,2.39,1.63,0,0
+2025/2026,Spain Segunda División,2025-12-08,16:30:00,complete,Málaga CF,Real Zaragoza,2.0,2.9,3.3,2.26,1.66,1.91,1.93,1,1
+2025/2026,Spain Segunda División,2025-12-12,16:30:00,complete,Cultural y Deportiva Leonesa,SD Huesca,2.25,2.8,3.1,2.5,1.5,2.1,1.7,0,2
+2025/2026,Spain Segunda División,2025-12-13,10:00:00,complete,Córdoba,SD Eibar,2.06,3.37,3.65,2.05,1.73,1.94,1.82,0,0
+2025/2026,Spain Segunda División,2025-12-13,12:15:00,complete,Sporting Gijón,Granada CF,2.26,3.25,3.05,2.33,1.62,1.91,1.73,1,0
+2025/2026,Spain Segunda División,2025-12-13,12:15:00,complete,Real Valladolid,FC Andorra,1.53,3.8,6.11,1.89,1.91,1.85,1.83,0,1
+2025/2026,Spain Segunda División,2025-12-13,14:30:00,complete,Racing Santander,Leganés,1.6,3.75,4.8,1.63,2.03,1.71,2.14,1,1
+2025/2026,Spain Segunda División,2025-12-13,17:00:00,complete,Real Zaragoza,Cádiz,2.2,2.9,3.25,2.45,1.5,1.99,1.73,1,2
+2025/2026,Spain Segunda División,2025-12-13,17:00:00,complete,Deportivo La Coruña,Real Sociedad II,1.49,4.5,6.6,1.89,1.95,1.99,1.86,0,3
+2025/2026,Spain Segunda División,2025-12-14,12:15:00,complete,Albacete Balompié,Málaga CF,1.85,3.3,3.95,2.05,1.83,1.75,1.9,1,3
+2025/2026,Spain Segunda División,2025-12-14,14:30:00,complete,Almería,Burgos CF,1.77,3.25,4.5,2.21,1.62,2.17,1.67,1,2
+2025/2026,Spain Segunda División,2025-12-14,17:00:00,complete,Ceuta,UD Las Palmas,2.7,2.75,2.6,2.6,1.44,2.19,1.72,1,1
+2025/2026,Spain Segunda División,2025-12-15,16:30:00,complete,CD Castellón,Mirandés,1.43,4.7,8.0,1.66,2.25,1.91,1.8,3,1
+2025/2026,Spain Segunda División,2025-12-19,16:30:00,complete,SD Eibar,Real Valladolid,2.45,2.92,2.97,2.25,1.66,1.94,1.83,3,0
+2025/2026,Spain Segunda División,2025-12-20,10:00:00,complete,FC Andorra,Deportivo La Coruña,2.68,3.25,2.5,1.91,1.83,1.7,2.05,1,0
+2025/2026,Spain Segunda División,2025-12-20,12:15:00,complete,SD Huesca,Racing Santander,2.75,3.3,2.75,2.12,1.75,1.73,2.05,1,1
+2025/2026,Spain Segunda División,2025-12-20,14:30:00,complete,Leganés,Sporting Gijón,2.36,2.88,3.2,2.4,1.5,2.05,1.73,0,1
+2025/2026,Spain Segunda División,2025-12-20,17:00:00,complete,UD Las Palmas,Cultural y Deportiva Leonesa,1.64,3.55,5.3,2.14,1.76,2.15,1.75,4,0
+2025/2026,Spain Segunda División,2025-12-21,10:00:00,complete,Málaga CF,Almería,3.21,3.04,2.32,1.98,1.77,1.75,2.0,2,1
+2025/2026,Spain Segunda División,2025-12-21,12:15:00,complete,Mirandés,Córdoba,3.12,3.1,2.27,2.33,1.69,1.86,1.84,1,2
+2025/2026,Spain Segunda División,2025-12-21,12:15:00,complete,Real Sociedad II,Ceuta,2.8,2.8,2.69,2.25,1.57,1.92,1.85,1,3
+2025/2026,Spain Segunda División,2025-12-21,14:30:00,complete,Granada CF,Albacete Balompié,1.99,3.2,3.6,1.91,1.83,1.77,1.92,1,1
+2025/2026,Spain Segunda División,2025-12-21,14:30:00,complete,Burgos CF,Real Zaragoza,1.94,2.95,3.86,2.64,1.42,2.25,1.62,1,1
+2025/2026,Spain Segunda División,2025-12-21,17:00:00,complete,Cádiz,CD Castellón,3.75,3.2,2.21,1.96,1.83,1.75,1.94,2,0
+2025/2026,Spain Segunda División,2026-01-02,16:30:00,complete,SD Eibar,Mirandés,1.5,3.55,6.5,2.2,1.65,2.28,1.62,2,1
+2025/2026,Spain Segunda División,2026-01-03,10:00:00,complete,Cultural y Deportiva Leonesa,Real Sociedad II,1.89,3.3,3.8,2.25,1.63,1.82,1.88,1,1
+2025/2026,Spain Segunda División,2026-01-03,12:15:00,complete,Almería,Granada CF,1.8,3.45,4.0,2.03,1.94,1.83,2.0,3,2
+2025/2026,Spain Segunda División,2026-01-03,12:15:00,complete,CD Castellón,SD Huesca,1.36,3.75,6.0,1.96,1.8,2.16,1.62,4,1
+2025/2026,Spain Segunda División,2026-01-03,14:30:00,complete,Real Valladolid,Racing Santander,2.04,3.3,3.4,1.73,2.05,1.62,2.2,1,1
+2025/2026,Spain Segunda División,2026-01-03,17:00:00,complete,Córdoba,Burgos CF,2.09,3.01,4.1,2.56,1.49,2.2,1.63,2,0
+2025/2026,Spain Segunda División,2026-01-04,10:00:00,complete,Sporting Gijón,Málaga CF,1.92,3.44,4.28,2.18,1.67,1.92,1.79,1,3
+2025/2026,Spain Segunda División,2026-01-04,12:15:00,complete,Ceuta,FC Andorra,1.92,3.44,3.35,1.98,1.91,1.73,2.0,2,1
+2025/2026,Spain Segunda División,2026-01-04,14:30:00,complete,Albacete Balompié,Leganés,2.3,3.0,2.8,2.12,1.75,1.79,1.84,1,3
+2025/2026,Spain Segunda División,2026-01-04,14:30:00,complete,Real Zaragoza,UD Las Palmas,2.94,2.87,2.45,2.5,1.42,2.08,1.67,1,2
+2025/2026,Spain Segunda División,2026-01-04,17:00:00,complete,Deportivo La Coruña,Cádiz,1.64,3.52,5.0,2.05,1.8,1.93,1.78,2,2
+2025/2026,Spain Segunda División,2026-01-09,16:30:00,complete,Cádiz,Sporting Gijón,2.63,2.9,2.75,2.4,1.57,1.95,1.76,3,2
+2025/2026,Spain Segunda División,2026-01-10,10:00:00,complete,Mirandés,Almería,3.25,3.35,2.08,2.0,1.8,1.81,1.92,2,2
+2025/2026,Spain Segunda División,2026-01-10,12:15:00,complete,Real Sociedad II,Albacete Balompié,2.62,3.2,2.44,1.9,2.0,1.65,2.11,0,0
+2025/2026,Spain Segunda División,2026-01-10,14:30:00,complete,Burgos CF,SD Eibar,2.69,2.84,3.0,3.25,1.29,2.5,1.56,1,0
+2025/2026,Spain Segunda División,2026-01-10,14:30:00,complete,UD Las Palmas,Deportivo La Coruña,2.08,3.2,3.7,2.36,1.62,2.04,1.87,1,1
+2025/2026,Spain Segunda División,2026-01-10,14:30:00,complete,FC Andorra,Cultural y Deportiva Leonesa,1.95,3.6,3.35,1.89,1.92,1.72,2.01,1,1
+2025/2026,Spain Segunda División,2026-01-10,17:00:00,complete,Racing Santander,Real Zaragoza,1.7,3.6,4.4,1.72,2.12,1.67,2.08,2,3
+2025/2026,Spain Segunda División,2026-01-11,10:00:00,complete,Leganés,Real Valladolid,2.11,3.0,2.88,2.33,1.57,2.05,1.81,3,0
+2025/2026,Spain Segunda División,2026-01-11,12:15:00,complete,Málaga CF,Ceuta,2.05,3.1,3.3,2.09,1.7,1.81,1.85,2,1
+2025/2026,Spain Segunda División,2026-01-11,12:15:00,complete,Granada CF,CD Castellón,2.8,3.32,2.39,1.87,1.98,1.63,2.14,0,0
+2025/2026,Spain Segunda División,2026-01-12,16:30:00,complete,SD Huesca,Córdoba,2.65,2.85,2.75,2.49,1.6,1.94,1.77,1,2
+2025/2026,Spain Segunda División,2026-01-16,16:30:00,complete,CD Castellón,Leganés,1.55,3.9,5.98,1.75,1.95,1.81,2.03,2,0
+2025/2026,Spain Segunda División,2026-01-17,10:00:00,complete,Ceuta,Real Valladolid,2.75,2.8,2.8,2.5,1.44,2.03,1.73,0,3
+2025/2026,Spain Segunda División,2026-01-17,12:15:00,complete,Cultural y Deportiva Leonesa,Sporting Gijón,3.2,3.0,2.28,2.23,1.63,1.91,1.86,2,4
+2025/2026,Spain Segunda División,2026-01-17,14:30:00,complete,Real Zaragoza,Real Sociedad II,1.77,3.47,4.7,2.2,1.6,1.85,1.85,1,1
+2025/2026,Spain Segunda División,2026-01-17,17:00:00,complete,Almería,Deportivo La Coruña,1.95,3.35,3.3,1.86,1.95,1.65,2.15,1,2
+2025/2026,Spain Segunda División,2026-01-18,10:00:00,complete,Mirandés,FC Andorra,2.6,3.1,2.38,1.95,1.75,1.73,1.95,1,2
+2025/2026,Spain Segunda División,2026-01-18,12:15:00,complete,Racing Santander,UD Las Palmas,2.3,3.0,2.98,1.92,1.92,1.73,2.08,4,1
+2025/2026,Spain Segunda División,2026-01-18,14:30:00,complete,Burgos CF,SD Huesca,2.13,2.84,4.39,3.2,1.27,2.63,1.44,1,0
+2025/2026,Spain Segunda División,2026-01-18,14:30:00,complete,Albacete Balompié,Cádiz,1.9,3.52,3.72,1.97,1.89,1.73,2.05,1,0
+2025/2026,Spain Segunda División,2026-01-18,17:00:00,complete,Córdoba,Málaga CF,2.06,3.4,3.8,1.98,1.8,1.75,1.95,0,1
+2025/2026,Spain Segunda División,2026-01-19,16:30:00,complete,Granada CF,SD Eibar,2.35,2.95,3.2,2.3,1.53,2.0,1.72,0,0
+2025/2026,Spain Segunda División,2026-01-23,16:30:00,complete,Málaga CF,Burgos CF,2.05,2.98,4.23,2.42,1.47,2.11,1.65,3,0
+2025/2026,Spain Segunda División,2026-01-24,10:00:00,complete,Real Valladolid,Albacete Balompié,1.84,3.3,3.5,2.0,1.84,1.8,1.99,0,1
+2025/2026,Spain Segunda División,2026-01-24,12:15:00,complete,Leganés,Real Sociedad II,1.8,3.25,4.2,2.07,1.82,1.85,1.85,2,0
+2025/2026,Spain Segunda División,2026-01-24,14:30:00,complete,UD Las Palmas,Córdoba,1.96,3.3,4.13,2.07,1.79,1.84,1.86,1,2
+2025/2026,Spain Segunda División,2026-01-24,14:30:00,complete,Sporting Gijón,Mirandés,1.57,3.8,5.69,2.13,1.75,2.0,1.68,3,0
+2025/2026,Spain Segunda División,2026-01-24,17:00:00,complete,Cádiz,Granada CF,2.6,3.09,2.75,2.25,1.6,2.0,1.77,1,2
+2025/2026,Spain Segunda División,2026-01-25,10:00:00,complete,FC Andorra,SD Huesca,1.98,3.31,4.28,2.3,1.65,1.98,1.74,1,1
+2025/2026,Spain Segunda División,2026-01-25,12:15:00,complete,SD Eibar,Almería,2.12,3.0,3.15,2.0,1.67,1.83,1.91,1,0
+2025/2026,Spain Segunda División,2026-01-25,14:30:00,complete,Real Zaragoza,CD Castellón,3.5,3.35,1.85,1.92,1.83,1.73,2.04,0,0
+2025/2026,Spain Segunda División,2026-01-25,17:00:00,complete,Deportivo La Coruña,Racing Santander,2.1,3.34,3.1,1.82,2.1,1.53,2.3,0,1
+2025/2026,Spain Segunda División,2026-01-26,16:30:00,complete,Ceuta,Cultural y Deportiva Leonesa,2.1,3.28,3.1,2.04,1.85,1.85,1.85,3,1
+2025/2026,Spain Segunda División,2026-01-30,16:30:00,complete,Real Sociedad II,UD Las Palmas,2.85,2.88,2.69,2.17,1.7,1.8,1.9,1,1
+2025/2026,Spain Segunda División,2026-01-31,12:15:00,complete,Burgos CF,Leganés,2.25,2.82,3.85,3.1,1.41,2.34,1.62,2,1
+2025/2026,Spain Segunda División,2026-01-31,12:15:00,complete,Albacete Balompié,Real Zaragoza,1.9,3.35,4.0,1.95,1.88,1.78,1.91,2,0
+2025/2026,Spain Segunda División,2026-01-31,14:30:00,complete,Cultural y Deportiva Leonesa,Deportivo La Coruña,3.15,3.0,2.3,2.25,1.68,1.85,2.0,0,1
+2025/2026,Spain Segunda División,2026-01-31,17:00:00,complete,Córdoba,Real Valladolid,1.9,3.3,3.95,2.0,1.8,1.89,1.9,3,1
+2025/2026,Spain Segunda División,2026-02-01,10:00:00,complete,Almería,Ceuta,1.7,3.5,4.47,1.88,2.03,1.71,2.05,4,2
+2025/2026,Spain Segunda División,2026-02-01,12:15:00,complete,SD Eibar,Sporting Gijón,2.15,2.9,3.5,2.45,1.53,2.0,1.81,1,0
+2025/2026,Spain Segunda División,2026-02-01,14:30:00,complete,SD Huesca,Cádiz,2.64,2.9,2.7,2.38,1.54,2.12,1.79,1,0
+2025/2026,Spain Segunda División,2026-02-01,14:30:00,complete,CD Castellón,FC Andorra,1.48,4.33,6.0,1.62,2.36,1.69,2.05,2,0
+2025/2026,Spain Segunda División,2026-02-01,17:00:00,complete,Granada CF,Racing Santander,2.43,3.22,2.9,1.75,1.88,1.7,2.04,1,0
+2025/2026,Spain Segunda División,2026-02-02,16:30:00,complete,Mirandés,Málaga CF,2.87,3.0,2.45,2.3,1.57,1.85,1.83,2,1
+2025/2026,Spain Segunda División,2026-02-06,16:30:00,complete,Leganés,Granada CF,2.18,2.9,3.0,2.45,1.5,2.0,1.75,1,0
+2025/2026,Spain Segunda División,2026-02-07,10:00:00,complete,FC Andorra,Real Sociedad II,1.73,3.8,4.5,1.85,1.85,1.75,1.95,1,2
+2025/2026,Spain Segunda División,2026-02-07,12:15:00,complete,UD Las Palmas,Burgos CF,1.73,2.98,4.55,2.57,1.44,2.2,1.6,0,0
+2025/2026,Spain Segunda División,2026-02-07,14:30:00,complete,Real Zaragoza,SD Eibar,3.1,2.87,2.25,2.63,1.44,2.0,1.67,1,1
+2025/2026,Spain Segunda División,2026-02-08,10:00:00,complete,Real Valladolid,CD Castellón,3.1,3.2,2.25,2.03,1.85,1.73,1.99,0,4
+2025/2026,Spain Segunda División,2026-02-08,12:15:00,complete,Cádiz,Almería,2.7,3.2,2.4,1.85,1.95,1.65,2.15,1,2
+2025/2026,Spain Segunda División,2026-02-08,12:15:00,complete,Deportivo La Coruña,Albacete Balompié,1.67,3.5,4.97,1.85,1.95,1.75,1.9,2,1
+2025/2026,Spain Segunda División,2026-02-08,14:30:00,complete,Sporting Gijón,SD Huesca,1.82,3.15,4.0,2.15,1.65,2.02,1.75,2,1
+2025/2026,Spain Segunda División,2026-02-08,17:00:00,complete,Málaga CF,Cultural y Deportiva Leonesa,1.72,3.3,4.2,2.09,1.82,1.9,1.89,2,1
+2025/2026,Spain Segunda División,2026-02-09,16:30:00,complete,Racing Santander,Mirandés,1.53,4.1,5.0,1.68,2.15,1.75,1.95,1,0
+2025/2026,Spain Segunda División,2026-02-13,16:30:00,complete,Almería,FC Andorra,1.74,3.96,4.4,1.6,2.3,1.6,2.25,3,2
+2025/2026,Spain Segunda División,2026-02-14,10:00:00,complete,Córdoba,Leganés,1.91,3.2,3.7,1.84,1.84,1.84,2.0,2,1
+2025/2026,Spain Segunda División,2026-02-14,12:15:00,complete,Burgos CF,Cádiz,2.0,2.95,3.7,2.5,1.44,2.1,1.67,1,1
+2025/2026,Spain Segunda División,2026-02-14,14:30:00,complete,Cultural y Deportiva Leonesa,Real Zaragoza,2.25,2.95,3.35,2.2,1.65,1.85,1.83,0,0
+2025/2026,Spain Segunda División,2026-02-14,17:00:00,complete,Granada CF,Real Valladolid,2.15,3.15,3.68,2.55,1.54,1.91,1.83,5,1
+2025/2026,Spain Segunda División,2026-02-15,10:00:00,complete,Mirandés,UD Las Palmas,3.3,3.0,2.25,2.3,1.61,2.0,1.75,1,1
+2025/2026,Spain Segunda División,2026-02-15,12:15:00,complete,SD Huesca,Ceuta,2.19,3.09,3.25,2.38,1.5,2.0,1.81,2,0
+2025/2026,Spain Segunda División,2026-02-15,12:15:00,complete,SD Eibar,Racing Santander,2.25,3.0,3.6,2.16,1.83,1.84,2.0,2,1
+2025/2026,Spain Segunda División,2026-02-15,14:30:00,complete,Albacete Balompié,Sporting Gijón,2.09,3.19,3.2,1.89,1.8,1.75,2.0,1,1
+2025/2026,Spain Segunda División,2026-02-15,17:00:00,complete,CD Castellón,Deportivo La Coruña,1.7,3.5,3.75,1.8,2.05,1.73,2.0,2,0
+2025/2026,Spain Segunda División,2026-02-16,16:30:00,complete,Real Sociedad II,Málaga CF,2.82,3.0,2.61,2.0,1.76,1.76,2.0,2,1
+2025/2026,Spain Segunda División,2026-02-20,16:30:00,complete,Ceuta,Granada CF,2.48,2.95,2.7,2.2,1.67,1.88,1.85,2,1
+2025/2026,Spain Segunda División,2026-02-21,10:00:00,complete,Leganés,Cultural y Deportiva Leonesa,1.75,3.54,4.98,2.05,1.76,2.02,1.74,1,1
+2025/2026,Spain Segunda División,2026-02-21,12:15:00,complete,SD Huesca,Mirandés,1.95,3.05,4.05,2.45,1.52,2.22,1.68,0,2
+2025/2026,Spain Segunda División,2026-02-21,12:15:00,complete,Deportivo La Coruña,SD Eibar,2.0,3.13,3.75,2.4,1.6,2.02,1.71,1,0
+2025/2026,Spain Segunda División,2026-02-21,14:30:00,complete,Almería,Córdoba,2.03,3.35,2.9,1.61,2.25,1.5,2.42,2,1
+2025/2026,Spain Segunda División,2026-02-21,17:00:00,complete,UD Las Palmas,CD Castellón,2.4,3.25,2.81,2.15,1.73,1.84,1.92,1,1
+2025/2026,Spain Segunda División,2026-02-22,10:00:00,complete,Sporting Gijón,Real Valladolid,1.85,3.55,3.88,2.31,1.57,2.0,1.71,2,2
+2025/2026,Spain Segunda División,2026-02-22,12:15:00,complete,FC Andorra,Real Zaragoza,1.83,3.2,3.9,1.95,1.8,1.72,1.91,2,1
+2025/2026,Spain Segunda División,2026-02-22,14:30:00,complete,Racing Santander,Burgos CF,1.9,3.34,4.36,2.22,1.65,1.95,1.76,1,0
+2025/2026,Spain Segunda División,2026-02-22,17:00:00,complete,Málaga CF,Albacete Balompié,2.03,3.25,3.55,1.95,1.86,1.73,1.9,1,0
+2025/2026,Spain Segunda División,2026-02-23,16:30:00,complete,Cádiz,Real Sociedad II,2.1,3.25,3.43,2.17,1.74,1.83,1.8,0,2
+2025/2026,Spain Segunda División,2026-02-25,15:00:00,complete,Ceuta,Córdoba,2.84,3.1,2.56,1.83,2.03,1.65,2.1,3,2
+2025/2026,Spain Segunda División,2026-02-27,16:30:00,complete,Albacete Balompié,Almería,2.5,3.25,2.67,1.8,1.98,1.65,2.1,1,1
+2025/2026,Spain Segunda División,2026-02-28,12:15:00,complete,Real Zaragoza,Burgos CF,2.67,2.6,2.45,2.6,1.43,2.15,1.6,0,1
+2025/2026,Spain Segunda División,2026-02-28,14:30:00,complete,Granada CF,Málaga CF,2.19,3.15,3.25,2.21,1.65,1.83,1.75,0,1
+2025/2026,Spain Segunda División,2026-02-28,14:30:00,complete,Real Valladolid,SD Huesca,1.93,3.21,4.56,2.53,1.5,2.05,1.7,1,0
+2025/2026,Spain Segunda División,2026-02-28,17:00:00,complete,CD Castellón,Racing Santander,1.57,3.85,4.6,1.62,2.15,1.65,2.09,1,3
+2025/2026,Spain Segunda División,2026-03-01,10:00:00,complete,Real Sociedad II,Deportivo La Coruña,3.47,3.47,2.15,2.08,1.72,1.8,1.92,2,3
+2025/2026,Spain Segunda División,2026-03-01,12:15:00,complete,Mirandés,Ceuta,2.3,2.88,3.25,2.2,1.68,1.85,1.82,0,1
+2025/2026,Spain Segunda División,2026-03-01,14:30:00,complete,Cultural y Deportiva Leonesa,UD Las Palmas,3.52,3.24,2.13,2.4,1.57,1.8,1.88,0,3
+2025/2026,Spain Segunda División,2026-03-01,17:00:00,complete,SD Eibar,Cádiz,1.95,3.42,4.25,2.16,1.65,2.0,1.66,3,1
+2025/2026,Spain Segunda División,2026-03-02,16:00:00,complete,Sporting Gijón,Leganés,1.88,3.19,3.96,2.1,1.7,1.9,1.87,0,0
+2025/2026,Spain Segunda División,2026-03-02,16:30:00,complete,Córdoba,FC Andorra,1.62,3.8,4.6,1.65,2.3,1.68,2.15,1,4
+2025/2026,Spain Segunda División,2026-03-06,16:30:00,complete,Cádiz,Real Zaragoza,2.35,3.15,2.9,2.18,1.7,1.85,1.85,0,1
+2025/2026,Spain Segunda División,2026-03-07,12:15:00,complete,SD Huesca,Albacete Balompié,2.38,2.93,3.0,2.35,1.57,1.83,1.87,0,0
+2025/2026,Spain Segunda División,2026-03-07,12:15:00,complete,Real Sociedad II,CD Castellón,3.85,3.45,1.89,1.8,2.05,1.73,2.05,4,2
+2025/2026,Spain Segunda División,2026-03-07,14:30:00,complete,Burgos CF,Mirandés,1.97,3.2,4.1,2.76,1.46,2.24,1.58,2,0
+2025/2026,Spain Segunda División,2026-03-07,17:00:00,complete,Málaga CF,Real Valladolid,2.09,3.2,3.45,2.1,1.74,1.83,1.83,3,3
+2025/2026,Spain Segunda División,2026-03-08,10:00:00,complete,UD Las Palmas,Ceuta,1.55,3.6,5.3,2.12,1.75,2.0,1.7,4,0
+2025/2026,Spain Segunda División,2026-03-08,12:15:00,complete,FC Andorra,Sporting Gijón,2.15,3.1,3.22,1.99,1.86,1.73,2.12,1,0
+2025/2026,Spain Segunda División,2026-03-08,14:30:00,complete,Racing Santander,Córdoba,1.94,3.4,3.86,1.58,2.18,1.61,2.25,4,3
+2025/2026,Spain Segunda División,2026-03-08,14:30:00,complete,Leganés,SD Eibar,2.75,3.05,2.8,2.69,1.45,2.1,1.62,0,1
+2025/2026,Spain Segunda División,2026-03-08,17:00:00,complete,Deportivo La Coruña,Granada CF,1.89,3.1,3.95,2.25,1.67,2.07,1.7,0,2
+2025/2026,Spain Segunda División,2026-03-09,16:30:00,complete,Almería,Cultural y Deportiva Leonesa,1.57,4.0,5.6,1.61,2.25,1.7,2.03,3,0
+2025/2026,Spain Segunda División,2026-03-13,16:30:00,complete,Mirandés,Cádiz,2.15,3.3,2.94,2.2,1.72,1.72,1.95,0,2
+2025/2026,Spain Segunda División,2026-03-14,12:15:00,complete,Cultural y Deportiva Leonesa,Racing Santander,3.33,3.25,2.2,1.71,1.98,1.55,2.1,1,2
+2025/2026,Spain Segunda División,2026-03-14,14:30:00,complete,Real Zaragoza,Almería,2.87,3.3,2.31,2.05,1.89,1.73,1.95,2,0
+2025/2026,Spain Segunda División,2026-03-14,14:30:00,complete,Real Valladolid,Leganés,2.0,3.44,3.75,2.11,1.7,1.87,1.77,3,2
+2025/2026,Spain Segunda División,2026-03-14,17:00:00,complete,Ceuta,Deportivo La Coruña,2.8,3.2,2.46,2.02,1.75,1.77,2.02,1,2
+2025/2026,Spain Segunda División,2026-03-15,10:00:00,complete,Córdoba,Real Sociedad II,1.62,3.85,4.33,1.55,2.45,1.52,2.2,0,2
+2025/2026,Spain Segunda División,2026-03-15,12:15:00,complete,Granada CF,FC Andorra,1.92,3.4,3.35,2.05,1.75,1.8,1.91,1,1
+2025/2026,Spain Segunda División,2026-03-15,14:30:00,complete,SD Eibar,Burgos CF,2.0,3.05,4.36,3.02,1.4,2.3,1.57,0,0
+2025/2026,Spain Segunda División,2026-03-15,14:30:00,complete,Málaga CF,SD Huesca,1.67,3.4,4.6,2.22,1.78,2.05,1.67,5,3
+2025/2026,Spain Segunda División,2026-03-15,17:00:00,complete,Sporting Gijón,CD Castellón,3.2,3.25,2.44,1.83,1.95,1.6,2.24,4,1
+2025/2026,Spain Segunda División,2026-03-16,16:30:00,complete,Albacete Balompié,UD Las Palmas,2.84,3.15,2.61,2.28,1.68,1.81,1.8,2,1
+2025/2026,Spain Segunda División,2026-03-20,16:30:00,complete,SD Huesca,Almería,3.6,3.1,2.0,2.0,1.78,1.83,1.95,1,3
+2025/2026,Spain Segunda División,2026-03-21,10:00:00,complete,Leganés,Ceuta,1.83,3.25,4.36,2.05,1.77,1.83,1.85,5,2
+2025/2026,Spain Segunda División,2026-03-21,12:15:00,complete,Racing Santander,Albacete Balompié,1.57,3.75,4.2,1.65,2.2,1.65,2.15,0,4
+2025/2026,Spain Segunda División,2026-03-21,12:15:00,complete,FC Andorra,SD Eibar,2.45,3.05,2.8,2.4,1.53,1.91,1.8,0,1
+2025/2026,Spain Segunda División,2026-03-21,14:30:00,complete,Cádiz,Málaga CF,3.05,3.3,2.5,2.0,1.73,1.73,1.95,0,3
+2025/2026,Spain Segunda División,2026-03-21,17:00:00,complete,Deportivo La Coruña,Real Zaragoza,1.7,3.3,4.5,2.04,1.78,1.92,1.85,2,1
+2025/2026,Spain Segunda División,2026-03-22,10:00:00,complete,Burgos CF,Córdoba,2.33,3.03,3.1,2.33,1.6,1.85,1.75,4,0
+2025/2026,Spain Segunda División,2026-03-22,12:15:00,complete,Real Sociedad II,Granada CF,2.52,3.05,2.8,2.1,1.69,1.76,1.98,0,2
+2025/2026,Spain Segunda División,2026-03-22,12:15:00,complete,Mirandés,Real Valladolid,2.78,3.1,2.28,2.14,1.69,1.83,1.91,2,1
+2025/2026,Spain Segunda División,2026-03-22,14:30:00,complete,UD Las Palmas,Sporting Gijón,1.8,3.3,4.0,2.05,1.67,1.96,1.83,1,0
+2025/2026,Spain Segunda División,2026-03-23,16:30:00,complete,CD Castellón,Cultural y Deportiva Leonesa,1.31,4.85,6.5,1.44,2.37,1.73,2.14,1,1
+2025/2026,Spain Segunda División,2026-03-27,15:00:00,complete,Córdoba,Mirandés,1.6,4.12,4.6,1.62,2.36,1.61,2.18,2,2
+2025/2026,Spain Segunda División,2026-03-28,10:00:00,complete,Ceuta,Cádiz,2.15,3.1,2.9,2.0,1.84,1.8,1.91,2,1
+2025/2026,Spain Segunda División,2026-03-28,12:15:00,complete,Granada CF,SD Huesca,1.71,3.0,4.0,2.4,1.6,2.08,1.67,4,2
+2025/2026,Spain Segunda División,2026-03-28,12:15:00,complete,Real Valladolid,Burgos CF,2.12,2.82,3.1,2.45,1.58,2.02,1.71,0,1
+2025/2026,Spain Segunda División,2026-03-28,14:30:00,complete,Málaga CF,Leganés,1.75,3.3,3.35,1.9,1.94,1.74,1.98,0,0
+2025/2026,Spain Segunda División,2026-03-28,17:00:00,complete,Albacete Balompié,CD Castellón,2.78,3.45,2.33,1.75,2.05,1.53,2.34,1,1
+2025/2026,Spain Segunda División,2026-03-28,17:00:00,complete,Sporting Gijón,Deportivo La Coruña,2.24,2.98,3.16,2.2,1.65,1.81,1.9,1,1
+2025/2026,Spain Segunda División,2026-03-29,09:00:00,complete,SD Eibar,UD Las Palmas,2.43,2.97,2.96,2.74,1.54,2.03,1.7,3,1
+2025/2026,Spain Segunda División,2026-03-29,11:15:00,complete,Cultural y Deportiva Leonesa,FC Andorra,2.43,3.1,2.7,2.15,1.66,0.0,0.0,0,4
+2025/2026,Spain Segunda División,2026-03-29,13:30:00,complete,Real Zaragoza,Racing Santander,2.4,3.46,2.43,2.06,1.8,1.66,2.09,2,0
+2025/2026,Spain Segunda División,2026-03-29,16:00:00,complete,Almería,Real Sociedad II,1.56,4.35,4.9,1.63,2.33,1.69,2.05,5,1
+2025/2026,Spain Segunda División,2026-03-31,14:00:00,complete,Mirandés,Albacete Balompié,2.33,3.0,2.97,2.05,1.84,1.73,2.0,1,1
+2025/2026,Spain Segunda División,2026-03-31,15:00:00,complete,Deportivo La Coruña,Córdoba,1.9,3.3,3.6,1.89,2.0,1.67,2.05,2,0
+2025/2026,Spain Segunda División,2026-03-31,16:30:00,complete,Real Valladolid,Cádiz,1.51,4.1,5.5,1.88,1.95,1.85,1.86,3,0
+2025/2026,Spain Segunda División,2026-04-01,14:00:00,complete,FC Andorra,Málaga CF,2.3,3.1,3.1,1.94,1.92,1.64,2.13,3,3
+2025/2026,Spain Segunda División,2026-04-01,15:00:00,complete,Burgos CF,Ceuta,1.56,3.25,4.8,2.29,1.65,2.14,1.62,1,1
+2025/2026,Spain Segunda División,2026-04-01,15:00:00,complete,SD Huesca,Cultural y Deportiva Leonesa,2.2,3.2,3.35,2.21,1.68,1.89,1.85,1,1
+2025/2026,Spain Segunda División,2026-04-01,16:30:00,complete,Racing Santander,Sporting Gijón,1.7,3.5,3.6,1.67,2.19,1.6,2.19,3,1
+2025/2026,Spain Segunda División,2026-04-02,14:00:00,complete,UD Las Palmas,Granada CF,1.57,3.45,5.2,2.1,1.63,1.93,1.79,2,0
+2025/2026,Spain Segunda División,2026-04-02,15:00:00,complete,Real Sociedad II,SD Eibar,2.95,3.0,2.25,2.11,1.83,1.72,2.03,0,1
+2025/2026,Spain Segunda División,2026-04-02,15:00:00,complete,CD Castellón,Almería,1.95,3.92,3.0,1.55,2.48,1.47,2.4,2,0
+2025/2026,Spain Segunda División,2026-04-02,16:30:00,complete,Leganés,Real Zaragoza,1.94,2.96,3.8,2.32,1.61,1.91,1.8,1,1
+2025/2026,Spain Segunda División,2026-04-04,09:00:00,complete,Cádiz,Córdoba,2.85,3.4,2.1,1.78,2.03,1.7,2.21,1,3
+2025/2026,Spain Segunda División,2026-04-04,11:15:00,complete,Albacete Balompié,Burgos CF,2.36,3.05,3.05,2.65,1.48,1.98,1.72,2,3
+2025/2026,Spain Segunda División,2026-04-04,13:30:00,complete,Cultural y Deportiva Leonesa,Real Valladolid,2.98,3.31,2.37,2.14,1.72,1.8,1.98,1,0
+2025/2026,Spain Segunda División,2026-04-04,13:30:00,complete,Deportivo La Coruña,Málaga CF,1.93,3.62,3.6,1.97,1.78,1.85,1.84,1,1
+2025/2026,Spain Segunda División,2026-04-05,09:00:00,complete,SD Eibar,Ceuta,1.58,3.92,5.25,2.0,1.8,2.17,1.64,3,0
+2025/2026,Spain Segunda División,2026-04-05,11:15:00,complete,FC Andorra,Racing Santander,2.2,3.4,2.55,1.65,2.33,1.48,2.47,6,2
+2025/2026,Spain Segunda División,2026-04-05,13:30:00,complete,UD Las Palmas,SD Huesca,1.5,4.0,6.5,2.18,1.77,1.9,1.8,2,1
+2025/2026,Spain Segunda División,2026-04-05,13:30:00,complete,Almería,Leganés,1.5,3.8,4.8,1.6,2.03,1.59,2.04,2,1
+2025/2026,Spain Segunda División,2026-04-05,16:00:00,complete,Real Zaragoza,Mirandés,1.88,3.3,3.86,2.15,1.65,1.91,1.77,1,2
+2025/2026,Spain Segunda División,2026-04-06,14:00:00,complete,CD Castellón,Granada CF,1.61,3.6,4.75,1.85,2.09,1.75,1.9,3,2
+2025/2026,Spain Segunda División,2026-04-06,15:30:00,complete,Sporting Gijón,Real Sociedad II,1.7,3.6,4.0,1.73,2.14,1.64,2.13,1,0
+2025/2026,Spain Segunda División,2026-04-10,15:30:00,complete,Ceuta,Real Sociedad II,1.82,3.3,3.95,1.76,2.0,1.67,2.1,0,0
+2025/2026,Spain Segunda División,2026-04-11,11:15:00,complete,Leganés,Albacete Balompié,2.08,3.1,3.61,2.03,1.84,1.75,1.95,2,1
+2025/2026,Spain Segunda División,2026-04-11,11:15:00,complete,Burgos CF,Sporting Gijón,1.97,2.9,3.55,2.4,1.52,2.0,1.67,1,0
+2025/2026,Spain Segunda División,2026-04-11,13:30:00,complete,Málaga CF,UD Las Palmas,2.37,3.18,2.75,2.04,1.82,1.73,1.95,2,0
+2025/2026,Spain Segunda División,2026-04-11,16:00:00,complete,Córdoba,Real Zaragoza,1.97,3.4,3.83,1.81,2.0,1.61,2.18,1,0
+2025/2026,Spain Segunda División,2026-04-12,09:00:00,complete,Granada CF,Cultural y Deportiva Leonesa,1.81,3.2,3.9,2.1,1.78,1.81,1.78,1,0
+2025/2026,Spain Segunda División,2026-04-12,11:15:00,complete,SD Huesca,Deportivo La Coruña,3.35,3.15,2.0,2.21,1.7,1.91,1.8,1,1
+2025/2026,Spain Segunda División,2026-04-12,13:30:00,complete,Mirandés,CD Castellón,3.6,3.6,1.94,1.66,2.15,1.53,2.25,2,2
+2025/2026,Spain Segunda División,2026-04-12,13:30:00,complete,Cádiz,FC Andorra,2.97,3.3,2.23,1.92,1.92,1.68,2.06,0,1
+2025/2026,Spain Segunda División,2026-04-12,16:00:00,complete,Racing Santander,Almería,2.1,3.4,2.8,1.43,2.48,1.4,2.66,5,1
+2025/2026,Spain Segunda División,2026-04-13,15:30:00,complete,Real Valladolid,SD Eibar,2.21,2.88,3.0,2.38,1.62,1.91,1.84,0,0
+2025/2026,Spain Segunda División,2026-04-17,15:30:00,complete,Real Sociedad II,Racing Santander,3.22,3.81,1.95,1.53,2.4,1.44,2.5,1,3
+2025/2026,Spain Segunda División,2026-04-17,16:00:00,complete,UD Las Palmas,Leganés,1.71,3.55,4.8,1.82,1.95,1.75,1.95,2,0
+2025/2026,Spain Segunda División,2026-04-18,11:15:00,complete,Real Zaragoza,Ceuta,1.68,3.6,4.2,1.91,1.98,1.74,1.93,2,2
+2025/2026,Spain Segunda División,2026-04-18,13:30:00,complete,Cultural y Deportiva Leonesa,Córdoba,2.25,3.3,2.75,1.71,1.85,1.66,2.1,1,2
+2025/2026,Spain Segunda División,2026-04-18,13:30:00,complete,CD Castellón,Burgos CF,1.76,3.65,5.0,2.03,1.76,1.82,1.82,3,1
+2025/2026,Spain Segunda División,2026-04-19,09:00:00,complete,FC Andorra,Real Valladolid,2.1,3.1,3.1,1.95,1.73,1.8,1.91,1,0
+2025/2026,Spain Segunda División,2026-04-19,11:15:00,complete,Sporting Gijón,Cádiz,1.59,3.6,4.8,1.98,1.85,1.85,1.83,3,0
+2025/2026,Spain Segunda División,2026-04-19,13:30:00,complete,SD Eibar,SD Huesca,1.55,3.6,5.25,2.03,1.6,2.05,1.67,2,1
+2025/2026,Spain Segunda División,2026-04-19,13:30:00,complete,Albacete Balompié,Granada CF,2.35,3.0,2.93,2.19,1.78,1.77,1.91,4,1
+2025/2026,Spain Segunda División,2026-04-19,16:00:00,complete,Almería,Málaga CF,1.91,3.6,3.4,1.57,2.38,1.57,2.33,3,2
+2025/2026,Spain Segunda División,2026-04-20,15:30:00,complete,Deportivo La Coruña,Mirandés,1.5,3.95,6.0,1.74,2.04,1.85,1.83,3,1
+2025/2026,Spain Segunda División,2026-04-24,15:30:00,complete,Albacete Balompié,SD Eibar,2.82,3.05,2.48,2.2,1.66,1.87,1.78,0,3
+2025/2026,Spain Segunda División,2026-04-25,11:15:00,complete,Real Valladolid,Real Sociedad II,1.53,3.9,5.54,1.77,2.05,1.8,1.85,1,0
+2025/2026,Spain Segunda División,2026-04-25,13:30:00,complete,Burgos CF,Deportivo La Coruña,2.5,2.7,2.87,2.75,1.47,2.01,1.7,1,1
+2025/2026,Spain Segunda División,2026-04-25,16:00:00,complete,Málaga CF,CD Castellón,2.72,3.25,2.57,1.57,2.14,1.57,2.4,2,3
+2025/2026,Spain Segunda División,2026-04-26,09:00:00,complete,Córdoba,Sporting Gijón,2.16,3.65,3.1,1.73,2.05,1.62,2.2,3,2
+2025/2026,Spain Segunda División,2026-04-26,11:15:00,complete,Granada CF,Almería,2.6,2.95,2.65,1.75,1.85,1.7,2.05,2,4
+2025/2026,Spain Segunda División,2026-04-26,11:15:00,complete,Mirandés,Cultural y Deportiva Leonesa,2.19,3.15,2.78,1.88,2.04,1.73,2.0,2,1
+2025/2026,Spain Segunda División,2026-04-26,13:30:00,complete,SD Huesca,Real Zaragoza,2.5,2.8,2.93,2.25,1.61,1.85,1.85,1,0
+2025/2026,Spain Segunda División,2026-04-26,13:30:00,complete,Leganés,FC Andorra,2.4,3.3,2.78,1.97,1.89,1.65,2.1,0,4
+2025/2026,Spain Segunda División,2026-04-26,16:00:00,complete,Ceuta,Racing Santander,3.3,3.6,1.81,1.57,2.35,1.52,2.51,0,0
+2025/2026,Spain Segunda División,2026-04-27,15:30:00,complete,Cádiz,UD Las Palmas,3.76,3.34,1.89,2.1,1.8,1.83,1.85,1,2
+2025/2026,Spain Segunda División,2026-05-01,11:15:00,complete,FC Andorra,Albacete Balompié,1.6,3.6,4.6,1.67,2.25,1.66,2.09,0,1
+2025/2026,Spain Segunda División,2026-05-01,13:30:00,complete,Deportivo La Coruña,Leganés,1.5,3.8,5.25,1.79,1.98,1.82,1.88,2,1
+2025/2026,Spain Segunda División,2026-05-01,16:00:00,complete,Real Zaragoza,Granada CF,2.0,3.1,3.4,2.07,1.76,1.84,1.85,0,1
+2025/2026,Spain Segunda División,2026-05-02,11:15:00,complete,Cultural y Deportiva Leonesa,Cádiz,2.03,3.35,4.0,1.87,2.0,1.7,2.04,2,2
+2025/2026,Spain Segunda División,2026-05-02,13:30:00,complete,CD Castellón,Córdoba,1.36,4.36,5.15,1.44,2.7,1.56,2.37,1,2
+2025/2026,Spain Segunda División,2026-05-02,16:00:00,complete,SD Eibar,Málaga CF,2.03,3.2,3.65,2.15,1.66,1.82,1.88,2,4
+2025/2026,Spain Segunda División,2026-05-03,09:00:00,complete,Racing Santander,SD Huesca,1.4,4.59,6.56,1.62,2.12,1.7,2.0,4,2
+2025/2026,Spain Segunda División,2026-05-03,11:15:00,complete,Sporting Gijón,Ceuta,1.5,4.2,4.6,1.66,2.33,1.7,1.95,1,2
+2025/2026,Spain Segunda División,2026-05-03,13:30:00,complete,Real Sociedad II,Burgos CF,2.95,3.09,2.4,2.12,1.61,1.84,1.85,0,0
+2025/2026,Spain Segunda División,2026-05-03,16:00:00,complete,UD Las Palmas,Real Valladolid,1.81,3.52,4.56,2.08,1.72,1.83,1.83,2,1
+2025/2026,Spain Segunda División,2026-05-04,15:30:00,complete,Almería,Mirandés,1.44,4.6,5.25,1.4,2.6,1.62,2.15,4,2
+2025/2026,Spain Segunda División,2026-05-08,15:30:00,complete,Cádiz,Deportivo La Coruña,3.56,3.3,1.87,1.9,1.9,1.73,2.0,0,1
+2025/2026,Spain Segunda División,2026-05-09,09:00:00,complete,Ceuta,CD Castellón,4.45,4.1,1.6,1.5,2.57,1.53,2.3,1,1
+2025/2026,Spain Segunda División,2026-05-09,11:15:00,complete,Burgos CF,Almería,2.75,3.1,2.6,2.0,1.73,1.73,1.95,0,0
+2025/2026,Spain Segunda División,2026-05-09,11:15:00,complete,Albacete Balompié,Cultural y Deportiva Leonesa,2.2,3.2,3.1,1.8,1.95,1.73,2.0,2,1
+2025/2026,Spain Segunda División,2026-05-09,13:30:00,complete,Real Valladolid,Real Zaragoza,1.91,3.5,3.94,1.95,1.8,1.75,1.91,2,0
+2025/2026,Spain Segunda División,2026-05-09,16:00:00,complete,Málaga CF,Sporting Gijón,1.57,3.9,4.6,1.66,2.26,1.73,2.07,2,1
+2025/2026,Spain Segunda División,2026-05-10,09:00:00,complete,FC Andorra,UD Las Palmas,2.5,3.37,2.43,1.95,1.85,1.73,2.0,5,1
+2025/2026,Spain Segunda División,2026-05-10,11:15:00,complete,Leganés,Racing Santander,2.53,3.65,2.29,1.49,2.32,1.44,2.5,1,2
+2025/2026,Spain Segunda División,2026-05-10,13:30:00,complete,Córdoba,Granada CF,1.67,3.94,4.3,1.69,2.15,1.7,2.1,1,0
+2025/2026,Spain Segunda División,2026-05-10,13:30:00,complete,Mirandés,SD Eibar,2.45,3.1,2.47,2.06,1.86,1.75,1.93,0,1
+2025/2026,Spain Segunda División,2026-05-11,15:30:00,complete,SD Huesca,Real Sociedad II,2.19,3.54,2.9,2.05,1.7,1.85,1.85,1,2
+2025/2026,Spain Segunda División,2026-05-15,15:30:00,complete,CD Castellón,Cádiz,1.25,5.7,8.1,1.35,2.7,1.73,2.1,1,1
+2025/2026,Spain Segunda División,2026-05-15,16:00:00,complete,Córdoba,Albacete Balompié,1.61,4.3,5.0,1.49,2.35,1.57,2.15,1,2
+2025/2026,Spain Segunda División,2026-05-16,09:00:00,complete,Real Sociedad II,Mirandés,2.08,3.67,3.47,1.72,2.07,1.53,2.35,2,2
+2025/2026,Spain Segunda División,2026-05-16,11:15:00,complete,Ceuta,Málaga CF,2.96,3.63,2.34,1.62,2.15,1.6,2.2,1,4
+2025/2026,Spain Segunda División,2026-05-16,11:15:00,complete,Cultural y Deportiva Leonesa,SD Eibar,3.06,3.22,2.47,2.14,1.75,1.8,1.95,2,1
+2025/2026,Spain Segunda División,2026-05-16,13:30:00,complete,Granada CF,Burgos CF,2.91,2.98,2.2,2.55,1.54,2.1,1.71,0,1
+2025/2026,Spain Segunda División,2026-05-16,13:30:00,complete,Racing Santander,Real Valladolid,1.37,5.0,6.11,1.46,2.38,1.66,2.09,4,1
+2025/2026,Spain Segunda División,2026-05-16,13:30:00,complete,Almería,UD Las Palmas,1.96,3.5,3.35,1.7,2.1,1.62,2.15,1,2
+2025/2026,Spain Segunda División,2026-05-17,09:00:00,complete,Deportivo La Coruña,FC Andorra,1.48,4.73,6.43,1.7,2.1,1.58,2.23,2,1
+2025/2026,Spain Segunda División,2026-05-17,16:15:00,complete,Real Zaragoza,Sporting Gijón,1.79,3.2,4.0,2.11,1.8,1.85,1.8,1,3
+2025/2026,Spain Segunda División,2026-05-18,15:30:00,complete,Leganés,SD Huesca,1.78,3.62,4.36,1.93,2.01,1.72,1.84,0,0
+2025/2026,Spain Segunda División,2026-05-24,11:15:00,complete,FC Andorra,Ceuta,1.47,4.2,5.1,1.44,2.6,1.62,2.2,0,2
+2025/2026,Spain Segunda División,2026-05-24,11:15:00,complete,Albacete Balompié,Real Sociedad II,1.84,3.94,3.7,1.71,2.23,1.62,2.2,3,1
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,Real Valladolid,Deportivo La Coruña,4.2,3.4,1.75,1.86,2.01,1.75,1.95,0,2
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,Cádiz,Leganés,2.6,3.1,2.85,1.98,1.8,1.67,1.95,3,0
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,Cultural y Deportiva Leonesa,Burgos CF,2.73,3.12,2.28,2.11,1.7,1.85,1.8,0,2
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,Mirandés,Granada CF,1.44,4.0,6.26,1.6,2.2,1.77,1.91,3,1
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,Sporting Gijón,Almería,3.4,3.5,1.97,1.45,2.42,1.52,2.58,3,1
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,SD Eibar,Córdoba,1.61,4.15,4.7,1.8,2.1,1.68,2.01,2,0
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,SD Huesca,CD Castellón,4.4,4.15,1.73,1.6,2.25,1.57,2.24,0,1
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,Málaga CF,Racing Santander,1.65,4.35,4.55,1.38,2.5,1.48,2.55,1,1
+2025/2026,Spain Segunda División,2026-05-24,13:30:00,complete,UD Las Palmas,Real Zaragoza,1.45,4.4,8.93,1.76,1.95,1.86,1.8,1,1
+2025/2026,Spain Segunda División,2026-05-30,11:15:00,complete,Real Sociedad II,Cultural y Deportiva Leonesa,2.15,3.3,3.01,1.81,1.95,1.62,2.26,1,1
+2025/2026,Spain Segunda División,2026-05-30,11:15:00,complete,Ceuta,Albacete Balompié,2.45,3.4,2.7,1.66,2.12,1.55,2.44,1,0
+2025/2026,Spain Segunda División,2026-05-30,16:00:00,complete,Granada CF,Sporting Gijón,2.3,3.2,2.7,1.85,1.85,1.68,1.98,1,2
+2025/2026,Spain Segunda División,2026-05-31,13:30:00,complete,Real Zaragoza,Málaga CF,5.1,3.9,1.61,1.85,1.95,1.77,1.91,0,2
+2025/2026,Spain Segunda División,2026-05-31,13:30:00,complete,Racing Santander,Cádiz,1.33,5.3,8.2,1.38,2.75,1.75,2.0,4,1
+2025/2026,Spain Segunda División,2026-05-31,13:30:00,complete,CD Castellón,SD Eibar,1.53,4.0,4.8,1.53,2.38,1.59,2.15,2,1
+2025/2026,Spain Segunda División,2026-05-31,13:30:00,complete,Deportivo La Coruña,UD Las Palmas,3.02,3.2,2.1,1.94,1.85,1.7,2.05,1,2
+2025/2026,Spain Segunda División,2026-05-31,13:30:00,complete,Almería,Real Valladolid,1.36,4.45,7.0,1.57,2.44,1.7,1.99,0,0
+2025/2026,Spain Segunda División,2026-05-31,13:30:00,complete,Burgos CF,FC Andorra,1.5,3.8,6.19,1.94,1.9,2.05,1.73,0,0
+2025/2026,Spain Segunda División,2026-05-31,16:00:00,complete,Leganés,Mirandés,2.02,3.45,3.39,1.9,1.85,1.67,2.05,1,0
+2025/2026,Spain Segunda División,2026-05-31,16:00:00,complete,Córdoba,SD Huesca,1.57,3.75,5.91,1.58,2.02,1.62,2.15,1,1
+2025/2026,Spain Segunda División,2026-06-06,16:00:00,complete,CD Castellón,Almería,1.75,3.75,4.1,1.5,2.35,1.57,2.25,1,1
+2025/2026,Spain Segunda División,2026-06-07,16:00:00,complete,UD Las Palmas,Málaga CF,2.1,3.2,3.5,1.88,1.66,1.75,1.93,0,1
+2025/2026,Spain Segunda División,2026-06-09,16:00:00,incomplete,Almería,CD Castellón,2.34,3.6,2.9,1.66,2.15,0.0,0.0,0,0
+2025/2026,Spain Segunda División,2026-06-10,16:00:00,incomplete,Málaga CF,UD Las Palmas,2.22,3.42,3.31,2.0,1.8,0.0,0.0,0,0
